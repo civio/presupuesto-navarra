@@ -1,0 +1,195 @@
+
+// Colors
+// -------------
+
+$gray-base:             #000 !default;
+$gray-darker:           lighten($gray-base, 13.5%) !default; // #222
+$gray-dark:             lighten($gray-base, 20%) !default;   // #333
+$gray:                  lighten($gray-base, 33.5%) !default; // #555
+$gray-light:            lighten($gray-base, 46.7%) !default; // #777
+$gray-lighter:          lighten($gray-base, 93.5%) !default; // #eee
+$gray-lightest:         lighten($gray-base, 96%) !default;
+
+$brand-primary:         #015AA9;
+$brand-secondary:       mix( $brand-primary, white, 15% );
+$brand-terciary:        $brand-primary;
+
+$brand-primary-accent:  $brand-terciary;
+
+$text-color:            #444;
+$table-color:           $brand-primary;
+
+$headings-color:        $brand-primary;
+
+/*
+$bcn-blue:    #0069e1;
+$bcn-pink:    #d50283;
+$bcn-green:   #008000;
+$bcn-violet:  #7519E6;
+$bcn-olive:   #1c7da3;
+$bcn-red:￼    #E91B1D;
+*/
+
+$link-color:            $brand-primary;
+$link-hover-color:      darken( $brand-primary, 10% );
+$link-hover-decoration: underline;
+
+
+// Typography
+// -------------
+
+$font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif;
+$font-family-serif:       Georgia, "Times New Roman", Times, serif;
+$font-family-base:        $font-family-sans-serif;
+
+$font-weight-200:         200;
+$font-weight-300:         300;
+$font-weight-400:         400;
+$font-weight-600:         600; 
+$font-weight-700:         700;
+
+$headings-font-weight:    $font-weight-300;
+
+
+// Container sizes
+// -------------
+
+$grid-gutter-width:        30px;
+
+// Large screen / wide desktop
+
+$screen-lg:                  1280px;
+$container-large-desktop:    (1080px + $grid-gutter-width);
+
+
+// Main Entity Logo
+// -------------
+
+$main-entity-logo-width:   220px;
+$main-entity-logo-height:  80px;
+
+
+// Navbar
+// -------------
+
+$navbar-border-radius: 0;
+
+// Point at which the navbar becomes uncollapsed
+// $grid-float-breakpoint: 992px;  // $screen-md
+
+$dvmi-menu-length: 5;  // Number of items in main menu
+
+// Navbar background color
+$navbar-default-bg:       $brand-primary;
+$navbar-default-bg-hover: $brand-secondary;
+
+// Navbar options text color
+$dvmi-navbar-color:       white;
+
+$navbar-default-link-active-color:    $brand-primary;
+$navbar-default-link-active-bg:       $brand-secondary;
+
+
+// Popover
+// --------------
+
+$popover-max-width:                   200px;
+
+$popover-border-color:                transparent;
+$popover-fallback-border-color:       transparent;
+
+$popover-arrow-width:                 6px;
+
+$popover-arrow-outer-color:           white;
+$popover-arrow-outer-fallback-color:  white;
+
+
+// Tooltips
+// --------------
+
+$tooltip-color:               white;
+$tooltip-bg:                  $gray;
+$tooltip-opacity:             1;
+
+
+// Footer
+// --------------
+
+$footer-color:  $text-color;
+$footer-bg:     white;
+
+
+// Buttons
+// --------------
+
+$btn-default-color:              white; //$text-color;
+$btn-default-bg:                 $brand-primary;
+$btn-default-border:             $brand-primary;
+
+$btn-primary-border:             $brand-primary;
+
+$btn-border-radius-base:         0;
+$btn-border-radius-large:        0;
+$btn-border-radius-small:        0;
+
+
+// Border Radius
+// --------------
+
+$border-radius-base:  0;
+$panel-border-radius: 0;
+
+
+// Pagination
+// --------------
+
+$pagination-color:                     $brand-primary;
+$pagination-hover-color:               $brand-primary;
+
+$pagination-active-bg:                 $brand-primary;
+$pagination-active-border:             $brand-primary;
+
+
+// Search Form
+// --------------
+
+$search-form-bg: $brand-secondary;
+
+
+// Page Header
+// --------------
+
+$page-header-bg:            mix( $brand-secondary, white, 50% );
+$page-header-border-color:  mix( $brand-secondary, white, 50% );
+
+
+// Budget Stream
+// --------------
+
+$budget-stream-color: $brand-primary;
+
+
+// Year Slider
+// --------------
+
+$slider-bg:     mix( $brand-primary, white, 60% );  //mix( $gray-light, $gray-lighter, 50% );
+$slider-color:  $brand-primary;
+
+
+// Data Panel
+// --------------
+
+$data-panel-color: $brand-primary;
+
+
+// Data Sources
+// --------------
+
+$data-sources-color: $brand-primary;
+
+
+// Sankey Viz
+// --------------
+
+$sankey-budget-color:     mix( $gray-light, $gray-lighter, 50% );
+$sankey-execution-color:  mix( $brand-primary, white, 70% );

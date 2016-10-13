@@ -1,0 +1,90 @@
+.navbar-brand{
+  font-size: 2.5em;
+}
+
+.navbar-default .navbar-nav{
+  [class*="icon-"]:before{
+    display: none;
+  }
+
+  > li > a{
+    text-transform: uppercase;
+    font-weight: $font-weight-400;
+
+    &:hover{
+      color: $brand-primary;
+    }
+  }
+}
+
+.nav-tabs > li > a{
+  font-size: 1em;
+
+  > h3{
+    color: $brand-primary;
+    text-transform: uppercase;   
+    font-weight: $font-weight-400;
+  }
+}
+
+.panel-downloads{
+  background: $brand-secondary;
+  border-color: $brand-secondary;
+
+  a{
+    color: $brand-primary;
+
+    &:hover{
+      color: $brand-terciary;
+    }
+  }
+}
+
+.home-content .options .option > div .icon{
+  color: mix( $brand-primary, $brand-secondary, 30% );
+}
+
+.policies-chart{
+  background: none;
+}
+
+.social-sharing-toolbox li a{
+  background-color: $brand-primary;
+}
+
+.form-search-glossary .btn-primary{
+  background: $brand-primary;
+  border-color: $brand-primary;
+}
+.glossary-terms h3:before, 
+.glossary-terms h4:before{
+  color: $brand-primary;
+}
+
+#query-panel .panel{
+  background: $brand-secondary;
+}
+
+.search-content .panel .panel-heading{
+  background: $brand-primary;
+
+  h3{
+    color: white;
+  }
+}
+
+// Tax Receipt
+.tax-receipt-content .form-user-incomings{
+  padding-top: $grid-gutter-width;
+
+  h3{
+    color: $brand-primary;
+    padding-bottom: $grid-gutter-width/2;
+  }
+}
+
+@media (min-width: $screen-sm-min) {
+  .tax-receipt-content .form-user-incomings .form-group.form-group-half-width{
+    width: 25%;
+  }
+}
