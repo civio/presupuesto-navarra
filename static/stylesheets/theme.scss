@@ -1,19 +1,61 @@
-.navbar-brand{
-  font-size: 2.5em;
+body{
+  font-size: 13px;
+  background: url("../assets/fondo4.jpg") no-repeat left -10px $brand-secondary;
+
+  > .content{
+    background: white;
+    opacity: 0.95;
+  }
 }
 
-.navbar-default .navbar-nav{
-  [class*="icon-"]:before{
-    display: none;
+h1, h2, h3, h4, h5, h6{
+  color: $text-color;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-weight: $font-weight-600;
+}
+
+.page-title{
+  color: $brand-terciary;
+}
+
+.navbar-brand{
+  font-size: 2.25em;
+  font-weight: $font-weight-600;
+
+  a{
+    color: $brand-terciary;
   }
+}
 
-  > li > a{
-    text-transform: uppercase;
-    font-weight: $font-weight-400;
+.form-search{
+  opacity: 0.95;
+}
 
-    &:hover{
-      color: $brand-primary;
+.main-entity-logo{
+  margin: 35px auto 30px;
+}
+
+.navbar-default{
+  opacity: 0.95;
+
+  .navbar-nav{
+    [class*="icon-"]:before{
+      display: none;
     }
+
+    > li > a{
+      text-transform: uppercase;
+      font-weight: $font-weight-300;
+    }
+  }
+}
+
+#menu-lang{
+  margin-top: 72px;
+
+  ul li input[type=submit] {
+    text-transform: uppercase;
+    font-size: 0.875em;
   }
 }
 
@@ -40,12 +82,35 @@
   }
 }
 
-.home-content .options .option > div .icon{
-  color: mix( $brand-primary, $brand-secondary, 30% );
+.main-footer{
+  margin-bottom: 30px;
+  opacity: 0.95;
+}
+
+.home-content{
+
+  .expense-examples li{
+    background: mix( $brand-terciary, $brand-secondary, 20% );
+  }
+
+  .options .option > div {
+    border-top: 3px solid $brand-terciary;
+    
+    .icon{
+      color: mix( $brand-terciary, $brand-secondary, 20% );
+    }
+  }
 }
 
 .policies-chart{
+  padding: 0;
+  border: none;
   background: none;
+}
+
+.policies-header .history-back a{
+  border-color: $brand-primary;
+  background: mix( $brand-primary, $brand-secondary, 30% );
 }
 
 .social-sharing-toolbox li a{
@@ -84,6 +149,13 @@
 }
 
 @media (min-width: $screen-sm-min) {
+
+  .navbar-brand{
+    top: auto;
+    bottom: 5px;
+    margin: 0;
+  }
+
   .tax-receipt-content .form-user-incomings .form-group.form-group-half-width{
     width: 25%;
   }

@@ -10,13 +10,13 @@ $gray-light:            lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:          lighten($gray-base, 93.5%) !default; // #eee
 $gray-lightest:         lighten($gray-base, 96%) !default;
 
-$brand-primary:         #015AA9;
-$brand-secondary:       mix( $brand-primary, white, 15% );
-$brand-terciary:        $brand-primary;
+$brand-primary:         #525252;
+$brand-secondary:       #F4F4F4;
+$brand-terciary:        #D20201;
 
 $brand-primary-accent:  $brand-terciary;
 
-$text-color:            #444;
+$text-color:            #333;
 $table-color:           $brand-primary;
 
 $headings-color:        $brand-primary;
@@ -38,8 +38,8 @@ $link-hover-decoration: underline;
 // Typography
 // -------------
 
-$font-family-sans-serif:  "Open Sans", Helvetica, Arial, sans-serif;
-$font-family-serif:       Georgia, "Times New Roman", Times, serif;
+$font-family-sans-serif:  'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-serif:       Georgia, serif;
 $font-family-base:        $font-family-sans-serif;
 
 $font-weight-200:         200;
@@ -65,8 +65,8 @@ $container-large-desktop:    (1080px + $grid-gutter-width);
 // Main Entity Logo
 // -------------
 
-$main-entity-logo-width:   220px;
-$main-entity-logo-height:  80px;
+$main-entity-logo-width:   333px;
+$main-entity-logo-height:  49px;
 
 
 // Navbar
@@ -77,17 +77,17 @@ $navbar-border-radius: 0;
 // Point at which the navbar becomes uncollapsed
 // $grid-float-breakpoint: 992px;  // $screen-md
 
-$dvmi-menu-length: 5;  // Number of items in main menu
+$dvmi-menu-length: 3;  // Number of items in main menu
 
 // Navbar background color
 $navbar-default-bg:       $brand-primary;
-$navbar-default-bg-hover: $brand-secondary;
+$navbar-default-bg-hover: #434343;
 
 // Navbar options text color
 $dvmi-navbar-color:       white;
 
-$navbar-default-link-active-color:    $brand-primary;
-$navbar-default-link-active-bg:       $brand-secondary;
+$navbar-default-link-active-color:    white;
+$navbar-default-link-active-bg:       $navbar-default-bg-hover;
 
 
 // Popover
