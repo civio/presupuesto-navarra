@@ -104,3 +104,6 @@ class NavarraBudgetLoader(BudgetLoader):
                 'description': line[5],
                 'amount': self._read_spanish_number(line[6])
             })
+
+    def _get_delimiter(self):
+        return ','
