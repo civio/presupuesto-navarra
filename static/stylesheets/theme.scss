@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, h6{
 .navbar-brand{
   font-size: 2.25em;
   font-weight: $font-weight-600;
+  display: none; /* Hides language selector and it's unclear whether we want it */
 
   a{
     color: $brand-terciary;
