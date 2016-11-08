@@ -1,0 +1,1827 @@
+2011,0,"Dpto.  Presidencia, Justicia e Interior","Departamento de Presidencia, Justicia e Interior"
+2011,00,"Dpto. Presidencia, Justicia e Interior","Departamento de Presidencia, Justicia e Interior"
+2011,000,"Dpto. Presidencia, Justicia e Interior","Departamento de Presidencia, Justicia e Interior"
+2011,0000,"Dpto. Presidencia, Justicia e Interior","Departamento de Presidencia, Justicia e Interior"
+2011,00000,Presidente del Gobierno,
+2011,00001,"Dpto. Presidencia, Justicia e Interior","Departamento de Presidencia, Justicia e Interior"
+2011,001,Secretaría General Técnica,
+2011,0010,Secretaría General Técnica,
+2011,00100,Secretaría General Técnica,
+2011,0011,Sección de Régimen Jurídico,
+2011,00110,Sección de Régimen Jurídico,
+2011,0012,Sección de Régimen Interior,
+2011,00120,Sección de Régimen Interior,
+2011,00121,Negociado de Gestión Adva y de Personal,Negociado de Gestión Administrativa y de Personal
+2011,0013,Sección Económica,
+2011,00130,Sección Económica,
+2011,00131,Neg.Gest.Econ.y Contable,Negociado de Gestión Económica y Contable
+2011,00132,Neg. Gest. Econ. de Interior,Negociado de Gestión Económica y Contable de Interior
+2011,00133,Neg. Gest. Econ. de Justicia,Negociado de Gestión Económica y Contable de Justicia
+2011,0014,Sección de Asistencia Administrativa,
+2011,00140,Sección de Asistencia Administrativa,
+2011,00141,Negociado de Régimen Administrativo,
+2011,01,Dirección General de Presidencia,
+2011,010,Dirección General de Presidencia,
+2011,0100,Dirección General de Presidencia,
+2011,01000,Dirección General de Presidencia,
+2011,011,Servicio de Asesoría Jurídica,
+2011,0110,Servicio de Asesoría Jurídica,
+2011,01100,Servicio de Asesoría Jurídica,
+2011,0111,Sección de Gestión Administrativa,
+2011,01110,Sección de Gestión Administrativa,
+2011,0112,Sección de Asuntos Civiles,
+2011,01120,Sección de Asuntos Civiles,
+2011,0113,Sección de lo Contencioso-Administrativo,
+2011,01130,Sección de lo Contencioso Administrativo,
+2011,0114,Sección de Asuntos Laborales,
+2011,01140,Sección de Asuntos Laborales,
+2011,0116,Sección de Asuntos Penales,
+2011,01160,Sección de Asuntos Penales,
+2011,0117,Sección de Asuntos Tributarios,
+2011,01170,Sección de Asuntos Tributarios,
+2011,012,Serv.Acción Legislativa y Coordinación,Servicio de Acción Legislativa y Coordinación
+2011,0120,Serv.Acción Legislativa y Coordinación,Servicio de Acción Legislativa y Coordinación
+2011,01200,Serv.Acción Legislativa y Coordinación,Servicio de Acción Legislativa y Coordinación
+2011,0121,Sc. Desarrollo Legislativo y Coordinació,Sección de Desarrollo Legislativo y Coordinación
+2011,01210,Sc. Desarrollo Legislativo y Coordinació,Sección de Desarrollo Legislativo y Coordinación
+2011,01211,"Neg.Asociaciones,Fundaciones,Colegios Pr","Negociado de Asociaciones, Fundaciones y Colegios Profesionales"
+2011,013,Servicio de Secretariado del Gobierno,
+2011,0130,Servicio de Secretariado del Gobierno,
+2011,01300,Servicio de Secretariado del Gobierno,
+2011,01301,Neg. de Gest. Admtva. del Secret.de Gob.,Negociado de Gestión Administrativa del Secretariado de Gobierno
+2011,01302,Ng. de Información al Público y Registro,Negociado de Información al Público y Registro
+2011,01303,Negociado de Cartería,
+2011,015,Servicio del Boletín Oficial de Navarra,
+2011,0150,Servicio del Boletín Oficial de Navarra,
+2011,01500,Servicio del Boletín Oficial de Navarra,
+2011,0151,Sec. Gestión Boletín Oficial de Navarra,Sección de Gestión del Boletín Oficial de Navarra
+2011,01510,Sec. Gestión Boletín Oficial de Navarra,Sección de Gestión del Boletín Oficial de Navarra
+2011,01511,Negociado de Gestión Económica,
+2011,01512,Negociado de Calidad y Control,
+2011,0152,Sección de Traducción,
+2011,01520,Sección de Traducción,
+2011,0153,Sección de Producción y Distribución,
+2011,01530,Sección de Producción y Distribución,
+2011,017,Sv Oficina Tram.Actividades Economicas,Servicio de Oficina de tramitación de actividades económicas para la  puesta en marcha de actividades empresariales o profesionales
+2011,0170,Sv Oficina Tram.Actividades Economicas,Servicio de Oficina de tramitación de actividades económicas para la  puesta en marcha de actividades empresariales o profesionales
+2011,01700,Sv Oficina Tram.Actividades Economicas,Servicio de Oficina de tramitación de actividades económicas para la  puesta en marcha de actividades empresariales o profesionales
+2011,02,Dirección General de Interior,
+2011,020,Dirección General de Interior,
+2011,0200,Dirección General de Interior,
+2011,02000,Dirección General de Interior,
+2011,021,Cuerpo de Policía Foral,
+2011,0210,Cuerpo de Policía Foral,
+2011,02100,Cuerpo de Policía Foral,
+2011,0212,Area de Inspección General,
+2011,02120,Area de Inspección General,
+2011,02121,División General Técnica,
+2011,02122,División de Régimen Interno,
+2011,02123,Comisaría de Tudela,
+2011,02124,Comisaría de Sangüesa,
+2011,02125,Comisaría de Pamplona,
+2011,02126,Comisaría de Tafalla,
+2011,02127,Comisaría de Elizondo,
+2011,02128,Comisaría de Estella,
+2011,02129,Comisaría de Altsasu/Alsasua,
+2011,0212A,División de Comunicación Enlace Operativ,División de Comunicación y Enlace Operativo
+2011,0213,Area de Tráfico y Seguridad Vial,
+2011,02130,Area de Tráfico y Seguridad Vial,
+2011,02131,División de Seguridad Vial,
+2011,02132,División de Atestados e Investigación,
+2011,0217,Area Seguridad Interior y Policía Adva.,Area de Seguridad Interior y Policía Administrativa
+2011,02170,Area Seguridad Interior y Policía Adva.,Area de Seguridad Interior y Policía Administrativa
+2011,02174,División de Seguridad Interior,
+2011,02175,División de Policía Administrativa,
+2011,0218,Area de Seguridad Ciudadana,
+2011,02180,Area de Seguridad Ciudadana,
+2011,02181,División Prevención y Atención Ciudadana,División de Prevención y Atención Ciudadana
+2011,02182,División de Protección de Autoridades,
+2011,02183,División de Intervención,
+2011,0219,Area de Investigación Criminal,
+2011,02190,Area de Investigación Criminal,
+2011,02191,División de Policía Judicial,
+2011,02192,División de Policía Científica,
+2011,02193,División de Información,
+2011,024,Servicio de Régimen Jurídico y de Person,Servicio de Régimen Jurídico y de Personal
+2011,0240,Servicio de Régimen Jurídico y de Person,Servicio de Régimen Jurídico y de Personal
+2011,02400,Servicio de Régimen Jurídico y de Person,Servicio de Régimen Jurídico y de Personal
+2011,0241,Sección de Régimen Jurídico,
+2011,02411,Sección de Régimen Jurídico,
+2011,0245,Sección de Recursos Humanos,
+2011,02450,Sección de Recursos Humanos,
+2011,027,Agencia Navarra de Emergencias,
+2011,0270,Agencia Navarra de Emergencias,
+2011,02700,Agencia Navarra de Emergencias,
+2011,0271,Dirección de Protección Civil,
+2011,02710,Dirección de Protección Civil,
+2011,02711,Área de Planificación,
+2011,02712,Área de SOS Navarra,
+2011,02713,Área Coordina. y  Dirección  Emergencias,Área de Coordinación y Dirección de Emergencias
+2011,02714,Área Tec.Preven.Infor.Formac.Emergencias,"Área Técnica de Prevención, Información y Formación de Emergencias"
+2011,02715,Área Técnica de Apoyo,
+2011,0272,"Dir.Prevención, Extinción Incend. y Salv","Dirección de Prevención, Extinción de Incendios y Salvamento"
+2011,02720,"Dir.Prevención, Extinción Incend.y Salva","Dirección de Prevención, Extinción de Incendios y Salvamento"
+2011,02721,Área Intervención Operativa y de Parques,Área de Intervención Operativa y de Parques
+2011,02722,"Área Campañas, Grupo Rescate y Especiale","Área de Campañas, Grupos de Rescate y Especiales"
+2011,02723,Área de Mando y Apoyo,
+2011,0273,Dirección de Gestión,
+2011,02730,Dirección de Gestión,
+2011,02731,Área de Gestión Económico-Adva. y Pers.,Área de Gestión Económico-Administrativa y de Personal
+2011,02732,"Área Técnica, Logística y de Equipos",
+2011,028,Servic. del Sistema de Seguridad Pública,Servicio del Sistema de Seguridad Pública de Navarra
+2011,0280,Servic. del Sistema de Seguridad Pública,Servicio del Sistema de Seguridad Pública de Navarra
+2011,02800,Servic. del Sistema de Seguridad Pública,Servicio del Sistema de Seguridad Pública de Navarra
+2011,0282,Sección de Coordinación Policías Locales,Sección de Coordinación de Policías Locales y Sistemas de seguridad
+2011,02820,Sección de Coordinación Policías Locales,Sección de Coordinación de Policías Locales y Sistemas de seguridad
+2011,0283,"Sec.Sistemas, Dotaciones e Infraestructu","Sección de Sistemas, Dotaciones e Infraestructuras"
+2011,02830,"Sec.Sistemas, Dotaciones e Infraestructu","Sección de Sistemas, Dotaciones e Infraestructuras"
+2011,029,Serv.Desarrollo Políticas de Seguridad,Servicio de Desarrollo de las Políticas de Seguridad
+2011,0290,Serv.Desarrollo Políticas de Seguridad,Servicio de Desarrollo de las Políticas de Seguridad
+2011,02900,Serv.Desarrollo Políticas de Seguridad,Servicio de Desarrollo de las Políticas de Seguridad
+2011,0291,"Sec.Juego, Espect.Públicos y Activ.Recr.","Sección de Juego, Espectáculos Públicos y Actividades Recreativas"
+2011,02910,"Sec.Juego, Espect.Públicos y Activ.Recr.","Sección de Juego, Espectáculos Públicos y Actividades Recreativas"
+2011,0292,Sección de Tráfico y Seguridad Vial,
+2011,02920,Sección de Tráfico y Seguridad Vial,
+2011,0293,Sección de Parque Móvil,
+2011,02930,Sección de Parque Móvil,
+2011,03,Instituto Navarro Administración Pública,Instituto Navarro de Administración Pública
+2011,030,Instituto Navarro Administración Pública,Instituto Navarro de Administración Pública
+2011,0300,Instituto Navarro Administración Pública,Instituto Navarro de Administración Pública
+2011,03000,Instituto Navarro Administración Pública,Instituto Navarro de Administración Pública
+2011,03001,Negociado de Gestión,
+2011,03002,Negociado de Servicios Auxiliares,
+2011,031,Servicio de Formación,
+2011,0310,Servicio de Formación,
+2011,03100,Servicio de Formación,
+2011,03101,Ng. Cooperac. y Rela. con Unión Europea,Negociado de Cooperación y Relaciones con la Unión Europea
+2011,0311,Sección de Desarrollo y Perfeccionamient,Sección de Desarrollo y Perfeccionamiento
+2011,03110,Sección de Desarrollo y Perfeccionamient,Sección de Desarrollo y Perfeccionamiento
+2011,0313,Sección de Formación,
+2011,03130,Sección de Formación,
+2011,032,Serv.Calidad Políticas y Servic.Públicos,Servicio de Calidad de las Políticas y Servicios Públicos
+2011,0320,Serv.Calidad Políticas y Servic.Públicos,Servicio de Calidad de las Políticas y Servicios Públicos
+2011,03200,Serv.Calidad Políticas y Servic.Públicos,Servicio de Calidad de las Políticas y Servicios Públicos
+2011,0321,Sec. Evaluación y Desarrollo de Rec.Hum.,Sección de Evaluación y Desarrollo de los Recursos Humanos
+2011,03210,Sec. Evaluación y Desarrollo de Re. Hum.,Sección de Evaluación y Desarrollo de los Recursos Humanos
+2011,0322,Sec.Calid.Asis.Comisión Foral Evaluación,Sección de Calidad y Asistencia a la Comisión Foral de Evaluación
+2011,03220,Sec.Calid.Asis.Comisión Foral Evaluación,Sección de Calidad y Asistencia a la Comisión Foral de Evaluación
+2011,033,Escuela de Seguridad de Navarra,
+2011,0330,Escuela de Seguridad de Navarra,
+2011,03300,Escuela de Seguridad de Navarra,
+2011,0331,"Sec. de Planif., Desar. y Coordinación","Sección de Planificación, Desarrollo y Coordinación"
+2011,03310,"Sec. de Plan., Desar. y Coordinación","Sección de Planificación, Desarrollo y Coordinación"
+2011,0332,Sec.Asistencia Jurídica y Administrativa,Sección de Asistencia Jurídica y Administrativa
+2011,03320,Sec.Asistencia Jurídica y Administrativa,Sección de Asistencia Jurídica y Administrativa
+2011,034,Srv. de Vascuence e Idiomas Comunitarios,Servicio de Vascuence e Idiomas Comunitarios
+2011,0340,Servic.Vascuence e Idiomas Comunitarios,Servicio de Vascuence e Idiomas Comunitarios
+2011,03400,Servic.Vascuence e Idiomas Comunitarios,Servicio de Vascuence e Idiomas Comunitarios
+2011,03401,Ng. de Formación de Idiomas Comunitarios,Negociado de Formación de Idiomas Comunitarios
+2011,03402,Negociado de Formación de Vascuence,
+2011,035,Servicio de Selección para el Ingreso,
+2011,0350,Servicio de Selección para el Ingreso,
+2011,03500,Servicio de Selección para el Ingreso,
+2011,03503,Negociado de psicotecnia,
+2011,0351,Sección de Órganos de Selección,
+2011,03510,Sección de Órganos de Selección,
+2011,0352,Sec.Gestión de Oferta Pública de Empleo,Sección de Gestión de la Oferta Pública de Empleo
+2011,03520,Sec.Gestión de Oferta Pública de Empleo,Sección de Gestión de la Oferta Pública de Empleo
+2011,0353,Sección de Psicología,
+2011,03530,Sección de Psicología,
+2011,036,Secretaría General,
+2011,0360,Secretaría General,
+2011,03600,Secretaría General,
+2011,0361,Sección de Gestión y Régimen Jurídico,
+2011,03610,Sección de Gestión y Régimen Jurídico,
+2011,04,Dirección General de Función Pública,
+2011,040,Dirección General de Función Pública,
+2011,0400,Dirección General de Función Pública,
+2011,04000,Dirección General de Función Pública,
+2011,041,Serv.Control Gasto de Personal y Nóminas,Servicio de Control de Gasto de Personal y Nóminas
+2011,0410,Serv.Control Gasto de Personal y Nóminas,Servicio de Control de Gasto de Personal y Nóminas
+2011,04100,Serv.Control Gasto de Personal y Nóminas,Servicio de Control de Gasto de Personal y Nóminas
+2011,0412,Sección Gestión y Control Presupuestario,Sección de Gestión y Control Presupuestario
+2011,04120,Sección Gestión y Control Presupuestario,Sección de Gestión y Control Presupuestario
+2011,0414,Sección de Nóminas y Seguridad Social,
+2011,04140,Sección de Nóminas y Seguridad Social,
+2011,04141,Negociado de Seguridad Social,
+2011,0415,Sección de Registro Central de Personal,
+2011,04150,Sección de Registro Central de Personal,
+2011,042,Serv.Ordenación y Relaciones Laborales,Servicio de Ordenación y Relaciones Laborales
+2011,0420,Serv.Ordenación y Relaciones Laborales,Servicio de Ordenación y Relaciones Laborales
+2011,04200,Serv.Ordenación y Relaciones Laborales,Servicio de Ordenación y Relaciones Laborales
+2011,0421,Sección de Régimen Jurídico,
+2011,04210,Sección de Régimen Jurídico,
+2011,0422,Sec.Inspección Gen.y Asuntos Sindicales,Sección de Inspección General y Asuntos Sindicales
+2011,04220,Sec.Inspección Gen.y Asuntos Sindicales,Sección de Inspección General y Asuntos Sindicales
+2011,043,Servicio de Prestaciones Sociales,
+2011,0430,Servicio de Prestaciones Sociales,
+2011,04300,Servicio de Prestaciones Sociales,
+2011,0431,Sec.Gestión Montepíos y Benef.Sociales,Sección de Gestión de Montepíos y Beneficios Sociales
+2011,04310,Sec.Gestión Montepíos y Benef.Sociales,Sección de Gestión de Montepíos y Beneficios Sociales
+2011,04311,Negociado de Clases Pasivas,
+2011,0432,Sección Prevención de Riesgos Laborales,Sección de Prevención de Riesgos Laborales
+2011,0433,Sección de Asistencia Sanitaria,
+2011,04330,Sección de Asistencia Sanitaria,
+2011,044,Servicio de Gestión de Personal,
+2011,0440,Servicio de Gestión de Personal,
+2011,04400,Servicio de Gestión de Personal,
+2011,0441,Secc.Promoción y Contratación Temporal,Sección de Promoción y Contratación Temporal
+2011,04410,Secc.Promoción y Contratación Temporal,Sección de Promoción y Contratación Temporal
+2011,0442,Sección Provisión y Régimen de Personal,Sección de Provisión y Régimen de Personal
+2011,04420,Sección Provisión y Régimen de Personal,Sección de Provisión y Régimen de Personal
+2011,05,Dir.General Modern.y Admón.Electrónica,Dirección General de Modernización y Administración Electrónica
+2011,050,Dir.General Modern.y Admón.Electrónica,Dirección General de Modernización y Administración Electrónica
+2011,0500,Dir.General Modern.y Admón.Electrónica,Dirección General de Modernización y Administración Electrónica
+2011,05000,Dir.General Modern.y Admón.Electrónica,Dirección General de Modernización y Administración Electrónica
+2011,0501,Secc.de Régimen Jurídico-Administrativo,Sección de Régimen Jurídico-Administrativo
+2011,05010,Secc.de Régimen Jurídico-Administrativo,Sección de Régimen Jurídico-Administrativo
+2011,051,"Sv Organ, Modern, Aten y Part Ciudadana","Servicio de organización, modernización y de participación y atención ciudadana"
+2011,0510,"Sv Organ, Modern, Aten y Part Ciudadana","Servicio de organización, modernización y de participación y atención ciudadana"
+2011,05100,"Sv. Organ, Modern, Aten y Part Ciudadana",Servicio de organización y modernización y de atención y participación ciudadana
+2011,0511,Sección de Organización,
+2011,05110,Sección de Organización,
+2011,0512,Sección de Modernización,
+2011,05120,Sección de Modernización,
+2011,052,Serv.Sistemas de Información Corporativo,Servicio de Sistemas de Información Corporativos
+2011,0520,Serv.Sistemas de Información Corporativo,Servicio de Sistemas de Información Corporativos
+2011,05200,Serv.Sistemas de Información Corporativo,Servicio de Sistemas de Información Corporativos
+2011,0521,Sección de Procedimientos Electrónicos,
+2011,05210,Sección de Procedimientos Electrónicos,
+2011,0522,Sección de Extranet e Intranet,
+2011,05220,Sección de Extranet e Intranet,
+2011,0523,Sección de Proyectos Corporativos,
+2011,05230,Sección de Proyectos Corporativos,
+2011,05231,Neg.Sistemas de Información Territorial,Negociado de Sistemas de Información Territorial
+2011,05232,Neg.Sistemas Información para Dirección,Negociado de Sistemas de Información para la Dirección
+2011,053,Serv.Sistemas Información Departament.,Servicio de Sistemas de Información Departamentales
+2011,0530,Serv.Sistemas Información Departament.,Servicio de Sistemas de Información Departamentales
+2011,05300,Serv.Sistemas Información Departament.,Servicio de Sistemas de Información Departamentales
+2011,0532,Sección de Proyectos Área de Educación,
+2011,05320,Sección de Proyectos Área de Educación,
+2011,0533,Sección de Proyectos Área I,
+2011,05330,Sección de Proyectos Área I,
+2011,0534,Sección de Proyectos Área II,
+2011,05340,Sección de Proyectos Área II,
+2011,054,Serv.Seguridad Sistemas de Información,Servicio de Seguridad de los Sistemas de Información
+2011,0540,Serv.Seguridad Sistemas de Información,Servicio de Seguridad de los Sistemas de Información
+2011,05400,Serv.Seguridad Sistemas de Información,Servicio de Seguridad de los Sistemas de Información
+2011,055,Serv.Infraest.Tecnol.y Centro de Soporte,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
+2011,0550,Serv.Infraest.Tecnol.y Centro de Soporte,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
+2011,05500,Serr.Infraest.Tecnol.y Centro de Soporte,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
+2011,0551,Sección de Infraestructuras Tecnológicas,
+2011,05510,Sección de Infraestructuras Tecnológicas,
+2011,05511,Negociado de sistemas,
+2011,0552,Sección de Sistemas Telecomunicaciones,
+2011,05520,Sección Sistemas de Telecomunicaciones,Sección de Sistemas de Telecomunicaciones
+2011,0553,Sección de Producción,
+2011,05530,Sección de Producción,
+2011,05531,Negociado de Producción,
+2011,056,Serv. Sist. Información  Área Sanitaria,Servicio de Sistemas de Información del Área Sanitaria
+2011,0560,Serv. Sist. Información Área Sanitaria,Servicio de Sistemas de Información del Área Sanitaria
+2011,05600,Serv.  Sist. Información  Área Sanitaria,Servicio de Sistemas de Información del Área Sanitaria
+2011,05601,Neg.Atención a Centros Hospitalarios,Negociado de Atención a Centros Hospitalarios
+2011,0561,Sección de Ordenación Sanitaria,
+2011,05610,Sección de Ordenación Sanitaria,
+2011,0562,Sección de Historia de Salud Electrónica,
+2011,05620,Sección de Historia de Salud Electrónica,
+2011,0563,Sec.Sist.Información Advos Especializada,Sección de Sistemas de Información Administrativos de Especializada
+2011,05630,Sec.Sist.Información Advos Especializada,Sección de Sistemas de Información Administrativos de Especializada
+2011,06,Dirección General de Justicia,
+2011,060,Dirección General de Justicia,
+2011,0600,Dirección General de Justicia,
+2011,06000,Dirección General de Justicia,
+2011,061,Srv. Jurídico Administrativo de Justicia,Servicio Jurídico Administrativo de Justicia
+2011,0610,Srv. Jurídico Administrativo de Justicia,Servicio Jurídico Administrativo de Justicia
+2011,06100,Srv. Jurídico Administrativo de Justicia,Servicio Jurídico Administrativo de Justicia
+2011,0612,Sección de Régimen Jurídico y Personal,Sección de Régimen Jurídico y de Personal
+2011,06120,Sección de Régimen Jurídico y Personal,Sección de Régimen Jurídico y de Personal
+2011,06121,Negociado de Personal de Justicia,
+2011,062,Serv.Modernización Admon. de Justicia,Servicio de Modernización de la Administración de Justicia
+2011,0620,Serv.Modernización Admon. de Justicia,Servicio de Modernización de la Administración de Justicia
+2011,06200,Serv.Modernización Admon. de Justicia,Servicio de Modernización de la Administración de Justicia
+2011,06201,Negociado de Aprovisionamiento,
+2011,0621,Sección de Calidad,
+2011,06210,Sección de Calidad,
+2011,0622,Sección de Bienes,
+2011,06220,Sección de Bienes,
+2011,06222,Neg.SSGG de Administración de Justicia,Negociado de Servicios Generales de la Administración de Justicia
+2011,063,Servicio Social de Justicia,
+2011,0630,Servicio Social de Justicia,
+2011,06300,Servicio Social de Justicia,
+2011,06302,Neg.Asistencia y Gestión Administrativa,Negociado de Asistencia y Gestión Administrativa
+2011,0631,Sec.Asistencia a Víctimas Delito de Nav.,Sección de Asistencia a las Víctimas del Delito de Navarra
+2011,06310,Sec.Asistencia a Víctimas Delito de Nav.,Sección de Asistencia a las Víctimas del Delito de Navarra
+2011,0632,Sec.Coop.Apoyo Tecn.a Órganos Judiciales,Sección de Cooperación y Apoyo Técnico a los Órganos Judiciales
+2011,06320,Sec.Coop.Apoyo Tecn.a Órganos Judiciales,Sección de Cooperación y Apoyo Técnico a los Órganos Judiciales
+2011,06321,Neg. de Apoyo a la  Reinserción Social,Negociado de Apoyo a la Reinserción Social
+2011,064,Tribunal Administrativo de Navarra,
+2011,0640,Tribunal Administrativo de Navarra,
+2011,06400,Tribunal Administrativo de Navarra,
+2011,0641,Sección 1ª,
+2011,06410,Sección 1ª,
+2011,0642,Sección 2ª,
+2011,06420,Sección 2ª,
+2011,0643,Sección 3ª,
+2011,06430,Sección 3ª,
+2011,0644,Sección de Secretaría del TAN,Sección de Secretaría del Tribunal Administrativo de Navarra
+2011,06440,Sección de Secretaría del TAN,Sección de Secretaría del Tribunal Administrativo de Navarra
+2011,06441,Negociado de Registro y Tramitación,
+2011,06442,Neg.Resoluciones y Relación Juris.Con-Ad,Negociado de Resoluciones y Relación con la Jurisdicción Contencioso  Administrativa
+2011,1,Departamento de Economía y Hacienda,
+2011,10,Departamento de Economía y Hacienda,
+2011,100,Departamento de Economía y Hacienda,
+2011,1000,Departamento de Economía y Hacienda,
+2011,10000,Departamento de Economía y Hacienda,
+2011,101,Secretaría General Técnica,
+2011,1010,Secretaría General Técnica,
+2011,10100,Secretaría General Técnica,
+2011,1012,Sección de Régimen Administrativo,
+2011,10120,Sección de Régimen Administrativo,
+2011,1013,Sección de Régimen Jurídico,
+2011,10130,Sección de Régimen Jurídico,
+2011,10131,Negociado de Mantenimiento,
+2011,102,Tribunal Económ. Adm. Foral de Navarra,Tribunal Económico Administrativo Foral de Navarra
+2011,1020,Tribunal Económ. Adm. Foral de Navarra,Tribunal Económico Administrativo Foral de Navarra
+2011,10200,Tribunal Económ. Adm. Foral de Navarra,Tribunal Económico Administrativo Foral de Navarra
+2011,11,D.G. de Presupuestos e Intervención,Dirección General de Presupuestos e Intervención
+2011,110,D.G. de Presupuestos e Intervención,Dirección General de Presupuestos e Intervención
+2011,1100,D.G. de Presupuestos e Intervención,Dirección General de Presupuestos e Intervención
+2011,11000,D.G. de Presupuestos e Intervención,Dirección General de Presupuestos e Intervención
+2011,112,Servicio de Intervención General,
+2011,1120,Servicio de Intervención General,
+2011,11200,Servicio de Intervención General,
+2011,1121,Sección de Intervención,
+2011,11210,Sección de Intervención,
+2011,1122,Sección de Contabilidad,
+2011,11220,Sección de Contabilidad,
+2011,11221,Negociado de Centro Contable,
+2011,11222,Ng. de Producción Información Contable,Negociado de Producción de Información Contable
+2011,11223,Ng. de Difusión de Información Contable,Negociado de Difusión de Información Contable
+2011,11224,Neg Procdtos Especiales Contabilización,Negociado de Procedimientos Especiales de Contabilización
+2011,1123,Sección de Auditoría,
+2011,11230,Sección de Auditoría,
+2011,1124,Sc. C. Finan. Fondos Estructurales,Sección de Control Financiero de Fondos Estructurales
+2011,11240,Sc. Con. Financiero Fondos Estructurales,Sección de Control Financiero de Fondos Estructurales
+2011,1125,Sec. Control Financ. Ayudas FEAGA-FEADER,Sección de Control Financiero de las Ayudas del FEAGA-FEADER
+2011,11250,Sec. Control Financ. Ayudas FEAGA-FEADER,Sección de Control Financiero de las Ayudas del FEAGA-FEADER
+2011,1126,Sección de Sistemas de Gestión y Control,
+2011,11260,Sección de Sistemas de Gestión y Control,
+2011,114,Servicio de Presup. y Polít. Financiera,Servicio de Presupuestos y Política Financiera
+2011,1140,Servicio de Presup. y Polít. Financiera,Servicio de Presupuestos y Política Financiera
+2011,11400,Servicio de Presup. y Polit. Financiera,Servicio de Presupuestos y Política Financiera
+2011,1141,Sección de Presupuestos,
+2011,11410,Sección de Presupuestos,
+2011,1142,Sección de Tesorería,
+2011,11420,Sección de Tesorería,
+2011,11421,Negociado de Cobros y Pagos,
+2011,1143,Sección de Política Financiera,
+2011,11430,Sección de Política Financiera,
+2011,13,D.G. de Desarrollo Internacional,Dirección General de Desarrollo Internacional
+2011,130,D. G. de Desarrollo Internacional,Dirección General de Desarrollo Internacional
+2011,1300,D.G. de Desarrollo Internacional,Dirección General de Desarrollo Internacional
+2011,13000,D.G. de Desarrollo Internacional,Dirección General de Desarrollo Internacional
+2011,131,Servicio de Acción Europea,
+2011,1310,Servicio de Acción Europea,
+2011,13100,Servicio de Acción Europea,
+2011,1311,Sección de Programas,
+2011,13110,Sección de Programas,
+2011,13111,Negociado de Control de Fondos,
+2011,1312,Sec. de Procedimientos y Convocatorias,Sección de Procedimientos y Convocatorias
+2011,13120,Sec. Procedimientos y Convocatorias,Sección de Procedimientos y Convocatorias
+2011,1313,Sección de Información y Documentación,
+2011,13130,Sección de Información y Documentación,
+2011,132,Servicio de  Proyección Internacional,
+2011,1320,Servicio de  Proyección Internacional,
+2011,13200,Servicio de  Proyección Internacional,
+2011,1321,Sección de Promoción Exterior,
+2011,13210,Sección de Promoción Exterior,
+2011,15,Dirección General de Patrimonio,
+2011,150,Dirección General de Patrimonio,
+2011,1500,Dirección General de Patrimonio,
+2011,15000,Dirección General de Patrimonio,
+2011,151,Servicio de Patrimonio,
+2011,1510,Servicio de Patrimonio,
+2011,15100,Servicio de Patrimonio,
+2011,1511,Sección de Gestión del Patrimonio,
+2011,15110,Sección de Gestión del Patrimonio,
+2011,15112,Negociado de Inventario General,
+2011,15114,Ng. Gestión Técnica del Patrimonio,Negociado de Gestión Técnica del Patrimonio
+2011,15115,Negociado de Planeamiento y Valoraciones,
+2011,1512,Sección de Contratación,
+2011,15120,Sección de Contratación,
+2011,15121,Negociado de Adquisiciones,
+2011,15122,Negociado de Aprovisionamiento,
+2011,15124,Negociado de Registros y Seguros,
+2011,1513,Sección de Asuntos Económicos,
+2011,15130,Sección de Asuntos Económicos,
+2011,15132,Negociado de Asuntos Económicos,
+2011,1514,Sección de Obras e Infraestructuras,
+2011,15140,Sección de Obras e Infraestructuras,
+2011,15144,Negociado de Infraestructuras,
+2011,16,D.G. Política y Promoción Económica,Dirección General de Política y Promoción Económica
+2011,160,D.G. Política y Promoción Económica,Dirección General de Política y Promoción Económica
+2011,1600,D.G. Política y Promoción Económica,Dirección General de Política y Promoción Económica
+2011,16000,D.G. Política y Promoción Económica,Dirección General de Política y Promoción Económica
+2011,161,Servicio de Economía,
+2011,1610,Servicio de Economía,
+2011,16100,Servicio de Economía,
+2011,1611,Sección Análisis y Coyuntura Económica,Sección de Análisis y Coyuntura Económica
+2011,16110,Sección Análisis y Coyuntura Económica,Sección de Análisis y Coyuntura Económica
+2011,1612,Sección de Programación Económica,
+2011,16120,Sección de Programación Económica,
+2011,162,Instituto de Estadística de Navarra,
+2011,1620,Instituto de Estadística de Navarra,
+2011,16200,Instituto de Estadística de Navarra,
+2011,1621,Sección de Producción Estadística,
+2011,16210,Sección de Producción Estadística,
+2011,1622,Secc. Coordinac. y Difusión Estadística,Sección de Coordinación y Difusión Estadística
+2011,16220,Secc. Coordinac. y Difusión Estadística,Sección de Coordinación y Difusión Estadística
+2011,16222,Negociado de Difusión Estadística,
+2011,16223,Negociado de Comunicación,
+2011,16224,Neg. Coordinación Plan Estadíst. Navarra,Negociado de Coordinación del Plan de Estadística de Navarra
+2011,1623,Sección de Infraestructura Estadística,
+2011,16230,Sección de Infraestructura Estadística,
+2011,17,"Organ. Autón. ""Hacienda Tribut. Navarra""","Organismo Autónomo ""Hacienda Tributaria de Navarra"""
+2011,170,"Org. Autón. ""Hacienda Tribut. Navarra""","Organismo Autónomo ""Hacienda Tributaria de Navarra"""
+2011,1700,"Org. Autón. ""Hacienda Tribut. Navarra""","Organismo Autónomo ""Hacienda Tributaria de Navarra"""
+2011,17000,"Org. Aut. ""Hacienda Tributaria Navarra""","Organismo Autónomo ""Hacienda Tributaria de Navarra"""
+2011,17001,Sección de Administración,
+2011,17002,Sec. Análisis Financiero y Tributario,Sección de Análisis Financiero y Tributario
+2011,1703,Sv. Sistemas Información Tributaria,Servicio de Sistemas de Información Tributaria
+2011,17030,Sv. Sistemas Información Tributaria,Servicio de Sistemas de Información Tributaria
+2011,17031,Sección de Coordinación Informática,
+2011,17032,Sección de Análisis de la Información,
+2011,17033,Sec. Identificación y Modelos Informati.,Sección de Identificación y Modelos Informativos
+2011,17034,Sección de Seguridad e Innovación,
+2011,1704,Sv. Desarrollo Normativo y Fiscalidad,Servicio de Desarrollo Normativo y Fiscalidad
+2011,17040,Sv. Desarrollo Normativo y Fiscalidad,Servicio de Desarrollo Normativo y Fiscalidad
+2011,17041,Sección de Fiscalidad,
+2011,17042,Sc. Análisis y Desarr. Sistema Tributari,Sección de Análisis y Desarrollo del Sistema Tributario
+2011,17043,Sc. Document. y Difus. Tributaria,Sección de Documentación y Difusión Tributaria
+2011,171,Dirección de Control Tributario,
+2011,1710,Dirección de Control Tributario,
+2011,17100,Dirección de Control Tributario,
+2011,17101,Secc. Planif. Integr. del Control Tribut,Sección de Planificación Integral del Control Tributario
+2011,1711,"Sv. Tributos Directos, Sanc. y Requerim.","Servicio de Tributos Directos, Sanciones y Requerimientos"
+2011,17110,"Sv. Tributos Directos, Sanc. y Requerim.","Servicio de Tributos Directos, Sanciones y Requerimientos"
+2011,17112,Sec. Imptos. sobre Socied. y Renta No Re,Sección de Impuestos sobre Sociedades y sobre la Renta de No Residentes
+2011,17113,Sección de Sanciones y Requerimientos,
+2011,17114,Secc. de Oficina Técnica y Planificación,Sección de Oficina Técnica y Planificación
+2011,17115,"Sc. Imptos. Suces. y Donac., TP y AJD","Sección de Impuestos sobre Sucesiones y Donaciones, Transmisiones Patrimoniales y Actos Jurídicos Documentados"
+2011,1712,Sv. Tributos Indirectos y Gr. Empresas,Servicio de Tributos Indirectos y Grandes Empresas
+2011,17120,Sv. Tributos Indirectos y Gr. Empresas,Servicio de Tributos Indirectos y Grandes Empresas
+2011,17121,Sección de Grandes Empresas,
+2011,17122,Sección de Impuesto sobre Valor Añadido,Sección de Impuesto sobre el Valor Añadido
+2011,17123,"Sc. Imptos. Espec., Primas Segur. y Tas.","Sección de Impuestos Especiales, Impuestos sobre las Primas de Seguros y Tasas"
+2011,1713,Servicio de Inspección Tributaria,
+2011,17130,Servicio de Inspección Tributaria,
+2011,17131,Sección de Oficina Técnica,
+2011,1714,Servicio de Recaudación,
+2011,17140,Servicio de Recaudación,
+2011,17141,Sec. Aplicación y Control de Recaudación,Sección de Aplicación y Control de Recaudación
+2011,17142,Sección de Gestión de Aplazamientos,
+2011,17143,Sección de Recaudación Ejecutiva,
+2011,17144,Sección de Procedimientos Especiales,
+2011,172,Direc. de Atenc. y Serv. al Contibuyente,Dirección de Atención y Servicios al Contibuyente
+2011,1720,Dir. Atenc. y Servicios al Contribuyente,Dirección de Atención y Servicios al Contribuyente
+2011,17200,Dir. Atenc. y Servicios al Contribuyente,Dirección de Atención y Servicios al Contribuyente
+2011,1721,Sv. Gestión Impto. Renta Personas Físic.,Servicio de Gestión del Impuesto sobre la Renta de las Personas Físicas
+2011,17210,Sv.Gestión Impto. Renta Personas Físicas,Servicio de Gestión del Impuesto sobre la Renta de las Personas Físicas
+2011,17218,Sec.Campaña Impto Renta Personas Físicas,Sección de Campaña del Impuesto sobre la Renta de las Personas Físicas
+2011,1722,Servicio de Riqueza Territorial,
+2011,17220,Servicio de Riqueza Territorial,
+2011,17221,Sec. de Registro de Riqueza Territorial,Sección de Registro de la Riqueza Territorial
+2011,17222,Sección de Tasación,
+2011,1723,Sv. Asistenci. e Informac. Contribuyente,Servicio de Asistencia e Información al Contribuyente
+2011,17230,Sv. Asistencia e Informac. Contribuyente,Servicio de Asistencia e Información al Contribuyente
+2011,17231,Sección de Asistencia al Contribuyente,
+2011,17232,Sc. Información y Oficinas Territoriales,Sección de Información y Oficinas Territoriales
+2011,17233,Sc. Atenc. Técn. y Entida. Colaboradoras,Sección de Atención Técnica y Entidades Colaboradoras
+2011,2,Departamento de Administración Local,
+2011,20,Departamento de Administración Local,
+2011,200,Departamento de Administración Local,
+2011,2000,Departamento de Administración Local,
+2011,20000,Departamento de Administración Local,
+2011,201,Secretaría General Técnica,
+2011,2010,Secretaría General Técnica,
+2011,20100,Secretaría General Técnica,
+2011,2011,Sección de Régimen Jurídico,
+2011,20110,Sección de Régimen Jurídico,
+2011,20111,Negociado de Asistencia Jurídica,
+2011,2012,Sección Gestión Administrativa General,Sección de Gestión Administrativa General
+2011,20120,Sección Gestión Administrativa General,Sección de Gestión Administrativa General
+2011,20121,Negociado de Secretaría y Documentación,
+2011,21,Dirección General Administración Local,
+2011,210,Dirección General Administración Local,Dirección General de Administración Local
+2011,2100,Dirección General Administración Local,Dirección General de Administración Local
+2011,21000,Dirección General Administración Local,Dirección General de Administración Local
+2011,211,Sv. Aseso. y Coop. con entidades locales,Servicio de Asesoramiento y Cooperación con las entidades locales
+2011,2110,Sv. Aseso. y Coop. con entidades locales,Servicio de Asesoramiento y Cooperación con las entidades locales
+2011,21100,Sv. Aseso. y Coop. con entidades locales,Servicio de Asesoramiento y Cooperación con las entidades locales
+2011,2111,Sección de Cooperación Local,
+2011,21110,Sección de Cooperación Local,
+2011,2113,Sección de Asesoramiento,
+2011,21130,Sección de Asesoramiento,
+2011,212,Servicio Gestión y Cooperación Económica,Servicio de Gestión y Cooperación Económica
+2011,2120,Servicio Gestión y Cooperación Económica,Servicio de Gestión y Cooperación Económica
+2011,21200,Servicio Gestión y Cooperación Económica,Servicio de Gestión y Cooperación Económica
+2011,2121,Sec. Gestión Económica y Presupuestaria,Sección de Gestión Económica y Presupuestaria
+2011,21210,Sec. Gestión Económica y Presupuestaria,Sección de Gestión Económica y Presupuestaria
+2011,21211,Negociado de Régimen Económico,
+2011,2122,Sec. Asesoramiento Cooperación Económica,Sección de Asesoramiento y Cooperación Económica
+2011,21220,Sec. Asesoramiento Cooperación Económica,Sección de Asesoramiento y Cooperación Económica
+2011,2123,Sección de Estudios y Análisis Económico,
+2011,21230,Sección de Estudios y Análisis Económico,
+2011,2124,Sec. Gestión Asuntos Económicos EE.LL.,Sección de Gestión de Asuntos Económicos de las Entidades Locales
+2011,21240,Sec. Gestión Asuntos Económicos EE.LL.,Sección de Gestión de Asuntos Económicos de las Entidades Locales
+2011,213,Servicio de Infraestructuras Locales,
+2011,2130,Servicio de Infraestructuras Locales,
+2011,21300,Servicio de Infraestructuras Locales,
+2011,2131,Sección de Planificación y Estudios,
+2011,21310,Sección de Planificación y Estudios,
+2011,21311,Negociado de Estudios y Proyectos,
+2011,2132,Sec. Gestión de Infraestructuras Locales,Sección de Gestión de Infraestructuras Locales
+2011,21320,Sec. Gestión de Infraestructuras Locales,Sección de Gestión de Infraestructuras Locales
+2011,21321,Neg. Infraestructuras Hidráulico-Sanita.,Negociado de Infraestructuras Hidráulico-Sanitarias
+2011,21323,Negociado de Obras Urbanas,
+2011,2133,Sec. Cooperación Técnica de Infraestruc.,Sección de Cooperación Técnica de Infraestructuras
+2011,21330,Sec. Cooperación Técnica de Infraestruc.,Sección de Cooperación Técnica de Infraestructuras
+2011,21331,Negociado de Infraestructuras Locales,
+2011,214,Srv.Orden.Serv.Municip. y Func.Publ.Loc.,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
+2011,2140,Srv.Orden.Serv.Municip. y Func.Publ.Loc.,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
+2011,21400,Srv.Orden.Serv.Municip. y Func.Publ.Loc.,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
+2011,2141,Secc.Ordenación Servicios Municipales,Sección de Ordenación de los Servicios Municipales
+2011,21410,Secc.Ordenación Servicios Municipales,Sección de Ordenación de los Servicios Municipales
+2011,2142,Sec.Orden.y Apoyo a Función Públ. Local,Sección de Ordenación y Apoyo a la Función Pública Local
+2011,21420,Sec.Orden.y Apoyo a Función Publ. local,Sección de Ordenación y Apoyo a la Función Pública Local
+2011,215,Servicio de Calidad y Modernización,
+2011,2150,Servicio de Calidad y Modernización,
+2011,21500,Servicio de Calidad y Modernización,
+2011,2151,Sección de Innovación,
+2011,21510,Sección de Innovación,
+2011,2152,Sección de Gestión de la Calidad,
+2011,21520,Sección de Gestión de la Calidad,
+2011,2153,Sec. Estadísticas Locales y Est.Informa.,Sección de Estadísticas Locales y Estructura de Información
+2011,21530,Sec. Estadísticas Locales y Est.Informa.,Sección de Estadísticas Locales y Estructura de Información
+2011,3,Dpto. Vivienda y Ordenación Territorio,Departamento de Vivienda y Ordenación del Territorio
+2011,30,Dpto. Vivienda y Ordenación Territorio,Departamento de Vivienda y Ordenación del Territorio
+2011,300,Dpto. Vivienda y Ordenación Territorio,Departamento de Vivienda y Ordenación del Territorio
+2011,3000,Dpto. Vivienda y Ordenación Territorio,Departamento de Vivienda y Ordenación del Territorio
+2011,30000,Dpto. Vivienda y Ordenación Territorio,Departamento de Vivienda y Ordenación del Territorio
+2011,301,Secretaría General Técnica,
+2011,3010,Secretaría General Técnica,
+2011,30100,Secretaría General Técnica,
+2011,30103,Negociado de Gestión Administrativa,
+2011,3012,Sec. de Control Económico-Administrativo,Sección de Control Económico-Administrativo
+2011,30120,Sec. de Control Económico-Administrativo,Sección de Control Económico-Administrativo
+2011,30121,Negociado de Archivos y Registro,
+2011,3013,Sección de Régimen Jurídico de Vivienda,
+2011,30130,Sección de Régimen Jurídico de Vivienda,
+2011,3014,Sección de Régimen Jurídico de Urbanismo,
+2011,30140,Sección de Régimen Jurídico de Urbanismo,
+2011,32,Dir. Grl. Vivienda Ordenación Territorio,Dirección General de Vivienda y Ordenación del Territorio
+2011,320,Dir. Grl. Vivienda Ordenación Territorio,Dirección General de Vivienda y Ordenación del Territorio
+2011,3200,Dir. Grl. Vivienda Ordenación Territorio,Dirección General de Vivienda y Ordenación del Territorio
+2011,32000,Dir. Grl. Vivienda Ordenación Territorio,Dirección General de Vivienda y Ordenación del Territorio
+2011,321,Srv. Ordenación Territorio y Urbanismo,Servicio de Ordenación del Territorio y Urbanismo
+2011,3210,Srv. Ordenación Territorio y Urbanismo,Servicio de Ordenación del Territorio y Urbanismo
+2011,32100,Srv. Ordenación Territorio y Urbanismo,Servicio de Ordenación del Territorio y Urbanismo
+2011,3211,Sec. Análisis y Planificación Territori.,Sección de Análisis y Planificación Territorial
+2011,32110,Sec. Análisis y Planificación Territor.,Sección de Análisis y Planificación Territorial
+2011,3212,Sección de Planeam. Urbanístico Municip.,Sección de Planeamiento Urbanístico Municipal
+2011,32120,Sección de Planeam. Urbanístico Municip.,Sección de Planeamiento Urbanístico Municipal
+2011,32121,Negociado de Asuntos Urbanísticos,
+2011,32122,Negociado del Suelo no Urbanizable,
+2011,3213,Sec. Coordin. y Cooper. Urbanística,Sección de Coordinación y Cooperación Urbanística
+2011,32130,Sec. Coord. y Cooper. Urbanística,Sección de Coordinación y Cooperación Urbanística
+2011,3214,Sec. Inspec. y Discipl. Urbanística,Sección de Inspección y Disciplina Urbanística
+2011,32140,Sec. Inspec. y Discipl. Urbanística,Sección de Inspección y Disciplina Urbanística
+2011,32141,Neg. Asist. Admtva. a la Inspec. Discip.,Negociado de Asistencia Administrativa a la Inspección y Disciplina Urbanística
+2011,3215,Sec. Planificación Estratégica Municipal,Sección de Planificación Estratégica Municipal
+2011,32150,Sec. Planificación Estratégica Municipal,Sección de Planificación Estratégica Municipal
+2011,32151,Neg. Asistencia Administrativa Pla.Terr.,Negociado de Asistencia Administrativa a la Planificación Territorial
+2011,322,Servicio de Vivienda,
+2011,3220,Servicio de Vivienda,
+2011,32200,Servicio de Vivienda,
+2011,3221,Sección de Edificación,
+2011,32210,Sección de Edificación,
+2011,32212,Neg. Tramit. Exptes. edificación,Negociado de Tramitación de Expedientes en materia de edificación
+2011,3222,Sec. Gestión Económica y Planificación,Sección de Gestión Económica y Planificación
+2011,32220,Sec. Gestión Económica y Planificación,Sección de Gestión Económica y Planificación
+2011,32221,Negociado de Financiación de Viviendas,
+2011,3223,Sección de Suelo Residencial,
+2011,32230,Sección de Suelo Residencial,
+2011,4,Departamento de Educación,
+2011,40,Departamento de Educación,
+2011,400,Departamento de Educación,
+2011,4000,Departamento de Educación,
+2011,40000,Departamento de Educación,
+2011,40001,Consejo Escolar Nav.-Junta Super. Educ.,Consejo Escolar de Navarra-Junta Superior de Educación
+2011,401,Secretaría General Técnica,
+2011,4010,Secretaría General Técnica,
+2011,40100,Secretaría General Técnica,
+2011,40101,Negociado de Asuntos Administrativos,
+2011,4011,Sección de Régimen Administrativo,
+2011,40110,Sección de Régimen Administrativo,
+2011,40112,Negociado de Registro,
+2011,40113,Negociado de Información y Documentación,
+2011,4012,Sc. de Presupuestos y Gestión Económica,Sección de Presupuestos y Gestión Económica
+2011,40120,Sc. de Presupuestos y Gestión Económica,Sección de Presupuestos y Gestión Económica
+2011,40122,Negociado de Gestión Económica,
+2011,4013,Sección de Régimen Jurídico,
+2011,40130,Sección de Régimen Jurídico,
+2011,4014,Secc. Gestión Jurídico-Administrativa,Sección de Gestión Jurídico-Administrativa
+2011,40140,Secc. Gestión Jurídico-Administrativa,Sección de Gestión Jurídico-Administrativa
+2011,4015,Sección Coordinación y Gestión Cambio,Sección de Coordinación y Gestión del Cambio
+2011,40150,Sección Coordinación y Gestión Cambio,Sección de Coordinación y Gestión del Cambio
+2011,41,Direc. General de Inspección y Servicios,Dirección General de Inspección y Servicios
+2011,410,Direc. General de Inspección y Servicios,Dirección General de Inspección y Servicios
+2011,4100,Direc. General de Inspección y Servicios,Dirección General de Inspección y Servicios
+2011,41000,Direc. General de Inspección y Servicios,Dirección General de Inspección y Servicios
+2011,4101,Sección Prevención de Riesgos Laborales,Sección de Prevención de Riesgos Laborales
+2011,41010,Sección Prevención de Riesgos Laborales,Sección de Prevención de Riesgos Laborales
+2011,411,Servicio de Centros y Ayudas al Estudio,
+2011,4110,Servicio de Centros y Ayudas al Estudio,
+2011,41100,Servicio de Centros y Ayudas al Estudio,
+2011,4114,Sec. de Centros Escolares y de su Finan.,Sección de Centros Escolares y de su Financiación
+2011,41140,Sec. de Centros Escolares y de su Finan.,Sección de Centros Escolares y de su Financiación
+2011,41143,Neg.Financiación de Centros Públicos,Negociado de Financiación de Centros Públicos
+2011,4115,Sección de Ayudas al Estudio,
+2011,41150,Sección de Ayudas al Estudio,
+2011,41151,Negociado de Becas,
+2011,41152,Negociado de Servicios Complementarios,
+2011,413,Servicio de Inspección Educativa,
+2011,4130,Servicio de Inspección Educativa,
+2011,41300,Servicio de Inspección Educativa,
+2011,41301,Ng. de Control Administrativo y Archivo,Negociado de Control Administrativo y Archivo
+2011,41303,Negociado de Escolarización,
+2011,4131,Sección de Evaluación,
+2011,41310,Sección de Evaluación,
+2011,417,Servicio de Recursos Humanos,
+2011,4170,Servicio de Recursos Humanos,
+2011,41700,Servicio de Recursos Humanos,
+2011,4171,Sección de Régimen Jurídico de Personal,
+2011,41710,Sección de Régimen Jurídico de Personal,
+2011,41711,Negociado de Control Administrativo,
+2011,4172,Sección de Gestión de Personal,
+2011,41720,Sección de Gestión de Personal,
+2011,41721,Neg.Profesorado Edu. Infantil y Primaria,Negociado de Profesorado de Educación Infantil y Primaria
+2011,41722,Neg. Profesorado de Educación Secundaria,Negociado de Profesorado de Educación Secundaria
+2011,41723,Neg.Contrat. Temporal y Perso.no docente,Negociado de Contratación Temporal y Personal No Docente
+2011,41724,Negociado Técni. Administrativo Personal,Negociado Técnico Administrativo de Personal
+2011,41725,Neg. Control Presupu. Plantilla Personal,Negociado de Control Presupuestario y de Plantilla de Personal
+2011,4175,Sección de Planificación,
+2011,41750,Sección de Planificación,
+2011,418,Servicio de Obras y Mantenimiento,
+2011,4180,Servicio de Obras y Mantenimiento,
+2011,41800,Servicio de Obras y Mantenimiento,
+2011,41801,Negociado de Contratación,
+2011,41802,Neg. Gestión Administrativa y Económica,Negociado de Gestión Administrativa y Económica
+2011,4181,Sección de Obras,
+2011,41810,Sección de Obras,
+2011,4182,Secc. Mantenimiento Centros Dependencias,Sección de Mantenimiento de Centros y Dependencias del Departamento de Educación
+2011,41820,Secc. Mantenimiento Centros Dependencias,Sección de Mantenimiento de Centros y Dependencias del Departamento de Educación
+2011,41821,Negociado de Mantenimiento,
+2011,41822,Negociado de Adquisiciones,
+2011,419,Servicio Nóminas y Control Presupuestar.,Servicio de Nóminas y Control Presupuestario
+2011,4190,Servicio Nóminas y Control Presupuestar.,Servicio de Nóminas y Control Presupuestario
+2011,41900,Servicio Nóminas y Control Presupuestar.,Servicio de Nóminas y Control Presupuestario
+2011,4191,Sección de Estudios Económicos,
+2011,41910,Sección de Estudios Económicos,
+2011,4192,Sección de Nóminas y Seguros Sociales,
+2011,41920,Sección de Nóminas y Seguros Sociales,
+2011,41921,Neg.Nóminas Personal Docente Funcionario,Negociado de Nóminas de Personal Docente Funcionario
+2011,41922,Neg.Nóminas Personal Laboral Administra.,Negociado de Nóminas de Personal Laboral y de Administración
+2011,41923,Negociado de Seguros Sociales,
+2011,41924,Neg.Nóminas Centros Concertados Subvenc.,Negociado de Nóminas de Centros Concertados y Subvencionados
+2011,42,Dir. Gral. Ordenacion Calidad Innovación,"Dirección General de Ordenacion, Calidad e Innovación"
+2011,420,Dir. Gral. Ordenación Calidad Innovación,"Dirección General de Ordenación, Calidad e Innovación"
+2011,4200,Dir. Gral. Ordenación Calidad Innovación,"Dirección General de Ordenación, Calidad e Innovación"
+2011,42000,Dir. Gral. Ordenación Calidad Innovación,"Dirección General de Ordenación, Calidad e Innovación"
+2011,421,Servicio de Ordenación Académica,
+2011,4210,Servicio de Ordenación Académica,
+2011,42100,Servicio de Ordenación Académica,
+2011,4211,Sección de Ordenación y Títulos,
+2011,42110,Sección de Ordenación y Títulos,
+2011,42111,Negociado de Ordenación,
+2011,42112,Negociado de Títulos y Convalidaciones,
+2011,4213,Sección de Educación de Personas Adultas,
+2011,42130,Sección de Educación de Personas Adultas,
+2011,4214,Secc .Primer Ciclo de Educación Infantil,Sección de Primer Ciclo de Educación Infantil
+2011,42140,Secc .Primer Ciclo de Educación Infantil,Sección de Primer Ciclo de Educación Infantil
+2011,422,"S.Diversidad, Orientación Multicultural.","Servicio de Diversidad, Orientación y Multiculturalidad"
+2011,4220,"S.Diversidad, Orientación Multicultural.","Servicio de Diversidad, Orientación y Multiculturalidad"
+2011,42200,"S.Diversidad, Orientación Multicultural.","Servicio de Diversidad, Orientación y Multiculturalidad"
+2011,4221,Secci. Necesidades Educativas Especiales,Sección de Necesidades Educativas Especiales
+2011,42210,Secci. Necesidades Educativas Especiales,Sección de Necesidades Educativas Especiales
+2011,42211,Negociado de Programas Específicos,
+2011,4222,Sección de Orientación,
+2011,42220,Sección de Orientación,
+2011,4223,Sección de Multiculturalidad,
+2011,42230,Sección de Multiculturalidad,
+2011,42231,Neg.Multicultural. Integración Socioedu.,"Negociado de Multiculturalidad, e Integración Socioeducativa"
+2011,423,Servicio Formación Innovación Educativa,Servicio de Formación e Innovación Educativa
+2011,4230,Servicio Formación Innovación Educativa,Servicio de Formación e Innovación Educativa
+2011,42300,Servicio Formación Innovación Educativa,Servicio de Formación e Innovación Educativa
+2011,4231,Sección de Formación del Profesorado,
+2011,42310,Sección de Formación del Profesorado,
+2011,42311,Negociado Centros Apoyo Profesorado,Negociado de Centros de Apoyo al Profesorado
+2011,42312,Negociado de Programas de Formación,
+2011,4234,Sec.Tecnologías Información Comunicación,Sección de Tecnologías de la Información y la Comunicación
+2011,42340,Sec.Tecnologías Información Comunicación,Sección de Tecnologías de la Información y la Comunicación
+2011,42341,Ne.Integ. Curri.Tecnol.Informac.Comunic.,Negociado de Integración Curricular de las Tecnologías de la Información y la Comunicación
+2011,42342,Negociado Gestión Información Escolar,Negociado de Gestión de la Información Escolar
+2011,42343,Negociado de Sistemas y Redes Educativas,
+2011,4235,Sección de Innovación Educativa,
+2011,42350,Sección de Innovación Educativa,
+2011,42351,Negociado de Programas de Innovación,
+2011,42352,Negociado de Recursos Didácticos,
+2011,42353,Negociado de Calidad Educativa,
+2011,42354,Negociado de Igualdad,
+2011,424,Servi. Planificación Lingüística Escolar,Servicio de Planificación Lingüística Escolar
+2011,4240,Servi. Planificación Lingüística Escolar,Servicio de Planificación Lingüística Escolar
+2011,42400,Servi. Planificación Lingüística Escolar,Servicio de Planificación Lingüística Escolar
+2011,42402,Unidad de Traducción,
+2011,4241,Sección de Vascuence,
+2011,42410,Sección de Vascuence,
+2011,42411,Negocia. de Didáctica de la Lengua Vasca,Negociado de Didáctica de la Lengua Vasca
+2011,42412,Negociado de EGA,
+2011,42413,Negociado Promoción de la Lengua Vasca,Negociado de Promoción de la Lengua Vasca
+2011,4242,Sección de Lenguas Extranjeras,
+2011,42420,Sección de Lenguas Extranjeras,
+2011,42421,Ne. Did. Len. Extranj.Secund.y Esc.Idio.,Negociado de Didáctica de las Lenguas Extranjeras en Secundaria y Escuelas de Idiomas
+2011,4243,Secc. Programas Europeos Internacionales,Sección de Programas Europeos e Internacionales
+2011,42430,Secc. Programas Europeos Internacionales,Sección de Programas Europeos e Internacionales
+2011,42431,Negoc. Mejora uso de Lenguas Extranjeras,Negociado de Mejora del uso de las Lenguas Extranjeras
+2011,43,D.G. Formación Profesional Universidades,Dirección General de Formación Profesional y Universidades
+2011,430,D.G. Formación Profesional Universidades,Dirección General de Formación Profesional y Universidades
+2011,4300,D.G. Formación Profesional Universidades,Dirección General de Formación Profesional y Universidades
+2011,43000,D.G. Formación Profesional Universidades,Dirección General de Formación Profesional y Universidades
+2011,4301,Sección de Enseñanzas Artísticas,
+2011,43010,Sección de Enseñanzas Artísticas,
+2011,43011,Negociado de Enseñanzas Musicales,
+2011,4302,Sección Gestión Coordinación Música,Sección de Gestión y Coordinación de la Ciudad de la Música
+2011,43020,Sección Gestión Coordinación Música,Sección de Gestión y Coordinación de la Ciudad de la Música
+2011,431,"Srv. Enseñanza, Exten. Univ. e Investig.",Servicio de Enseñanza y Extensión Universitaria e Investigación
+2011,4310,"Srv. Enseñanza, Exten. Univ. e Investig.",Servicio de Enseñanza y Extensión Universitarias e Investigación
+2011,43100,"Srv. Enseñanza, Exten. Univ. e Investig.",Servicio de Enseñanza y Extensión Universitarias e Investigación
+2011,4311,Sección de Enseñanza Superior,
+2011,43110,Sección de Enseñanza Superior,
+2011,43111,Negociado de Enseñanza Superior,
+2011,4312,Sección de Extensión Universitaria,
+2011,43120,Sección de Extensión Universitaria,
+2011,4313,Secci. Promoción y Fomento de la Ciencia,Sección de Promoción y Fomento de la Ciencia
+2011,43130,Secci. Promoción y Fomento de la Ciencia,Sección de Promoción y Fomento de la Ciencia
+2011,43131,Negociado Ayudas Investiga. Internacion.,Negociado de Ayudas a la Investigación e Internacionalización
+2011,433,Servicio de Formación Profesional,
+2011,4330,Servicio de Formación Profesional,
+2011,43300,Servicio de Formación Profesional,
+2011,4331,Secc.Planificación Desarrollo de Centros,Sección de Planificación y Desarrollo de Centros
+2011,43310,Secc.Planificación Desarrollo de Centros,Sección de Planificación y Desarrollo de Centros
+2011,43311,Negocia.Programas Iniciación Profesional,Negociado de Programas de Iniciación Profesional
+2011,43312,Negociado Ordenación de Formación Profe.,Negociado de Ordenación de la Formación Profesional
+2011,43315,Negociado Formación Profesorado F.P.,Negociado de Formación del Profesorado de Formación Profesional
+2011,4332,Sección Innovación Tecnológica F.P.,Sección de Innovación Tecnológica y Formación Profesional
+2011,43320,Sección Innovación Tecnológica F.P.,Sección de Innovación Tecnológica y Formación Profesional
+2011,43321,Negociado Innovación Formación Profesio.,Negociado de Innovación de la Formación Profesional
+2011,4333,Sección Formación Profesional Empresa,Sección de Formación Profesional y Empresa
+2011,43330,Sección Formación Profesional Empresa,Sección de Formación Profesional y Empresa
+2011,43331,Sección de Formación en Centros Trabajo,Negociado de Formación en Centros de Trabajo
+2011,43332,Negociado de Formación Continua,
+2011,43333,Neg. de Internacionalización de la F.P.,Negociado de Internacionalización de la Formación Profesional
+2011,4334,Sec. Cualificacio. Profesionales- I.N.C.,Sección de Cualificaciones Profesionales- Instituto Navarro de las Cualificaciones
+2011,43340,Sec. Cualificacio. Profesionales- I.N.C.,Sección de Cualificaciones Profesionales- Instituto Navarro de las Cualificaciones
+2011,44,Euskarabidea/Instituto Navarro Vascuence,Euskarabidea/Instituto Navarro del Vascuence
+2011,440,Euskarabidea/Instituto Navarro Vascuence,Euskarabidea/Instituto Navarro del Vascuence
+2011,4400,Euskarabidea/Instituto Navarro Vascuence,Euskarabidea/Instituto Navarro del Vascuence
+2011,44000,Euskarabidea/Instituto Navarro Vascuence,Euskarabidea/Instituto Navarro del Vascuence
+2011,44001,Negociado de Programas,
+2011,441,Servicio de Desarrollo del Vascuence,
+2011,4410,Servicio de Desarrollo del Vascuence,
+2011,44100,Servicio de Desarrollo del Vascuence,
+2011,4411,Sección de Fomento del Vascuence,
+2011,44110,Sección de Fomento del Vascuence,
+2011,442,Serv.Asesoramiento y Formación Vascuence,Servicio de Asesoramiento y Formación del Vascuence
+2011,4420,Serv.Asesoramiento y Formación Vascuence,Servicio de Asesoramiento y Formación del Vascuence
+2011,44200,Serv.Asesoramiento y Formación Vascuence,Servicio de Asesoramiento y Formación del Vascuence
+2011,4421,Se. Investigación y Traducción Vascuence,Sección de Investigación y Traducción del Vascuence
+2011,44210,Se. Investigación y Traducción Vascuence,Sección de Investigación y Traducción del Vascuence
+2011,44211,Negociado de Traducción,
+2011,4423,Sección de Formación del Vascuence,
+2011,44230,Sección de Formación del Vascuence,
+2011,5,Departamento de Salud,
+2011,50,Departamento de Salud,
+2011,500,Departamento de Salud,
+2011,5000,Departamento de Salud,
+2011,50000,Departamento de Salud,
+2011,501,Secretaría General Técnica,
+2011,5010,Secretaría General Técnica,
+2011,50100,Secretaría General Técnica,
+2011,5011,Sección de Gestión Económica,
+2011,50110,Sección de Gestión Económica,
+2011,50111,Negociado de Contabilidad,
+2011,5012,Sección de Régimen Jurídico e Inspección,
+2011,50120,Sección de Régimen Jurídico e Inspección,
+2011,50121,Negociado de Inspección,
+2011,50122,Negociado de Asuntos Administrativos,
+2011,5013,Sección de Régimen Interior,
+2011,50130,Sección de Régimen Interior,
+2011,50131,Negociado de Gestión Administrativa,
+2011,50132,Neg.Tramit. Resoluciones y Archivos,Negociado de Tramitación de Resoluciones y Archivos
+2011,51,Dirección General de Salud,
+2011,510,Dirección General de Salud,
+2011,5100,Dirección General de Salud,
+2011,51000,Dirección General de Salud,
+2011,5101,Sección de Promoción y Difusión,
+2011,51010,Sección de Promoción y Difusión,
+2011,511,Servicio de Asistencia Sanitaria,
+2011,5110,Servicio de Asistencia Sanitaria,
+2011,51100,Servicio de Asistencia Sanitaria,
+2011,51101,Negociado de Asuntos Administrativos,
+2011,5111,Sec.Orden.Inspec.Centros.Activ.Prest.San,"Sección de Ordenación e Inspección de Centros, Actividades y Prestaciones Sanitarias"
+2011,51110,Sec.Orden.Inspec.Centros.Activ.Prest.San,"Sección de Ordenación e Inspección de Centros, Actividades y Prestaciones Sanitarias"
+2011,5112,"Sec. Coord., Asoc. y Trasplantes Órganos",Sección de Coordinación de Asociaciones y de Trasplantes de Órganos
+2011,51120,"Sec. Coord., Asoc. y Trasplantes Órganos",Sección de Coordinación de Asociaciones y de Trasplantes de Órganos
+2011,5113,Sec.Ordenación e Inspección Farmacéutica,Sección de Ordenación e Inspección Farmacéutica
+2011,51130,Sec.Ordenación e Inspección Farmacéutica,Sección de Ordenación e Inspección Farmacéutica
+2011,512,Servicio de Salud Pública,
+2011,5120,Servicio de Salud Pública,
+2011,51200,Servicio de Salud Pública,
+2011,513,Serv. Docencia y Desarrollo Sanitarios,Servicio de Docencia y Desarrollo Sanitarios
+2011,5130,Serv. Docencia y Desarrollo Sanitarios,Servicio de Docencia y Desarrollo Sanitarios
+2011,51300,Serv. Docencia y Desarrollo Sanitarios,Servicio de Docencia y Desarrollo Sanitarios
+2011,51301,Negociado de Asuntos Administrativos,
+2011,51302,Negociado de Asuntos Económicos,
+2011,5131,Sección de Docencia,
+2011,51310,Sección de Docencia,
+2011,51311,Negociado de Gestión Administrativa,
+2011,5133,Sección de Planificación y Evaluación,
+2011,51330,Sección de Planificación y Evaluación,
+2011,51332,Negociado de Planificación,
+2011,51333,Registro de Morbilidad Asistida,
+2011,5134,Sección Gestión de Ayudas y Subvenciones,Sección de Gestión de Ayudas y Subvenciones
+2011,51340,Sección Gestión de Ayudas y Subvenciones,Sección de Gestión de Ayudas y Subvenciones
+2011,51341,Negociado de Evaluación,
+2011,514,Agencia Navarra de Salud,
+2011,5140,Agencia Navarra de Salud,
+2011,51400,Agencia Navarra de Salud,
+2011,52,Dir. Ger. Srv. Navarro Salud-Osasunbidea,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
+2011,520,Dir. Ger. Srv. Navarro Salud-Osasunbidea,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
+2011,5200,Dir. Ger. Srv. Navarro Salud-Osasunbidea,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
+2011,52000,Dir. Ger. Srv. Navarro Salud-Osasunbidea,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
+2011,52001,Servicio de Régimen Jurídico,
+2011,521,Dirección Administración y Organización,Dirección de Administración y Organización
+2011,5210,Dirección Administración y Organización,Dirección de Administración y Organización
+2011,52100,Dirección Administración y Organización,Dirección de Administración y Organización
+2011,5211,"Subdir. Gest. Económica, Desar. Organiza",Subdirección de Gestión Económica y Desarrollo Organizativo
+2011,52110,"Sdir. Gest. Económica, Desar. Organizat.",Subdirección de Gestión Económica y Desarrollo Organizativo
+2011,52111,Servicio de Aprovisionamiento,
+2011,52112,Servicio de Obras e Infraestructuras,
+2011,52113,Servicio de Información Sanitaria,
+2011,52114,Servicio de Contabilidad y Presupuestos,
+2011,522,Dirección de Asistencia Especializada,
+2011,5220,Dirección de Asistencia Especializada,
+2011,52200,Dirección de Asistencia Especializada,
+2011,52201,Dirección de Gestión,
+2011,52203,Subdirección de Salud Mental,
+2011,52204,Banco de Sangre y Tejidos de Navarra,
+2011,52205,Servicio de Prestaciones y Conciertos,
+2011,52206,Centro de Investigación Biomédica,
+2011,5221,Subdirección de Asistencia Especializada,
+2011,52210,Subdirección de Asistencia Especializada,
+2011,52211,Srv. Eval. y Control Aten. no Sanitarias,Servicio de Evaluación y Control de Atenciones no Sanitarias
+2011,52212,Srv. de Análisis y Control  Asistencial,Servicio de Análisis y Control Asistencial
+2011,5222,Complejo Médico Tecnológico,
+2011,52220,Complejo Médico Tecnológico,
+2011,5226,Hospital García Orcoyen de Estella,
+2011,52260,Hospital García Orcoyen de Estella,
+2011,5227,Hospital Reina Sofía de Tudela,
+2011,52270,Hospital Reina Sofía de Tudela,
+2011,5228,Instituto de Salud Pública,
+2011,52280,Instituto de Salud Pública,
+2011,52282,Serv. Segur.Alimentar.Sanidad Ambiental,Servicio de Seguridad Alimentaria y Sanidad Ambiental
+2011,52283,Serv.Epidemiología.Prevenc.Promoc.Salud,"Servicio de Epidemiología, Prevención y Promoción de la Salud"
+2011,5229,Complejo Hospitalario de Navarra,
+2011,52290,Ger.del Complejo Hospitalario de Navarra,Gerencia del Complejo Hospitalario de Navarra
+2011,52291,Dirección Médica,
+2011,52292,Dirección de Enfermería,
+2011,52293,Dir.Administración y Servicios Generales,Dirección de Administración y Servicios Generales
+2011,52294,Dirección de Personal,
+2011,523,Dirección de Atención Primaria,
+2011,5230,Dirección de Atención Primaria,
+2011,52300,Dirección de Atención Primaria,
+2011,5231,Subdir. Atención Primaria Navarra Norte,Subdirección de Atención Primaria de Navarra Norte
+2011,52310,Subdir. Atención Primaria Navarra Norte,Subdirección de Atención Primaria de Navarra Norte
+2011,52311,Servicio de Urgencias Extrahospitalarias,
+2011,5232,Subdir. Atención Primaria Navarra Este,Subdirección de Atención Primaria de Navarra Este
+2011,52320,Subdir. Atención Primaria Navarra Este,Subdirección de Atención Primaria de Navarra Este
+2011,52321,Sección de Salud Bucodental,
+2011,5233,Serv. Gestión Clínica y Sist.Información,Servicio de Gestión Clínica y Sistemas de Información
+2011,52330,Serv. Gestión Clínica y Sist.Información,Servicio de Gestión Clínica y Sistemas de Información
+2011,52331,Sec. Tarjeta Individual Sanitaria,Sección de la Tarjeta Individual Sanitaria
+2011,52332,Sección de Sistemas de Información,
+2011,52333,Sec. Evaluación y Calidad Asistencial,Sección de Evaluación y Calidad Asistencial
+2011,5234,Srv. de Administración y Srvs. Generales,Servicio de Administración y Servicios Generales
+2011,52340,Srv. de Administración y Srvs. Generales,Servicio de Administración y Servicios Generales
+2011,52341,Sección de Presupuestos y Contabilidad,
+2011,52342,Sección de Aprovisionamientos,
+2011,52343,Sección de Servicios Generales,
+2011,5235,Servicio de Personal,
+2011,52350,Servicio de Personal,
+2011,52351,Sección de Administración de Personal,
+2011,52352,Sección de Gestión de Personal,
+2011,5236,Servicio de Enfermería,
+2011,52360,Servicio de Enfermería,
+2011,5237,Servicio de Prestaciones Farmacéuticas,
+2011,52370,Servicio de Prestaciones Farmacéuticas,
+2011,52371,Sec. Información y Asesoría Medicamento,Sección de Información y Asesoría del Medicamento
+2011,5238,Plan de Atención Socio-Sanitario,
+2011,52380,Plan de Atención Socio-Sanitario,
+2011,524,Dirección del Área de Salud de Tudela,
+2011,5240,Dirección del Área de Salud de Tudela,
+2011,52400,Dirección del Área de Salud de Tudela,
+2011,52401,Sección de Admisión del Área de Tudela,
+2011,5241,Subdir. Asist. Especializada Área Tudela,Subdirección de Asistencia Especializada del Área de Tudela
+2011,52410,Subdir. Asist. Especializada Área Tudela,Subdirección de Asistencia Especializada del Área de Tudela
+2011,5242,Subdir. Atención Primaria Área de Tudela,Subdirección de Atención Primaria del Área de Tudela
+2011,52420,Subdir. Atención Primaria Área de Tudela,Subdirección de Atención Primaria del Área de Tudela
+2011,52421,Zonas Básicas de Salud Área de Tudela,Zonas Básicas de Salud del Área de Tudela
+2011,52422,"Ctrs, Srv. Asist. Salud Mental Á. Tudela",Centros y Servicios Asistenciales de Salud Mental del Área de Tudela
+2011,5243,Srv. Admón. y Srvs. Generales Á. Tudela,Servicio de Administración y Servicios Generales del Área de Tudela
+2011,52430,Srv. Admón. y Srvs. Generales Á. Tudela,Servicio de Administración y Servicios Generales del Área de Tudela
+2011,52431,Sec. Administración del Área de Tudela,Sección de Administración del Área de Tudela
+2011,52432,Sec. Mantenim. y Srvs. Gles. Área Tudela,Sección de Mantenimiento y Servicios Generales del Área de Tudela
+2011,5244,Servicio de Personal del Área de Tudela,
+2011,52440,Servicio de Personal del Área de Tudela,
+2011,52441,Sec. Gestión y Administración Personal,Sección de Gestión y Administración de Personal
+2011,5245,Srv. de Enfermería del Área de Tudela,Servicio de Enfermería del Área de Tudela
+2011,52450,Srv. de Enfermería del Área de Tudela,Servicio de Enfermería del Área de Tudela
+2011,525,Dirección del Área de Salud de Estella,
+2011,5250,Dirección del Área de Salud de Estella,
+2011,52500,Dirección del Área de Salud de Estella,
+2011,52501,Sección de Admisión del Área de Estella,
+2011,5251,Subd. Asist. Especializada Área Estella,Subdirección de Asistencia Especializada del Área de Estella
+2011,52510,Subd. Asist. Especializada Área Estella,Subdirección de Asistencia Especializada del Área de Estella
+2011,5252,Subd. Atención Primaria Área de Estella,Subdirección de Atención Primaria del Área de Estella
+2011,52520,Subd. Atención Primaria Área de Estella,Subdirección de Atención Primaria del Área de Estella
+2011,52521,Zonas Básicas de Salud Área de Estella,Zonas Básicas de Salud del Área de Estella
+2011,52522,Cent. Svs. Asis. Salud Mental Á. Estella,Centros y Servicios Asistenciales de Salud Mental del Área de Estella
+2011,5253,Srv. Admón. y Srvs. Generales Á. Estella,Servicio de Administración y Servicios Generales del Área de Estella
+2011,52530,Srv. Admón. y Srvs. Generales Á. Estella,Servicio de Administración y Servicios Generales del Área de Estella
+2011,52531,Sec. Administración del Área de Estella,Sección de Administración del Área de Estella
+2011,52532,Sec. Mant. y Svs. Generales Área Estella,Sección de Mantenimiento y Servicios Generales del Área de Estella
+2011,5254,Servicio de Personal del Área de Estella,
+2011,52540,Servicio de Personal del Área de Estella,
+2011,52541,Sec. Gestión y Administración Personal,Sección de Gestión y Administración Personal
+2011,5255,Srv. de Enfermería del Área de Estella,Servicio de Enfermería del Área de Estella
+2011,52550,Srv. de Enfermería del Área de Estella,Servicio de Enfermería del Área de Estella
+2011,526,Dirección de Recursos Humanos,
+2011,5260,Dirección de Recursos Humanos,
+2011,52600,Dirección de Recursos Humanos,
+2011,5261,Subdir. Personal y Relaciones Laborales,Subdirección de Personal y Relaciones Laborales
+2011,52610,Subdir. Personal y Relaciones Laborales,Subdirección de Personal y Relaciones Laborales
+2011,52611,"Ser. Gest. Personal, Ingreso y Promoción","Servicio de Gestión de Personal, Ingreso y Promoción"
+2011,52612,Servicio de Nóminas y Control del Gasto,
+2011,52613,Serv. de Prevención de Riesgos Laborales,Servicio de Prevención de Riesgos Laborales
+2011,527,Dirección de Salud Mental,
+2011,5270,Dirección de Salud Mental,
+2011,52700,Dirección de Salud Mental,
+2011,52701,Sección de Farmacia y Dietética,
+2011,5271,Servicio de área de hospitalización,
+2011,52710,Servicio de Área de Hospitalización,
+2011,5272,Ser.área de at.comunitaria-c. s.mental,Servicio de área de atención comunitaria y centros de salud mental
+2011,52720,Ser.Área de At.Comunitaria-C.S.mental,Servicio de Área de Atención Comunitaria y Centros de Salud Mental
+2011,5273,Servicio de recursos intermedios,
+2011,52730,Servicio de Área de Recursos Intermedios,
+2011,5274,Serv. técnico asistencial y enfermer.,Servicio técnico asistencial y de enfermería
+2011,52740,Serv. Técnico Asistencial y Enfermer.,Servicio Técnico Asistencial y de Enfermería
+2011,5275,Servicio de gestión,
+2011,52750,Servicio de Gestión,
+2011,52751,Sección de Administración,
+2011,52752,Sección de Servicios Generales,
+2011,52753,Sección de Personal,
+2011,53,Instituto Navarro de Salud Laboral,
+2011,530,Instituto Navarro de Salud Laboral,
+2011,5300,Instituto Navarro de Salud Laboral,
+2011,53000,Instituto Navarro de Salud Laboral,
+2011,5301,Sección de Administración,
+2011,53010,Sección de Administración,
+2011,53011,Unidad de Gestión Económica y Registro,
+2011,531,"Srv. Seg., Higiene en Trabajo, Formación",Servicio de Seguridad e Higiene en el Trabajo y Formación
+2011,5310,"Srv. Seg., Higiene en Trabajo, Formación",Servicio de Seguridad e Higiene en el Trabajo y Formación
+2011,53100,"Srv. Seg., Higiene en Trabajo, Formación",Servicio de Seguridad e Higiene en el Trabajo y Formación
+2011,5311,Sec. Técnica Prevenc. Riesgos Laborales,Sección Técnica de Prevención de Riesgos Laborales
+2011,53110,Sec. Técnica Prevenc. Riesgos Laborales,Sección Técnica de Prevención de Riesgos Laborales
+2011,53112,Unidad Prevención en Sector Agropecuario,Unidad de Prevención en el Sector Agropecuario
+2011,5312,Sec. Formación y Psicosociología Laboral,Sección de Formación y Psicosociología Laboral
+2011,53120,Sec. Formación y Psicosociología Laboral,Sección de Formación y Psicosociología Laboral
+2011,532,Servic. de Salud Laboral e Investigación,Servicio de Salud Laboral e Investigación
+2011,5320,Servic. de Salud Laboral e Investigación,Servicio de Salud Laboral e Investigación
+2011,53200,Servic. de Salud Laboral e Investigación,Servicio de Salud Laboral e Investigación
+2011,5321,"Sec. Incap. Laborales, Evalua. Sanitaria",Sección de Incapacidades Laborales y Evaluación Sanitaria
+2011,53210,"Sec. Incap. Laborales, Evalua. Sanitaria",Sección de Incapacidades Laborales y Evaluación Sanitaria
+2011,53211,Unidad Admtiva. de Incapacidad Temporal,Unidad Administrativa de Incapacidad Temporal
+2011,5322,Sec. Investigac. y Epidemiología Laboral,Sección de Investigación y Epidemiología Laboral
+2011,53220,Sec. Investigac. y Epidemiología Laboral,Sección de Investigación y Epidemiología Laboral
+2011,53221,Unid. Admtva. del Sistema de Información,Unidad Administrativa del Sistema de Información
+2011,6,"Dpt. de Obras Públicas, Transp. y Comun.","Departamento de Obras Públicas, Transportes y Comunicaciones"
+2011,60,"Dpt. de Obras Públicas, Transp. y Comun.","Departamento de Obras Públicas, Transportes y Comunicaciones"
+2011,600,"Dpt. de Obras Públicas, Transp. y Comun.","Departamento de Obras Públicas, Transportes y Comunicaciones"
+2011,6000,"Dpt. de Obras Públicas, Transp. y Comun.","Departamento de Obras Públicas, Transportes y Comunicaciones"
+2011,60000,"Dpt. de Obras Públicas, Transp. y Comun.","Departamento de Obras Públicas, Transportes y Comunicaciones"
+2011,601,Secretaría General Técnica,
+2011,6010,Secretaría General Técnica,
+2011,60100,Secretaría General Técnica,
+2011,60101,Negociado de Gestión Económica,
+2011,6011,Sección de Régimen Jurídico,
+2011,60110,Sección de Régimen Jurídico,
+2011,6012,Sec. Régimen Interior y Asisten. Admtva.,Sección de Régimen Interior y Asistencia Administrativa
+2011,60120,Sec. Régimen Interior y Asisten. Admtva.,Sección de Régimen Interior y Asistencia Administrativa
+2011,61,Dirección General de Obras Públicas,
+2011,610,Dirección General de Obras Públicas,
+2011,6100,Dirección General de Obras Públicas,
+2011,61000,Dirección General de Obras Públicas,
+2011,611,Servicio de Caminos y Construcción,
+2011,6110,Servicio de Caminos y Construcción,
+2011,61100,Servicio de Caminos y Construcción,
+2011,61101,Negociado de Asuntos Administrativos,
+2011,6111,Sec. Segur. Construc. y Control Calidad,Sección de Seguridad en la Construcción y Control de Calidad
+2011,61110,Sec. Segur. Construc. y Control Calidad,Sección de Seguridad en la Construcción y Control de Calidad
+2011,61111,Neg. de Seguridad en la Construcción,Negociado de Seguridad en la Construcción
+2011,61112,Negociado de Control de Calidad,
+2011,61113,Negociado de Ensayos y Laboratorio,
+2011,61114,Neg. de Administración del Laboratorio,Negociado de Administración del Laboratorio
+2011,6113,Sección de Obras I,
+2011,61130,Sección de Obras I,
+2011,61132,Negociado de Gestión de Obras I,
+2011,61133,Negociado de Ejecución de Obras I,
+2011,6114,Sección de Obras II,
+2011,61140,Sección de Obras II,
+2011,61141,Negociado de Gestión de Obras II,
+2011,61142,Negociado de Ejecución de Obras II,
+2011,6115,Sección de Obras III,
+2011,61150,Sección de Obras III,
+2011,61151,Negociado de Gestión de Obras III,
+2011,61152,Negociado de Ejecución de Obras III,
+2011,6117,Sección de Obras en Concesión,
+2011,61170,Sección de Obras en Concesión,
+2011,61171,Negociado Ejecución de Obras Concesión,Negociado de Ejecución de Obras Concesión
+2011,6118,Sección de Inspección de Obras,
+2011,61180,Sección de Inspección de Obras,
+2011,612,Servicio de Conservación,
+2011,6120,Servicio de Conservación,
+2011,61200,Servicio de Conservación,
+2011,61201,Negociado de Tramitación Administrativa,
+2011,6121,Sección de Conservación,
+2011,61210,Sección de Conservación,
+2011,61212,Neg. Conservación Navarra Centro-Norte,Negociado de Conservación Navarra Centro-Norte
+2011,61213,Negociado de Conservación Navarra Oeste,
+2011,61214,Negociado de Conservación Navarra Sur,
+2011,61216,Neg. de Conservación Navarra Suroeste,Negociado de Conservación Navarra Suroeste
+2011,6122,Sección de Explotación,
+2011,61220,Sección de Explotación,
+2011,61223,Neg. Gestión Administrativa y Jurídica,Negociado de Gestión Administrativa y Jurídica
+2011,61224,Negociado de Gestión Técnica,
+2011,6123,Sec. Seguridad Vial y Centro de Control,Sección de Seguridad Vial y Centro de Control
+2011,61230,Sec. Seguridad Vial y Centro Control,Sección de Seguridad Vial y Centro de Control
+2011,61231,Negociado de Seguridad Vial,
+2011,61233,Negociado de Aforos y Documentación,
+2011,613,"Srv. Proyectos, Ferroc. y Obras Hidrául.","Servicio de Proyectos, Ferrocarriles y Obras Hidráulicas"
+2011,6130,"Srv. Proyectos, Ferroc. y Obras Hidrául.","Servicio de Proyectos, Ferrocarriles y Obras Hidráulicas"
+2011,61300,"Srv. Proyectos, Ferroc. y Obras Hidrául.","Servicio de Proyectos, Ferrocarriles y Obras Hidráulicas"
+2011,6131,Sección de Proyectos,
+2011,61310,Sección de Proyectos,
+2011,61311,Negociado de Normalización y Proyectos,
+2011,61312,Neg. Dirección y Ejecución Proyectos I,Negociado de Dirección y Ejecución de Proyectos I
+2011,61313,Neg. Dirección y Ejecución Proyectos II,Negociado de Dirección y Ejecución de Proyectos II
+2011,6132,Sección de Geología y Geotecnia,
+2011,61320,Sección de Geología y Geotecnia,
+2011,6133,Sección de Cartografía,
+2011,61330,Sección de Cartografía,
+2011,61332,"Neg. Produc. Control, Registro Cartográ.","Negociado de Producción, Control y Registro Cartográfico"
+2011,6134,Sección de Expropiaciones,
+2011,61340,Sección de Expropiaciones,
+2011,61341,Negociado de Afecciones y Valoraciones,
+2011,61342,Neg. de Gestión de Expedientes y Pagos,Negociado de Gestión de Expedientes y Pagos
+2011,6135,Sec. Gestión Infraestruc. del Transporte,Sección de Gestión de Infraestructuras del Transporte
+2011,61350,Sec. Gestión Infraestruc. del Transporte,Sección de Gestión de Infraestructuras del Transporte
+2011,6136,Sección de Protección Ambiental,
+2011,61360,Sección de Protección Ambiental,
+2011,61361,Negociado de Proyectos Ambientales,
+2011,61362,Neg. Ges. Amb. Obras y Conservación,Negociado de Gestión Ambiental de Obras y Conservación
+2011,6137,Sec. de Admon y Control de Expedientes,Sección de Administración y Control de Expedientes
+2011,61370,Sec. de Admon y Control de Expedientes,Sección de Administración y Control de Expedientes
+2011,61371,Negociado de Control Administrativo,
+2011,62,Dirección General de Transportes,
+2011,620,Dirección General de Transportes,
+2011,6200,Dirección General de Transportes,
+2011,62000,Dirección General de Transportes,
+2011,62001,Neg. Anál. Estud. Económico Transporte,Negociado de Análisis y Estudios Económicos del Transporte
+2011,621,Srv. Plan. Régimen Jurídico Transportes,Servicio de Planificación y Régimen Jurídico de Transportes
+2011,6210,Srv. Plan. Régimen Jurídico Transportes,Servicio de Planificación y Régimen Jurídico de Transportes
+2011,62100,Srv. Plan. Régimen Jurídico Transportes,Servicio de Planificación y Régimen Jurídico de Transportes
+2011,62101,Negociado de Gestión Administrativa,
+2011,6211,Sec. Planificac. y Proyectos Transportes,Sección de Planificación y Proyectos de Transportes
+2011,62110,Sec. Planificac. y Proyectos Transportes,Sección de Planificación y Proyectos de Transportes
+2011,6213,Sec. de Régimen Jurídico de Transportes,Sección de Régimen Jurídico de Transportes
+2011,62130,Sec. de Régimen Jurídico de Transportes,Sección de Régimen Jurídico de Transportes
+2011,62132,Neg. de Control Jurídico de Transportes,Negociado de Control Jurídico de Transportes
+2011,623,Srv. Ordenación y Gestión de Transportes,Servicio de Ordenación y Gestión de Transportes
+2011,6230,Srv. Ordenación y Gestión de Transportes,Servicio de Ordenación y Gestión de Transportes
+2011,62300,Srv. Ordenación y Gestión de Transportes,Servicio de Ordenación y Gestión de Transportes
+2011,62301,Negociado de Régimen Administrativo,
+2011,6231,Sección de Explotación de Transportes,
+2011,62310,Sección de Explotación de Transportes,
+2011,62311,Ng. Autorizaciones Transporte Mercancías,Negociado de Autorizaciones de Transporte de Mercancías
+2011,62312,Ng. Gest. Trans. Viajeros y Oper. Trans.,Negociado de Gestión del Transporte de Viajeros y Operadores de Transporte
+2011,6232,Sec. Inspec. y Junta Arbitral Transporte,Sección de Inspección y Junta Arbitral de Transportes
+2011,62320,Sec. Inspec. y Junta Arbitral Transporte,Sección de Inspección y Junta Arbitral de Transportes
+2011,62321,Negociado de Inspección de Transportes,
+2011,62322,Negociado de Sanciones de Transportes,
+2011,7,Dpto. Desarrollo Rural y Medio Ambiente,Departamento de Desarrollo Rural y Medio Ambiente
+2011,70,Dpto. Desarrollo Rural y Medio Ambiente,Departamento de Desarrollo Rural y Medio Ambiente
+2011,700,Dpto. Desarrollo Rural y Medio Ambiente,Departamento de Desarrollo Rural y Medio Ambiente
+2011,7000,Dpto. Desarrollo Rural y Medio Ambiente,Departamento de Desarrollo Rural y Medio Ambiente
+2011,70000,Dpto. Desarrollo Rural y Medio Ambiente,Departamento de Desarrollo Rural y Medio Ambiente
+2011,701,Secretaría General Técnica,
+2011,7010,Secretaría General Técnica,
+2011,70100,Secretaría General Técnica,
+2011,7011,Sección de Gestión y Modernización Adva.,Sección de Gestión y Modernización Administrativa
+2011,70110,Sección de Gestión y Modernización Adva.,Sección de Gestión y Modernización Administrativa
+2011,70111,Negociado de Personal,
+2011,70112,Negociado de Servicios Generales,
+2011,7012,Sec. de Rég. Jur. Desar. Rural y Agrario,Sección de Régimen Jurídico de Desarrollo Rural y Agrario
+2011,70120,Sec. Rég. Jur. Desar. Rural y Agrario,Sección de Régimen Jurídico de Desarrollo Rural y Agrario
+2011,7013,Sec. Rég. Jur. de Medio Ambiente y Agua,Sección de Régimen Jurídico de Medio Ambiente y Agua
+2011,70130,Sec. Rég. Jur. de Medio Ambiente y Agua,Sección de Régimen Jurídico de Medio Ambiente y Agua
+2011,71,Dir. General de Agricultura y Ganadería,Dirección General de Agricultura y Ganadería
+2011,710,Dir. General de Agricultura y Ganadería,Dirección General de Agricultura y Ganadería
+2011,7100,Dir. General de Agricultura y Ganadería,Dirección General de Agricultura y Ganadería
+2011,71000,Dir. General de Agricultura y Ganadería,Dirección General de Agricultura y Ganadería
+2011,7101,Sección de Auditoría Interna,
+2011,71010,Sección de Auditoría Interna,
+2011,712,Servicio de Agricultura,
+2011,7120,Servicio de Agricultura,
+2011,71200,Servicio de Agricultura,
+2011,7121,Sección de Producción y Sanidad Vegetal,
+2011,71210,Sección de Producción y Sanidad Vegetal,
+2011,71211,Negociado de Producción Vegetal,
+2011,71212,Negociado de Sanidad Vegetal,
+2011,7122,Sec.Regulac.Intervenc.Mercados Agrarios,Sección de Regulación e Intervención en Mercados Agrarios
+2011,71220,Sec.Regulac.Intervenc.Mercados Agrarios,Sección de Regulación e Intervención en Mercados Agrarios
+2011,71225,Neg. Registro Explotaciones y Derechos,Negociado de Registro de Explotaciones y Derechos
+2011,71226,Negociado de Ayudas OPFH,
+2011,7123,Sección de Ayudas a Rentas,
+2011,71230,Sección de Ayudas a Rentas,
+2011,71233,Neg. Ayudas Directas por Superficie,Negociado de Ayudas Directas por Superficie
+2011,71234,Neg. Ayud Agroamb y Mejora Entorno Rural,Negociado de Ayudas Agroambientales y Mejora del Entorno Rural
+2011,71235,Negociado de Ayudas a la Ganadería,
+2011,7124,Sección de Inspecciones,
+2011,71240,Sección de Inspecciones,
+2011,71244,Negociado de Inspecciones,
+2011,71245,Neg. Stmas. Horizont. y Condicionalidad,Negociado de Sistemas Horizontales y Condicionalidad
+2011,713,Servicio de Ganadería,
+2011,7130,Servicio de Ganadería,
+2011,71300,Servicio de Ganadería,
+2011,7131,Sección de Producción Animal,
+2011,71310,Sección de Producción Animal,
+2011,71312,Negociado de Desarrollo Ganadero,
+2011,7132,Sección de Sanidad Animal,
+2011,71320,Sección de Sanidad Animal,
+2011,71322,Negociado de Epizootiología,
+2011,7133,Sec. Segur. Alimen. Oficinas Pecuarias,Sección de Seguridad Alimentaria y Oficinas Pecuarias
+2011,71330,Sec. Seg. Alim. Ofic. Pecuarias,Sección de Seguridad Alimentaria y Oficinas Pecuarias
+2011,71331,Negociado de Seguridad Alimentaria,
+2011,714,Srv. de Información y Gestión Económica,Servicio de Información y Gestión Económica
+2011,7140,Srv. de Información y Gestión Económica,Servicio de Información y Gestión Económica
+2011,71400,Serv. de Información y Gestión Económica,Servicio de Información y Gestión Económica
+2011,7141,Sección de Gestión Económica,
+2011,71410,Sección de Gestión Económica,
+2011,71411,Negociado de Asuntos Económicos,
+2011,71413,Neg. Ejecución pagos FEAGA-FEADER,Negociado de Ejecución de pagos del FEAGA y del FEADER
+2011,7142,Sección de Gestión de la Información,
+2011,71420,Sección de Gestión de la Información,
+2011,71422,Neg. de Tecnología de la Información,Negociado de Tecnología de la Información
+2011,71423,Neg. Gestión Infor. Ayudas FEAGA-FEADER,Negociado de Gestión Informática de Ayudas del FEAGA y del FEADER
+2011,71424,Negociado de Asistencia Microinformática,
+2011,71425,Neg. Apoyo a la Seguridad de Información,Negociado de Apoyo a la Seguridad de la Información
+2011,7143,Sec. de Evaluación de Recursos Agrarios,Sección de Evaluación de Recursos Agrarios
+2011,71430,Sec. de Evaluación de Recursos Agrarios,Sección de Evaluación de Recursos Agrarios
+2011,71431,Neg. Estadist. Agraria Estudios Agrarios,Negociado de Estadística Agraria y Estudios Agrarios
+2011,71434,Negociado de Suelos y Climatología,
+2011,71435,Neg. de Sistemas de Información Agrarios,Negociado de Sistemas de Información Agrarios
+2011,7144,Sección de Coordinación,
+2011,71440,Sección de Coordinación,
+2011,72,Dirección General de Desarrollo Rural,
+2011,720,Dirección General de Desarrollo Rural,
+2011,7200,Dirección General de Desarrollo Rural,
+2011,72000,Dirección General de Desarrollo Rural,
+2011,721,Servicio de Infraestructuras Agrarias,
+2011,7210,Servicio de Infraestructuras Agrarias,
+2011,72100,Servicio de Infraestructuras Agrarias,
+2011,72102,Negociado de Control Ambiental,
+2011,7212,Sec. Reforma Infraestructuras Agrarias,Sección de Reforma de Infraestructuras Agrarias
+2011,72120,Sec. Reforma Infraestructuras Agrarias,Sección de Reforma de Infraestructuras Agrarias
+2011,72121,Negociado de Concentración Parcelaria,
+2011,72123,Negociado de Obras,
+2011,72127,Neg. Ayudas Infraestructuras Ganaderas,Negociado de Ayudas a Infraestructuras Ganaderas
+2011,7213,Sección de Regadíos,
+2011,72130,Sección de Regadíos,
+2011,7214,Sección de Comunales,
+2011,72140,Sección de Comunales,
+2011,722,Srv. Industrias Agroalimenta. y Explot.,Servicio de Industrias Agroalimentarias y Explotaciones Agrarias
+2011,7220,Srv. Industrias Agroalimenta. y Explot.,Servicio de Industrias Agroalimentarias y Explotaciones Agrarias
+2011,72200,Srv. Industrias Agroalimenta. y Explot.,Servicio de Industrias Agroalimentarias y Explotaciones Agrarias
+2011,7221,Sec. Fomento Industrias Agroalimentarias,Sección de Fomento de Industrias Agroalimentarias
+2011,72210,Sec. Fomento Industrias Agroalimentarias,Sección de Fomento de Industrias Agroalimentarias
+2011,72211,Neg. Industrias Agrarias y Alimentarias,Negociado de Industrias Agrarias y Alimentarias
+2011,72212,Negociado de Comercialización Agraria,
+2011,72213,Neg. Reg. Indust. Agroalimentarias y SAT,Negociado de Registro de Industrias Agroalimentarias y SAT
+2011,7222,Sección de Calidad Agroalimentaria,
+2011,72220,Sección de Calidad Agroalimentaria,
+2011,72222,Negociado de Control y Fraudes,
+2011,72223,Negociado de Biología Vegetal,
+2011,72224,Negociado de Laboratorio Pecuario,
+2011,7223,Sec. Fomento de Explotaciones Agrarias,Sección de Fomento de Explotaciones Agrarias
+2011,72230,Sec. Fomento de Explotaciones Agrarias,Sección de Fomento de Explotaciones Agrarias
+2011,72231,Neg. Ayud. Inversión Explotaciones Agrar,Negociado de Ayudas a la Inversión de Explotaciones Agrarias
+2011,723,Ser. Diversificación y Desarrollo Rural,Servicio de Diversificación y Desarrollo Rural
+2011,7230,Ser. Diversificación y Desarrollo Rural,Servicio de Diversificación y Desarrollo Rural
+2011,72300,Ser. Diversificación y Desarrollo Rural,Servicio de Diversificación y Desarrollo Rural
+2011,7231,Sección de Planes y Programas,
+2011,72310,Sección de Planes y Programas,
+2011,7232,Sección de Diversificación Rural,
+2011,72320,Sección de Diversificación Rural,
+2011,72321,Negociado de Gestión LEADER,
+2011,724,Est. de Viticultura Enología de Navarra,Estación de Viticultura y Enología de Navarra
+2011,7240,Est. de Viticultura Enología de Navarra,Estación de Viticultura y Enología de Navarra
+2011,72400,Est. de Viticultura Enología de Navarra,Estación de Viticultura y Enología de Navarra
+2011,7241,Sección de Viticultura,
+2011,72410,Sección de Viticultura,
+2011,7242,Sección de Enología,
+2011,72420,Sección de Enología,
+2011,7243,Sección de Gestión Administrativa,
+2011,72430,Sección de Gestión Administrativa,
+2011,74,Direc. General de Medio Ambiente y Agua,Dirección General de Medio Ambiente y Agua
+2011,740,Direc. General de Medio Ambiente y Agua,Dirección General de Medio Ambiente y Agua
+2011,7400,Dirección General Medio Ambiente y Agua,Dirección General de Medio Ambiente y Agua
+2011,74000,Direc. General de Medio Ambiente y Agua,Dirección General de Medio Ambiente y Agua
+2011,741,Servicio de Calidad Ambiental,
+2011,7410,Servicio de Calidad Ambiental,
+2011,74100,Servicio de Calidad Ambiental,
+2011,74101,Neg. Asistencia  Integración Ambiental,Negociado de Asistencia a la Integración Ambiental
+2011,7411,Sec. de Prevención  de la Contaminación,Sección de Prevención de la Contaminación
+2011,74110,Sec. de Prevención de la Contaminación,Sección de Prevención de la Contaminación
+2011,74111,Neg. de Asistencia al Control Ambiental,Negociado de Asistencia al Control Ambiental
+2011,74112,Negociado de Gestión de Residuos,
+2011,74113,Negociado de Autorizaciones,
+2011,7412,Sc. Inspec. Calid. Aire y Cambio Climáti,"Sección de Inspección, Calidad del Aire y Cambio Climático"
+2011,74120,Sc. Inspec. Calid. Aire y Cambio Climáti,"Sección de Inspección, Calidad del Aire y Cambio Climático"
+2011,74121,Negociado de Control,
+2011,7413,Sección de Evaluación Ambiental,
+2011,74130,Sección de Evaluación Ambiental,
+2011,74131,Neg. de Asistencia Evaluación Ambiental,Negociado de Asistencia a la Evaluación Ambiental
+2011,74133,Negociado de Impacto Ambiental,
+2011,7415,Sección de Residuos,
+2011,74150,Sección de Residuos,
+2011,74151,Neg. Residuos Industriales y Suelos Cont,Negociado de Residuos Industriales y Suelos Contaminados
+2011,7416,Sección de Medio Ambiente Urbano,
+2011,74160,Sección de Medio Ambiente Urbano,
+2011,742,Serv. Conservación de la Biodiversidad,Servicio de Conservación de la Biodiversidad
+2011,7420,Serv. Conservación de la Biodiversidad,Servicio de Conservación de la Biodiversidad
+2011,74200,Serv. Conservación de la Biodiversidad,Servicio de Conservación de la Biodiversidad
+2011,7421,Sección de Hábitats,
+2011,74210,Sección de Hábitats,
+2011,74211,Neg. de Espacios para la Conservación,Negociado de Espacios para la Conservación
+2011,7422,Sec. Información y Educación Ambiental,Sección de Información y Educación Ambiental
+2011,74220,Sec. Información y Educación Ambiental,Sección de Información y Educación Ambiental
+2011,7423,Sección de Gestión Forestal,
+2011,74230,Sección de Gestión Forestal,
+2011,74231,Negociado de la Comarca Pirenáica,
+2011,74232,Negociado de la Comarca Cantábrica,
+2011,74233,Neg. de Zona Media y Cuenca de Pamplona,Negociado de la Zona Media y Cuenca de Pamplona
+2011,74234,Negociado de la Ribera,
+2011,74235,Negociado de Planificación Forestal,
+2011,7424,Sección de Planificación y Ayudas,
+2011,74240,Sección de Planificación y Ayudas,
+2011,74244,Negociado de Gestión de Ayudas,
+2011,7425,Sección de Caza y Pesca,
+2011,74250,Sección de Caza y Pesca,
+2011,74251,Neg. Gestión Piscícola y Protección Anim,Negociado de Gestión Piscícola y Protección Animal
+2011,74252,Negociado de Gestión Cinegética,
+2011,74253,Neg. Asistencia Cinegética y Piscícola,Negociado de Asistencia Cinegética y Piscícola
+2011,7426,Sección de Guarderío,
+2011,74260,Sección de Guarderío,
+2011,743,Servicio de Agua,
+2011,7430,Servicio de Agua,
+2011,74300,Servicio de Agua,
+2011,7431,Sección de Recursos Hídricos,
+2011,74310,Sección de Recursos Hídricos,
+2011,7432,Sec. Resta. Riberas y Obras Hidráulicas,Sección de Restauración de Riberas y Obras Hidráulicas
+2011,74320,Sec. Resta. Riberas y Obras Hidráulicas,Sección de Restauración de Riberas y Obras Hidráulicas
+2011,74321,Negociado de Obras Fluviales,
+2011,8,"Dpto.Innovación, Empresa y Empleo","Departamento de Innovación, Empresa y Empleo"
+2011,80,"Dpto.Innovación, Empresa y Empleo","Departamento de Innovación, Empresa y Empleo"
+2011,800,"Dpto.Innovación, Empresa y Empleo","Departamento de Innovación, Empresa y Empleo"
+2011,8000,"Dpto.Innovación, Empresa y Empleo","Departamento de Innovación, Empresa y Empleo"
+2011,80000,"Dpto.Innovación, Empresa y Empleo","Departamento de Innovación, Empresa y Empleo"
+2011,801,Secretaría General Técnica,
+2011,8010,Secretaría General Técnica,
+2011,80100,Secretaría General Técnica,
+2011,80101,Negociado de Asistencia Técnica,
+2011,8011,Sección de Asistencia Jurídica,
+2011,80110,Sección de Asistencia Jurídica,
+2011,8012,Sección de Gestión Económica,
+2011,80120,Sección de Gestión Económica,
+2011,80122,Negociado de Control Presupuestario,
+2011,80123,Negociado de Gestión Contable,
+2011,8013,Sección de Apoyo a la Modernización,
+2011,80130,Sección de Apoyo a la Modernización,
+2011,80131,Negociado de Gestión Administrativa,
+2011,8014,Sec. Asistencia e Infor. Ciudadanos Emp.,Sección de Asistencia e Información a Ciudadanos y Empresas
+2011,80140,Sec. Asistencia e Infor. Ciudadanos Emp.,Sección de Asistencia e Información a Ciudadanos y Empresas
+2011,81,Dirección General de Empresa,
+2011,810,Dirección General de Empresa,
+2011,8100,Dirección General de Empresa,
+2011,81000,Dirección General de Empresa,
+2011,8101,Sec. de Coord. de Políticas de Empresa,Sección de Coordinación de Políticas de Empresa
+2011,81010,Sec. de Coord. de Políticas de Empresa,Sección de Coordinación de Políticas de Empresa
+2011,811,Servicio de Fomento Empresarial,
+2011,8110,Servicio de Fomento Empresarial,
+2011,81100,Servicio de Fomento Empresarial,
+2011,81101,Negociado de Gestión de Expedientes,
+2011,8112,Sección de Fomento de la Inversión,
+2011,81120,Sección de Fomento de la Inversión,
+2011,81122,Negociado de Gestión de Ayudas a PYMES,Negociado de Gestión de Ayudas a las Pequeñas y Medianas Empresas
+2011,8114,Sec. de Eficiencia y Energías Renovables,Sección de Eficiencia y Energías Renovables
+2011,81140,Sec. de Eficiencia y Energías Renovables,Sección de Eficiencia y Energías Renovables
+2011,81141,Negociado de Aplicaciones Energéticas,
+2011,8115,Sección Competitividad Reordenación Emp.,Sección de Competitividad y Reordenación Empresarial
+2011,81150,Sección Competitividad Reordenación Emp.,Sección de Competitividad y Reordenación Empresarial
+2011,812,Serv. de Innova. y Sdad. de Información,Servicio de Innovación y Sociedad de la Información
+2011,8120,Serv. de Innova. y Sdad. de Información,Servicio de Innovación y Sociedad de la Información
+2011,81200,Serv. de Innova.y Sdad. de Información,Servicio de Innovación y Sociedad de la Información
+2011,81201,Negociado de Gestión Administrativa,
+2011,8121,Sección de Fomento de la Innovación,
+2011,81210,Sección de Fomento de la Innovación,
+2011,81212,Negociado de Gestión de Proyectos,
+2011,8122,Sec. Promo. de la Sdad. de lnformación,Sección de Promoción de la Sociedad de la Información
+2011,81220,Sec.Promo. de la Sdad. de lnformación,Sección de Promoción de la Sociedad de la Información
+2011,813,"Serv. Energía, Minas, Telec y Seg. Indus","Servicio de Energía, Minas, Telecomunicaciones y Seguridad Industrial"
+2011,8130,"Serv. Energía, Minas, Telec y Seg. Indus","Servicio de Energía, Minas, Telecomunicaciones y Seguridad Industrial"
+2011,81300,"Serv. Energía, Minas, Telec y Seg. Indus","Servicio de Energía, Minas, Telecomunicaciones y Seguridad Industrial"
+2011,8131,Sección de Registro Industrial,
+2011,81310,Sección de Registro Industrial,
+2011,81311,Negociado de Empresas,
+2011,8133,Sección de Seguridad Industrial,
+2011,81330,Sección de Seguridad Industrial,
+2011,81334,Negociado de Inspección,
+2011,8134,"Sec. Energía, Minas y Telecomunicaciones","Sección de Energía, Minas y Telecomunicaciones"
+2011,81340,"Sec. Energía, Minas y Telecomunicaciones","Sección de Energía, Minas y Telecomunicaciones"
+2011,81341,Negociado de Infraestructuras,
+2011,814,Serv. de Comercio e Internacionalización,Servicio de Comercio e Internacionalización
+2011,8140,Serv. de Comercio e Internacionalización,Servicio de Comercio e Internacionalización
+2011,81400,Serv. de Comercio e Internacionalización,Servicio de Comercio e Internacionalización
+2011,8141,Sección de Servicios al Comercio,
+2011,81410,Sección de Servicios al Comercio,
+2011,8142,Sección de Internacionalización,
+2011,81420,Sección de Internacionalización,
+2011,83,Dir. Gen. Trabajo y Prev. Riesg.,Dirección General de Trabajo y Prevención de Riesgos
+2011,830,Direc. Gral. de Trab. y Prev. Riesgos,Dirección General de Trabajo y Prevención de Riesgos
+2011,8300,Direc. Gral de Trab. y Prev. Riesgos,Dirección General de Trabajo y Prevención de Riesgos
+2011,83000,Direc. Gral. de Trab. y Prev. Riesgos,Dirección General de Trabajo y Prevención de Riesgos
+2011,831,Servicio de Trabajo,
+2011,8310,Servicio de Trabajo,
+2011,83100,Servicio de Trabajo,
+2011,8311,Sec. de Relaciones Lab. y Prev. Riesgos,Sección de Relaciones Laborales y Prevención de Riesgos
+2011,83110,Sec. de Relaciones Lab. y Prev. Riesgos,Sección de Relaciones Laborales y Prevención de Riesgos
+2011,83111,Negociado de autorizaciones y sanciones,
+2011,83112,Negociado de Gestión Administrativa,
+2011,8313,Sec. Econo. Soc. Trabajo Aut. y Reg.Púb.,"Sección de Economía Social, Trabajo Autónomo y Registros Públicos Laborales"
+2011,83130,Sec. Econo. Soc. Trabajo Aut. y Reg.Púb.,"Sección de Economía Social, Trabajo Autónomo y Registros Públicos Laborales"
+2011,83131,Negociado de tramitación administrativa,
+2011,83132,Neg. Registro Conv. Elec. Asoc. Emp. T.T,"Negociado de Registro de Convenios, Elecciones, Asociaciones y Empresas de Trabajo Temporal"
+2011,8314,Sec. Coordinación y Asistencia Técnica,Sección de Coordinación y Asistencia Técnica
+2011,83140,Sec. Coordinación y Asistencia Técnica,Sección de Coordinación y Asistencia Técnica
+2011,84,Servicio Navarro de Empleo,
+2011,840,Servicio Navarro de Empleo,
+2011,8400,Servicio Navarro de Empleo,
+2011,84000,Servicio Navarro de Empleo,
+2011,84001,Negociado de Secretaría de Dirección,
+2011,841,Srv. Prom. Empleo e Igualdad de Oportun.,Servicio de Promoción de Empleo e Igualdad de Oportunidades
+2011,8410,Srv. Prom. Empleo e Igualdad de Oportun.,Servicio de Promoción de Empleo e Igualdad de Oportunidades
+2011,84100,Srv. Prom. Empleo e Igualdad de Oportun.,Servicio de Promoción de Empleo e Igualdad de Oportunidades
+2011,8411,Sección de Ayudas al Empleo,
+2011,84110,Sección de Ayudas al Empleo,
+2011,84111,Negociado de Programas Propios,
+2011,84112,Neg. Integración Laboral Discapacitados,Negociado de Integración Laboral de Discapacitados
+2011,84113,Negociado de Promoción Economía Social,Negociado de Promoción de la Economía Social
+2011,84114,Negociado de Iniciativas Comunitarias,
+2011,8412,Sec. Inserción Laboral e Igualdad Oport.,Sección de Inserción Laboral e Igualdad de Oportunidades
+2011,84120,Sec. Inserción Laboral e Igualdad Oport.,Sección de Inserción Laboral e Igualdad de Oportunidades
+2011,84122,Negociado de Igualdad Oportun. Inserción,Negociado de Igualdad de Oportunidades y Ayudas a la Inserción
+2011,84123,Negociado de Ayudas a Entidades Locales,
+2011,84124,Negociado de Escuelas Taller,
+2011,842,Servicio de Formación,
+2011,8420,Servicio de Formación,
+2011,84200,Servicio de Formación,
+2011,8421,Sec. Programas Seguim Form. Prof. Empleo,Sección de Programas y Seguimiento de la Calidad de la Formación Profesional para el Empleo
+2011,84210,Sec. Programas Seguim Form. Prof. Empleo,Sección de Programas y Seguimiento de la Calidad de la Formación Profesional para el Empleo
+2011,84213,Negociado de Programación,
+2011,8422,Sección Gestión Formación Prof. Empleo,Sección de Gestión de la Formación Profesional para el Empleo
+2011,84220,Sección Gestión Formación Prof. Empleo,Sección de Gestión de la Formación Profesional para el Empleo
+2011,84223,Negociado Formación Empresa y Prog. Esp.,Negociado de Formación en la Empresa y Programas Específicos
+2011,84224,Negociado de Formación Externa a Empresa,Negociado de Formación Externa a la Empresa
+2011,8423,Sección Desarrollo Formación para Empleo,Sección de Desarrollo de la Formación para el Empleo
+2011,84230,Sección Desarrollo Formación para Empleo,Sección de Desarrollo de la Formación para el Empleo
+2011,84233,Negociado de Metodología de la Formación,
+2011,842A,Centro de Formación Iturrondo,
+2011,842A0,Centro de Formación Iturrondo,
+2011,842B,Centro Referencia Energ. Renov. y Efic.,Centro Referencia Nacional de Energías Renovables y Eficiencia Energética-Área de formación para el empleo
+2011,842B0,Centro Referencia Energ. Renov. y Efic.,Centro Referencia Nacional de Energías Renovables y Eficiencia Energética-Área de formación para el empleo
+2011,844,Srv. Asistencia Técnica y Administrativa,Servicio de Asistencia Técnica y Administrativa
+2011,8440,Srv. Asistencia Técnica y Administrativa,Servicio de Asistencia Técnica y Administrativa
+2011,84400,Srv. Asistencia Técnica y Administrativa,Servicio de Asistencia Técnica y Administrativa
+2011,8441,Sección de Gestión Económica,
+2011,84410,Sección de Gestión Económica,
+2011,84411,Negociado de Centro Contable,
+2011,8442,Sección de Gestión Administrativa,
+2011,84420,Sección de Gestión Administrativa,
+2011,84421,Negociado de Registro y Personal,
+2011,845,Servicio Intermediación y Observatorio,Servicio de Intermediación y Observatorio
+2011,8450,Servicio Intermediación y Observatorio,Servicio de Intermediación y Observatorio
+2011,84500,Servicio Intermediación y Observatorio,Servicio de Intermediación y Observatorio
+2011,84502,Agencia de Empleo Tafalla,
+2011,84503,Agencia de Empleo Estella,
+2011,84504,Agencia de Empleo Altsasu-Alsasua,
+2011,84505,Agencia de Empleo Lodosa,
+2011,84506,Agencia de Empleo Doneztebe-Santesteban,
+2011,84507,Agencia de Empleo Aoiz,
+2011,8452,Sección de Observatorio,
+2011,84520,Sección de Observatorio,
+2011,8453,Sección de Orientación,
+2011,84530,Sección de Orientación,
+2011,84531,Negociado Gestión Segui. Proyectos Acc.,Negociado de Gestión y Seguimiento de Proyectos y Acciones
+2011,8454,Sección de Intermediación,
+2011,84540,Sección de Intermediación,
+2011,84541,Negociado de Ofertas Externas,
+2011,8455,Agencia de Empleo Pamplona 1,
+2011,84550,Agencia de Empleo Pamplona 1,
+2011,8456,Agencia de Empleo Pamplona 2,
+2011,84560,Agencia de Empleo Pamplona 2,
+2011,8457,Agencia de Empleo Pamplona 3,
+2011,84570,Agencia de Empleo Pamplona 3,
+2011,8458,Agencia de Empleo de Tudela,
+2011,84580,Agencia de Empleo de Tudela,
+2011,9,"Dpto.As.Sociales, Familia, Juvent.Deport","Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
+2011,90,"Dpto.As.Sociales, Familia, Juvent.Deport","Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
+2011,900,"Dpto.As.Sociales, Familia, Juvent.Deport","Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
+2011,9000,"Dpto.As.Sociales, Familia, Juvent.Deport","Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
+2011,90000,"Dpto.As.Sociales, Familia, Juvent.Deport","Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
+2011,902,Secretaría General Técnica,
+2011,9020,Secretaría General Técnica,
+2011,90200,Secretaría General Técnica,
+2011,90201,Neg. de Igualdad y Gestión de Personal,Negociado de Igualdad y Gestión de Personal
+2011,9021,Sección de Gestión Presupuestaria,
+2011,90210,Sección de Gestión Presupuestaria,
+2011,90211,Neg. de Contabilidad y Gestión Presuest.,Negociado de Contabilidad y Gestión Presupuestaria
+2011,9022,Sec. Rég. Jur-Adm. Fam. Juv. Dep. Igual.,"Sección de Régimen Jurídico-Administrativo de Familia, Juventud, Deporte e Igualdad"
+2011,90220,Sec. Rég. Jur-Adm. Fam. Juv. Dep. Igual.,"Sección de Régimen Jurídico-Administrativo de Familia, Juventud, Deporte e Igualdad"
+2011,9023,Sección de Gestión de la Información,
+2011,90230,Sección de Gestión de la Información,
+2011,9024,Sec. Rég. Jurídico-Admin.  Asuntos Soc.,Sección de Régimen Jurídico-Administrativo de Asuntos Sociales
+2011,90240,Sec. Rég. Jurídico-Admin. Asuntos Soc.,Sección de Régimen Jurídico-Administrativo de Asuntos Sociales
+2011,90241,Negociado de Asuntos Administrativos,
+2011,90242,Negociado de Registro y Archivo,
+2011,91,Dir. Gral. de Asuntos Soc. y Coop. Desa.,Dirección General de Asuntos Sociales y Cooperación al Desarrollo
+2011,910,Dir. Gral. de Asuntos Soc. y Coop. Desa.,Dirección General de Asuntos Sociales y Cooperación al Desarrollo
+2011,9100,Dir. Gral. de Asuntos Soc. y Coop. Desa.,Dirección General de Asuntos Sociales y Cooperación al Desarrollo
+2011,91000,Dir. Gral. de Asuntos. Soc y Coop. Desa.,Dirección General de Asuntos Sociales y Cooperación al Desarrollo
+2011,9103,Sección de Información,
+2011,91030,Sección de Información,
+2011,91031,Negociado Coordinación y Difusión de Inf,Negociado de Coordinación y Difusión de la Información
+2011,912,Srv. Cooper. Internacional al Desarrollo,Servicio de Cooperación Internacional al Desarrollo
+2011,9120,Srv. Cooper. Internacional al Desarrollo,Servicio de Cooperación Internacional al Desarrollo
+2011,91200,Srv. Cooper. Internacional al Desarrollo,Servicio de Cooperación Internacional al Desarrollo
+2011,9121,Sección de Programación y Evaluación,
+2011,91210,Sección de Programación y Evaluación,
+2011,914,Ser. de Planificación e Infraestructuras,Servicio de Planificación e Infraestructuras
+2011,9140,Ser. de Planificación e Infraestructuras,Servicio de Planificación e Infraestructuras
+2011,91400,Ser. de Planificación e Infraestructuras,Servicio de Planificación e Infraestructuras
+2011,91401,Neg. Prod. Difu. Doc. Plan. Serv. Soc.,Negociado de Producción y Difusión de Documentos de Planificación de  Servicios Sociales
+2011,9141,Sección de Planificación y Programación,
+2011,91410,Sección de Planificación y Programación,
+2011,91411,Neg. Coord. de Planes Generales,Negociado de Coordinación de Planes Generales
+2011,9142,"Sec. Investigación, Análisis y Difusión","Sección de Investigación, Análisis y Difusión"
+2011,91420,"Sec. Investigación, Análisis y Difusión","Sección de Investigación, Análisis y Difusión"
+2011,915,Servicio de Calidad e Inspección,
+2011,9150,Servicio de Calidad e Inspección,
+2011,91500,Servicio de Calidad e Inspección,
+2011,9151,Sección de Calidad,
+2011,91510,Sección de Calidad,
+2011,9152,Sección de Inspección,
+2011,91520,Sección de Inspección,
+2011,91522,Negociado de Gestión y Control de Deuda,
+2011,916,Servicio de Incorporación Social,
+2011,9160,Servicio de Incorporación Social,
+2011,91600,Servicio de Incorporación Social,
+2011,9161,Sección de Incorporación Social,
+2011,91610,Sección de Incorporación Social,
+2011,91612,Negociado de Pensiones,
+2011,917,Serv. de Coord. y Coop. Entdes. Locales,Servicio de Coordinación y Cooperación con las  Entidades Locales
+2011,9170,Serv. de Coord. y Coop. Entdes. Locales,Servicio de Coordinación y Cooperación con las Entidades Locales
+2011,91700,Serv. de Coord. y Coop. Entdes. Locales,Servicio de Coordinación y Cooperación con las Entidades Locales
+2011,9171,Sección de Atención Primaria,
+2011,91710,Sección de Atención Primaria,
+2011,918,Agencia Navarra para la Dependencia,
+2011,9180,Agencia Navarra para la Dependencia,
+2011,91800,Agencia Navarra para la Dependencia,
+2011,91802,Sec. Coord. Administrativa Prestaciones,Sección de Coordinación Administrativa de Prestaciones
+2011,9181,Subdir. Pro. Auto. Pers. y Prev. Depend.,Subdirección de Promoción de la Autonomía Personal y Prevención de la Dependencia
+2011,91810,Subdir. Pro. Auto. Pers. y Prev. Depend.,Subdirección de Promoción de la Autonomía Personal y Prevención de la Dependencia
+2011,91811,Sección de Programas,
+2011,91812,Sección de Valoración,
+2011,9182,Subdirección de Gestión,
+2011,91820,Subdirección de Gestión,
+2011,91821,Sección de Contratos,
+2011,91822,Sección de Inversiones y Obras,
+2011,91824,Sección de Gestión Obras y Suministros,Sección de Gestión de Obras y Suministros
+2011,9183,Subdirección de Servicios Dependencia,Subdirección de Servicios para la Dependencia
+2011,91830,Subdirección de Servicios Dependencia,Subdirección de Servicios para la Dependencia
+2011,91831,Sección de Servicios Personas Mayores,Sección de Servicios para Personas Mayores
+2011,91832,Sección Servicios Personas Discapacidad,Sección de Servicios para Personas con Discapacidad
+2011,91833,Sección de Personal,
+2011,92,"Dir. Gral de Familia, Infancia y Consumo","Dirección General de Familia, Infancia y Consumo"
+2011,920,"Dir. Gral. de Familia,Infancia y Consumo","Dirección General de Familia, Infancia y Consumo"
+2011,9200,"Dir. Gral de Familia, Infancia y Consumo","Dirección General de Familia, Infancia y Consumo"
+2011,92000,"Dir. Gral.de Familia, Infancia y Consumo","Dirección General de Familia, Infancia y Consumo"
+2011,922,Servicio de Promoción de la Familia,
+2011,9220,Servicio de Promoción de la Familia,
+2011,92200,Servicio de Promoción de la Familia,
+2011,92201,Negociado de Familia,
+2011,9221,Sección de Familia,
+2011,92210,Sección de Familia,
+2011,923,Serv. Promo.Atenc.y Protec.Infan.y Adol.,"Servicio de Promoción, Atención y Protección a la Infancia y Adolescencia"
+2011,9230,Serv.Promo.Atenc. y Protec.Infan. y Adol,"Servicio de Promoción, Atención y Protección a la Infancia y Adolescencia"
+2011,92300,Serv.Promo.Atenc. y Protec.Infan.y Adol.,"Servicio de Promoción, Atención y Protección a la Infancia y Adolescencia"
+2011,9231,Sección de Protección del Menor,
+2011,92310,Sección de Protección del Menor,
+2011,92311,Neg. Atención Menores Dificultad Social,Negociado de Atención a Menores en Dificultad Social
+2011,92312,Neg. Atenc. Menores Conf. Social Reforma,Negociado de Atención a Menores en Conflicto Social y Reforma
+2011,92313,Neg. Acog. Fami. y Adopción Nacional,Negociado de Acogimiento Familiar y Adopción Nacional
+2011,92314,Negociado de Adopción Internacional,
+2011,924,Servicio de Consumo,
+2011,9240,Servicio de Consumo,
+2011,92400,Servicio de Consumo,
+2011,9241,Sección de Consumo,
+2011,92410,Sección de Consumo,
+2011,92411,Negociado de Inspección de Consumo,
+2011,9242,Sección de Arbitraje de Consumo,
+2011,92420,Sección de Arbitraje de Consumo,
+2011,94,Instituto Navarro para la Igualdad,
+2011,940,Instituto Navarro para la Igualdad,
+2011,9400,Instituto Navarro para la Igualdad,
+2011,94000,Instituto Navarro para la Igualdad,
+2011,941,Subd.Planif. Gestión Políticas Igualdad,Subdirección de Planificación y Gestión de las Políticas de Igualdad
+2011,9410,Subd.Planif. Gestión Políticas Igualdad,Subdirección de Planificación y Gestión de las Políticas de Igualdad
+2011,94100,Subd.Planif.Gestión Poíticas Igualdad,Subdirección de Planificación y Gestión de las Políticas de Igualdad
+2011,9411,Sección de Información y Programas,
+2011,94110,Sección de Información y Programas,
+2011,9412,Sección de Evaluación y Estudios,
+2011,94120,Sección de Evaluación y Estudios,
+2011,95,Instituto Navarro de Deporte,
+2011,950,Instituto Navarro de Deporte,
+2011,9500,Instituto Navarro de Deporte,
+2011,95000,Instituto Navarro de Deporte,
+2011,951,Subdirección de Deporte,
+2011,9510,Subdirección de Deporte,
+2011,95100,Subdirección de Deporte,
+2011,95101,Dirección del Estadio Larrabide,
+2011,95102,Direcc. del Centro Recreativo Guelbenzu,Dirección del Centro Recreativo Guelbenzu
+2011,9511,Sección de Promoción Deportiva,
+2011,95110,Sección de Promoción Deportiva,
+2011,95111,Negociado de Fomento Deportivo,
+2011,95113,Negociado de Juegos Deportivos,
+2011,9512,Sec. Entidades y Rendimiento Deportivo,Sección de Entidades y Rendimiento Deportivo
+2011,95120,Sec. Entidades y Rendimiento Deportivo,Sección de Entidades y Rendimiento Deportivo
+2011,95121,Negociado de Federaciones Deportivas,
+2011,95123,Negociado de Tecnificación Deportiva,
+2011,95124,Negociado Clubes y Rendimiento Deportivo,Negociado de Clubes y Rendimiento Deportivo
+2011,9513,"Centro Estudios, Investigac. y Medic.dep","Centro de Estudios, Investigación y Medicina del Deporte"
+2011,95130,"Centro Estudios, Investigac. y Medic.dep","Centro de Estudios, Investigación y Medicina del Deporte"
+2011,95131,Unidad Técnica de Asistencia,
+2011,95132,Unidad Técnica de Investigación,
+2011,95133,Unidad Técnica de Formación,
+2011,953,Srv. Secrt. General y Org Colegiados Dep,Servicio de Secretaría General y Organos Colegiados del Deporte
+2011,9530,Srv. Secrt. General y Org Colegiados Dep,Servicio de Secretaría General y Organos Colegiados del Deporte
+2011,95300,Srv. Secrt. General y Org Colegiados Dep,Servicio de Secretaría General y Organos Colegiados del Deporte
+2011,95302,Neg. Gestión Económico-Administ y Proced,Negociado de Gestión Económico-Administrativa y Procedimental
+2011,95303,"Neg. Gestión Interna, Logíst y Personal","Negociado de Gestión Interna, Logística y de Personal"
+2011,954,Servicio de Infraestructuras Deportivas,
+2011,9540,Servicio de Infraestructuras Deportivas,
+2011,95400,Servicio de Infraestructuras Deportivas,
+2011,9541,Sec. de Gestión de Infraest. Deportivas,Sección de Gestión de Infraestructuras Deportivas
+2011,95410,Sección de Gestión Infraest. Deportivas,Sección de Gestión de Infraestructuras Deportivas
+2011,96,Instituto Navarro de la Juventud,
+2011,960,Instituto Navarro de la Juventud,
+2011,9600,Instituto Navarro de la Juventud,
+2011,96000,Instituto Navarro de la Juventud,
+2011,9602,Sección Planificación Observatorio Joven,Sección de Planificación y Observatorio Joven
+2011,96020,Sección Planificación Observatorio Joven,Sección de Planificación y Observatorio Joven
+2011,96021,Negociado de Información y Formación,
+2011,96022,Negociado del Observatorio Joven,
+2011,961,Subdirección de Juventud,
+2011,9610,Subdirección de Juventud,
+2011,96100,Subdirección de Juventud,
+2011,9613,Sección Prog Jóvenes y Relaciones Entid,Sección de Programas para Jóvenes y de Relaciones con Entidades
+2011,96130,Sección Prog Jóvenes y Relaciones Entid,Sección de Programas para Jóvenes y de Relaciones con Entidades
+2011,96131,Negociado de Movilidad Juvenil,
+2011,96132,Neg. Creatividad Juvenil y otros servic,Negociado de Creatividad Juvenil y otros servicios
+2011,96133,Neg. Entidades Locales y Asoc Juveniles,Negociado de Entidades Locales y Asociaciones Juveniles
+2011,9614,Sección Secretaría Gral e Infraestruct,Sección de Secretaría General e Infraestructuras
+2011,96140,Sección Secretaría Gral e Infraestruct,Sección de Secretaría General e Infraestructuras
+2011,96141,Neg. Asuntos Económicos Administrativos,Negociado de Asuntos Económicos y Administrativos
+2011,96142,Neg. Centros Juventud e Infraestructuras,Negociado de Centros de Juventud e Infraestructuras
+2011,A,Dpto.Cultura y Turismo-Inst.Prínc.Viana,Departamento de Cultura y Turismo-Institución Príncipe de Viana
+2011,A0,Dpto.Cultura y Turismo-Inst.Prínc.Viana,Departamento de Cultura y Turismo-Institución Príncipe de Viana
+2011,A00,Dpto.Cultura y Turismo-Inst.Prínc.Viana,Departamento de Cultura y Turismo-Institución Príncipe de Viana
+2011,A000,Dpto.Cultura y Turismo-Inst.Prínc.Viana,Departamento de Cultura y Turismo-Institución Príncipe de Viana
+2011,A0000,Dpto.Cultura y Turismo-Inst.Prínc.Viana,Departamento de Cultura y Turismo-Institución Príncipe de Viana
+2011,A01,Secretaría General Técnica,
+2011,A010,Secretaría General Técnica,
+2011,A0100,Secretaría General Técnica,
+2011,A011,Sección de Régimen Jurídico,
+2011,A0110,Sección de Régimen Jurídico,
+2011,A012,Sección de Gestión Administrativa,
+2011,A0120,Sección de Gestión Administrativa,
+2011,A0121,Negociado de Asuntos Administrativos,
+2011,A013,Sec. de Presupuestos y Gestión Económica,Sección de Presupuestos y Gestión Económica
+2011,A0130,Sec. de Presupuestos y Gestión Económica,Sección de Presupuestos y Gestión Económica
+2011,A0131,Negociado de Gestión Económica,
+2011,A1,Dirección General de Turismo,
+2011,A10,Dirección General de Turismo,
+2011,A100,Dirección General de Turismo,
+2011,A1000,Dirección General de Turismo,
+2011,A11,Sv. Ordenación Desarrollo Produ.Turísti.,Servicio de Ordenación y Desarrollo de Productos Turísticos
+2011,A110,Sv. Ordenación Desarrollo Produ.Turísti.,Servicio de Ordenación y Desarrollo de Productos Turísticos
+2011,A1100,Sv. Ordenación Desarrollo Produ.Turísti.,Servicio de Ordenación y Desarrollo de Productos Turísticos
+2011,A111,Sección de Ordenación,
+2011,A1110,Sección de Ordenación,
+2011,A1111,Negociado de Inspección,
+2011,A112,Sec. Desar. Productos Turísticos Calidad,Sección de Desarrollo de Productos Turísticos y Calidad
+2011,A1120,Sec. Desar. Productos Turísticos Calidad,Sección de Desarrollo de Productos Turísticos y Calidad
+2011,A1121,Negociado de Iniciativas y Fomento,
+2011,A12,Servicio de Marketing Turístico,
+2011,A120,Servicio de Marketing Turístico,
+2011,A1200,Servicio de Marketing Turístico,
+2011,A121,Sección de Medios Promocionales,
+2011,A1210,Sección de Medios Promocionales,
+2011,A1212,Negociado de Soportes Promoc.Turística,Negociado de Soportes para la Promoción Turística
+2011,A122,Sección de Acciones Promocionales,
+2011,A1220,Sección de Acciones Promocionales,
+2011,A2,Dirección General de Cultura,
+2011,A20,Dirección General de Cultura,
+2011,A200,Dirección General de Cultura,
+2011,A2000,Dirección General de Cultura,
+2011,A201,Sec.Promoción Edición Nuevas Tecnologías,"Sección de Promoción, Edición y Nuevas Tecnologías"
+2011,A2010,Sec.Promoción Edición Nuevas Tecnologías,"Sección de Promoción, Edición y Nuevas Tecnologías"
+2011,A2011,Negociado de Publicaciones,
+2011,A21,Servicio de Patrimonio Histórico,
+2011,A210,Servicio de Patrimonio Histórico,
+2011,A2100,Servicio de Patrimonio Histórico,
+2011,A211,Sección de Patrimonio Arquitectónico,
+2011,A2110,Sección de Patrimonio Arquitectónico,
+2011,A2111,Neg. Conservación Patrimonio Arquitectó.,Negociado de Conservación del Patrimonio Arquitectónico
+2011,A2112,Negociado de Protección del Patrimonio,
+2011,A212,Sección de Arqueología,
+2011,A2120,Sección de Arqueología,
+2011,A213,Sec. Bienes Muebles Registro Patrimonio,Sección de Bienes Muebles y Registro del Patrimonio
+2011,A2130,Sec. Bienes Muebles Registro Patrimonio,Sección de Bienes Muebles y Registro del Patrimonio
+2011,A22,Sv. de Archivos y Patrimonio Documental,Servicio de Archivos y Patrimonio Documental
+2011,A220,Sv. de Archivos y Patrimonio Documental,Servicio de Archivos y Patrimonio Documental
+2011,A2200,Sv. de Archivos y Patrimonio Documental,Servicio de Archivos y Patrimonio Documental
+2011,A221,Sec. de Archivo Real y General de Navarr,Sección de Archivo Real y General de Navarra
+2011,A2210,Sec. de Archivo Real y General de Navarr,Sección de Archivo Real y General de Navarra
+2011,A222,Sección de Gestión del Patrimonio Docum.,Sección de Gestión del Patrimonio Documental
+2011,A2220,Sección de Gestión del Patrimonio Docum.,Sección de Gestión del Patrimonio Documental
+2011,A2221,Negociado de Administración y Servicios,
+2011,A23,Servicio de Museos,
+2011,A230,Servicio de Museos,
+2011,A2300,Servicio de Museos,
+2011,A231,Sección de Museos,
+2011,A2310,Sección de Museos,
+2011,A232,Sección de Museo de Navarra,
+2011,A2320,Sección de Museo de Navarra,
+2011,A2321,Negociado de Vigilancia y Organización,Negociado de Vigilancia y Organización del Museo de Navarra
+2011,A24,Servicio de Bibliotecas,
+2011,A240,Servicio de Bibliotecas,
+2011,A2400,Servicio de Bibliotecas,
+2011,A241,Sección de Biblioteca General de Navarra,
+2011,A2410,Sección de Biblioteca General de Navarra,
+2011,A2412,Negociado de Patrimonio Bibliográfico,
+2011,A2413,Negociado de Atención al Usuario,
+2011,A242,Sección de Red de Bibliotecas,
+2011,A2420,Sección de Red de Bibliotecas,
+2011,A2422,Neg. Gestión y Recursos Bibliotecarios,Negociado de Gestión y Recursos Bibliotecarios
+2011,A2423,Negociado Gestión del Fondo Documental,Negociado de Gestión del Fondo Documental
+2011,A25,Servicio de Acción Cultural,
+2011,A250,Servicio de Acción Cultural,
+2011,A2500,Servicio de Acción Cultural,
+2011,A251,Sección de Programas Artísticos,
+2011,A2510,Sección de Programas Artísticos,
+2011,A252,Sección del Libro y Publicaciones,
+2011,A2520,Sección del Libro y Publicaciones,
+2011,A253,Sección de Convocatorias y Ayudas,
+2011,A2530,Sección de Convocatorias y Ayudas,
+2011,A2531,Negociado de Infraestructuras Culturales,
+2011,B,Dpto.Relac.Instit. y Portavoz Gobierno,Departamento de Relaciones Institucionales y Portavoz del Gobierno
+2011,B0,Dpto.Relac.Inst. y Portavoz Gobierno,Departamento de Relaciones Institucionales y Portavoz del Gobierno
+2011,B00,Dpto.Relac.Inst. y Portavoz Gobierno,Departamento de Relaciones Institucionales y Portavoz del Gobierno
+2011,B000,Dpto.Relac.Inst. y Portavoz Gobierno,Departamento de Relaciones Institucionales y Portavoz del Gobierno
+2011,B0000,Dpto.Relac.Inst. y Portavoz Gobierno,Departamento de Relaciones Institucionales y Portavoz del Gobierno
+2011,B01,Secretaría General Técnica,
+2011,B010,Secretaría General Técnica,
+2011,B0100,Secretaría General Técnica,
+2011,B012,Sección de Gestión Administrativa,
+2011,B0120,Sección de Gestión Administrativa,
+2011,B013,Sección Económica,
+2011,B0130,Sección Económica,
+2011,B02,Oficina de Atención a la Inmigración,
+2011,B020,Oficina de Atención a la Inmigración,
+2011,B0200,Oficina de Atención a la Inmigración,
+2011,B021,Sec. Gestión y Coordinación de Programas,Sección de Gestión y Coordinación de Programas
+2011,B0210,Sec. Gestión y Coordinación de Programas,Sección de Gestión y Coordinación de Programas
+2011,B1,D.G.Comunic.- Oficina Portavoz del Gobi.,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
+2011,B10,D.G.Comunic.- Oficina Portavoz del Gobi.,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
+2011,B100,D.G.Comunicac.- Ofic. Portavoz del Gobi.,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
+2011,B1000,D.G.Comunic.- Oficina Portavoz del Gobi.,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
+2011,B11,Servicio de Comunicación,
+2011,B110,Servicio de Comunicación,
+2011,B1100,Servicio de Comunicación,
+2011,B1101,Negociado de Secretaría,
+2011,B111,Sección de Gabinete de Prensa,
+2011,B1110,Sección de Gabinete de Prensa,
+2011,B112,Sección de Promoción,
+2011,B1120,Sección de Promoción,
+2011,B113,Sección de Portal y Medios Audiovisuales,
+2011,B1130,Sección de Portal y Medios Audiovisuales,
+2011,B2,Dir. Gral. de Relaciones Institucionales,Dirección General de Relaciones Institucionales
+2011,B20,Dir.Gral. de Relaciones Institucionales,Dirección General de Relaciones Institucionales
+2011,B200,Dir. Gral. de Relaciones Institucionales,Dirección General de Relaciones Institucionales
+2011,B2000,Dir. Gral. de Relaciones Institucionales,Dirección General de Relaciones Institucionales
+2011,B21,Sv. Relac. con Parlamento y otr. Instit.,Servicio de Relaciones con el Parlamento de Navarra y otras Instituciones
+2011,B210,Sv. Relac. con Parlamento y otr. Instit.,Servicio de Relaciones con el Parlamento de Navarra y otras Instituciones
+2011,B2100,Sv. Relac. con Parlamento y otr. Instit.,Servicio de Relaciones con el Parlamento de Navarra y otras instituciones
+2011,B211,Sec. Relac. con Instituciones forales,Sección de Relaciones con Instituciones forales
+2011,B2110,Sec. Relac. con Instituciones forales,Sección de Relaciones con Instituciones forales
+2011,B2111,Neg. de Relac.Instit. y Gest. Administ.,Negociado de Relaciones Institucionales y Gestión Administrativa
+2011,B212,Sec.Relac.Instit. auton.y estatales,Sección de Relaciones con Instituciones autonómicas y estatales
+2011,B2120,Sec.Relac.Instit. auton. y estatales,Sección de Relaciones con Instituciones autonómicas y estatales
+2011,B213,Sc.Relac. Instituc. Europeas e Internac.,Sección de Relaciones con Instituciones Europeas e Internacionales
+2011,B2130,Sc. Rel. con Inst. Europeas e Internac.,Sección de Relaciones con Instituciones Europeas e Internacionales
+2011,B22,Servicio de Protocolo,
+2011,B220,Servicio de Protocolo,
+2011,B2200,Servicio de Protocolo,
+2011,B221,Sección de actuaciones protocolarias,
+2011,B2210,Sección de actuaciones protocolarias,
+2011,B222,"Sc. cent. navar., casas regi. y asociac.","Sección de centros navarros, casas regionales y asociaciones"
+2011,B2220,"Sc. cent. navar., casas regi. y asociac.","Sección de centros navarros, casas regionales y asociaciones"
+2011,B24,Servicio de Publica. y Proyecc. Navarra,Servicio de Publicaciones y Proyección de Navarra
+2011,B240,Servicio de Publica. y Proyecc. Navarra,Servicio de Publicaciones y Proyección de Navarra
+2011,B2400,Servicio de Publica. y Proyecc. Navarra,Servicio de Publicaciones y Proyección de Navarra
+2011,B241,Sección de gestión de publicaciones,
+2011,B2410,Sección de gestión de publicaciones,
+2011,B2411,Ng. Producción y Diseño Gráf. Publicac.,Negociado de Producción y Diseño Gráfico de Publicaciones
+2011,B2412,Ng. Promoción y Difusión Publicaciones,Negociado de Promoción y Difusión de Publicaciones
+2011,B2413,Negociado de Almacén de Publicaciones,
+2011,B242,Sección de Proyección de Navarra,
+2011,B2420,Sección de Proyección de Navarra,
+2011,B3,Dir.Gral.-Deleg. Gobierno Nav. en Madrid,Dirección General-Delegación del Gobierno de Navarra en Madrid
+2011,B30,Dir.Gral.-Deleg. Gobierno Nav. en Madrid,Dirección General-Delegación del Gobierno de Navarra en Madrid
+2011,B300,Dir.Gral.-Deleg.Gobierno Nav. en Madrid,Dirección General-Delegación del Gobierno de Navarra en Madrid
+2011,B3000,Dir.Gral.-Deleg. Gobierno Nav. en Madrid,Dirección General-Delegación del Gobierno de Navarra en Madrid
+2011,C,Consejo de Navarra,
+2011,C0,Consejo de Navarra,
+2011,C00,Consejo de Navarra,
+2011,C000,Consejo de Navarra,
+2011,C0000,Consejo de Navarra,
+2011,CFNA,Comunidad Foral de Navarra,
+2011,D,Consejo Audiovisual de Navarra,
+2011,D0,Consejo Audiovisual de Navarra,
+2011,D00,Consejo Audiovisual de Navarra,
+2011,D000,Consejo Audiovisual de Navarra,
+2011,D0000,Consejo Audiovisual de Navarra,
+2011,ONV,Ceges no válidos,
+2011,P,Parlamento de Navarra,
+2011,P0,Cámara Legislativa,
+2011,P00,Cámara Legislativa,
+2011,P000,Cámara Legislativa,
+2011,P0000,Cámara Legislativa,
+2011,P1,Cámara de Comptos,
+2011,P10,Cámara de Comptos,
+2011,P100,Cámara de Comptos,
+2011,P1000,Cámara de Comptos,
+2011,P2,Defensor del Pueblo,
+2011,P20,Defensor del Pueblo,
+2011,P200,Defensor del Pueblo,
+2011,P2000,Defensor del Pueblo,

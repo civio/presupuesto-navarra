@@ -13,18 +13,29 @@ class NavarraBudgetLoader(BudgetLoader):
     def get_default_funding_categories(self):
         categories = BudgetLoader.get_default_funding_categories(self)
         categories.append({ 
-                        'expense': True, 
+                        'expense': True,
                         'source': 'X',
                         'fund_class': 'XX',
                         'fund': 'XXX',
                         'description': 'Gastos'
                     })
         categories.append({ 
-                        'expense': False, 
+                        'expense': False,
                         'source': 'X',
                         'fund_class': 'XX',
                         'fund': 'XXX',
                         'description': 'Ingresos'
+                    })
+        return categories
+
+    # TODO: Temporary, while we sort out why so many codes are missing
+    def get_default_institutional_categories(self):
+        categories = BudgetLoader.get_default_funding_categories(self)
+        categories.append({
+                        'institution': 'XX',
+                        'section': 'XXX',
+                        'department': 'XXXXX',
+                        'description': 'Gobierno de Navarra'
                     })
         return categories
 
@@ -45,6 +56,8 @@ class NavarraBudgetLoader(BudgetLoader):
             })
 
     def add_functional_category(self, items, line):
+        line[3] = self._clean(line[3])
+        line[4] = self._clean(line[4])
         description = line[5]
         items.append({
                 'area': (line[1] if len(line[1])>=1 else None),
@@ -84,11 +97,21 @@ class NavarraBudgetLoader(BudgetLoader):
 
         # Gather all the relevant bits and store them to be processed
         ec_code = line[3]
+        ic_code = line[1] if line[0] in ['2010', '2011', '2012'] else line[2]
+        # TODO: Temporary, while we sort out why so many codes are missing
+        ic_code = 'XXXXX'
+
+        # Something weird happened with the 2013 revenue data files
+        amount = self._read_spanish_number(line[6])
+        if line[0]=='2013' and not is_expense:
+            amount = -amount
+
+        # Load the data item
         items.append({
-                'ic_institution': line[2][0:2],
-                'ic_section': line[2][0:3],
-                'ic_department': line[2],
-                'ic_code': line[2],
+                'ic_institution': ic_code[0:2],
+                'ic_section': ic_code[0:3],
+                'ic_department': ic_code,
+                'ic_code': ic_code,
                 'fc_area': fc_area,
                 'fc_policy': fc_policy,
                 'fc_function': fc_function,
@@ -102,8 +125,12 @@ class NavarraBudgetLoader(BudgetLoader):
                 'item_number': fc_code[-2:],    # Last two digits
                 # We leave it blank, so the base loader will fill it in using the economica category
                 'description': line[5],
-                'amount': self._read_spanish_number(line[6])
+                'amount': amount
             })
 
     def _get_delimiter(self):
         return ','
+
+    # An artifact of the in2csv conversion of the original XLS files is a trailing '.0', which we remove here
+    def _clean(self, s):
+        return s.split('.')[0]
