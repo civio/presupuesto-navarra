@@ -7,41 +7,34 @@ MAIN_ENTITY_NAME = 'Navarra'
 
 BUDGET_LOADER = 'NavarraBudgetLoader'
 
-FEATURED_PROGRAMMES = ['1621', '1710', '3380', '2410', '3110']
+FEATURED_PROGRAMMES = ['3123', '2315', '1321', '3341']
 
 OVERVIEW_INCOME_NODES = [
                           {
-                            'nodes': '21',
-                            'label': 'Impuesto sobre el Valor Añadido',
+                            'nodes': [['10', '100']],
+                            'label.es': 'Impuesto sobre la renta de las personas físicas',
+                            'label.eu': 'Impuesto sobre la renta de las personas físicas',
+                            'link_id': '10'
                           },
-                          {
-                            'nodes': '10',
-                            'label': 'Impuesto sobre la renta',
-                          },
+                          '21',
                           {
                             'nodes': [['22', '220']],
-                            'label': 'Impuestos especiales',
+                            'label.es': 'Impuestos especiales',
+                            'label.eu': 'Impuestos especiales',
                             'link_id': '22'
                           },
-                          '20',
                           {
-                            'nodes': [['11', '110']],
-                            'label': 'Impuesto sobre sucesiones y donaciones',
-                            'link_id': '11'
-                          }
-                        ]
-OVERVIEW_EXPENSE_NODES = [
-                          '31', '32',
-                          {
-                            'nodes': '94',
-                            'label': 'Transferencias a otras administraciones públicas',
+                            'nodes': [['10', '101']],
+                            'label.es': 'Impuesto sobre sociedades',
+                            'label.eu': 'Impuesto sobre sociedades',
+                            'link_id': '10'
                           },
-                          '95', '92', '21', '13'
                         ]
+OVERVIEW_EXPENSE_NODES = [ '31', '32', '94', '23', '45', '95', '21' ]
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
-# OVERVIEW_RELAX_FACTOR = 0.95
+OVERVIEW_RELAX_FACTOR = 0.4
 
 # Show Payments section in menu & home options. Default: False.
 # SHOW_PAYMENTS           = True
