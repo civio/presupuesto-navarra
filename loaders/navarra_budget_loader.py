@@ -99,9 +99,7 @@ class NavarraBudgetLoader(BudgetLoader):
         # Gather all the relevant bits and store them to be processed
         ec_code = line[3]
         # The columns are not consistent across the years
-        ic_code = line[1] if line[0] in ['2010', '2011', '2012'] else line[2]
-        # TODO: Temporary, while we sort out why so many codes are missing
-        ic_code = 'XXXXX'
+        ic_code = line[1] if not is_actual and (line[0] in ['2010', '2011', '2012'] or (line[0]=='2013' and not is_expense)) else line[2]
 
         # Something weird happened with the 2013 revenue data files
         amount = self._read_spanish_number(line[6])
