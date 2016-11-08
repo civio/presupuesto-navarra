@@ -58,7 +58,8 @@ class NavarraBudgetLoader(BudgetLoader):
     def add_functional_category(self, items, line):
         line[3] = self._clean(line[3])
         line[4] = self._clean(line[4])
-        description = line[5]
+        # The columns are not consistent across the years
+        description = line[6] if line[0] in ['2010', '2011'] else line[5]
         items.append({
                 'area': (line[1] if len(line[1])>=1 else None),
                 'policy': (line[1]+line[2] if len(line[2])>=1 else None),
@@ -97,6 +98,7 @@ class NavarraBudgetLoader(BudgetLoader):
 
         # Gather all the relevant bits and store them to be processed
         ec_code = line[3]
+        # The columns are not consistent across the years
         ic_code = line[1] if line[0] in ['2010', '2011', '2012'] else line[2]
         # TODO: Temporary, while we sort out why so many codes are missing
         ic_code = 'XXXXX'
