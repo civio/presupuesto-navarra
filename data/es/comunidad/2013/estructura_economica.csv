@@ -498,3 +498,16 @@
 2013,INGRESO,9,0,0,0,Emisión de deuda pública en moneda nacional
 2013,INGRESO,9,1,1,0,Préstamos recibidos a largo plazo en moneda nacional
 2013,GASTO,5,0,0,0,Fondo de contingencia
+2013,INGRESO,1,0,1,7,Gravamen único sobre revalorizacionmes de activos. Sociedades
+2013,INGRESO,1,8,1,0,Impuesto sobre la producción de energía eléctrica
+2013,INGRESO,1,8,2,0,Impto. sobre grandes establecimientos comerciales
+2013,INGRESO,4,2,0,0,Transferencias corrientes de la Seguridad Social
+2013,INGRESO,4,3,0,0,Transferencias corrientes de fundaciones forales
+2013,INGRESO,4,3,0,9,Transferencias corrientes de otras fundaciones
+2013,INGRESO,4,6,0,0,Transferencias corrientes de entidades locales de Navarra
+2013,INGRESO,5,9,9,0,Otros ingresos patrimoniales
+2013,INGRESO,6,8,0,0,Reintegros por operaciones de capital
+2013,INGRESO,7,4,0,1,Transferencias de capital de empresas públicas del Estado
+2013,INGRESO,7,7,0,0,Transferencias de capital de empresas privadas
+2013,INGRESO,8,2,1,2,Reintegros de préstamos concedidos a empresas públicas a largo plazo
+2013,INGRESO,8,3,0,1,Reintegros de préstamos concedidos a familias y empleados a corto plazo

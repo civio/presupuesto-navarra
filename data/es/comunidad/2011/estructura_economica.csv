@@ -495,3 +495,12 @@
 2011,INGRESO,8,3,1,1,Reintegros de préstamos concedidos a familias y empleados a largo plazo
 2011,INGRESO,8,3,1,9,Reintegros de otros préstamos concedidos fuera del sector público a largo plazo
 2011,INGRESO,9,1,1,0,Préstamos recibidos a largo plazo en moneda nacional
+2011,INGRESO,4,4,1,3,Transferencias corrientes de otros entes públicos de entidades locales
+2011,INGRESO,4,5,0,0,Transferencias corrientes de comunidades autónomas
+2011,INGRESO,4,7,0,0,Transferencias corrientes de empresas privadas
+2011,INGRESO,5,9,9,0,Otros ingresos patrimoniales
+2011,INGRESO,6,8,0,0,Reintegros por operaciones de capital
+2011,INGRESO,7,0,0,0,Transferencias de capital de la Administración del Estado
+2011,INGRESO,7,8,0,0,Transferencias de capital de familias e instituciones sin fines de lucro
+2011,INGRESO,8,7,0,0,Remanente de tesorería
+2011,INGRESO,9,0,0,0,Emisión de deuda pública en moneda nacional
