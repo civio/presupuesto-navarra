@@ -7655,10 +7655,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #D20201; }
 
 .navbar-brand {
+  position: static;
+  display: inline-block;
+  width: auto;
   font-size: 2.25em;
-  font-weight: 600;
-  display: none;
-  /* Hides language selector and it's unclear whether we want it */ }
+  font-weight: 400; }
   .navbar-brand a {
     color: #D20201; }
 
@@ -7744,9 +7745,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 768px) {
   .navbar-brand {
-    top: auto;
-    bottom: 5px;
-    margin: 0; }
+    margin: 58px 170px 0 0; }
 
   .tax-receipt-content .form-user-incomings .form-group.form-group-half-width {
     width: 25%; } }
