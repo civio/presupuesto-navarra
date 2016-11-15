@@ -7737,6 +7737,15 @@ h1, h2, h3, h4, h5, h6 {
   .search-content .panel .panel-heading h3, .search-content .panel-downloads .panel-heading h3, .search-content .home-content .options .option > div .panel-heading h3, .home-content .options .search-content .option > div .panel-heading h3, .search-content .budget-intro .budget-step .panel-heading h3, .budget-intro .search-content .budget-step .panel-heading h3, .search-content .policies-chart .panel-heading h3, .search-content .tax-receipt-content .form-user-incomings .panel-heading h3, .tax-receipt-content .search-content .form-user-incomings .panel-heading h3, .search-content .tax-receipt-content #tax-amount .panel-heading h3, .tax-receipt-content .search-content #tax-amount .panel-heading h3 {
     color: white; }
 
+table.table-grid tr td .toggle.expand,
+table.table-grid tr td .toggle.collapse {
+  font-size: 22px;
+  line-height: 18px;
+  padding-left: 1px; }
+
+table.table-grid tr td .toggle.collapse {
+  line-height: 20px; }
+
 .tax-receipt-content .form-user-incomings .form-group {
   width: 100%; }
 
