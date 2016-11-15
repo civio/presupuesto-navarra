@@ -143,11 +143,9 @@ h1, h2, h3, h4, h5, h6{
 
 // Tax Receipt
 .tax-receipt-content .form-user-incomings{
-  padding-top: $grid-gutter-width;
 
-  h3{
-    color: $brand-primary;
-    padding-bottom: $grid-gutter-width/2;
+  .form-group{
+    width: 100%;
   }
 }
 
@@ -155,9 +153,5 @@ h1, h2, h3, h4, h5, h6{
 
   .navbar-brand{
     margin: 58px 170px 0 0;
-  }
-
-  .tax-receipt-content .form-user-incomings .form-group.form-group-half-width{
-    width: 25%;
   }
 }
