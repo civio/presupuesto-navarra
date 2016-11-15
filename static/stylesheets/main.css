@@ -6808,8 +6808,8 @@ header > .container {
   margin: 30px auto; }
   .main-entity-logo a {
     display: block;
-    width: 333px;
-    height: 49px;
+    width: 330px;
+    height: 48px;
     margin: 0 auto;
     overflow: hidden;
     text-indent: -9999px;
@@ -7659,9 +7659,9 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   width: auto;
   font-size: 2.25em;
-  font-weight: 400; }
+  font-weight: 300; }
   .navbar-brand a {
-    color: #D20201; }
+    color: #e13600; }
 
 .form-search {
   opacity: 0.95; }
@@ -7669,6 +7669,9 @@ h1, h2, h3, h4, h5, h6 {
 .main-entity-logo {
   margin: 35px auto 30px; }
 
+@media (-webkit-min-device-pixel-ratio: 2) {
+  .main-entity-logo a {
+    background-image: url(../assets/logo@2x.png); } }
 .navbar-default {
   opacity: 0.95; }
   .navbar-default .navbar-nav [class*="icon-"]:before {
@@ -7751,6 +7754,9 @@ table.table-grid tr td .toggle.collapse {
 
 @media (min-width: 768px) {
   .navbar-brand {
-    margin: 58px 170px 0 0; } }
+    margin: 58px 0 0; } }
+@media (min-width: 992px) {
+  .navbar-brand {
+    margin-right: 170px; } }
 
 /*# sourceMappingURL=main.css.map */

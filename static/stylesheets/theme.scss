@@ -23,10 +23,10 @@ h1, h2, h3, h4, h5, h6{
   display: inline-block;
   width: auto;
   font-size: 2.25em;
-  font-weight: $font-weight-400;
+  font-weight: $font-weight-300;
 
   a{
-    color: $brand-terciary;
+    color: #e13600;
   }
 }
 
@@ -36,6 +36,12 @@ h1, h2, h3, h4, h5, h6{
 
 .main-entity-logo{
   margin: 35px auto 30px;
+}
+
+@media(-webkit-min-device-pixel-ratio: 2){ 
+  .main-entity-logo a {
+    background-image: url(../assets/logo@2x.png);
+  }
 }
 
 .navbar-default{
@@ -163,6 +169,12 @@ table.table-grid tr td .toggle.collapse{
 @media (min-width: $screen-sm-min) {
 
   .navbar-brand{
-    margin: 58px 170px 0 0;
+    margin: 58px 0 0;
+  }
+}
+
+@media (min-width: $screen-md-min) {
+  .navbar-brand{
+    margin-right: 170px;
   }
 }
