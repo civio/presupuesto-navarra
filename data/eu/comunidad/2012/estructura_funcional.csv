@@ -1,267 +1,268 @@
-2012,1,,,,Servicios públicos básicos
-2012,2,,,,Actuaciones de protección y promoción social
-2012,3,,,,Producción de bienes públicos de carácter preferente
-2012,4,,,,Actuaciones de carácter económico
-2012,9,,,,Actuaciones de carácter general
-2012,1,1,,,Justicia
-2012,1,3,,,Seguridad ciudadana e instituciones penitenciarias
-2012,1,4,,,Política exterior
-2012,2,1,,,Pensiones
-2012,2,2,,,Otras prestaciones económicas
-2012,2,3,,,Servicios sociales y promoción social
-2012,2,4,,,Fomento del empleo
-2012,2,6,,,Acceso a la vivienda y fomento de la edificación
-2012,3,1,,,Sanidad
-2012,3,2,,,Educación
-2012,3,3,,,Cultura
-2012,4,1,,,"Agricultura, ganadería y alimentación"
-2012,4,2,,,Industria y energía
-2012,4,3,,,"Comercio, Turismo y Pymes"
-2012,4,4,,,Subvenciones al transporte
-2012,4,5,,,Infraestructuras
-2012,4,6,,,"Investigación, desarrollo e innovación"
-2012,4,9,,,Otras actuaciones de carácter económico
-2012,9,1,,,Alta dirección
-2012,9,2,,,Servicios de carácter general
-2012,9,3,,,Administración financiera y tributaria
-2012,9,4,,,Transferencias a otras administraciones públicas
-2012,9,5,,,Deuda pública
-2012,1,1,1.0,,Administración general de justicia
-2012,1,1,2.0,,Administración de justicia
-2012,1,1,4.0,,Protección jurídica del menor
-2012,1,3,1.0,,Administración general de seguridad y protección civil
-2012,1,3,2.0,,Seguridad y orden público
-2012,1,3,3.0,,Instituciones penitenciarias
-2012,1,3,4.0,,Protección civil
-2012,1,4,3.0,,Cooperación para el desarrollo
-2012,1,4,4.0,,"Cooperación, promoción y difusión cultural en el exterior"
-2012,1,4,5.0,,Relaciones con la Unión Europea
-2012,1,4,6.0,,Relaciones con el exterior
-2012,2,1,1.0,,Pensiones contributivas
-2012,2,1,2.0,,Pensiones no contributivas
-2012,2,2,4.0,,Otras prestaciones económicas
-2012,2,3,1.0,,Acción social
-2012,2,3,2.0,,Promoción social
-2012,2,3,3.0,,Administración general de protección social
-2012,2,4,1.0,,Promoción del empleo y de la inserción laboral
-2012,2,4,2.0,,Formación profesional no reglada
-2012,2,6,1.0,,Acceso a la vivienda y fomento de la edificación
-2012,3,1,1.0,,Administración general de sanidad
-2012,3,1,2.0,,"Hospitales, servicios asistenciales y centros de salud"
-2012,3,1,3.0,,Acciones públicas relativas a la salud
-2012,3,2,1.0,,Administración general de educación
-2012,3,2,2.0,,Enseñanza
-2012,3,2,3.0,,Promoción educativa
-2012,3,2,4.0,,Servicios complementarios de la enseñanza
-2012,3,2,5.0,,Infraestructura
-2012,3,3,1.0,,Administración general de cultura
-2012,3,3,2.0,,Bibliotecas y archivos
-2012,3,3,3.0,,Museos y artes plásticas
-2012,3,3,4.0,,Promoción cultural
-2012,3,3,5.0,,Artes escénicas
-2012,3,3,6.0,,Deportes y educación física
-2012,3,3,7.0,,Arqueología y protección del patrimonio histórico-artístico
-2012,4,1,1.0,,"Administración general de agricultura, ganadería y alimentación"
-2012,4,1,2.0,,Mejoras de las estructuras agrarias y de los sistemas productivos
-2012,4,1,3.0,,Competitividad de la industria agroalimentaria y calidad alimentaria
-2012,4,1,4.0,,Desarrollo rural
-2012,4,2,1.0,,Actuaciones administrativas sobre la industria
-2012,4,2,2.0,,Reconversión y desarrollo industrial
-2012,4,2,5.0,,Ordenación y eficiencia energética
-2012,4,3,1.0,,Comercio
-2012,4,3,2.0,,Ordenación y promoción turística
-2012,4,4,1.0,,Subvenciones al transporte
-2012,4,5,1.0,,Administración general de infraestructuras
-2012,4,5,2.0,,Recursos hidráulicos
-2012,4,5,3.0,,Infraestructuras del transporte terrestre
-2012,4,5,6.0,,Actuaciones medioambientales
-2012,4,5,8.0,,"Infraestructura industrial, comercial y turística"
-2012,4,5,9.0,,Electrificación y alumbrado
-2012,4,5,A,,Vías de comunicación en el medio rural
-2012,4,5,B,,Otros servicios del bienestar comunitario
-2012,4,6,5.0,,Investigación y desarrollo relacionados con la salud
-2012,4,6,7.0,,Investigación y desarrollo en otros sectores
-2012,4,6,8.0,,Estudios técnicos
-2012,4,6,9.0,,Otras Innovaciones Tecnológicas
-2012,4,9,1.0,,Comunicaciones
-2012,4,9,2.0,,Defensa de la competencia
-2012,4,9,3.0,,Ordenación del sector financiero
-2012,4,9,4.0,,Relaciones laborales
-2012,4,9,5.0,,"Cartografía, meteorología y metrología"
-2012,9,1,1.0,,Alta dirección de la Comunidad Foral
-2012,9,1,2.0,,Alta dirección del Gobierno
-2012,9,2,1.0,,Administración general
-2012,9,2,2.0,,Coordinación y organización territorial del Gobierno
-2012,9,2,3.0,,Administración general de economía y hacienda
-2012,9,3,1.0,,Política económica y fiscal
-2012,9,3,2.0,,Gestión del sistema tributario
-2012,9,4,1.0,,Convenios con el Estado
-2012,9,4,2.0,,Transferencias a entidades locales
-2012,9,5,1.0,,Deuda pública
-2012,1,1,1.0,2.0,Dirección y servicios generales de justicia
-2012,1,1,2.0,1.0,Órganos judiciales
-2012,1,1,4.0,1.0,Protección jurídica del menor
-2012,1,3,1.0,1.0,Dirección y servicios generales de seguridad y protección civil
-2012,1,3,2.0,1.0,Seguridad ciudadana
-2012,1,3,2.0,2.0,Seguridad vial
-2012,1,3,3.0,1.0,Centros e instituciones penitenciarias
-2012,1,3,4.0,1.0,Protección civil
-2012,1,3,4.0,2.0,Prevención y extinción de incendios y salvamento
-2012,1,4,3.0,1.0,Cooperación para el desarrollo
-2012,1,4,4.0,1.0,"Cooperación, promoción y difusión cultural en el exterior"
-2012,1,4,5.0,1.0,Relaciones con la Unión Europea
-2012,1,4,6.0,1.0,Relaciones con el exterior
-2012,2,1,1.0,1.0,Pensiones contributivas
-2012,2,1,2.0,1.0,Pensiones no contributivas y prestaciones asistenciales
-2012,2,2,4.0,1.0,Otras prestaciones económicas
-2012,2,3,1.0,,Programación general de protección y promoción social
-2012,2,3,1.0,3.0,Servicios sociales a personas con discapacidad
-2012,2,3,1.0,4.0,Servicios sociales a personas mayores
-2012,2,3,1.0,5.0,Protección a la familia
-2012,2,3,1.0,6.0,Reinserción social
-2012,2,3,1.0,7.0,Atención a la infancia
-2012,2,3,1.0,9.0,Integración de los inmigrantes
-2012,2,3,1.0,B,Autonomía personal y atención a la dependencia
-2012,2,3,2.0,1.0,Promoción y servicios a la juventud
-2012,2,3,2.0,2.0,Igualdad de oportunidades entre mujeres y hombres
-2012,2,3,2.0,3.0,Actuaciones para la previsión integral de la violencia de género
-2012,2,3,3.0,1.0,Dirección y servicios generales de protección social
-2012,2,4,1.0,1.0,Fomento de la inserción y estabilidad laboral
-2012,2,4,1.0,2.0,Desarrollo de la economía social y de la responsabilidad social de las empresas
-2012,2,4,1.0,3.0,Actuaciones en el mercado de trabajo
-2012,2,4,2.0,1.0,Formación profesional ocupacional
-2012,2,4,2.0,2.0,"Escuelas taller, casas de oficios y talleres de empleo"
-2012,2,6,1.0,1.0,Dirección y servicios generales de vivienda
-2012,2,6,1.0,2.0,Promoción y administración de viviendas
-2012,2,6,1.0,4.0,"Ayudas para rehabilitación, construcción y acceso a la vivienda"
-2012,2,6,1.0,5.0,Mantenimiento y mejora del patrimonio inmobiliario
-2012,2,6,1.0,6.0,Mantenimiento y mejora de la infraestructura urbana en el ámbito municipal
-2012,2,6,1.0,7.0,Urbanismo y política del suelo
-2012,3,1,1.0,1.0,Dirección y servicios generales de sanidad y política social
-2012,3,1,1.0,2.0,Formación sanitaria
-2012,3,1,2.0,2.0,Atención primaria de salud
-2012,3,1,2.0,3.0,Atención especializada de salud
-2012,3,1,2.0,4.0,Asistencia psiquiátrica y psíquica
-2012,3,1,2.0,7.0,Servicios auxiliares de centros sanitarios
-2012,3,1,2.0,8.0,Infraestructura y equipamiento de centros sanitarios
-2012,3,1,3.0,1.0,Oferta y uso racional de medicamentos y productos sanitarios
-2012,3,1,3.0,2.0,Salud pública y sanidad exterior
-2012,3,1,3.0,4.0,"Terapias avanzadas, medicina regenerativa y trasplantes"
-2012,3,1,3.0,9.0,Otras acciones públicas de protección de la salud
-2012,3,2,1.0,1.0,Dirección y servicios generales de educación
-2012,3,2,1.0,2.0,Formación permanente del profesorado de Educación
-2012,3,2,2.0,,Dirección y servicios generales de enseñanza
-2012,3,2,2.0,1.0,Educación infantil
-2012,3,2,2.0,2.0,Educación secundaria
-2012,3,2,2.0,3.0,Enseñanzas universitarias
-2012,3,2,2.0,4.0,Educación especial
-2012,3,2,2.0,5.0,Enseñanzas artísticas
-2012,3,2,2.0,7.0,Educación compensatoria y de adultos
-2012,3,2,2.0,9.0,"Otras enseñanzas (idiomas, especiales y otros)"
-2012,3,2,2.0,A,Nuevas tecnologías aplicadas a la educación
-2012,3,2,2.0,C,Bachillerato
-2012,3,2,2.0,D,Educación primaria
-2012,3,2,2.0,E,Formación profesional
-2012,3,2,3.0,1.0,Becas y ayudas a estudiantes
-2012,3,2,4.0,1.0,Servicios complementarios de la enseñanza
-2012,3,2,4.0,2.0,Apoyo a otras actividades educativas
-2012,3,2,5.0,1.0,"Construcción, equipamiento y material didáctico"
-2012,3,3,1.0,1.0,Dirección y servicios generales de cultura
-2012,3,3,2.0,1.0,Archivos
-2012,3,3,2.0,2.0,Bibliotecas
-2012,3,3,3.0,1.0,Museos
-2012,3,3,4.0,1.0,Promoción y cooperación cultural
-2012,3,3,5.0,1.0,Música y danza
-2012,3,3,5.0,2.0,"Teatro, cinematografía y otras artes escénicas"
-2012,3,3,6.0,1.0,Fomento y apoyo de las actividades deportivas
-2012,3,3,7.0,1.0,"Administración, conservación y restauración del patrimonio histórico"
-2012,3,3,7.0,4.0,Arqueología
-2012,4,1,1.0,1.0,"Dirección y servicios generales de agricultura, ganadería y alimentación"
-2012,4,1,2.0,1.0,"Competitividad, calidad y defensa de la producción agrícola"
-2012,4,1,2.0,2.0,"Competitividad, calidad y defensa de la producción ganadera"
-2012,4,1,2.0,3.0,Regulación de los mercados agrarios
-2012,4,1,3.0,1.0,Competitividad de la industria agroalimentaria y calidad alimentaria
-2012,4,1,4.0,1.0,Gestión de los recursos hídricos para el regadío
-2012,4,1,4.0,2.0,Desarrollo sostenible del medio rural
-2012,4,1,4.0,3.0,Reordenación de la propiedad y concentración parcelaria
-2012,4,2,1.0,1.0,Dirección y servicios generales de industria y energía
-2012,4,2,1.0,3.0,"Calidad, competitividad y seguridad industrial"
-2012,4,2,2.0,2.0,Desarrollo industrial
-2012,4,2,2.0,3.0,Reconversión y reindustrialización de empresas
-2012,4,2,5.0,2.0,Incentivos sobre medidas energéticas
-2012,4,3,1.0,3.0,Ordenación y promoción del comercio exterior
-2012,4,3,1.0,4.0,Ordenación y modernización de las estructuras comerciales
-2012,4,3,2.0,1.0,Coordinación y promoción del turismo
-2012,4,3,2.0,3.0,Promoción hotelera y de complejos turísticos
-2012,4,4,1.0,1.0,Subvenciones y apoyo al transporte terrestre
-2012,4,5,1.0,1.0,Estudios y servicios de asistencia técnica en obras públicas
-2012,4,5,1.0,2.0,Dirección y servicios generales de obras públicas
-2012,4,5,1.0,3.0,Dirección y servicios generales de medio ambiente
-2012,4,5,1.0,4.0,Dirección y servicios generales del transporte
-2012,4,5,2.0,1.0,Gestión e infraestructuras de recursos hidráulicos
-2012,4,5,3.0,1.0,Infraestructura del transporte ferroviario
-2012,4,5,3.0,2.0,Creación de infraestructura de carreteras
-2012,4,5,3.0,3.0,Conservación y explotación de carreteras
-2012,4,5,3.0,4.0,Ordenación e inspección del transporte terrestre
-2012,4,5,6.0,1.0,Calidad del agua
-2012,4,5,6.0,2.0,Protección y mejora del medio ambiente
-2012,4,5,6.0,3.0,Protección y mejora del medio natural
-2012,4,5,6.0,5.0,Prevención y extinción de incendios
-2012,4,5,6.0,6.0,Creación y mejora de comunales y pastos
-2012,4,5,6.0,7.0,Conservación y mejora de masas forestales
-2012,4,5,8.0,1.0,Infraestructura industrial
-2012,4,5,9.0,1.0,Electrificación y alumbrado
-2012,4,5,A,2.0,Creación y conservación de caminos rurales
-2012,4,5,B,1.0,Otros servicios del bienestar comunitario
-2012,4,6,5.0,1.0,Investigación sanitaria
-2012,4,6,7.0,3.0,Investigación y desarrollo tecnológico-industrial
-2012,4,6,7.0,7.0,Investigación y desarrollo de la sociedad de la información
-2012,4,6,7.0,9.0,Innovación tecnológica de las telecomunicaciones
-2012,4,6,8.0,1.0,Estudios técnicos en el sector agrario
-2012,4,6,9.0,1.0,Otras Innovaciones Tecnológicas
-2012,4,9,1.0,1.0,"Ordenación, administración y promoción de las telecomunicaciones y de la sociedad de la información"
-2012,4,9,2.0,3.0,Protección y promoción de los derechos de los consumidores y usuarios
-2012,4,9,3.0,3.0,Regulación contable y de auditorías
-2012,4,9,4.0,1.0,Administración de las relaciones laborales y condiciones de trabajo
-2012,4,9,5.0,1.0,Desarrollo y aplicación de la información geográfica
-2012,4,9,5.0,3.0,Metrología
-2012,9,1,1.0,2.0,Actividad legislativa
-2012,9,1,1.0,3.0,Control externo del sector público
-2012,9,1,2.0,1.0,Gobierno de Navarra
-2012,9,1,2.0,2.0,Alto asesoramiento de la Comunidad Foral de Navarra
-2012,9,1,2.0,3.0,Relaciones con el Parlamento
-2012,9,2,1.0,1.0,"Dirección, organización y servicios generales de la Administración Pública"
-2012,9,2,1.0,3.0,"Selección, formación, promoción y representación del personal"
-2012,9,2,1.0,4.0,"Administración, gestión y control de personal"
-2012,9,2,1.0,5.0,Cobertura informativa
-2012,9,2,1.0,6.0,Edición y confección de boletines oficiales
-2012,9,2,1.0,7.0,Asesoramiento y defensa
-2012,9,2,1.0,8.0,"Conservación y mantenimiento de vehículos, maquinaria, instalaciones y otros"
-2012,9,2,1.0,9.0,Impresos y publicaciones
-2012,9,2,1.0,A,Tramitación y resolución de recursos administrativos
-2012,9,2,1.0,B,Coordinación de servicios generales
-2012,9,2,2.0,1.0,Dirección y servicios generales de Política Territorial
-2012,9,2,2.0,2.0,Coordinación y relaciones financieras con entidades locales
-2012,9,2,2.0,3.0,Régimen jurídico y de personal de la administración local
-2012,9,2,2.0,4.0,Apoyos en aspectos técnico-económicos
-2012,9,2,3.0,1.0,Gestión del patrimonio
-2012,9,2,3.0,3.0,Elaboración y difusión estadística
-2012,9,2,3.0,4.0,Dirección y servicios generales de economía y hacienda
-2012,9,2,3.0,7.0,Gestión de tesorería
-2012,9,2,3.0,8.0,Gestión de compras y suministros
-2012,9,2,3.0,9.0,Servicios de apoyo a economía y hacienda
-2012,9,3,1.0,1.0,Previsión y política económica
-2012,9,3,1.0,2.0,Política presupuestaria
-2012,9,3,1.0,4.0,Control interno y contabilidad pública
-2012,9,3,1.0,5.0,Política financiera y de créditos
-2012,9,3,2.0,1.0,Aplicación del sistema tributario
-2012,9,3,2.0,2.0,Gestión del catastro inmobiliario
-2012,9,3,2.0,3.0,Resolución de reclamaciones económico-administrativas
-2012,9,3,2.0,4.0,Inspección fiscal
-2012,9,4,1.0,1.0,Convenio económico con el Estado
-2012,9,4,2.0,2.0,Transferencias a entidades locales por participación en ingresos del Estado
-2012,9,4,2.0,3.0,Otras transferencias
-2012,9,4,2.0,4.0,Transferencias a entidades locales para cooperar en obras y servicios
-2012,9,5,1.0,1.0,Amortización y gastos financieros de la deuda pública en moneda nacional
-2012,3,2,2,0,Dirección y servicios generales de enseñanza
-2012,2,3,1,0,Programac. gral. protección y promoción social
+#año,area,politica,grupo,programa,EU
+2012,1,,,,Oinarrizko zerbitzu publikoak
+2012,2,,,,Gizarte-babesaren eta sustapenaren jarduketak
+2012,3,,,,Lehentasunezko ondasun publikoen ekoizpena
+2012,4,,,,Jarduketa ekonomikoak
+2012,9,,,,Izaera orokorreko jarduketak
+2012,1,1,,,Justizia
+2012,1,3,,,Herritarren segurtasuna eta espetxeak
+2012,1,4,,,Kanpo-politika
+2012,2,1,,,Pentsioak
+2012,2,2,,,Beste prestazio ekonomiko batzuk
+2012,2,3,,,Gizarte-zerbitzuak eta gizarte-sustapena
+2012,2,4,,,Enpleguaren sustapena
+2012,2,6,,,Etxebizitza eskuratzea eta eraikuntzaren sustapena
+2012,3,1,,,Osasuna
+2012,3,2,,,Hezkuntza
+2012,3,3,,,Kultura
+2012,4,1,,,"Nekazaritza, abeltzaintza eta elikagaigintza"
+2012,4,2,,,Industria eta energia
+2012,4,3,,,"Merkataritza, turismoa eta ETEak"
+2012,4,4,,,Garraiorako diru-laguntzak
+2012,4,5,,,Azpiegiturak
+2012,4,6,,,"Ikerketa, garapena eta berrikuntza"
+2012,4,9,,,Izaera ekonomikoko beste jarduketa batzuk
+2012,9,1,,,Goi-zuzendaritza
+2012,9,2,,,Izaera orokorreko zerbitzuak
+2012,9,3,,,Finantza- eta zerga-administrazioa
+2012,9,4,,,Transferentziak beste Administrazio Publiko batzuetara
+2012,9,5,,,Zor publikoa; Herri-zorra
+2012,1,1,1.0,,Justizia-administrazio orokorra
+2012,1,1,2.0,,Justizia-administrazioa
+2012,1,1,4.0,,Adingabearen babes juridikoa
+2012,1,3,1.0,,Segurtasuneko eta babes zibileko administrazio orokorra
+2012,1,3,2.0,,Segurtasuna eta ordena publikoa
+2012,1,3,3.0,,Espetxeen alorra
+2012,1,3,4.0,,Babes zibila
+2012,1,4,3.0,,Garapenerako lankidetza
+2012,1,4,4.0,,"Kultura-lankidetza, -sustapena eta -hedapena atzerrian"
+2012,1,4,5.0,,Europar Batasunarekiko harremanak
+2012,1,4,6.0,,Kanpo-harremanak
+2012,2,1,1.0,,Kotizaziopeko pentsioa
+2012,2,1,2.0,,Ordaindutakoaren araberakoak ez diren pentsioak
+2012,2,2,4.0,,Beste prestazio ekonomiko batzuk
+2012,2,3,1.0,,Gizarte-ekintza
+2012,2,3,2.0,,Gizarte-sustapena
+2012,2,3,3.0,,Gizarte-babesaren administrazio orokorra
+2012,2,4,1.0,,Enplegua eta laneratzea sustatzea
+2012,2,4,2.0,,Arautu gabeko lanbide-prestakuntza
+2012,2,6,1.0,,Etxebizitza eskuratzea eta eraikuntzaren sustapena
+2012,3,1,1.0,,Osasun-administrazio orokorra
+2012,3,1,2.0,,"Ospitaleak, zerbitzu asistentzialak eta osasun-zentroak"
+2012,3,1,3.0,,Osasunari buruzko jarduera publikoak
+2012,3,2,1.0,,Hezkuntza-administrazio orokorra
+2012,3,2,2.0,,Irakaskuntza
+2012,3,2,3.0,,Hezkuntza-sustapena
+2012,3,2,4.0,,Irakaskuntzako zerbitzu osagarriak
+2012,3,2,5.0,,Azpiegitura
+2012,3,3,1.0,,Kultura-administrazio orokorra
+2012,3,3,2.0,,Liburutegiak eta agiritegiak
+2012,3,3,3.0,,Museoak eta arte plastikoak
+2012,3,3,4.0,,Kultura-sustapena
+2012,3,3,5.0,,Arte eszenikoak
+2012,3,3,6.0,,Kirolak eta gorputz-hezkuntza
+2012,3,3,7.0,,Arkeologia eta ondare historiko-artistikoaren babesa
+2012,4,1,1.0,,"Nekazaritza, abeltzaintza eta elikagaigintzako administrazio orokorra"
+2012,4,1,2.0,,Nekazaritzako azpiegiturak eta ekoizpen-sistemak hobetzea
+2012,4,1,3.0,,Nekazaritzako elikagaien industriaren lehiakortasuna eta elikagaien kalitatea
+2012,4,1,4.0,,Landa-garapena
+2012,4,2,1.0,,Industriari buruzko jarduketa administratiboak
+2012,4,2,2.0,,Industria-birmoldaketa eta -garapena
+2012,4,2,5.0,,Energiaren antolamendua eta eraginkortasuna
+2012,4,3,1.0,,Merkataritza
+2012,4,3,2.0,,Turismoa antolatzea eta sustatzea
+2012,4,4,1.0,,Garraiorako diru-laguntzak
+2012,4,5,1.0,,Azpiegituren administrazio orokorra
+2012,4,5,2.0,,Ur-baliabideak
+2012,4,5,3.0,,Lurreko garraiorako azpiegiturak
+2012,4,5,6.0,,Ingurumeneko jarduketak
+2012,4,5,8.0,,"Industria, merkataritza eta turismoko azpiegitura"
+2012,4,5,9.0,,Elektrifikazioa eta argiztatzea
+2012,4,5,A,,Landa-inguruneko komunikabideak
+2012,4,5,B,,Komunitatearen ongizaterako beste zerbitzu batzuk
+2012,4,6,5.0,,Osasunarekin lotutako ikerketa eta garapena
+2012,4,6,7.0,,Beste sektore batzuetako ikerketa eta garapena
+2012,4,6,8.0,,Azterlan teknikoak
+2012,4,6,9.0,,Beste berrikuntza teknologiko batzuk
+2012,4,9,1.0,,Komunikazioak
+2012,4,9,2.0,,Lehiaren defentsa
+2012,4,9,3.0,,Finantza-sektorearen antolamendua
+2012,4,9,4.0,,Lan-harremanak
+2012,4,9,5.0,,"Kartografia, meteorologia eta metrologia"
+2012,9,1,1.0,,Foru Komunitateko goi-zuzendaritza
+2012,9,1,2.0,,Gobernuaren goi-zuzendaritza
+2012,9,2,1.0,,Administrazio orokorra
+2012,9,2,2.0,,Gobernuaren lurraldeko koordinazioa eta antolakuntza
+2012,9,2,3.0,,Ekonomia eta ogasunaren administrazio orokorra
+2012,9,3,1.0,,Politika ekonomikoa y fiskala
+2012,9,3,2.0,,Zerga-sistemaren kudeaketa
+2012,9,4,1.0,,Estatuarekin egindako hitzarmenak
+2012,9,4,2.0,,Toki-erakundeentzako transferentziak
+2012,9,5,1.0,,Zor publikoa; Herri-zorra
+2012,1,1,1.0,2.0,Justiziako zuzendaritza eta zerbitzu orokorrak
+2012,1,1,2.0,1.0,Organo judizialak
+2012,1,1,4.0,1.0,Adingabearen babes juridikoa
+2012,1,3,1.0,1.0,Segurtasun eta babes zibileko zuzendaritza eta zerbitzu orokorrak
+2012,1,3,2.0,1.0,Herritarren segurtasuna
+2012,1,3,2.0,2.0,Bide-segurtasuna
+2012,1,3,3.0,1.0,Espetxeak
+2012,1,3,4.0,1.0,Babes zibila
+2012,1,3,4.0,2.0,Suteen prebenitu eta itzaltzeko eta salbamenduko zerbitzuak
+2012,1,4,3.0,1.0,Garapenerako lankidetza
+2012,1,4,4.0,1.0,"Kultura-lankidetza, -sustapena eta -hedapena atzerrian"
+2012,1,4,5.0,1.0,Europar Batasunarekiko harremanak
+2012,1,4,6.0,1.0,Kanpo-harremanak
+2012,2,1,1.0,1.0,Kotizaziopeko pentsioa
+2012,2,1,2.0,1.0,Ekarpenezkoak ez diren pentsioak eta laguntza-prestazioak
+2012,2,2,4.0,1.0,Beste prestazio ekonomiko batzuk
+2012,2,3,1.0,,Gizarte-babesaren eta sustapenaren programazio orokorra
+2012,2,3,1.0,3.0,Desgaituentzako gizarte-zerbitzuak
+2012,2,3,1.0,4.0,Adinekoentzako gizarte-zerbitzuak
+2012,2,3,1.0,5.0,Familientzako babesa
+2012,2,3,1.0,6.0,Bergizarteratzea
+2012,2,3,1.0,7.0,Haurrentzako arreta
+2012,2,3,1.0,9.0,Etorkinak gizarteratzea
+2012,2,3,1.0,B,Autonomia pertsonala eta mendetasunari arreta ematea
+2012,2,3,2.0,1.0,Gazteen sustapena eta gazteentzako zerbitzuak
+2012,2,3,2.0,2.0,Emakumeen eta gizonen arteko aukera-berdintasuna
+2012,2,3,2.0,3.0,Genero-indarkeria osotasunean prebenitzeko jarduketak
+2012,2,3,3.0,1.0,Gizarte-babeseko zuzendaritza eta zerbitzu orokorrak
+2012,2,4,1.0,1.0,Laneratzea eta enplegu-egonkortasuna sustatzea
+2012,2,4,1.0,2.0,Gizarte-ekonomia eta enpresen gizarte-erantzukizuna garatzea
+2012,2,4,1.0,3.0,Lan-merkatuko jarduketak
+2012,2,4,2.0,1.0,Lanerako lanbide-prestakuntza
+2012,2,4,2.0,2.0,"Eskola-lantegiak, ofizio-etxeak eta enplegu-tailerrak"
+2012,2,6,1.0,1.0,Etxebizitzako zuzendaritza eta zerbitzu orokorrak
+2012,2,6,1.0,2.0,Etxebizitzen sustapena eta administrazioa
+2012,2,6,1.0,4.0,"Etxebizitzak birgaitzeko, eraikitzeko eta lortzeko laguntzak"
+2012,2,6,1.0,5.0,Ondare higiezinaren mantentze- eta hobekuntza-lanak
+2012,2,6,1.0,6.0,Hiri-azpiegituren mantentze- eta hobekuntza-lanak udal-esparruan
+2012,2,6,1.0,7.0,Hirigintza eta lurzoru-politika
+2012,3,1,1.0,1.0,Osasuneko eta gizarte-babeseko zuzendaritza eta zerbitzu orokorrak
+2012,3,1,1.0,2.0,Osasun-prestakuntza
+2012,3,1,2.0,2.0,Lehen mailako osasun-arreta
+2012,3,1,2.0,3.0,Osasun-arreta espezializatua
+2012,3,1,2.0,4.0,Arreta psikiatriko eta psikikoa
+2012,3,1,2.0,7.0,Osasun-zentroetako zerbitzu osagarriak
+2012,3,1,2.0,8.0,Osasun-zentroetako azpiegitura eta ekipamendua
+2012,3,1,3.0,1.0,Medikamentuen eta osasun-produktuen erabilera arrazionala 
+2012,3,1,3.0,2.0,Osasun publikoa eta kanpoko osasungintza
+2012,3,1,3.0,4.0,"Terapia aurreratuak, medikuntza birsortzailea eta transplanteak"
+2012,3,1,3.0,9.0,Osasuna babesteko bestelako jarduera publikoak
+2012,3,2,1.0,1.0,Hezkuntzako zuzendaritza eta zerbitzu orokorrak
+2012,3,2,1.0,2.0,Hezkuntza-alorreko irakasleen etengabeko prestakuntza
+2012,3,2,2.0,,Irakaskuntzako zuzendaritza eta zerbitzu orokorrak
+2012,3,2,2.0,1.0,Haur Hezkuntza
+2012,3,2,2.0,2.0,Bigarren hezkuntza
+2012,3,2,2.0,3.0,Unibertsitate-irakaskuntzak
+2012,3,2,2.0,4.0,Hezkuntza berezia
+2012,3,2,2.0,5.0,Arte-irakaskuntzak
+2012,3,2,2.0,7.0,Osabidezko hezkuntza eta helduen hezkuntza
+2012,3,2,2.0,9.0,"Beste irakaskuntza batzuk (hizkuntzak, bereziak eta bestelakoak"
+2012,3,2,2.0,A,Hezkuntzari aplikatutako teknologia berriak
+2012,3,2,2.0,C,Batxilergoa
+2012,3,2,2.0,D,Lehen Hezkuntza
+2012,3,2,2.0,E,Lanbide Heziketa
+2012,3,2,3.0,1.0,Ikasleentzako bekak eta laguntzak
+2012,3,2,4.0,1.0,Irakaskuntzako zerbitzu osagarriak
+2012,3,2,4.0,2.0,Beste eskola-jarduera batzuetarako laguntza
+2012,3,2,5.0,1.0,"Eraikuntza, ekipamendua eta material didaktikoak"
+2012,3,3,1.0,1.0,Kulturako zuzendaritza eta zerbitzu orokorrak
+2012,3,3,2.0,1.0,Agiritegiak
+2012,3,3,2.0,2.0,Liburutegiak
+2012,3,3,3.0,1.0,Museoak
+2012,3,3,4.0,1.0,Kultura-sustapena eta -lankidetza
+2012,3,3,5.0,1.0,Musika eta dantza
+2012,3,3,5.0,2.0,"Antzerkia, zinematografia eta beste arte eszeniko batzuk"
+2012,3,3,6.0,1.0,Kirol-jarduerak sustatzea eta babestea
+2012,3,3,7.0,1.0,"Ondare historikoaren administrazioa, kontserbazioa eta berriztapena"
+2012,3,3,7.0,4.0,Arkeologia
+2012,4,1,1.0,1.0,"Nekazaritza, abeltzaintza eta elikagaigintzako zuzendaritza eta zerbitzu orokorrak"
+2012,4,1,2.0,1.0,"Nekazaritzako ekoizpenen lehiakortasuna, kalitatea eta defentsa"
+2012,4,1,2.0,2.0,"Abeltzaintzako ekoizpenen lehiakortasuna, kalitatea eta defentsa"
+2012,4,1,2.0,3.0,Nekazaritza-merkatuak erregulatzea
+2012,4,1,3.0,1.0,Nekazaritzako elikagaien industriaren lehiakortasuna eta elikagaien kalitatea
+2012,4,1,4.0,1.0,Ureztatze-lanetarako ur-baliabideak kudeatzea
+2012,4,1,4.0,2.0,Landa inguruaren garapen iraunkorra
+2012,4,1,4.0,3.0,Jabetzaren berrantolamendua eta lurzatiak biltzea
+2012,4,2,1.0,1.0,Industriako eta energiako zuzendaritza eta zerbitzu orokorrak
+2012,4,2,1.0,3.0,"Industriako lehiakortasuna, kalitatea eta segurtasuna"
+2012,4,2,2.0,2.0,Industria-garapena
+2012,4,2,2.0,3.0,Enpresen birmoldaketa eta berrindustrializazioa
+2012,4,2,5.0,2.0,Energia-neurriei buruzko pizgarriak
+2012,4,3,1.0,3.0,Kanpo-merkataritza antolatzea eta sustatzea
+2012,4,3,1.0,4.0,Merkataritza-egiturak antolatzea eta modernizatzea
+2012,4,3,2.0,1.0,Turismoa koordinatzea eta sustatzea
+2012,4,3,2.0,3.0,Hotelak eta konplexu turistikoak sustatzea
+2012,4,4,1.0,1.0,Lurreko garraiorako diru-laguntzak eta babesa
+2012,4,5,1.0,1.0,Herri-lanetako azterlanak eta laguntza teknikoko zerbitzuak
+2012,4,5,1.0,2.0,Herri-lanetako zuzendaritza eta zerbitzu orokorrak
+2012,4,5,1.0,3.0,Ingurumeneko zuzendaritza eta zerbitzu orokorrak
+2012,4,5,1.0,4.0,Garraioko zuzendaritza eta zerbitzu orokorrak
+2012,4,5,2.0,1.0,Ur-baliabideen kudeaketa eta azpiegiturak
+2012,4,5,3.0,1.0,Trenbide-garraioaren azpiegitura
+2012,4,5,3.0,2.0,Errepide-azpiegiturak sortzea
+2012,4,5,3.0,3.0,Errepideak kontserbatzea eta ustiatzea
+2012,4,5,3.0,4.0,Lurreko garraioa antolatzea eta ikuskatzea
+2012,4,5,6.0,1.0,Uraren kalitatea
+2012,4,5,6.0,2.0,Ingurumena babestea eta hobetzea
+2012,4,5,6.0,3.0,Natura-ingurunea babestea eta hobetzea
+2012,4,5,6.0,5.0,Suteak prebenitu eta itzaltzea
+2012,4,5,6.0,6.0,Herri-lurrak eta larreak sortzea eta hobetzea
+2012,4,5,6.0,7.0,Baso-masak kontserbatzea eta hobetzea
+2012,4,5,8.0,1.0,Industriako azpiegitura
+2012,4,5,9.0,1.0,Elektrifikazioa eta argiztatzea
+2012,4,5,A,2.0,Landa-bideak sortzea eta kontserbatzea
+2012,4,5,B,1.0,Komunitatearen ongizaterako beste zerbitzu batzuk
+2012,4,6,5.0,1.0,Osasun-arloko ikerketa
+2012,4,6,7.0,3.0,Ikerketa eta garapen teknologiko-industriala
+2012,4,6,7.0,7.0,Informazioaren gizartea ikertzea eta garatzea
+2012,4,6,7.0,9.0,Telekomunikazioen berrikuntza teknologikoa
+2012,4,6,8.0,1.0,Nekazaritza-sektoreko azterlan teknikoak
+2012,4,6,9.0,1.0,Beste berrikuntza teknologiko batzuk
+2012,4,9,1.0,1.0,"Telekomunikazioen eta informazioaren gizartearen antolamendua, administrazioa eta sustapena"
+2012,4,9,2.0,3.0,Kontsumitzaileen eta erabiltzaileen eskubideak babestea eta sustatzea
+2012,4,9,3.0,3.0,Kontabilitatea eta ikuskaritzak erregulatzea
+2012,4,9,4.0,1.0,Lan-harremanak eta lan-baldintzak administratzea
+2012,4,9,5.0,1.0,Informazio geografikoa garatzea eta aplikatzea
+2012,4,9,5.0,3.0,Metrologia
+2012,9,1,1.0,2.0,Legegintza
+2012,9,1,1.0,3.0,Sektore publikoaren kanpo-kontrola
+2012,9,1,2.0,1.0,Nafarroako Gobernua
+2012,9,1,2.0,2.0,Nafarroako Foru Komunitatearen goi-aholkularitza
+2012,9,1,2.0,3.0,Legebiltzarrarekiko harremanak
+2012,9,2,1.0,1.0,"Administrazio Publikoaren zuzendaritza, antolamendua eta zerbitzu orokorrak"
+2012,9,2,1.0,3.0,"Langileen hautaketa, prestakuntza, igoera eta ordezkaritza"
+2012,9,2,1.0,4.0,"Langileen administrazioa, kudeaketa eta kontrola"
+2012,9,2,1.0,5.0,Informazio-estaldura
+2012,9,2,1.0,6.0,Aldizkari ofizialak editatzea eta egitea
+2012,9,2,1.0,7.0,Aholkularitza eta defentsa
+2012,9,2,1.0,8.0,"Ibilgailu, makineria, instalazio eta bestelakoen kontserbazioa eta mantentze-lanak"
+2012,9,2,1.0,9.0,Inprimakiak eta argitalpenak
+2012,9,2,1.0,A,Administrazio-baliabideen tramitazioa eta ebazpenak
+2012,9,2,1.0,B,Zerbitzu orokorren koordinazioa
+2012,9,2,2.0,1.0,Lurralde-politikako zuzendaritza eta zerbitzu orokorrak
+2012,9,2,2.0,2.0,Koordinazio eta finantza-harremanak toki-erakundeekin
+2012,9,2,2.0,3.0,Toki-administrazioaren araubide juridikoa eta langileriaren araubidea
+2012,9,2,2.0,4.0,
+2012,9,2,3.0,1.0,Ondarearen kudeaketa
+2012,9,2,3.0,3.0,Estatistikak prestatzea eta hedatzea
+2012,9,2,3.0,4.0,Ekonomiako eta ogasuneko zuzendaritza eta zerbitzu orokorrak
+2012,9,2,3.0,7.0,Diruzaintza kudeatzea
+2012,9,2,3.0,8.0,Erosketak eta hornigaiak kudeatzea
+2012,9,2,3.0,9.0,Ekonomia eta ogasunari laguntzeko zerbitzuak
+2012,9,3,1.0,1.0,Aurreikuspen eta politika ekonomikoa
+2012,9,3,1.0,2.0,Aurrekontu-politika
+2012,9,3,1.0,4.0,Barne-kontrola eta kontabilitate publikoa
+2012,9,3,1.0,5.0,Finantza- eta kreditu-politika
+2012,9,3,2.0,1.0,Zerga-sistemaren aplikazioa
+2012,9,3,2.0,2.0,Higiezinen katastroaren kudeaketa
+2012,9,3,2.0,3.0,Erreklamazio ekonomiko-administratiboak ebaztea
+2012,9,3,2.0,4.0,Ikuskapen fiskala
+2012,9,4,1.0,1.0,Hitzarmen Ekonomikoa Estatuarekin
+2012,9,4,2.0,2.0,"Toki-erakundeentzako transferentziak, Estatuaren diru-sarreretan duten partaidetzagatik"
+2012,9,4,2.0,3.0,Beste transferentzia batzuk
+2012,9,4,2.0,4.0,"Toki-erakundeentzako transferentziak, obra eta zerbitzuetan laguntzeko"
+2012,9,5,1.0,1.0,Zor publikoaren amortizazioa eta finantza-gastuak moneta nazionalean
+2012,3,2,2,0,Irakaskuntzako zuzendaritza eta zerbitzu orokorrak
+2012,2,3,1,0,Gizarte-babesaren eta sustapenaren programazio orokorra

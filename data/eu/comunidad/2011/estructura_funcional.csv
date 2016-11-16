@@ -1,271 +1,272 @@
-2011,1,,,,Servicios públicos básicos
-2011,2,,,,Actuaciones de protección y promoción social
-2011,3,,,,Producción de bienes públicos de carácter preferente
-2011,4,,,,Actuaciones de carácter económico
-2011,9,,,,Actuaciones de carácter general
-2011,1,1,,,Justicia
-2011,1,3,,,Seguridad ciudadana e instituciones penitenciarias
-2011,1,4,,,Política exterior
-2011,2,1,,,Pensiones
-2011,2,2,,,Otras prestaciones económicas
-2011,2,3,,,Servicios sociales y promoción social
-2011,2,4,,,Fomento del empleo
-2011,2,6,,,Acceso a la vivienda y fomento de la edificación
-2011,3,1,,,Sanidad
-2011,3,2,,,Educación
-2011,3,3,,,Cultura
-2011,4,1,,,"Agricultura, ganadería y alimentación"
-2011,4,2,,,Industria y energía
-2011,4,3,,,"Comercio, Turismo y Pymes"
-2011,4,4,,,Subvenciones al transporte
-2011,4,5,,,Infraestructuras
-2011,4,6,,,"Investigación, desarrollo e innovación"
-2011,4,9,,,Otras actuaciones de carácter económico
-2011,9,1,,,Alta dirección
-2011,9,2,,,Servicios de carácter general
-2011,9,3,,,Administración financiera y tributaria
-2011,9,4,,,Transferencias a otras administraciones públicas
-2011,9,5,,,Deuda pública
-2011,1,1,1,,Administración general de justicia
-2011,1,1,2,,Administración de justicia
-2011,1,1,4,,Protección jurídica del menor
-2011,1,3,1,,Administración general de seguridad y protección civil
-2011,1,3,2,,Seguridad y orden público
-2011,1,3,3,,Instituciones penitenciarias
-2011,1,3,4,,Protección civil
-2011,1,4,3,,Cooperación para el desarrollo
-2011,1,4,4,,"Cooperación, promoción y difusión cultural en el exterior"
-2011,1,4,5,,Relaciones con la Unión Europea
-2011,1,4,6,,Relaciones con el exterior
-2011,2,1,1,,Pensiones contributivas
-2011,2,1,2,,Pensiones no contributivas
-2011,2,2,4,,Otras prestaciones económicas
-2011,2,3,1,,Acción social
-2011,2,3,2,,Promoción social
-2011,2,3,3,,Administración general de protección social
-2011,2,4,1,,Promoción del empleo y de la inserción laboral
-2011,2,4,2,,Formación profesional no reglada
-2011,2,6,1,,Acceso a la vivienda y fomento de la edificación
-2011,3,1,1,,Administración general de sanidad
-2011,3,1,2,,"Hospitales, servicios asistenciales y centros de salud"
-2011,3,1,3,,Acciones públicas relativas a la salud
-2011,3,2,1,,Administración general de educación
-2011,3,2,2,,Enseñanza
-2011,3,2,3,,Promoción educativa
-2011,3,2,4,,Servicios complementarios de la enseñanza
-2011,3,2,5,,Infraestructura
-2011,3,3,1,,Administración general de cultura
-2011,3,3,2,,Bibliotecas y archivos
-2011,3,3,3,,Museos y artes plásticas
-2011,3,3,4,,Promoción cultural
-2011,3,3,5,,Artes escénicas
-2011,3,3,6,,Deportes y educación física
-2011,3,3,7,,Arqueología y protección del patrimonio histórico-artístico
-2011,4,1,1,,"Administración general de agricultura, ganadería y alimentación"
-2011,4,1,2,,Mejoras de las estructuras agrarias y de los sistemas productivos
-2011,4,1,3,,Competitividad de la industria agroalimentaria y calidad alimentaria
-2011,4,1,4,,Desarrollo rural
-2011,4,2,1,,Actuaciones administrativas sobre la industria
-2011,4,2,2,,Reconversión y desarrollo industrial
-2011,4,2,5,,Ordenación y eficiencia energética
-2011,4,3,1,,Comercio
-2011,4,3,2,,Ordenación y promoción turística
-2011,4,3,3,,Desarrollo empresarial
-2011,4,4,1,,Subvenciones al transporte
-2011,4,5,1,,Administración general de infraestructuras
-2011,4,5,2,,Recursos hidráulicos
-2011,4,5,3,,Infraestructuras del transporte terrestre
-2011,4,5,6,,Actuaciones medioambientales
-2011,4,5,8,,"Infraestructura industrial, comercial y turística"
-2011,4,5,9,,Electrificación y alumbrado
-2011,4,5,A,,Vías de comunicación en el medio rural
-2011,4,5,B,,Otros servicios del bienestar comunitario
-2011,4,6,5,,Investigación y desarrollo relacionados con la salud
-2011,4,6,7,,Investigación y desarrollo en otros sectores
-2011,4,6,8,,Estudios técnicos
-2011,4,6,9,,Otras Innovaciones Tecnológicas
-2011,4,9,1,,Comunicaciones
-2011,4,9,2,,Defensa de la competencia
-2011,4,9,3,,Ordenación del sector financiero
-2011,4,9,4,,Relaciones laborales
-2011,4,9,5,,"Cartografía, meteorología y metrología"
-2011,9,1,1,,Alta dirección de la Comunidad Foral
-2011,9,1,2,,Alta dirección del Gobierno
-2011,9,2,1,,Administración general
-2011,9,2,2,,Coordinación y organización territorial del Gobierno
-2011,9,2,3,,Administración general de economía y hacienda
-2011,9,3,1,,Política económica y fiscal
-2011,9,3,2,,Gestión del sistema tributario
-2011,9,4,1,,Convenios con el Estado
-2011,9,4,2,,Transferencias a entidades locales
-2011,9,5,1,,Deuda pública
-2011,1,1,1,2,Dirección y servicios generales de justicia
-2011,1,1,2,1,Órganos judiciales
-2011,1,1,4,1,Protección jurídica del menor
-2011,1,3,1,1,Dirección y servicios generales de seguridad y protección civil
-2011,1,3,2,1,Seguridad ciudadana
-2011,1,3,2,2,Seguridad vial
-2011,1,3,3,1,Centros e instituciones penitenciarias
-2011,1,3,4,1,Protección civil
-2011,1,3,4,2,Prevención y extinción de incendios y salvamento
-2011,1,4,3,1,Cooperación para el desarrollo
-2011,1,4,4,1,"Cooperación, promoción y difusión cultural en el exterior"
-2011,1,4,5,1,Relaciones con la Unión Europea
-2011,1,4,6,1,Relaciones con el exterior
-2011,2,1,1,1,Pensiones contributivas
-2011,2,1,2,1,Pensiones no contributivas y prestaciones asistenciales
-2011,2,2,4,1,Otras prestaciones económicas
-2011,2,3,1,0,Programación general de protección y promoción social
-2011,2,3,1,3,Servicios sociales a personas con discapacidad
-2011,2,3,1,4,Servicios sociales a personas mayores
-2011,2,3,1,5,Protección a la familia
-2011,2,3,1,6,Reinserción social
-2011,2,3,1,7,Atención a la infancia
-2011,2,3,1,9,Integración de los inmigrantes
-2011,2,3,2,1,Promoción y servicios a la juventud
-2011,2,3,2,2,Igualdad de oportunidades entre mujeres y hombres
-2011,2,3,2,3,Actuaciones para la previsión integral de la violencia de género
-2011,2,3,3,1,Dirección y servicios generales de protección social
-2011,2,4,1,1,Fomento de la inserción y estabilidad laboral
-2011,2,4,1,2,Desarrollo de la economía social y de la responsabilidad social de las empresas
-2011,2,4,1,3,Actuaciones en el mercado de trabajo
-2011,2,4,2,1,Formación profesional ocupacional
-2011,2,4,2,2,"Escuelas taller, casas de oficios y talleres de empleo"
-2011,2,6,1,1,Dirección y servicios generales de vivienda
-2011,2,6,1,2,Promoción y administración de viviendas
-2011,2,6,1,4,"Ayudas para rehabilitación, construcción y acceso a la vivienda"
-2011,2,6,1,5,Mantenimiento y mejora del patrimonio inmobiliario
-2011,2,6,1,6,Mantenimiento y mejora de la infraestructura urbana en el ámbito municipal
-2011,2,6,1,7,Urbanismo y política del suelo
-2011,3,1,1,1,Dirección y servicios generales de sanidad y política social
-2011,3,1,1,2,Formación sanitaria
-2011,3,1,2,2,Atención primaria de salud
-2011,3,1,2,3,Atención especializada de salud
-2011,3,1,2,4,Asistencia psiquiátrica y psíquica
-2011,3,1,2,7,Servicios auxiliares de centros sanitarios
-2011,3,1,2,8,Infraestructura y equipamiento de centros sanitarios
-2011,3,1,3,1,Oferta y uso racional de medicamentos y productos sanitarios
-2011,3,1,3,2,Salud pública y sanidad exterior
-2011,3,1,3,4,"Terapias avanzadas, medicina regenerativa y trasplantes"
-2011,3,1,3,9,Otras acciones públicas de protección de la salud
-2011,3,2,1,1,Dirección y servicios generales de educación
-2011,3,2,1,2,Formación permanente del profesorado de Educación
-2011,3,2,2,0,Dirección y servicios generales de enseñanza
-2011,3,2,2,1,Educación infantil
-2011,3,2,2,2,Educación secundaria
-2011,3,2,2,3,Enseñanzas universitarias
-2011,3,2,2,4,Educación especial
-2011,3,2,2,5,Enseñanzas artísticas
-2011,3,2,2,7,Educación compensatoria y de adultos
-2011,3,2,2,9,"Otras enseñanzas (idiomas, especiales y otros)"
-2011,3,2,2,A,Nuevas tecnologías aplicadas a la educación
-2011,3,2,2,C,Bachillerato
-2011,3,2,2,D,Educación primaria
-2011,3,2,2,E,Formación profesional
-2011,3,2,3,1,Becas y ayudas a estudiantes
-2011,3,2,4,1,Servicios complementarios de la enseñanza
-2011,3,2,4,2,Apoyo a otras actividades educativas
-2011,3,2,5,1,"Construcción, equipamiento y material didáctico"
-2011,3,3,1,1,Dirección y servicios generales de cultura
-2011,3,3,2,1,Archivos
-2011,3,3,2,2,Bibliotecas
-2011,3,3,3,1,Museos
-2011,3,3,4,1,Promoción y cooperación cultural
-2011,3,3,4,2,Promoción del libro y publicaciones culturales
-2011,3,3,5,1,Música y danza
-2011,3,3,5,2,"Teatro, cinematografía y otras artes escénicas"
-2011,3,3,6,1,Fomento y apoyo de las actividades deportivas
-2011,3,3,7,1,"Administración, conservación y restauración del patrimonio histórico"
-2011,3,3,7,4,Arqueología
-2011,4,1,1,1,"Dirección y servicios generales de agricultura, ganadería y alimentación"
-2011,4,1,2,1,"Competitividad, calidad y defensa de la producción agrícola"
-2011,4,1,2,2,"Competitividad, calidad y defensa de la producción ganadera"
-2011,4,1,2,3,Regulación de los mercados agrarios
-2011,4,1,3,1,Competitividad de la industria agroalimentaria y calidad alimentaria
-2011,4,1,4,1,Gestión de los recursos hídricos para el regadío
-2011,4,1,4,2,Desarrollo sostenible del medio rural
-2011,4,1,4,3,Reordenación de la propiedad y concentración parcelaria
-2011,4,2,1,1,Dirección y servicios generales de industria y energía
-2011,4,2,1,3,"Calidad, competitividad y seguridad industrial"
-2011,4,2,2,2,Desarrollo industrial
-2011,4,2,2,3,Reconversión y reindustrialización de empresas
-2011,4,2,5,,Ordenación y eficiencia energética
-2011,4,2,5,2,Incentivos sobre medidas energéticas
-2011,4,3,1,3,Ordenación y promoción del comercio exterior
-2011,4,3,1,4,Ordenación y modernización de las estructuras comerciales
-2011,4,3,2,1,Coordinación y promoción del turismo
-2011,4,3,2,3,Promoción hotelera y de complejos turísticos
-2011,4,3,3,1,Apoyo a la pequeña y mediana empresa
-2011,4,4,1,1,Subvenciones y apoyo al transporte terrestre
-2011,4,5,1,1,Estudios y servicios de asistencia técnica en obras públicas
-2011,4,5,1,2,Dirección y servicios generales de obras públicas
-2011,4,5,1,3,Dirección y servicios generales de medio ambiente
-2011,4,5,1,4,Dirección y servicios generales del transporte
-2011,4,5,2,1,Gestión e infraestructuras de recursos hidráulicos
-2011,4,5,3,1,Infraestructura del transporte ferroviario
-2011,4,5,3,2,Creación de infraestructura de carreteras
-2011,4,5,3,3,Conservación y explotación de carreteras
-2011,4,5,3,4,Ordenación e inspección del transporte terrestre
-2011,4,5,6,1,Calidad del agua
-2011,4,5,6,2,Protección y mejora del medio ambiente
-2011,4,5,6,3,Protección y mejora del medio natural
-2011,4,5,6,5,Prevención y extinción de incendios
-2011,4,5,6,6,Creación y mejora de comunales y pastos
-2011,4,5,6,7,Conservación y mejora de masas forestales
-2011,4,5,8,1,Infraestructura industrial
-2011,4,5,9,1,Electrificación y alumbrado
-2011,4,5,A,2,Creación y conservación de caminos rurales
-2011,4,5,B,1,Otros servicios del bienestar comunitario
-2011,4,6,5,1,Investigación sanitaria
-2011,4,6,7,3,Investigación y desarrollo tecnológico-industrial
-2011,4,6,7,7,Investigación y desarrollo de la sociedad de la información
-2011,4,6,7,9,Innovación tecnológica de las telecomunicaciones
-2011,4,6,8,1,Estudios técnicos en el sector agrario
-2011,4,6,9,,Otras Innovaciones Tecnológicas
-2011,4,6,9,1,Otras Innovaciones Tecnológicas
-2011,4,9,1,1,"Ordenación, administración y promoción de las telecomunicaciones y de la sociedad de la información"
-2011,4,9,1,3,Mantenimiento y ampliación de la red telefónica y radiotelefónica
-2011,4,9,2,3,Protección y promoción de los derechos de los consumidores y usuarios
-2011,4,9,3,3,Regulación contable y de auditorías
-2011,4,9,4,1,Administración de las relaciones laborales y condiciones de trabajo
-2011,4,9,5,1,Desarrollo y aplicación de la información geográfica
-2011,4,9,5,3,Metrología
-2011,9,1,1,2,Actividad legislativa
-2011,9,1,1,3,Control externo del sector público
-2011,9,1,2,1,Gobierno de Navarra
-2011,9,1,2,2,Alto asesoramiento de la Comunidad Foral de Navarra
-2011,9,1,2,3,Relaciones con el Parlamento
-2011,9,2,1,1,"Dirección, organización y servicios generales de la Administración Pública"
-2011,9,2,1,3,"Selección, formación, promoción y representación del personal"
-2011,9,2,1,4,"Administración, gestión y control de personal"
-2011,9,2,1,5,Cobertura informativa
-2011,9,2,1,6,Edición y confección de boletines oficiales
-2011,9,2,1,7,Asesoramiento y defensa
-2011,9,2,1,8,"Conservación y mantenimiento de vehículos, maquinaria, instalaciones y otros"
-2011,9,2,1,9,Impresos y publicaciones
-2011,9,2,1,A,Tramitación y resolución de recursos administrativos
-2011,9,2,1,B,Coordinación de servicios generales
-2011,9,2,2,1,Dirección y servicios generales de Política Territorial
-2011,9,2,2,2,Coordinación y relaciones financieras con entidades locales
-2011,9,2,2,3,Régimen jurídico y de personal de la administración local
-2011,9,2,2,4,Apoyos en aspectos técnico-económicos
-2011,9,2,3,1,Gestión del patrimonio
-2011,9,2,3,3,Elaboración y difusión estadística
-2011,9,2,3,4,Dirección y servicios generales de economía y hacienda
-2011,9,2,3,7,Gestión de tesorería
-2011,9,2,3,8,Gestión de compras y suministros
-2011,9,2,3,9,Servicios de apoyo a economía y hacienda
-2011,9,3,1,1,Previsión y política económica
-2011,9,3,1,2,Política presupuestaria
-2011,9,3,1,4,Control interno y contabilidad pública
-2011,9,3,1,5,Política financiera y de créditos
-2011,9,3,2,1,Aplicación del sistema tributario
-2011,9,3,2,2,Gestión del catastro inmobiliario
-2011,9,3,2,3,Resolución de reclamaciones económico-administrativas
-2011,9,3,2,4,Inspección fiscal
-2011,9,4,1,1,Convenio económico con el Estado
-2011,9,4,2,2,Transferencias a entidades locales por participación en ingresos del Estado
-2011,9,4,2,3,Otras transferencias
-2011,9,4,2,4,Transferencias a entidades locales para cooperar en obras y servicios
-2011,9,4,2,5,Apoyo a entidades locales para saneamiento financiero
-2011,9,5,1,1,Amortización y gastos financieros de la deuda pública en moneda nacional
+#año,area,politica,grupo,programa,EU
+2011,1,,,,Oinarrizko zerbitzu publikoak
+2011,2,,,,Gizarte-babesaren eta sustapenaren jarduketak
+2011,3,,,,Lehentasunezko ondasun publikoen ekoizpena
+2011,4,,,,Jarduketa ekonomikoak
+2011,9,,,,Izaera orokorreko jarduketak
+2011,1,1,,,Justizia
+2011,1,3,,,Herritarren segurtasuna eta espetxeak
+2011,1,4,,,Kanpo-politika
+2011,2,1,,,Pentsioak
+2011,2,2,,,Beste prestazio ekonomiko batzuk
+2011,2,3,,,Gizarte-zerbitzuak eta gizarte-sustapena
+2011,2,4,,,Enpleguaren sustapena
+2011,2,6,,,Etxebizitza eskuratzea eta eraikuntzaren sustapena
+2011,3,1,,,Osasuna
+2011,3,2,,,Hezkuntza
+2011,3,3,,,Kultura
+2011,4,1,,,"Nekazaritza, abeltzaintza eta elikagaigintza"
+2011,4,2,,,Industria eta energia
+2011,4,3,,,"Merkataritza, turismoa eta ETEak"
+2011,4,4,,,Garraiorako diru-laguntzak
+2011,4,5,,,Azpiegiturak
+2011,4,6,,,"Ikerketa, garapena eta berrikuntza"
+2011,4,9,,,Izaera ekonomikoko beste jarduketa batzuk
+2011,9,1,,,Goi-zuzendaritza
+2011,9,2,,,Izaera orokorreko zerbitzuak
+2011,9,3,,,Finantza- eta zerga-administrazioa
+2011,9,4,,,Transferentziak beste Administrazio Publiko batzuetara
+2011,9,5,,,Zor publikoa; Herri-zorra
+2011,1,1,1,,Justizia-administrazio orokorra
+2011,1,1,2,,Justizia-administrazioa
+2011,1,1,4,,Adingabearen babes juridikoa
+2011,1,3,1,,Segurtasuneko eta babes zibileko administrazio orokorra
+2011,1,3,2,,Segurtasuna eta ordena publikoa
+2011,1,3,3,,Espetxeen alorra
+2011,1,3,4,,Babes zibila
+2011,1,4,3,,Garapenerako lankidetza
+2011,1,4,4,,"Kultura-lankidetza, -sustapena eta -hedapena atzerrian"
+2011,1,4,5,,Europar Batasunarekiko harremanak
+2011,1,4,6,,Kanpo-harremanak
+2011,2,1,1,,Kotizaziopeko pentsioa
+2011,2,1,2,,Ordaindutakoaren araberakoak ez diren pentsioak
+2011,2,2,4,,Beste prestazio ekonomiko batzuk
+2011,2,3,1,,Gizarte-ekintza
+2011,2,3,2,,Gizarte-sustapena
+2011,2,3,3,,Gizarte-babesaren administrazio orokorra
+2011,2,4,1,,Enplegua eta laneratzea sustatzea
+2011,2,4,2,,Arautu gabeko lanbide-prestakuntza
+2011,2,6,1,,Etxebizitza eskuratzea eta eraikuntzaren sustapena
+2011,3,1,1,,Osasun-administrazio orokorra
+2011,3,1,2,,"Ospitaleak, zerbitzu asistentzialak eta osasun-zentroak"
+2011,3,1,3,,Osasunari buruzko jarduera publikoak
+2011,3,2,1,,Hezkuntza-administrazio orokorra
+2011,3,2,2,,Irakaskuntza
+2011,3,2,3,,Hezkuntza-sustapena
+2011,3,2,4,,Irakaskuntzako zerbitzu osagarriak
+2011,3,2,5,,Azpiegitura
+2011,3,3,1,,Kultura-administrazio orokorra
+2011,3,3,2,,Liburutegiak eta agiritegiak
+2011,3,3,3,,Museoak eta arte plastikoak
+2011,3,3,4,,Kultura-sustapena
+2011,3,3,5,,Arte eszenikoak
+2011,3,3,6,,Kirolak eta gorputz-hezkuntza
+2011,3,3,7,,Arkeologia eta ondare historiko-artistikoaren babesa
+2011,4,1,1,,"Nekazaritza, abeltzaintza eta elikagaigintzako administrazio orokorra"
+2011,4,1,2,,Nekazaritzako azpiegiturak eta ekoizpen-sistemak hobetzea
+2011,4,1,3,,Nekazaritzako elikagaien industriaren lehiakortasuna eta elikagaien kalitatea
+2011,4,1,4,,Landa-garapena
+2011,4,2,1,,Industriari buruzko jarduketa administratiboak
+2011,4,2,2,,Industria-birmoldaketa eta -garapena
+2011,4,2,5,,Energiaren antolamendua eta eraginkortasuna
+2011,4,3,1,,Merkataritza
+2011,4,3,2,,Turismoa antolatzea eta sustatzea
+2011,4,3,3,,Enpresa-garapena
+2011,4,4,1,,Garraiorako diru-laguntzak
+2011,4,5,1,,Azpiegituren administrazio orokorra
+2011,4,5,2,,Ur-baliabideak
+2011,4,5,3,,Lurreko garraiorako azpiegiturak
+2011,4,5,6,,Ingurumeneko jarduketak
+2011,4,5,8,,"Industria, merkataritza eta turismoko azpiegitura"
+2011,4,5,9,,Elektrifikazioa eta argiztatzea
+2011,4,5,A,,Landa-inguruneko komunikabideak
+2011,4,5,B,,Komunitatearen ongizaterako beste zerbitzu batzuk
+2011,4,6,5,,Osasunarekin lotutako ikerketa eta garapena
+2011,4,6,7,,Beste sektore batzuetako ikerketa eta garapena
+2011,4,6,8,,Azterlan teknikoak
+2011,4,6,9,,Beste berrikuntza teknologiko batzuk
+2011,4,9,1,,Komunikazioak
+2011,4,9,2,,Lehiaren defentsa
+2011,4,9,3,,Finantza-sektorearen antolamendua
+2011,4,9,4,,Lan-harremanak
+2011,4,9,5,,"Kartografia, meteorologia eta metrologia"
+2011,9,1,1,,Foru Komunitateko goi-zuzendaritza
+2011,9,1,2,,Gobernuaren goi-zuzendaritza
+2011,9,2,1,,Administrazio orokorra
+2011,9,2,2,,Gobernuaren lurraldeko koordinazioa eta antolakuntza
+2011,9,2,3,,Ekonomia eta ogasunaren administrazio orokorra
+2011,9,3,1,,Politika ekonomikoa y fiskala
+2011,9,3,2,,Zerga-sistemaren kudeaketa
+2011,9,4,1,,Estatuarekin egindako hitzarmenak
+2011,9,4,2,,Toki-erakundeentzako transferentziak
+2011,9,5,1,,Zor publikoa; Herri-zorra
+2011,1,1,1,2,Justiziako zuzendaritza eta zerbitzu orokorrak
+2011,1,1,2,1,Organo judizialak
+2011,1,1,4,1,Adingabearen babes juridikoa
+2011,1,3,1,1,Segurtasun eta babes zibileko zuzendaritza eta zerbitzu orokorrak
+2011,1,3,2,1,Herritarren segurtasuna
+2011,1,3,2,2,Bide-segurtasuna
+2011,1,3,3,1,Espetxeak
+2011,1,3,4,1,Babes zibila
+2011,1,3,4,2,Suteen prebenitu eta itzaltzeko eta salbamenduko zerbitzuak
+2011,1,4,3,1,Garapenerako lankidetza
+2011,1,4,4,1,"Kultura-lankidetza, -sustapena eta -hedapena atzerrian"
+2011,1,4,5,1,Europar Batasunarekiko harremanak
+2011,1,4,6,1,Kanpo-harremanak
+2011,2,1,1,1,Kotizaziopeko pentsioa
+2011,2,1,2,1,Ekarpenezkoak ez diren pentsioak eta laguntza-prestazioak
+2011,2,2,4,1,Beste prestazio ekonomiko batzuk
+2011,2,3,1,0,Gizarte-babesaren eta sustapenaren programazio orokorra
+2011,2,3,1,3,Desgaituentzako gizarte-zerbitzuak
+2011,2,3,1,4,Adinekoentzako gizarte-zerbitzuak
+2011,2,3,1,5,Familientzako babesa
+2011,2,3,1,6,Bergizarteratzea
+2011,2,3,1,7,Haurrentzako arreta
+2011,2,3,1,9,Etorkinak gizarteratzea
+2011,2,3,2,1,Gazteen sustapena eta gazteentzako zerbitzuak
+2011,2,3,2,2,Emakumeen eta gizonen arteko aukera-berdintasuna
+2011,2,3,2,3,Genero-indarkeria osotasunean prebenitzeko jarduketak
+2011,2,3,3,1,Gizarte-babeseko zuzendaritza eta zerbitzu orokorrak
+2011,2,4,1,1,Laneratzea eta enplegu-egonkortasuna sustatzea
+2011,2,4,1,2,Gizarte-ekonomia eta enpresen gizarte-erantzukizuna garatzea
+2011,2,4,1,3,Lan-merkatuko jarduketak
+2011,2,4,2,1,Lanerako lanbide-prestakuntza
+2011,2,4,2,2,"Eskola-lantegiak, ofizio-etxeak eta enplegu-tailerrak"
+2011,2,6,1,1,Etxebizitzako zuzendaritza eta zerbitzu orokorrak
+2011,2,6,1,2,Etxebizitzen sustapena eta administrazioa
+2011,2,6,1,4,"Etxebizitzak birgaitzeko, eraikitzeko eta lortzeko laguntzak"
+2011,2,6,1,5,Ondare higiezinaren mantentze- eta hobekuntza-lanak
+2011,2,6,1,6,Hiri-azpiegituren mantentze- eta hobekuntza-lanak udal-esparruan
+2011,2,6,1,7,Hirigintza eta lurzoru-politika
+2011,3,1,1,1,Osasuneko eta gizarte-babeseko zuzendaritza eta zerbitzu orokorrak
+2011,3,1,1,2,Osasun-prestakuntza
+2011,3,1,2,2,Lehen mailako osasun-arreta
+2011,3,1,2,3,Osasun-arreta espezializatua
+2011,3,1,2,4,Arreta psikiatriko eta psikikoa
+2011,3,1,2,7,Osasun-zentroetako zerbitzu osagarriak
+2011,3,1,2,8,Osasun-zentroetako azpiegitura eta ekipamendua
+2011,3,1,3,1,Medikamentuen eta osasun-produktuen erabilera arrazionala 
+2011,3,1,3,2,Osasun publikoa eta kanpoko osasungintza
+2011,3,1,3,4,"Terapia aurreratuak, medikuntza birsortzailea eta transplanteak"
+2011,3,1,3,9,Osasuna babesteko bestelako jarduera publikoak
+2011,3,2,1,1,Hezkuntzako zuzendaritza eta zerbitzu orokorrak
+2011,3,2,1,2,Hezkuntza-alorreko irakasleen etengabeko prestakuntza
+2011,3,2,2,0,Irakaskuntzako zuzendaritza eta zerbitzu orokorrak
+2011,3,2,2,1,Haur Hezkuntza
+2011,3,2,2,2,Bigarren hezkuntza
+2011,3,2,2,3,Unibertsitate-irakaskuntzak
+2011,3,2,2,4,Hezkuntza berezia
+2011,3,2,2,5,Arte-irakaskuntzak
+2011,3,2,2,7,Osabidezko hezkuntza eta helduen hezkuntza
+2011,3,2,2,9,"Beste irakaskuntza batzuk (hizkuntzak, bereziak eta bestelakoak"
+2011,3,2,2,A,Hezkuntzari aplikatutako teknologia berriak
+2011,3,2,2,C,Batxilergoa
+2011,3,2,2,D,Lehen Hezkuntza
+2011,3,2,2,E,Lanbide Heziketa
+2011,3,2,3,1,Ikasleentzako bekak eta laguntzak
+2011,3,2,4,1,Irakaskuntzako zerbitzu osagarriak
+2011,3,2,4,2,Beste eskola-jarduera batzuetarako laguntza
+2011,3,2,5,1,"Eraikuntza, ekipamendua eta material didaktikoak"
+2011,3,3,1,1,Kulturako zuzendaritza eta zerbitzu orokorrak
+2011,3,3,2,1,Agiritegiak
+2011,3,3,2,2,Liburutegiak
+2011,3,3,3,1,Museoak
+2011,3,3,4,1,Kultura-sustapena eta -lankidetza
+2011,3,3,4,2,Liburuak eta kultura-argitalpenak sustatzea
+2011,3,3,5,1,Musika eta dantza
+2011,3,3,5,2,"Antzerkia, zinematografia eta beste arte eszeniko batzuk"
+2011,3,3,6,1,Kirol-jarduerak sustatzea eta babestea
+2011,3,3,7,1,"Ondare historikoaren administrazioa, kontserbazioa eta berriztapena"
+2011,3,3,7,4,Arkeologia
+2011,4,1,1,1,"Nekazaritza, abeltzaintza eta elikagaigintzako zuzendaritza eta zerbitzu orokorrak"
+2011,4,1,2,1,"Nekazaritzako ekoizpenen lehiakortasuna, kalitatea eta defentsa"
+2011,4,1,2,2,"Abeltzaintzako ekoizpenen lehiakortasuna, kalitatea eta defentsa"
+2011,4,1,2,3,Nekazaritza-merkatuak erregulatzea
+2011,4,1,3,1,Nekazaritzako elikagaien industriaren lehiakortasuna eta elikagaien kalitatea
+2011,4,1,4,1,Ureztatze-lanetarako ur-baliabideak kudeatzea
+2011,4,1,4,2,Landa inguruaren garapen iraunkorra
+2011,4,1,4,3,Jabetzaren berrantolamendua eta lurzatiak biltzea
+2011,4,2,1,1,Industriako eta energiako zuzendaritza eta zerbitzu orokorrak
+2011,4,2,1,3,"Industriako lehiakortasuna, kalitatea eta segurtasuna"
+2011,4,2,2,2,Industria-garapena
+2011,4,2,2,3,Enpresen birmoldaketa eta berrindustrializazioa
+2011,4,2,5,,Energiaren antolamendua eta eraginkortasuna
+2011,4,2,5,2,Energia-neurriei buruzko pizgarriak
+2011,4,3,1,3,Kanpo-merkataritza antolatzea eta sustatzea
+2011,4,3,1,4,Merkataritza-egiturak antolatzea eta modernizatzea
+2011,4,3,2,1,Turismoa koordinatzea eta sustatzea
+2011,4,3,2,3,Hotelak eta konplexu turistikoak sustatzea
+2011,4,3,3,1,Enpresa txiki eta ertainak babestea
+2011,4,4,1,1,Lurreko garraiorako diru-laguntzak eta babesa
+2011,4,5,1,1,Herri-lanetako azterlanak eta laguntza teknikoko zerbitzuak
+2011,4,5,1,2,Herri-lanetako zuzendaritza eta zerbitzu orokorrak
+2011,4,5,1,3,Ingurumeneko zuzendaritza eta zerbitzu orokorrak
+2011,4,5,1,4,Garraioko zuzendaritza eta zerbitzu orokorrak
+2011,4,5,2,1,Ur-baliabideen kudeaketa eta azpiegiturak
+2011,4,5,3,1,Trenbide-garraioaren azpiegitura
+2011,4,5,3,2,Errepide-azpiegiturak sortzea
+2011,4,5,3,3,Errepideak kontserbatzea eta ustiatzea
+2011,4,5,3,4,Lurreko garraioa antolatzea eta ikuskatzea
+2011,4,5,6,1,Uraren kalitatea
+2011,4,5,6,2,Ingurumena babestea eta hobetzea
+2011,4,5,6,3,Natura-ingurunea babestea eta hobetzea
+2011,4,5,6,5,Suteak prebenitu eta itzaltzea
+2011,4,5,6,6,Herri-lurrak eta larreak sortzea eta hobetzea
+2011,4,5,6,7,Baso-masak kontserbatzea eta hobetzea
+2011,4,5,8,1,Industriako azpiegitura
+2011,4,5,9,1,Elektrifikazioa eta argiztatzea
+2011,4,5,A,2,Landa-bideak sortzea eta kontserbatzea
+2011,4,5,B,1,Komunitatearen ongizaterako beste zerbitzu batzuk
+2011,4,6,5,1,Osasun-arloko ikerketa
+2011,4,6,7,3,Ikerketa eta garapen teknologiko-industriala
+2011,4,6,7,7,Informazioaren gizartea ikertzea eta garatzea
+2011,4,6,7,9,Telekomunikazioen berrikuntza teknologikoa
+2011,4,6,8,1,Nekazaritza-sektoreko azterlan teknikoak
+2011,4,6,9,,Beste berrikuntza teknologiko batzuk
+2011,4,6,9,1,Beste berrikuntza teknologiko batzuk
+2011,4,9,1,1,"Telekomunikazioen eta informazioaren gizartearen antolamendua, administrazioa eta sustapena"
+2011,4,9,1,3,Telefonia eta irrati-telefoniako sarea mantentzea eta hedatzea
+2011,4,9,2,3,Kontsumitzaileen eta erabiltzaileen eskubideak babestea eta sustatzea
+2011,4,9,3,3,Kontabilitatea eta ikuskaritzak erregulatzea
+2011,4,9,4,1,Lan-harremanak eta lan-baldintzak administratzea
+2011,4,9,5,1,Informazio geografikoa garatzea eta aplikatzea
+2011,4,9,5,3,Metrologia
+2011,9,1,1,2,Legegintza
+2011,9,1,1,3,Sektore publikoaren kanpo-kontrola
+2011,9,1,2,1,Nafarroako Gobernua
+2011,9,1,2,2,Nafarroako Foru Komunitatearen goi-aholkularitza
+2011,9,1,2,3,Legebiltzarrarekiko harremanak
+2011,9,2,1,1,"Administrazio Publikoaren zuzendaritza, antolamendua eta zerbitzu orokorrak"
+2011,9,2,1,3,"Langileen hautaketa, prestakuntza, igoera eta ordezkaritza"
+2011,9,2,1,4,"Langileen administrazioa, kudeaketa eta kontrola"
+2011,9,2,1,5,Informazio-estaldura
+2011,9,2,1,6,Aldizkari ofizialak editatzea eta egitea
+2011,9,2,1,7,Aholkularitza eta defentsa
+2011,9,2,1,8,"Ibilgailu, makineria, instalazio eta bestelakoen kontserbazioa eta mantentze-lanak"
+2011,9,2,1,9,Inprimakiak eta argitalpenak
+2011,9,2,1,A,Administrazio-baliabideen tramitazioa eta ebazpenak
+2011,9,2,1,B,Zerbitzu orokorren koordinazioa
+2011,9,2,2,1,Lurralde-politikako zuzendaritza eta zerbitzu orokorrak
+2011,9,2,2,2,Koordinazio eta finantza-harremanak toki-erakundeekin
+2011,9,2,2,3,Toki-administrazioaren araubide juridikoa eta langileriaren araubidea
+2011,9,2,2,4,
+2011,9,2,3,1,Ondarearen kudeaketa
+2011,9,2,3,3,Estatistikak prestatzea eta hedatzea
+2011,9,2,3,4,Ekonomiako eta ogasuneko zuzendaritza eta zerbitzu orokorrak
+2011,9,2,3,7,Diruzaintza kudeatzea
+2011,9,2,3,8,Erosketak eta hornigaiak kudeatzea
+2011,9,2,3,9,Ekonomia eta ogasunari laguntzeko zerbitzuak
+2011,9,3,1,1,Aurreikuspen eta politika ekonomikoa
+2011,9,3,1,2,Aurrekontu-politika
+2011,9,3,1,4,Barne-kontrola eta kontabilitate publikoa
+2011,9,3,1,5,Finantza- eta kreditu-politika
+2011,9,3,2,1,Zerga-sistemaren aplikazioa
+2011,9,3,2,2,Higiezinen katastroaren kudeaketa
+2011,9,3,2,3,Erreklamazio ekonomiko-administratiboak ebaztea
+2011,9,3,2,4,Ikuskapen fiskala
+2011,9,4,1,1,Hitzarmen Ekonomikoa Estatuarekin
+2011,9,4,2,2,"Toki-erakundeentzako transferentziak, Estatuaren diru-sarreretan duten partaidetzagatik"
+2011,9,4,2,3,Beste transferentzia batzuk
+2011,9,4,2,4,"Toki-erakundeentzako transferentziak, obra eta zerbitzuetan laguntzeko"
+2011,9,4,2,5,Finantzak saneatzeko toki-erakundeentzako laguntza
+2011,9,5,1,1,Zor publikoaren amortizazioa eta finantza-gastuak moneta nazionalean
