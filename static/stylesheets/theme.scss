@@ -38,11 +38,19 @@ h1, h2, h3, h4, h5, h6{
   margin: 35px auto 30px;
 }
 
-@media(-webkit-min-device-pixel-ratio: 2){ 
-  .main-entity-logo a {
-    background-image: url(../assets/logo@2x.png);
-  }
-}
+// @media
+// only screen and (-webkit-min-device-pixel-ratio: 2),
+// only screen and (min--moz-device-pixel-ratio: 2),
+// only screen and (-moz-min-device-pixel-ratio: 2),
+// only screen and (-o-min-device-pixel-ratio: 2/1),
+// only screen and (min-device-pixel-ratio: 2),
+// only screen and (min-resolution: 192dpi),
+// only screen and (min-resolution: 2dppx) {
+//   .main-entity-logo a {
+//     background-image: url(../assets/logo@2x.png);
+//     background-size: $main-entity-logo-width $main-entity-logo-height;
+//   }
+// }
 
 .navbar-default{
   opacity: 0.95;

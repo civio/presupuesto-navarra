@@ -7669,9 +7669,6 @@ h1, h2, h3, h4, h5, h6 {
 .main-entity-logo {
   margin: 35px auto 30px; }
 
-@media (-webkit-min-device-pixel-ratio: 2) {
-  .main-entity-logo a {
-    background-image: url(../assets/logo@2x.png); } }
 .navbar-default {
   opacity: 0.95; }
   .navbar-default .navbar-nav [class*="icon-"]:before {
