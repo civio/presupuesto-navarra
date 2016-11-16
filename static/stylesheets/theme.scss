@@ -38,11 +38,19 @@ h1, h2, h3, h4, h5, h6{
   margin: 35px auto 30px;
 }
 
-@media(-webkit-min-device-pixel-ratio: 2){ 
-  .main-entity-logo a {
-    background-image: url(../assets/logo@2x.png);
-  }
-}
+// @media
+// only screen and (-webkit-min-device-pixel-ratio: 2),
+// only screen and (min--moz-device-pixel-ratio: 2),
+// only screen and (-moz-min-device-pixel-ratio: 2),
+// only screen and (-o-min-device-pixel-ratio: 2/1),
+// only screen and (min-device-pixel-ratio: 2),
+// only screen and (min-resolution: 192dpi),
+// only screen and (min-resolution: 2dppx) {
+//   .main-entity-logo a {
+//     background-image: url(../assets/logo@2x.png);
+//     background-size: $main-entity-logo-width $main-entity-logo-height;
+//   }
+// }
 
 .navbar-default{
   opacity: 0.95;
@@ -160,9 +168,15 @@ table.table-grid tr td .toggle.collapse{
 
 // Tax Receipt
 .tax-receipt-content .form-user-incomings{
+  padding-top: $grid-gutter-width/2;
+
+  label{
+    text-align: left;
+    width: 100%;
+  }
 
   .form-group{
-    width: 100%;
+    width: auto;
   }
 }
 
@@ -170,6 +184,14 @@ table.table-grid tr td .toggle.collapse{
 
   .navbar-brand{
     margin: 58px 0 0;
+  }
+
+  .tax-receipt-content .form-user-incomings label{
+    padding: 0 $grid-gutter-width/3;
+    margin: 0;
+    width: auto;
+    vertical-align: middle;
+    text-align: center;
   }
 }
 

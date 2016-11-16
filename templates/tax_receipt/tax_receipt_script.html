@@ -70,7 +70,11 @@
       return cuota_liquida_irpf + iiee + iva;
     }
 
-    function redrawGrid() {
+    function redrawGrid(e) {
+      if(e){
+        e.preventDefault();
+      }
+
       totalTaxPaid = calculateTaxAmount($('#input-incomes').val());
       
       $('#tax-amount-paid').html( formatTaxAmount(totalTaxPaid) );
@@ -92,6 +96,7 @@
     var getBreakdownValue = getBreakdownValueFunction('expense', '{{ latest_budget.name()|safe }}');
     var myGrid;
 
+    $("#tax-receipt-form").submit(redrawGrid);
     $("#input-incomes").change(redrawGrid);
     redrawGrid();
   })
