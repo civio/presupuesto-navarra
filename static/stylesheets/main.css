@@ -7749,12 +7749,24 @@ table.table-grid tr td .toggle.collapse {
 table.table-grid tr td .toggle.collapse {
   line-height: 20px; }
 
-.tax-receipt-content .form-user-incomings .form-group {
-  width: 100%; }
+.tax-receipt-content .form-user-incomings {
+  padding-top: 15px; }
+  .tax-receipt-content .form-user-incomings label {
+    text-align: left;
+    width: 100%; }
+  .tax-receipt-content .form-user-incomings .form-group {
+    width: auto; }
 
 @media (min-width: 768px) {
   .navbar-brand {
-    margin: 58px 0 0; } }
+    margin: 58px 0 0; }
+
+  .tax-receipt-content .form-user-incomings label {
+    padding: 0 10px;
+    margin: 0;
+    width: auto;
+    vertical-align: middle;
+    text-align: center; } }
 @media (min-width: 992px) {
   .navbar-brand {
     margin-right: 170px; } }
