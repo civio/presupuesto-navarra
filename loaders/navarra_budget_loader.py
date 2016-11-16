@@ -58,8 +58,7 @@ class NavarraBudgetLoader(BudgetLoader):
     def add_functional_category(self, items, line):
         line[3] = self._clean(line[3])
         line[4] = self._clean(line[4])
-        # The columns are not consistent across the years
-        description = line[6] if line[0] in ['2010', '2011'] else line[5]
+        description = line[5]
         items.append({
                 'area': (line[1] if len(line[1])>=1 else None),
                 'policy': (line[1]+line[2] if len(line[2])>=1 else None),
