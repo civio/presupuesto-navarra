@@ -76,6 +76,10 @@ LANGUAGES = (
   ('eu', 'Euskara'),
 )
 
+# Facebook Aplication ID used in social_sharing temaplate. Default: ''
+# In order to get the ID create an app in https://developers.facebook.com/
+FACEBOOK_ID             = '238494156568926'
+
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://www.gobiernoabierto.navarra.es/es/open-data/datos/etiquetas/228'
 
