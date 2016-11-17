@@ -73,7 +73,7 @@ SEARCH_ENTITIES = False
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
   ('es', 'Castellano'),
-  ('eu', 'Euskara'),
+  ('eu', 'Euskera'),
 )
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''

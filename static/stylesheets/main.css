@@ -1076,7 +1076,7 @@ html {
   -webkit-tap-highlight-color: transparent; }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857;
   color: #333;
@@ -5277,7 +5277,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5383,7 +5383,7 @@ button.close {
   display: none;
   max-width: 200px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -7639,8 +7639,101 @@ body.widget .chart-embed-btn {
 body.widget .stacked-area-chart-legend {
   text-align: left; }
 
+/* Navarra header syles */
+/* from http://www.gobiernoabierto.navarra.es/sites/all/themes/gob_abierto/css/general.css */
+/* and http://www.gobiernoabierto.navarra.es/sites/all/themes/gob_abierto/css/generalRdesign.css */
+/* Menu especial */
+#menuEspecial {
+  width: 100%;
+  padding: 20px 0 0;
+  margin: 0 0 0.5em;
+  font-size: 1.077em;
+  float: left; }
+
+#menuEspecial ul {
+  font-weight: bold;
+  margin: 0.1em 0;
+  text-align: right;
+  list-style: none;
+  margin-top: 0; }
+
+#menuEspecial li {
+  padding: 0;
+  display: inline; }
+
+#menuEspecial a {
+  color: #666;
+  padding: 0 0.8em;
+  text-decoration: none;
+  border: none;
+  line-height: 1.35em;
+  font-weight: 400; }
+
+#menuEspecial li.logo a {
+  padding-right: 0; }
+
+#menuEspecial .on a {
+  position: relative;
+  top: 1px; }
+
+#menuEspecial .logo {
+  float: right; }
+
+#menuEspecial .logo h1 {
+  display: inline;
+  margin-top: 1em; }
+
+#menuEspecial .logo h1 a {
+  float: left; }
+
+#menuEspecial .logo h1 a img {
+  float: left; }
+
+/*Contenedor*/
+#header {
+  text-align: left; }
+
+#header .contenedor {
+  position: absolute;
+  width: auto;
+  min-height: 1em;
+  top: 20px; }
+
+/*cambio la distancia entre lema y opciones de menu de 11em a 1em*/
+#header .titulo {
+  float: left;
+  width: 100%;
+  margin-top: 13px; }
+
+/* 420/1000 */
+#header .titulo div.h1 {
+  font-family: georgia;
+  font-size: 25px;
+  margin: 0;
+  font-style: italic;
+  color: #EB3800;
+  font-weight: normal;
+  width: 100%; }
+
+#header .titulo div.h1 a {
+  color: #EB3800; }
+
+#header .titulo div.h2 {
+  font-family: georgia;
+  font-size: 25px;
+  margin: 0;
+  font-weight: normal;
+  line-height: 1.2em;
+  width: 100%; }
+
+#header .titulo div.h2 a {
+  color: #333; }
+
+#header .titulo a:hover {
+  text-decoration: none; }
+
 body {
-  font-size: 13px;
+  font-size: 14px;
   background: url("../assets/fondo4.jpg") no-repeat left -10px #F4F4F4; }
   body > .content {
     background: white;
@@ -7654,20 +7747,26 @@ h1, h2, h3, h4, h5, h6 {
 .page-title {
   color: #D20201; }
 
+.navbar-brand-container {
+  background: white;
+  text-align: center;
+  margin-top: 15px;
+  opacity: 0.95; }
+
 .navbar-brand {
   position: static;
   display: inline-block;
   width: auto;
-  font-size: 2.25em;
+  height: auto;
+  margin: 20px 0;
+  padding: 0;
+  font-size: 2.5em;
   font-weight: 300; }
   .navbar-brand a {
-    color: #e13600; }
+    color: #D20201; }
 
 .form-search {
   opacity: 0.95; }
-
-.main-entity-logo {
-  margin: 35px auto 30px; }
 
 .navbar-default {
   opacity: 0.95; }
@@ -7678,10 +7777,14 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300; }
 
 #menu-lang {
-  margin-top: 72px; }
-  #menu-lang ul li input[type=submit] {
-    text-transform: uppercase;
-    font-size: 0.875em; }
+  float: right;
+  margin-top: 25px;
+  margin-right: -5px; }
+  #menu-lang ul li {
+    border: none; }
+    #menu-lang ul li input[type=submit] {
+      text-transform: uppercase;
+      font-size: 0.923em; }
 
 .nav-tabs > li > a {
   font-size: 1em; }
@@ -7737,6 +7840,9 @@ h1, h2, h3, h4, h5, h6 {
   .search-content .panel .panel-heading h3, .search-content .panel-downloads .panel-heading h3, .search-content .home-content .options .option > div .panel-heading h3, .home-content .options .search-content .option > div .panel-heading h3, .search-content .budget-intro .budget-step .panel-heading h3, .budget-intro .search-content .budget-step .panel-heading h3, .search-content .policies-chart .panel-heading h3, .search-content .tax-receipt-content .form-user-incomings .panel-heading h3, .tax-receipt-content .search-content .form-user-incomings .panel-heading h3, .search-content .tax-receipt-content #tax-amount .panel-heading h3, .tax-receipt-content .search-content #tax-amount .panel-heading h3 {
     color: white; }
 
+.data-sources .panel-body {
+  font-size: 1.071em; }
+
 table.table-grid tr td .toggle.expand,
 table.table-grid tr td .toggle.collapse {
   font-size: 22px;
@@ -7755,17 +7861,11 @@ table.table-grid tr td .toggle.collapse {
     width: auto; }
 
 @media (min-width: 768px) {
-  .navbar-brand {
-    margin: 58px 0 0; }
-
   .tax-receipt-content .form-user-incomings label {
     padding: 0 10px;
     margin: 0;
     width: auto;
     vertical-align: middle;
     text-align: center; } }
-@media (min-width: 992px) {
-  .navbar-brand {
-    margin-right: 170px; } }
 
 /*# sourceMappingURL=main.css.map */

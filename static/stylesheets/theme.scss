@@ -1,5 +1,32 @@
+/* Navarra header syles */
+/* from http://www.gobiernoabierto.navarra.es/sites/all/themes/gob_abierto/css/general.css */
+/* and http://www.gobiernoabierto.navarra.es/sites/all/themes/gob_abierto/css/generalRdesign.css */
+
+/* Menu especial */
+#menuEspecial{width:100%; padding:20px 0 0; margin:0 0 0.5em; font-size:1.077em; float: left;}
+#menuEspecial ul{font-weight:bold;margin:0.1em 0;text-align:right;list-style:none;margin-top: 0; }
+#menuEspecial li{padding:0;display:inline;}
+#menuEspecial a{color:#666;padding:0 0.8em;text-decoration:none;border:none;line-height:1.35em;font-weight: 400;}
+#menuEspecial li.logo a{padding-right:0;}
+#menuEspecial .on a{position:relative;top:1px;}
+#menuEspecial .logo{float:right;}
+#menuEspecial .logo h1{display:inline;margin-top: 1em; }
+#menuEspecial .logo h1 a {float:left;}
+#menuEspecial .logo h1 a img{float:left;}
+
+/*Contenedor*/
+#header {text-align: left;}
+#header .contenedor {position: absolute; width: auto; min-height: 1em; top: 20px; }  /*cambio la distancia entre lema y opciones de menu de 11em a 1em*/
+#header .titulo {float:left; width:100%; margin-top: 13px;} /* 420/1000 */
+#header .titulo div.h1 {font-family:georgia; font-size: 25px; margin: 0; font-style: italic; color:#EB3800; font-weight: normal;width:100%;}
+#header .titulo div.h1 a {color:#EB3800;}
+#header .titulo div.h2 {font-family:georgia; font-size: 25px; margin: 0; font-weight: normal;line-height:1.2em;width:100%;}
+#header .titulo div.h2 a {color:#333;}
+#header .titulo a:hover {text-decoration: none;}
+
+
 body{
-  font-size: 13px;
+  font-size: 14px;
   background: url("../assets/fondo4.jpg") no-repeat left -10px $brand-secondary;
 
   > .content{
@@ -18,39 +45,31 @@ h1, h2, h3, h4, h5, h6{
   color: $brand-terciary;
 }
 
+.navbar-brand-container{
+  background: white;
+  text-align: center;
+  margin-top: $grid-gutter-width/2;
+  opacity: 0.95;
+}
+
 .navbar-brand{
   position: static;
   display: inline-block;
   width: auto;
-  font-size: 2.25em;
+  height: auto;
+  margin: 2*$grid-gutter-width/3 0;
+  padding: 0;
+  font-size: 2.5em;
   font-weight: $font-weight-300;
 
   a{
-    color: #e13600;
+    color: $brand-terciary;
   }
 }
 
 .form-search{
   opacity: 0.95;
 }
-
-.main-entity-logo{
-  margin: 35px auto 30px;
-}
-
-// @media
-// only screen and (-webkit-min-device-pixel-ratio: 2),
-// only screen and (min--moz-device-pixel-ratio: 2),
-// only screen and (-moz-min-device-pixel-ratio: 2),
-// only screen and (-o-min-device-pixel-ratio: 2/1),
-// only screen and (min-device-pixel-ratio: 2),
-// only screen and (min-resolution: 192dpi),
-// only screen and (min-resolution: 2dppx) {
-//   .main-entity-logo a {
-//     background-image: url(../assets/logo@2x.png);
-//     background-size: $main-entity-logo-width $main-entity-logo-height;
-//   }
-// }
 
 .navbar-default{
   opacity: 0.95;
@@ -68,11 +87,17 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #menu-lang{
-  margin-top: 72px;
+  float: right;
+  margin-top: 25px;
+  margin-right: -$grid-gutter-width/6;
 
-  ul li input[type=submit] {
-    text-transform: uppercase;
-    font-size: 0.875em;
+  ul li{
+    border: none;
+
+    input[type=submit] {
+      text-transform: uppercase;
+      font-size: 0.923em;
+    }
   }
 }
 
@@ -155,6 +180,10 @@ h1, h2, h3, h4, h5, h6{
   }
 }
 
+.data-sources .panel-body{
+  font-size: 1.071em;
+}
+
 // Center table toggle +
 table.table-grid tr td .toggle.expand, 
 table.table-grid tr td .toggle.collapse{
@@ -182,21 +211,11 @@ table.table-grid tr td .toggle.collapse{
 
 @media (min-width: $screen-sm-min) {
 
-  .navbar-brand{
-    margin: 58px 0 0;
-  }
-
   .tax-receipt-content .form-user-incomings label{
     padding: 0 $grid-gutter-width/3;
     margin: 0;
     width: auto;
     vertical-align: middle;
     text-align: center;
-  }
-}
-
-@media (min-width: $screen-md-min) {
-  .navbar-brand{
-    margin-right: 170px;
   }
 }

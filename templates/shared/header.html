@@ -1,0 +1,102 @@
+{% load i18n %}
+
+<header>
+	<div class="container">
+
+    <!--Gobierno Abierto de Navarra header -->
+    <!-- http://www.gobiernoabierto.navarra.es/es/transparencia -->
+    <div id="header">
+      <map id="menuEspecial" title="navegación primer nivel del portal">
+        <ul>
+          <li class="logo"><a href="http://www.navarra.es/home_{{ LANGUAGE_CODE }}/"><img src="http://www.gobiernoabierto.navarra.es/sites/all/themes/gob_abierto/images/logo.navarra.es.p.gif" alt="navarra.es"></a></li>
+          <li class="primero"><a href="http://www.navarra.es/home_{{ LANGUAGE_CODE }}/Navarra/">{{ _('Navarra') }}</a></li>
+          <li><a href="http://www.navarra.es/home_{{ LANGUAGE_CODE }}/Servicios/">{{ _('Trámites') }}</a></li>
+          <li><a href="http://www.navarra.es/home_{{ LANGUAGE_CODE }}/Temas/">{{ _('Temas') }}</a></li>
+          <li><a href="http://www.navarra.es/home_{{ LANGUAGE_CODE }}/Gobierno+de+Navarra/">{{ _('Gobierno') }}</a></li>
+          <li><a href="http://www.navarra.es/home_{{ LANGUAGE_CODE }}/Actualidad/">{{ _('Actualidad') }}</a></li>
+        </ul>
+      </map>          
+      <div class="contenedor">
+        <div class="titulo">
+          <div class="h1"><a href="http://www.gobiernoabierto.navarra.es/{{ LANGUAGE_CODE }}">{{ _('Escucha. Participa. Conversa') }}</a></div>  
+          <div class="h2"><a href="http://www.gobiernoabierto.navarra.es/{{ LANGUAGE_CODE }}">{{ _('Gobierno Abierto de Navarra') }}</a></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Lang Selector -->
+    {% if LANGUAGES|length > 1 %}
+    <div id="menu-lang">
+      <ul>
+        {% for language in LANGUAGES %}
+          <li>
+            <form id="form_{{language[0]}}" method="get" action="/i18n/setlang/">
+              <input type="hidden" name="next" value="{{ request.path|redirect_url(language[0]) }}" />
+              <input type="hidden" name="language" value="{{ language[0] }}"/>
+              {#<a for="form_{{language[0]}}" href="javascript: document.form_{{language[0]}}.submitform()"{% if language[0].lower() == LANGUAGE_CODE %} class="active"{% endif %}>{{ language[1]|safe }}</a>#}
+              <input type="submit" value="{{ language[1]|safe }}" form="form_{{language[0]}}" {% if language[0].lower() == LANGUAGE_CODE %} class="active"{% endif %}/>
+            </form>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+	</div>
+
+  <!-- DVMI Title & Home Link -->
+  <div class="navbar-brand-container">
+    <h1 class="navbar-brand">
+      <a href="{{ url('budget_app.views.welcome') }}" title="{{ _('Ir a la home de Presupuestos') }}">
+        {{ _('Presupuestos') }}
+      </a>
+    </h1>
+  </div>
+		
+	<!-- Main Navigation -->
+	<nav class="navbar navbar-default hide-when-embedded">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">{{ _('Menú principal') }}</button>
+			</div>
+	    <div id="navbar" class="collapse navbar-collapse">
+	      <ul class="nav navbar-nav">
+          <li class="page-budgets {{ 'active' if active_tab == "general"}}">
+	      		<a href="{{ url('budget_app.views.budgets') }}" class="icon-budget" title="{{ _('Visión global') }}">{{ _('Visión global') }}</a>
+	      	</li>
+	      	
+          {% if show_counties_and_towns %}
+          <li class="page-policies dropdown">
+						<a href="{{ url('budget_app.views.policies') }}" class="icon-policy dropdown-toggle" title="{{ _('Políticas') }}" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ _('Políticas') }} <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="{{ url('budget_app.views.policies') }}" title="{{ _('Gobierno de Aragón') }}">{{ _('Gobierno de Aragón') }}</a></li>
+							<li><a href="{{ url('budget_app.views.counties') }}" title="{{ _('Comarcas') }}">{{ _('Comarcas') }}</a></li>
+							<li><a href="{{ url('budget_app.views.towns') }}" title="{{ _('Municipios') }}">{{ _('Municipios') }}</a></li>
+						</ul>
+					</li>
+          {% else %}
+          <li class="page-policies {{ 'active' if active_tab == "policies"}}">
+            <a href="{{ url('budget_app.views.policies') }}" class="icon-policy" title="{{ _('Políticas') }}">{{ _('Políticas') }}</a>
+          </li>
+          {% endif %}
+					
+          {% if show_payments %}
+          <li class="page-payments {{ 'active' if active_tab == "payments"}}">
+            <a href="{{ url('budget_app.views.payments') }}" class="icon-payments" title="{{ _('Pagos e inversiones') }}">{{ _('Pagos e inversiones') }}</a>
+          </li>
+					{% endif %}
+
+          {% if show_tax_receipt %}
+          <li class="page-tax-receipt {{ 'active' if active_tab == "calculator"}}">
+						<a href="{{ url('budget_app.views.tax_receipt') }}" class="icon-aportacion" title="{{ _('Lo que tú aportas') }}">{{ _('Lo que tú aportas') }}</a>
+					</li>
+					{% endif %}
+          
+          <li class="page-glossary {{ 'active' if active_tab == "glossary"}}">
+						<a href="{{ url('budget_app.views.terms') }}" class="icon-glossary" title="{{ _('¿Qué significa...?') }}">{{ _('¿Qué significa...?') }}</a>
+					</li>
+	      </ul>
+	    </div>
+	  </div>
+	</nav>
+
+</header>

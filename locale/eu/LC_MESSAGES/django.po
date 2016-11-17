@@ -57,3 +57,26 @@ msgstr "Nola eta zertan gastatzen du dirua Nafarroako Gobernuak?"
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Nafarroako Gobernuaren diru-sarreren eta gastuen ideia orokor bat izan dezazun"
+
+
+#: templates/shared/header.html
+msgid "Navarra"
+msgstr "Nafarroa"
+
+msgid "Trámites"
+msgstr "Izapideak"
+
+msgid "Temas"
+msgstr "Gaiak"
+
+msgid "Gobierno"
+msgstr "Gobernua"
+
+msgid "Actualidad"
+msgstr "Aktualitatea"
+
+msgid "Escucha. Participa. Conversa"
+msgstr "Entzun, Parte hartu. Elkarrizketak eduki"
+
+msgid "Gobierno Abierto de Navarra"
+msgstr "Nafarroako Gobernu Irekia"

@@ -21,6 +21,10 @@ msgstr ""
 msgid "Presupuestos del Gobierno de Aragón"
 msgstr "Presupuestos del Gobierno de Navarra"
 
+#: templates/shared/header.html:33
+msgid "Presupuestos"
+msgstr "Presupuestos Generales de Navarra"
+
 #
 msgid "Información presupuestaria del Gobierno de Aragón"
 msgstr "Información presupuestaria del Gobierno de Navarra"
