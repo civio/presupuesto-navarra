@@ -6,20 +6,20 @@
 2014,1,1,1,,Justizia-administrazio orokorra
 2014,1,1,2,,Justizia-administrazioa
 2014,1,1,4,,Adingabearen babes juridikoa
-2014,1,3,1,,
+2014,1,3,1,,Segurtasuneko eta babes zibileko administrazio orokorra
 2014,1,3,2,,Segurtasuna eta ordena publikoa
 2014,1,3,3,,Espetxeen alorra
 2014,1,3,4,,Babes zibila
 2014,1,3,5,,Datu-babesa
 2014,1,4,3,,Garapenerako lankidetza
-2014,1,4,4,,
+2014,1,4,4,,"Kultura-lankidetza, -sustapena eta -hedapena atzerrian"
 2014,1,4,5,,Europar Batasunarekiko harremanak
 2014,1,4,6,,Kanpo-harremanak
 2014,1,1,1,2,Justiziako zuzendaritza eta zerbitzu orokorrak
 2014,1,1,1,5,Justiziako langileen prestakuntza
 2014,1,1,2,1,Organo judizialak
 2014,1,1,4,1,Adingabearen babes juridikoa
-2014,1,3,1,1,
+2014,1,3,1,1,Segurtasun eta babes zibileko zuzendaritza eta zerbitzu orokorrak
 2014,1,3,1,2,Foruzaingoaren prestakuntza
 2014,1,3,2,1,Herritarren segurtasuna
 2014,1,3,2,2,Bide-segurtasuna
@@ -30,7 +30,7 @@
 2014,1,3,4,2,Suteen prebenitu eta itzaltzeko eta salbamenduko zerbitzuak
 2014,1,3,5,1,Datu pertsonalen babesa
 2014,1,4,3,1,Garapenerako lankidetza
-2014,1,4,4,1,
+2014,1,4,4,1,"Kultura-lankidetza, -sustapena eta -hedapena atzerrian"
 2014,1,4,5,1,Europar Batasunarekiko harremanak
 2014,1,4,6,1,Kanpo-harremanak
 2014,2,,,,Gizarte-babesaren eta sustapenaren jarduketak
@@ -42,7 +42,7 @@
 2014,2,6,,,Etxebizitza eskuratzea eta eraikuntzaren sustapena
 2014,2,1,1,,Kotizaziopeko pentsioa
 2014,2,1,2,,Ordaindutakoaren araberakoak ez diren pentsioak
-2014,2,2,2,,
+2014,2,2,2,,Mutualismo administratiboaren prestazio ekonomikoak
 2014,2,2,3,,Jarduera uzteagatiko prestazio ekonomikoak
 2014,2,2,4,,Beste prestazio ekonomiko batzuk
 2014,2,3,1,,Gizarte-ekintza
@@ -55,12 +55,12 @@
 2014,2,1,1,1,Kotizaziopeko pentsioa
 2014,2,1,1,2,Klase pasiboen pentsioak
 2014,2,1,1,3,Klase pasiboen beste pentsio eta prestazio batzuk
-2014,2,1,2,1,
+2014,2,1,2,1,Ekarpenezkoak ez diren pentsioak eta laguntza-prestazioak
 2014,2,2,2,1,Montepioak eta mutualitateak
 2014,2,2,3,1,Jarduera uzteagatiko prestazio ekonomikoak
 2014,2,2,4,1,Beste prestazio ekonomiko batzuk
-2014,2,3,1,0,
-2014,2,3,1,2,
+2014,2,3,1,0,Gizarte-babesaren eta sustapenaren programazio orokorra
+2014,2,3,1,2,Atzerrian dauden herrikideen aldeko ekintzak
 2014,2,3,1,3,Desgaituentzako gizarte-zerbitzuak
 2014,2,3,1,4,Adinekoentzako gizarte-zerbitzuak
 2014,2,3,1,5,Familientzako babesa
@@ -72,28 +72,28 @@
 2014,2,3,1,B,Autonomia pertsonala eta mendetasunari arreta ematea
 2014,2,3,2,1,Gazteen sustapena eta gazteentzako zerbitzuak
 2014,2,3,2,2,Emakumeen eta gizonen arteko aukera-berdintasuna
-2014,2,3,2,3,
-2014,2,3,2,4,
-2014,2,3,3,1,
+2014,2,3,2,3,Genero-indarkeria osotasunean prebenitzeko jarduketak
+2014,2,3,2,4,Gizarte-sustapeneko zuzendaritza eta zerbitzu orokorrak
+2014,2,3,3,1,Gizarte-babeseko zuzendaritza eta zerbitzu orokorrak
 2014,2,4,1,1,Laneratzea eta enplegu-egonkortasuna sustatzea
-2014,2,4,1,2,
+2014,2,4,1,2,Gizarte-ekonomia eta enpresen gizarte-erantzukizuna garatzea
 2014,2,4,1,3,Lan-merkatuko jarduketak
 2014,2,4,2,1,Lanerako lanbide-prestakuntza
-2014,2,4,2,2,
+2014,2,4,2,2,"Eskola-lantegiak, ofizio-etxeak eta enplegu-tailerrak"
 2014,2,5,1,1,Langabeentzako prestazioak
 2014,2,6,1,1,Etxebizitzako zuzendaritza eta zerbitzu orokorrak
 2014,2,6,1,2,Etxebizitzen sustapena eta administrazioa
 2014,2,6,1,3,Eraikuntza antolatzea eta sustatzea
-2014,2,6,1,4,
+2014,2,6,1,4,"Etxebizitzak birgaitzeko, eraikitzeko eta lortzeko laguntzak"
 2014,2,6,1,5,Ondare higiezinaren mantentze- eta hobekuntza-lanak
-2014,2,6,1,6,
+2014,2,6,1,6,Hiri-azpiegituren mantentze- eta hobekuntza-lanak udal-esparruan
 2014,2,6,1,7,Hirigintza eta lurzoru-politika
-2014,3,,,,
+2014,3,,,,Lehentasunezko ondasun publikoen ekoizpena
 2014,3,1,,,Osasuna
 2014,3,2,,,Hezkuntza
 2014,3,3,,,Kultura
 2014,3,1,1,,Osasun-administrazio orokorra
-2014,3,1,2,,
+2014,3,1,2,,"Ospitaleak, zerbitzu asistentzialak eta osasun-zentroak"
 2014,3,1,3,,Osasunari buruzko jarduera publikoak
 2014,3,2,1,,Hezkuntza-administrazio orokorra
 2014,3,2,2,,Irakaskuntza
@@ -106,24 +106,24 @@
 2014,3,3,4,,Kultura-sustapena
 2014,3,3,5,,Arte eszenikoak
 2014,3,3,6,,Kirolak eta gorputz-hezkuntza
-2014,3,3,7,,
-2014,3,1,1,1,
+2014,3,3,7,,Arkeologia eta ondare historiko-artistikoaren babesa
+2014,3,1,1,1,Osasuneko eta gizarte-babeseko zuzendaritza eta zerbitzu orokorrak
 2014,3,1,1,2,Osasun-prestakuntza
 2014,3,1,2,1,Mutualismo Administratiboaren osasun-laguntza
 2014,3,1,2,2,Lehen mailako osasun-arreta
 2014,3,1,2,3,Osasun-arreta espezializatua
 2014,3,1,2,4,Arreta psikiatriko eta psikikoa
-2014,3,1,2,6,
+2014,3,1,2,6,Osasun-arreta beste osasun-erakunde batzuetan
 2014,3,1,2,7,Osasun-zentroetako zerbitzu osagarriak
-2014,3,1,2,8,
+2014,3,1,2,8,Osasun-zentroetako azpiegitura eta ekipamendua
 2014,3,1,2,9,Zerbitzu osagarriak
-2014,3,1,3,1,
+2014,3,1,3,1,Medikamentuen eta osasun-produktuen erabilera arrazionala
 2014,3,1,3,2,Osasun publikoa eta kanpoko osasungintza
 2014,3,1,3,3,Elikagaien segurtasuna eta nutrizioa
-2014,3,1,3,4,
+2014,3,1,3,4,"Terapia aurreratuak, medikuntza birsortzailea eta transplanteak"
 2014,3,1,3,9,Osasuna babesteko bestelako jarduera publikoak
 2014,3,2,1,1,Hezkuntzako zuzendaritza eta zerbitzu orokorrak
-2014,3,2,1,2,
+2014,3,2,1,2,Hezkuntza-alorreko irakasleen etengabeko prestakuntza
 2014,3,2,2,0,Irakaskuntzako zuzendaritza eta zerbitzu orokorrak
 2014,3,2,2,1,Haur Hezkuntza
 2014,3,2,2,2,Bigarren hezkuntza
@@ -131,7 +131,7 @@
 2014,3,2,2,4,Hezkuntza berezia
 2014,3,2,2,5,Arte-irakaskuntzak
 2014,3,2,2,7,Osabidezko hezkuntza eta helduen hezkuntza
-2014,3,2,2,8,
+2014,3,2,2,8,Unibertsitatekoa ez den etengabeko eta urruneko hezkuntza
 2014,3,2,2,9,"Beste irakaskuntza batzuk (hizkuntzak, bereziak eta bestelakoak"
 2014,3,2,2,A,Hezkuntzari aplikatutako teknologia berriak
 2014,3,2,2,C,Batxilergoa
@@ -165,9 +165,9 @@
 2014,4,5,,,Azpiegiturak
 2014,4,6,,,"Ikerketa, garapena eta berrikuntza"
 2014,4,9,,,Izaera ekonomikoko beste jarduketa batzuk
-2014,4,1,1,,
-2014,4,1,2,,
-2014,4,1,3,,
+2014,4,1,1,,"Nekazaritza, abeltzaintza eta elikagaigintzako administrazio orokorra"
+2014,4,1,2,,Nekazaritzako azpiegiturak eta ekoizpen-sistemak hobetzea
+2014,4,1,3,,Nekazaritzako elikagaien industriaren lehiakortasuna eta elikagaien kalitatea
 2014,4,1,4,,Landa-garapena
 2014,4,1,6,,Nekazaritzako ekoizpenetan arriskuak prebenitzea
 2014,4,2,1,,Industriari buruzko jarduketa administratiboak
@@ -186,44 +186,45 @@
 2014,4,5,9,,Elektrifikazioa eta argiztatzea
 2014,4,5,A,,Landa-inguruneko komunikabideak
 2014,4,5,B,,Komunitatearen ongizaterako beste zerbitzu batzuk
-2014,4,6,2,,
+2014,4,6,2,,Zerbitzu publiko orokorrekin lotutako ikerketa eta azterlanak
 2014,4,6,3,,Oinarrizko ikerketa
-2014,4,6,5,,
-2014,4,6,6,,
+2014,4,6,5,,Osasunarekin lotutako ikerketa eta garapena
+2014,4,6,6,,Hezkuntzarekin lotutako ikerketa eta garapena
 2014,4,6,7,,Beste sektore batzuetako ikerketa eta garapena
 2014,4,6,8,,Azterlan teknikoak
-2014,4,6,9,,
+2014,4,6,9,,Beste berrikuntza teknologiko batzuk
+2014,4,6,9,,Beste berrikuntza teknologiko batzuk
 2014,4,9,1,,Komunikazioak
 2014,4,9,2,,Lehiaren defentsa
 2014,4,9,3,,Finantza-sektorearen antolamendua
 2014,4,9,4,,Lan-harremanak
 2014,4,9,5,,"Kartografia, meteorologia eta metrologia"
 2014,4,9,6,,Jokoaren antolamendua
-2014,4,1,1,1,
-2014,4,1,2,1,
-2014,4,1,2,2,
+2014,4,1,1,1,"Nekazaritza, abeltzaintza eta elikagaigintzako zuzendaritza eta zerbitzu orokorrak"
+2014,4,1,2,1,"Nekazaritzako ekoizpenen lehiakortasuna, kalitatea eta defentsa"
+2014,4,1,2,2,"Abeltzaintzako ekoizpenen lehiakortasuna, kalitatea eta defentsa"
 2014,4,1,2,3,Nekazaritza-merkatuak erregulatzea
-2014,4,1,3,1,
+2014,4,1,3,1,Nekazaritzako elikagaien industriaren lehiakortasuna eta elikagaien kalitatea
 2014,4,1,4,1,Ureztatze-lanetarako ur-baliabideak kudeatzea
 2014,4,1,4,2,Landa inguruaren garapen iraunkorra
-2014,4,1,4,3,
+2014,4,1,4,3,Jabetzaren berrantolamendua eta lurzatiak biltzea
 2014,4,1,4,4,Nekazaritzako azpiegiturak sustatzea eta hobetzea
 2014,4,1,4,5,Herri-lurren babesa
 2014,4,1,6,1,Nekazaritzako ekoizpenetan arriskuak prebenitzea
-2014,4,2,1,1,
+2014,4,2,1,1,Industriako eta energiako zuzendaritza eta zerbitzu orokorrak
 2014,4,2,1,2,Industria-jabetza erregulatzea eta babestea
 2014,4,2,1,3,"Industriako lehiakortasuna, kalitatea eta segurtasuna"
-2014,4,2,1,4,
+2014,4,2,1,4,Araudi eta jarduketa administratiboak egitea
 2014,4,2,2,1,"Eskualdeentzako pizgarriak, industria bertan geratzeko"
 2014,4,2,2,2,Industria-garapena
 2014,4,2,2,3,Enpresen birmoldaketa eta berrindustrializazioa
 2014,4,2,2,4,laguntza finantzarioa eta enpresen parte-hartzea
 2014,4,2,5,1,Energiari buruzko araudia eta garapena
 2014,4,2,5,2,Energia-neurriei buruzko pizgarriak
-2014,4,3,1,1,
-2014,4,3,1,2,
+2014,4,3,1,1,Enpresaren merkataritza eta nazioartekotzea sustatzea
+2014,4,3,1,2,Merkataritza eta turismoko zuzendaritza eta zerbitzu nagusiak
 2014,4,3,1,3,Kanpo-merkataritza antolatzea eta sustatzea
-2014,4,3,1,4,
+2014,4,3,1,4,Merkataritza-egiturak antolatzea eta modernizatzea
 2014,4,3,2,1,Turismoa koordinatzea eta sustatzea
 2014,4,3,2,2,Turismo-establezimenduen kudeaketa
 2014,4,3,2,3,Hotelak eta konplexu turistikoak sustatzea
@@ -231,14 +232,14 @@
 2014,4,3,3,2,Kooperatiben ea elkarteen garapena
 2014,4,4,1,1,Lurreko garraiorako diru-laguntzak eta babesa
 2014,4,4,1,3,Aireko garraiorako diru-laguntzak eta babesa
-2014,4,5,1,1,
+2014,4,5,1,1,Herri-lanetako azterlanak eta laguntza teknikoko zerbitzuak
 2014,4,5,1,2,Herri-lanetako zuzendaritza eta zerbitzu orokorrak
 2014,4,5,1,3,Ingurumeneko zuzendaritza eta zerbitzu orokorrak
 2014,4,5,1,4,Garraioko zuzendaritza eta zerbitzu orokorrak
-2014,4,5,1,5,
+2014,4,5,1,5,Hirigintzako azterlanak eta laguntza teknikoko zerbitzuak
 2014,4,5,1,6,Hirigintzako zuzendaritza eta zerbitzu orokorrak
 2014,4,5,2,1,Ur-baliabideen kudeaketa eta azpiegiturak
-2014,4,5,2,2,
+2014,4,5,2,2,Ur-baliabideen araudia eta lurralde-antolamendua
 2014,4,5,2,3,Ibaiertzak egonkortzea
 2014,4,5,3,1,Trenbide-garraioaren azpiegitura
 2014,4,5,3,2,Errepide-azpiegiturak sortzea
@@ -253,7 +254,7 @@
 2014,4,5,6,6,Herri-lurrak eta larreak sortzea eta hobetzea
 2014,4,5,6,7,Baso-masak kontserbatzea eta hobetzea
 2014,4,5,6,8,Basoberritzea
-2014,4,5,6,9,
+2014,4,5,6,9,Kutsadura eta klima-aldaketa prebenitzeko jarduketak
 2014,4,5,8,1,Industriako azpiegitura
 2014,4,5,8,2,Merkataritzako azpiegitura
 2014,4,5,8,3,Azpiegitura turistikoa
@@ -264,20 +265,21 @@
 2014,4,6,2,1,Ikerketa eta azterlan soziologikoak
 2014,4,6,2,2,Ikerketa eta azterlan estatistiko eta ekonomikoak
 2014,4,6,3,1,Ikerketa zientifikoa
-2014,4,6,3,2,
+2014,4,6,3,2,Ikerketa zientifiko eta teknikoa sustatzea eta koordinatzea
 2014,4,6,5,1,Osasun-arloko ikerketa
 2014,4,6,6,1,Hezkuntza-alorreko ikerketa eta ebaluazioa
-2014,4,6,7,2,
+2014,4,6,7,2,"Herri-lanetako eta komunikazioetako ikerketa, garapena eta esperimentazioa"
 2014,4,6,7,3,Ikerketa eta garapen teknologiko-industriala
 2014,4,6,7,4,Nekazaritza eta basogintzako ikerketa eta esperimentazioa
 2014,4,6,7,5,Ikerketa kulturala
-2014,4,6,7,7,
-2014,4,6,7,8,
+2014,4,6,7,7,Informazioaren gizartea ikertzea eta garatzea
+2014,4,6,7,8,"Energiaren, ingurumenaren eta teknologiaren arloetan ikertzea"
 2014,4,6,7,9,Telekomunikazioen berrikuntza teknologikoa
 2014,4,6,8,1,Nekazaritza-sektoreko azterlan teknikoak
-2014,4,6,8,2,
+2014,4,6,8,2,"Turismoko, industriako, merkataritzako eta best sektore batzuetako azterlanak eta proiektuak"
 2014,4,6,8,9,Beste ikasketa batzuk
-2014,4,6,9,1,
+2014,4,6,9,1,Beste berrikuntza teknologiko batzuk
+2014,4,6,9,1,Beste berrikuntza teknologiko batzuk
 2014,4,9,1,1,
 2014,4,9,1,3,
 2014,4,9,1,4,Telebista-sarea mantentzea eta handitzea
