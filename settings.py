@@ -36,6 +36,9 @@ OVERVIEW_EXPENSE_NODES = [ '31', '32', '94', '23', '45', '95', '21' ]
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
 OVERVIEW_RELAX_FACTOR = 0.4
 
+# Treemaps minimum height or width to show labels. Default: 70 (Optional)
+TREEMAP_LABELS_MIN_SIZE = 50
+
 # Show Payments section in menu & home options. Default: False.
 # SHOW_PAYMENTS           = True
 
@@ -73,7 +76,7 @@ SEARCH_ENTITIES = False
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
   ('es', 'Castellano'),
-  ('eu', 'Euskara'),
+  ('eu', 'Euskera'),
 )
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''

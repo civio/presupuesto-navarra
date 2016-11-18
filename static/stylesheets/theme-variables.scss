@@ -38,7 +38,7 @@ $link-hover-decoration: underline;
 // Typography
 // -------------
 
-$font-family-sans-serif:  'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-sans-serif:  'Source Sans Pro', Arial, sans-serif;
 $font-family-serif:       Georgia, serif;
 $font-family-base:        $font-family-sans-serif;
 
@@ -80,14 +80,14 @@ $navbar-border-radius: 0;
 $dvmi-menu-length: 4;  // Number of items in main menu
 
 // Navbar background color
-$navbar-default-bg:       $brand-primary;
-$navbar-default-bg-hover: #434343;
+$navbar-default-bg:       $gray;
+$navbar-default-bg-hover: #454545;
 
 // Navbar options text color
 $dvmi-navbar-color:       white;
 
 $navbar-default-link-active-color:    white;
-$navbar-default-link-active-bg:       $navbar-default-bg-hover;
+$navbar-default-link-active-bg:       #333;
 
 
 // Popover
@@ -191,5 +191,5 @@ $data-sources-color: $brand-primary;
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     mix( $gray-light, $gray-lighter, 50% );
-$sankey-execution-color:  mix( $brand-primary, white, 70% );
+$sankey-budget-color:     $gray-light;
+$sankey-execution-color:  lighten( $brand-terciary, 5% );
