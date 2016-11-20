@@ -5926,11 +5926,12 @@ label {
     pointer-events: none; }
     .chart-container .popover .popover-title {
       color: #525252;
-      margin: 0 15px;
+      margin: 0 10px;
       padding: 8px 0;
       background: white;
       border-color: #d0d0d0;
       font-size: 1.5em;
+      line-height: 1.125em;
       font-weight: 300;
       text-align: center; }
     .chart-container .popover .popover-content {
@@ -6179,6 +6180,9 @@ label {
     stroke-width: 2px; }
 .stacked-area-chart.clickable path.area {
   cursor: pointer; }
+.stacked-area-chart .popover .popover-title {
+  padding-bottom: 0;
+  text-align: left; }
 
 .stacked-area-chart-legend {
   margin-left: 80px;
@@ -6214,15 +6218,16 @@ label {
       .stacked-area-chart-legend .label.inactive span {
         background: none !important; }
 
-.chart-embed-btn a {
+.chart-embed-btn span {
   display: block;
   position: absolute;
   top: -5px;
   right: 20px;
   width: 30px;
   height: 30px;
-  background: url(../assets/icon-share.png) no-repeat center center #525252; }
-  .chart-embed-btn a:hover {
+  background: url(../assets/icon-share.png) no-repeat center center #525252;
+  cursor: pointer; }
+  .chart-embed-btn span:hover {
     background-color: #5f5f5f; }
 
 .policy-breakdown .chart-container .popover-content-year {
