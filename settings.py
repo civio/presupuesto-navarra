@@ -83,6 +83,10 @@ LANGUAGES = (
 # In order to get the ID create an app in https://developers.facebook.com/
 FACEBOOK_ID             = '238494156568926'
 
+# Google Analytics ID. Default: ''
+# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
+ANALYTICS_ID            = 'UA-28946840-17'
+
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://www.gobiernoabierto.navarra.es/es/open-data/datos/etiquetas/228'
 
