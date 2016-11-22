@@ -67,6 +67,10 @@ ADJUST_INFLATION_IN_OVERVIEW = False
 # Warning: the execution data still gets shown in the summary chart and in downloads.
 #SHOW_ACTUAL = True
 
+# Should we group elements at the economic subheading level, or list all of them,
+# grouping by uid?. Default: True. (i.e. group by uid, show all elements)
+BREAKDOWN_BY_UID = False
+
 # Include financial income/expenditures in overview and global policy breakdowns. Default: False.
 INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = False
 
