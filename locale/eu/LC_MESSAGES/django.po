@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-11-07 16:47+0100\n"
+"PO-Revision-Date: 2016-11-18 13:29+0100\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,14 +27,15 @@ msgstr "Nafarroako Gobernuaren aurrekontuei buruzko informazioa"
 
 #: templates/budgets/budgets_intro.html:16
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr ""
-"Udalerriek zergen bidez bildutako dirua osatzeko, Estatuko Administrazio Orokorraren eta Nafarroako Gobernuaren transferentziak jasotzen dituzte, haiek arduratzen baitira beste zerga batzuk biltzeaz, hala nola, BEZ eta PFEZ."
+msgstr "Udalerriek zergen bidez bildutako dirua osatzeko, Estatuko Administrazio Orokorraren eta Nafarroako Gobernuaren transferentziak jasotzen dituzte, haiek arduratzen baitira beste zerga batzuk biltzeaz, hala nola, BEZ eta PFEZ"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Nafarroako Gobernuaren diru-sarrerak eta gastuak"
 
-#: templates/budgets/index.html:127 templates/shared/data_sources.html:7 templates/shared/footer.html:18 templates/shared/header.html:28 templates/shared/header.html.py:61 templates/welcome/index.html:54
+#: templates/budgets/index.html:127 templates/shared/data_sources.html:7
+#: templates/shared/footer.html:18 templates/shared/header.html:28
+#: templates/shared/header.html.py:61 templates/welcome/index.html:54
 msgid "Gobierno de Aragón"
 msgstr "Nafarroako Gobernua"
 
@@ -57,7 +58,6 @@ msgstr "Nola eta zertan gastatzen du dirua Nafarroako Gobernuak?"
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Nafarroako Gobernuaren diru-sarreren eta gastuen ideia orokor bat izan dezazun"
-
 
 #: templates/shared/header.html
 msgid "Navarra"
