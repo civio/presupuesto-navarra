@@ -1,755 +1,756 @@
-2014,GASTO,1,,,,Gastos de personal
-2014,GASTO,1,0,,,Altos cargos
-2014,GASTO,1,0,0,,Retribuc. y otras remuneraciones de altos cargos
-2014,GASTO,1,0,0,0,Retribuciones de altos cargos
-2014,GASTO,1,0,0,1,Otras remuneraciones de altos cargos
-2014,GASTO,1,1,,,Personal eventual
-2014,GASTO,1,1,0,,Retribuciones del personal eventual
-2014,GASTO,1,1,0,0,Retribuciones del personal eventual
-2014,GASTO,1,2,,,Retribuciones del puesto
-2014,GASTO,1,2,0,,Retribuciones del personal fijo
-2014,GASTO,1,2,0,0,Retribuciones del personal fijo
-2014,GASTO,1,2,1,,Retrib. per. contratado en plazas plantilla orgán.
-2014,GASTO,1,2,1,0,Retrib. personal contratado plazas reservadas
-2014,GASTO,1,2,1,1,Retrib. personal contratado para cubrir vacantes
-2014,GASTO,1,2,2,,Retribuciones del personal contratado
-2014,GASTO,1,2,2,0,Retribuciones del personal contratado temporal
-2014,GASTO,1,2,2,1,Retrib. del personal contratado para campañas
-2014,GASTO,1,2,5,,Retrib. personal contratado para sustituciones
-2014,GASTO,1,2,5,0,Retrib. personal contratado para sustituciones
-2014,GASTO,1,4,,,Retribuciones personales
-2014,GASTO,1,4,0,,Retribuciones personales
-2014,GASTO,1,4,0,0,Retribuciones personales
-2014,GASTO,1,4,1,,Retribuciones carrera profesional
-2014,GASTO,1,4,1,0,Retribuciones carrera profesional
-2014,GASTO,1,6,,,"Cuotas, prestaciones y gastos sociales"
-2014,GASTO,1,6,0,,Cuotas sociales
-2014,GASTO,1,6,0,0,Seguridad social
-2014,GASTO,1,6,0,1,Cuotas MUFACE-ISFAS
-2014,GASTO,1,6,0,9,Otras cuotas sociales
-2014,GASTO,1,6,1,,Prestaciones sociales
-2014,GASTO,1,6,1,0,Pensiones ordinarias de funcionarios
-2014,GASTO,1,6,1,2,Pensiones excepcionales
-2014,GASTO,1,6,1,4,Indemnizaciones por jubilaciones anticipadas
-2014,GASTO,1,6,2,,Gastos sociales del personal
-2014,GASTO,1,6,2,0,Gastos sociales del personal
-2014,GASTO,1,7,,,Retribuciones variables del personal
-2014,GASTO,1,7,0,,Retribuciones variables del personal
-2014,GASTO,1,7,0,0,Indem. traslado forzoso con cambio de residencia
-2014,GASTO,1,7,0,1,Indemnización por vestuario
-2014,GASTO,1,7,0,2,Horas extraordinarias
-2014,GASTO,1,7,0,3,Remuneración por trabajo en días festivos
-2014,GASTO,1,7,0,4,Complemento por realización de guardias
-2014,GASTO,1,7,0,5,Complemento por trabajo en turnos de noche
-2014,GASTO,1,7,0,6,Complemento de dispersión geográfica
-2014,GASTO,1,7,0,9,Otras retribuciones variables
-2014,GASTO,1,7,1,,Incentivos al rendimiento
-2014,GASTO,1,7,1,0,Complemento de productividad
-2014,GASTO,1,8,,,Otras retribuciones de personal
-2014,GASTO,1,8,0,,Otras retribuciones de personal
-2014,GASTO,1,8,0,0,Otras retribuciones de personal
-2014,GASTO,1,8,1,,Retribuciones de personal de ejercicios anteriores
-2014,GASTO,1,8,1,0,Retribuciones de personal de ejercicios anteriores
-2014,GASTO,1,8,2,,Retrib. por ejecución de sentencias y otras indem.
-2014,GASTO,1,8,2,0,Retrib. por ejecución de sentencias y otras indem.
-2014,GASTO,2,,,,Gastos corrientes en bienes y servicios
-2014,GASTO,2,0,,,Arrendamientos y cánones
-2014,GASTO,2,0,0,,Arrendamientos de terrenos y bienes naturales
-2014,GASTO,2,0,0,0,Arrendamientos de terrenos y bienes naturales
-2014,GASTO,2,0,2,,Arrendamientos de bienes inmuebles
-2014,GASTO,2,0,2,0,Arrendamientos de edificios y otras construcciones
-2014,GASTO,2,0,2,9,Arrendamientos de otros bienes inmuebles
-2014,GASTO,2,0,3,,"Arrendamiento maquinaria, instalaciones y utillaje"
-2014,GASTO,2,0,3,0,"Arrendamiento maquinaria, instalaciones y utillaje"
-2014,GASTO,2,0,4,,Arrendamientos de medios de transporte
-2014,GASTO,2,0,4,0,Arrendamientos de medios de transporte
-2014,GASTO,2,0,5,,Arrendamientos de mobiliario y enseres
-2014,GASTO,2,0,5,0,Arrendamientos de mobiliario y enseres
-2014,GASTO,2,0,6,,Arrendamientos de equipos y programas proc.inform.
-2014,GASTO,2,0,6,0,Arrenda. de equipos  para proc. de información
-2014,GASTO,2,0,6,1,Arrendamientos de programas y licencias
-2014,GASTO,2,0,8,,Arrendamientos de otro inmovilizado material
-2014,GASTO,2,0,8,0,Arrendamientos de otro inmovilizado material
-2014,GASTO,2,0,9,,Cánones
-2014,GASTO,2,0,9,0,Cánones
-2014,GASTO,2,1,,,"Reparaciones, mantenimiento y conservación"
-2014,GASTO,2,1,0,,Infraestructura y bienes naturales
-2014,GASTO,2,1,0,0,Infraestructura y bienes naturales
-2014,GASTO,2,1,2,,Bienes inmuebles
-2014,GASTO,2,1,2,0,Edificios y otras construcciones
-2014,GASTO,2,1,3,,"Maquinaria, instalaciones y utillaje"
-2014,GASTO,2,1,3,0,"Maquinaria, instalaciones y utillaje"
-2014,GASTO,2,1,4,,Elementos de transporte
-2014,GASTO,2,1,4,0,Elementos de transporte
-2014,GASTO,2,1,5,,Mobiliario y enseres
-2014,GASTO,2,1,5,0,Mobiliario y enseres
-2014,GASTO,2,1,6,,Equipos para procesos de la información
-2014,GASTO,2,1,6,0,Equipos informáticos y de telecomunicaciones
-2014,GASTO,2,1,7,,Equipos médicos
-2014,GASTO,2,1,7,0,Equipos médicos
-2014,GASTO,2,1,9,,Otro inmovilizado material
-2014,GASTO,2,1,9,0,Otro inmovilizado material
-2014,GASTO,2,2,,,"Material, suministros y otros"
-2014,GASTO,2,2,0,,Material de oficina
-2014,GASTO,2,2,0,0,Material ordinario no inventariable
-2014,GASTO,2,2,0,2,"Prensa, revistas, libros y otras publicaciones"
-2014,GASTO,2,2,0,3,Material informático no inventariable
-2014,GASTO,2,2,1,,Suministros especiales para funcionamiento serv.
-2014,GASTO,2,2,1,0,Alimentación
-2014,GASTO,2,2,1,1,Productos para reproducción y alimentación animal
-2014,GASTO,2,2,1,2,Gastos de mantenimiento de los centros
-2014,GASTO,2,2,1,3,Prótesis
-2014,GASTO,2,2,1,4,Instrumental y pequeño utillaje de consumo
-2014,GASTO,2,2,1,5,Fármacos
-2014,GASTO,2,2,1,6,Material sanitario de consumo
-2014,GASTO,2,2,1,7,Ropería para uso sanitario
-2014,GASTO,2,2,1,8,Productos veterinarios
-2014,GASTO,2,2,1,9,Otros suministros especiales
-2014,GASTO,2,2,2,,Comunicaciones
-2014,GASTO,2,2,2,0,Servicios de telecomunicaciones
-2014,GASTO,2,2,2,1,Postales y mensajería
-2014,GASTO,2,2,2,4,Transmisiones de datos
-2014,GASTO,2,2,2,9,Otras
-2014,GASTO,2,2,3,,Gastos de transportes
-2014,GASTO,2,2,3,0,Gastos de transportes
-2014,GASTO,2,2,4,,Primas de seguros
-2014,GASTO,2,2,4,0,Primas de seguros de edificios y locales
-2014,GASTO,2,2,4,1,Primas de seguros de vehículos
-2014,GASTO,2,2,4,2,Primas de seguros de otro inmovilizado
-2014,GASTO,2,2,4,9,Otros riesgos
-2014,GASTO,2,2,5,,Tributos
-2014,GASTO,2,2,5,0,Tributos locales
-2014,GASTO,2,2,5,2,Tributos estatales
-2014,GASTO,2,2,6,,Gastos diversos
-2014,GASTO,2,2,6,1,Atenciones protocolarias y representativas
-2014,GASTO,2,2,6,2,Publicidad y propaganda
-2014,GASTO,2,2,6,3,"Gastos jurídicos, contenciosos"
-2014,GASTO,2,2,6,4,Gastos de comunidades
-2014,GASTO,2,2,6,5,Remuneraciones a agentes mediadores independientes
-2014,GASTO,2,2,6,6,"Reuniones, conferencias y cursillos"
-2014,GASTO,2,2,6,7,Oposiciones y pruebas selectivas
-2014,GASTO,2,2,6,9,Otros gastos diversos
-2014,GASTO,2,2,7,,Trabajos realizados por otras empr. y profesional.
-2014,GASTO,2,2,7,0,Servicios de lavandería
-2014,GASTO,2,2,7,1,Servicios de limpieza y aseo
-2014,GASTO,2,2,7,2,Servicios de gestión de cobros y notificaciones
-2014,GASTO,2,2,7,3,Servicios informáticos
-2014,GASTO,2,2,7,4,Servicios de seguridad
-2014,GASTO,2,2,7,5,Procesos electorales y consultas populares
-2014,GASTO,2,2,7,6,Estudios y trabajos técnicos
-2014,GASTO,2,2,7,7,Gestión de residuos
-2014,GASTO,2,2,7,8,Alimentación
-2014,GASTO,2,2,7,9,Otros trabajos realizados por terceros
-2014,GASTO,2,2,8,,Suministros auxiliares
-2014,GASTO,2,2,8,0,"Energía eléctrica, agua y gas"
-2014,GASTO,2,2,8,1,"Combustibles, lubricantes y calefacción"
-2014,GASTO,2,2,8,3,"Materiales para reparaciones, conserv. y repuestos"
-2014,GASTO,2,2,8,4,Material de limpieza y aseo
-2014,GASTO,2,2,8,5,Vestuario
-2014,GASTO,2,2,8,6,Productos químicos y de laboratorio
-2014,GASTO,2,2,8,7,Gases médicos
-2014,GASTO,2,2,8,9,Otros suministros auxiliares
-2014,GASTO,2,3,,,Indemnizaciones por razón del servicio
-2014,GASTO,2,3,0,,"Dietas, locomoción y gastos de viaje"
-2014,GASTO,2,3,0,0,Dietas
-2014,GASTO,2,3,0,1,Locomoción y gastos de viaje
-2014,GASTO,2,3,3,,Otras indemnizaciones
-2014,GASTO,2,3,3,0,Indemnización por trabajos realizados
-2014,GASTO,2,3,3,9,Otras indemnizaciones
-2014,GASTO,2,4,,,Gastos de publicaciones
-2014,GASTO,2,4,0,,Gastos de edición y distribución
-2014,GASTO,2,4,0,0,Gastos de edición de libros y publicaciones
-2014,GASTO,2,5,,,Conciertos de asistencia sanitaria
-2014,GASTO,2,5,0,,Conciertos de asistencia sanitaria
-2014,GASTO,2,5,0,0,Conciertos de asistencia sanitaria
-2014,GASTO,3,,,,Gastos financieros
-2014,GASTO,3,0,,,Gastos financieros de deuda pública interior
-2014,GASTO,3,0,0,,Intereses de obligaciones y bonos
-2014,GASTO,3,0,0,0,Intereses de deuda de Navarra
-2014,GASTO,3,0,0,8,Intereses de pagarés
-2014,GASTO,3,0,0,9,Otros intereses
-2014,GASTO,3,0,1,,"Gastos de emisión, modif. y cancelación de deuda"
-2014,GASTO,3,0,1,0,"Gastos de emisión, modif. y cancelación de deuda"
-2014,GASTO,3,0,2,,Primas de reembolso de obligaciones y bonos
-2014,GASTO,3,0,2,0,Primas de reembolso de obligaciones y bonos
-2014,GASTO,3,0,3,,Rendimientos implícitos
-2014,GASTO,3,0,3,0,Rendimientos implícitos
-2014,GASTO,3,1,,,Gastos financieros de préstamos del interior
-2014,GASTO,3,1,0,,Intereses de préstamos y anticipos del interior
-2014,GASTO,3,1,0,0,Intereses de ptmos. y anticipos del sector público
-2014,GASTO,3,1,0,1,Intereses de ptmos. y anticipos del sector privado
-2014,GASTO,3,1,1,,Gastos formalización de ptmos. y ant. del interior
-2014,GASTO,3,1,1,0,Gastos formalización de ptmos. y ant. del interior
-2014,GASTO,3,1,3,,Rendimientos implícitos
-2014,GASTO,3,1,3,0,Rendimientos implícitos
-2014,GASTO,3,3,,,Gastos financieros de préstamos del exterior
-2014,GASTO,3,3,0,,Intereses de préstamos y anticipos del exterior
-2014,GASTO,3,3,0,0,Intereses de préstamos y anticipos del exterior
-2014,GASTO,3,3,1,,Gastos formalización de ptmos. y ant. del exterior
-2014,GASTO,3,3,1,0,Gastos formalización de ptmos. y ant. del exterior
-2014,GASTO,3,3,2,,Diferencias de cambio
-2014,GASTO,3,3,2,0,Diferencias de cambio
-2014,GASTO,3,3,3,,Rendimientos implícitos
-2014,GASTO,3,3,3,0,Rendimientos implícitos
-2014,GASTO,3,4,,,Gastos financieros de depósitos y fianzas
-2014,GASTO,3,4,0,,Intereses de depósitos y fianzas
-2014,GASTO,3,4,0,0,Intereses de depósitos
-2014,GASTO,3,4,0,1,Intereses de fianzas
-2014,GASTO,3,5,,,Intereses de demora y otros gastos financieros
-2014,GASTO,3,5,0,,Intereses de demora y otros gastos financieros
-2014,GASTO,3,5,0,1,Intereses de demora
-2014,GASTO,3,5,0,9,Otros gastos financieros
-2014,GASTO,4,,,,Transferencias corrientes
-2014,GASTO,4,0,,,T. corrientes a la Administración del Estado
-2014,GASTO,4,0,0,,Aportación al Estado derivada Convenio Económico
-2014,GASTO,4,0,0,0,Aportación al Estado derivada Convenio  Económico
-2014,GASTO,4,0,9,,Otras aportaciones al Estado o a sus OO.AA.
-2014,GASTO,4,0,9,0,Otras aportaciones al Estado o a sus OO.AA.
-2014,GASTO,4,1,,,T. corrientes a OO.AA. de la Admón. de la C. Foral
-2014,GASTO,4,1,0,,T. corrientes a OO.AA. de la Admón. de la C. Foral
-2014,GASTO,4,1,0,0,T. corrientes a OO.AA. de la Admón. de la C. Foral
-2014,GASTO,4,2,,,Transferencias corrientes a la Seguridad Social
-2014,GASTO,4,2,0,,Transferencias corrientes a la Seguridad Social
-2014,GASTO,4,2,0,0,Transferencias corrientes a la Seguridad Social
-2014,GASTO,4,3,,,Transferencias corrientes a fundaciones
-2014,GASTO,4,3,0,,Transferencias corrientes a fundaciones
-2014,GASTO,4,3,0,0,Transferencias corrientes a fundaciones forales
-2014,GASTO,4,3,0,9,Transferencias corrientes a otras fundaciones
-2014,GASTO,4,4,,,T. ctes. a empresas públicas y otros entes públic.
-2014,GASTO,4,4,0,,Transferencias corrientes a empresas públicas
-2014,GASTO,4,4,0,0,Transferencias corrientes a empresas públicas GN
-2014,GASTO,4,4,0,9,Transferencias corrientes a otras empresas pública
-2014,GASTO,4,4,5,,Transferencias corrientes a otros entes públicos
-2014,GASTO,4,4,5,0,Transferencias corrientes al Parlamento de Navarra
-2014,GASTO,4,4,5,1,Transferencias corrientes a la Cámara de Comptos
-2014,GASTO,4,4,5,2,Transferencias corrientes al Defensor del Pueblo
-2014,GASTO,4,4,5,5,T. ctes. a la Universidad Pública de Navarra
-2014,GASTO,4,4,5,9,Transferencias corrientes a otros entes públicos
-2014,GASTO,4,5,,,Transferencias corrientes a comunidades autónomas
-2014,GASTO,4,5,0,,Transferencias corrientes a comunidades autónomas
-2014,GASTO,4,5,0,0,Transferencias corrientes a comunidades autónomas
-2014,GASTO,4,6,,,Transferencias corrientes a entidades locales
-2014,GASTO,4,6,0,,Transf. corrientes a entidades locales de Navarra
-2014,GASTO,4,6,0,0,Fondo de transferencias corrientes
-2014,GASTO,4,6,0,9,Otras transf. ctes. a entidades locales de Navarra
-2014,GASTO,4,6,1,,T. ctes. a entidades locales no perten. a Navarra
-2014,GASTO,4,6,1,0,T. ctes. a entidades locales no perten. a Navarra
-2014,GASTO,4,7,,,Transferencias corrientes a empresas privadas
-2014,GASTO,4,7,0,,Transferencias corrientes a empresas privadas
-2014,GASTO,4,7,0,0,T. ctes. a empresas agrícolas y ganaderas
-2014,GASTO,4,7,0,1,T. ctes. a empresas comerciales e industriales
-2014,GASTO,4,7,0,9,Transferencias ctes. a otras empresas privadas
-2014,GASTO,4,8,,,T.ctes. a familias e instituc. sin fines de lucro
-2014,GASTO,4,8,0,,Transferencias ctes. a familias y particulares
-2014,GASTO,4,8,0,0,Transferencias ctes. a particulares estudiantes
-2014,GASTO,4,8,0,2,Pensiones asistenciales
-2014,GASTO,4,8,0,9,Transfer. ctes. a familias y otros particulares
-2014,GASTO,4,8,1,,T. ctes. a instituciones sin fines de lucro
-2014,GASTO,4,8,1,1,T. ctes. a centros de enseñanza no universitaria
-2014,GASTO,4,8,1,2,T. ctes. a facultades y escuelas universitarias
-2014,GASTO,4,8,1,6,T. ctes. a organizaciones culturales y artísticas
-2014,GASTO,4,8,1,9,T.c. a otras instituc. sin fines de lucro
-2014,GASTO,4,9,,,Transferencias corrientes al exterior
-2014,GASTO,4,9,0,,Transferencias corrientes al exterior
-2014,GASTO,4,9,0,0,Transferencias corrientes al exterior
-2014,GASTO,5,,,,Fondo de contingencia
-2014,GASTO,5,0,,,Fondo de contingencia
-2014,GASTO,5,0,0,,Fondo de contingencia
-2014,GASTO,5,0,0,0,Fondo de contingencia
-2014,GASTO,6,,,,Inversiones reales
-2014,GASTO,6,0,,,Inversiones reales
-2014,GASTO,6,0,0,,Terrenos y bienes naturales
-2014,GASTO,6,0,0,0,Solares
-2014,GASTO,6,0,0,1,Fincas rústicas
-2014,GASTO,6,0,0,2,Otros bienes naturales
-2014,GASTO,6,0,1,,Obras públicas
-2014,GASTO,6,0,1,0,"Carreteras, caminos y puentes"
-2014,GASTO,6,0,1,3,Líneas eléctricas y telefónicas
-2014,GASTO,6,0,1,4,Obras hidráulicas
-2014,GASTO,6,0,1,5,Polígonos industriales
-2014,GASTO,6,0,1,6,Aeropuertos
-2014,GASTO,6,0,1,9,Otras obras públicas
-2014,GASTO,6,0,2,,Edificios y otras construcciones
-2014,GASTO,6,0,2,0,Edificios
-2014,GASTO,6,0,2,1,Otras construcciones
-2014,GASTO,6,0,3,,"Maquinaria, instalaciones y utillaje"
-2014,GASTO,6,0,3,0,Maquinaria
-2014,GASTO,6,0,3,1,Instalaciones
-2014,GASTO,6,0,3,2,Utillaje y herramientas
-2014,GASTO,6,0,4,,Material de transporte
-2014,GASTO,6,0,4,0,Vehículos para el transporte de personas
-2014,GASTO,6,0,4,1,Vehículos para el transporte de cargas
-2014,GASTO,6,0,4,2,Otro material de transporte
-2014,GASTO,6,0,5,,Mobiliario y enseres
-2014,GASTO,6,0,5,0,Mobiliario y equipo de oficina
-2014,GASTO,6,0,5,4,Material técnico
-2014,GASTO,6,0,5,5,Material de señalización
-2014,GASTO,6,0,5,6,Obras y material artístico
-2014,GASTO,6,0,5,7,Equipos médicos
-2014,GASTO,6,0,5,9,Otro mobiliario y equipo
-2014,GASTO,6,0,6,,Equipos para proceso de información
-2014,GASTO,6,0,6,0,Equipos para proceso de información
-2014,GASTO,6,0,7,,Bienes semovientes
-2014,GASTO,6,0,7,0,Bienes semovientes
-2014,GASTO,6,0,8,,Otro inmovilizado material
-2014,GASTO,6,0,8,1,Adquisición de fondos editoriales
-2014,GASTO,6,0,8,2,Material y equipos de investigación
-2014,GASTO,6,0,8,9,Otro inmovilizado material
-2014,GASTO,6,0,9,,Inmovilizado inmaterial
-2014,GASTO,6,0,9,0,Otro inmovilizado inmaterial
-2014,GASTO,6,0,9,1,Proyectos técnicos
-2014,GASTO,6,0,9,2,"Estudios, informes y otros"
-2014,GASTO,7,,,,Transferencias de capital
-2014,GASTO,7,0,,,Transf. de capital a la Administración del Estado
-2014,GASTO,7,0,0,,Transf. de capital a la Administración del Estado
-2014,GASTO,7,0,0,0,Transf. de  capital a la Administración del Estado
-2014,GASTO,7,1,,,T. capital a OO.AA. de la Admón. de la C. Foral
-2014,GASTO,7,1,0,,T. capital a OO.AA. de la Admón. de la C. Foral
-2014,GASTO,7,1,0,0,T. capital a OO.AA. de la Admón. de la C. Foral
-2014,GASTO,7,2,,,Transferencias de capital a la Seguridad Social
-2014,GASTO,7,2,0,,Transferencias de capital a la Seguridad Social
-2014,GASTO,7,2,0,0,Transferencias de capital a la Seguridad Social
-2014,GASTO,7,3,,,Transferencias de capital a fundaciones
-2014,GASTO,7,3,0,,Transferencias de capital a fundaciones
-2014,GASTO,7,3,0,0,Transferencias de capital a fundaciones forales
-2014,GASTO,7,3,0,9,Transferencias de capital a otras fundaciones
-2014,GASTO,7,4,,,T. cap. a empresas públicas y otros entes públicos
-2014,GASTO,7,4,0,,Transferencias de capital a empresas públicas
-2014,GASTO,7,4,0,0,Transferencias de capital a empresas públicas GN
-2014,GASTO,7,4,0,9,Transferencias de capital a otras empresas pública
-2014,GASTO,7,4,5,,Transferencias de capital a otros entes públicos
-2014,GASTO,7,4,5,0,Transferencias de capital al Parlamento de Navarra
-2014,GASTO,7,4,5,1,Transferencias de capital a la Cámara de Comptos
-2014,GASTO,7,4,5,2,Transferencias de capital al Defensor del Pueblo
-2014,GASTO,7,4,5,5,T. capital a la Universidad Pública de Navarra
-2014,GASTO,7,4,5,9,Transferencias de capital a otros entes públicos
-2014,GASTO,7,5,,,Transferencias de capital a comunidades autónomas
-2014,GASTO,7,5,0,,Transferencias de capital a comunidades autónomas
-2014,GASTO,7,5,0,0,Transferencias de capital a comunidades autónomas
-2014,GASTO,7,6,,,Transferencias de capital a entidades locales
-2014,GASTO,7,6,0,,Transferen. capital a entidades locales de Navarra
-2014,GASTO,7,6,0,0,Fondo de transferencias de capital
-2014,GASTO,7,6,0,9,Otras transf. de cap. a entida. locales de Navarra
-2014,GASTO,7,6,1,,T. cap. a entidades locales no perten. a Navarra
-2014,GASTO,7,6,1,0,T. cap. a entidades locales no perten. a Navarra
-2014,GASTO,7,7,,,Transferencias de capital a empresas privadas
-2014,GASTO,7,7,0,,Transferencias de capital a empresas privadas
-2014,GASTO,7,7,0,0,T. capital a empresas agrícolas y ganaderas
-2014,GASTO,7,7,0,1,T. capital a empresas comerciales e industriales
-2014,GASTO,7,7,0,9,Transferencias  capital a otras empresas privadas
-2014,GASTO,7,8,,,T. cap. a familias e instituc. sin fines de lucro
-2014,GASTO,7,8,0,,Transferencias capital a familias y particulares
-2014,GASTO,7,8,0,0,Transferencias capital a familias y particulares
-2014,GASTO,7,8,0,9,Transf. de capital a otras familias y particulares
-2014,GASTO,7,8,1,,T. capital a instituciones sin fines de lucro
-2014,GASTO,7,8,1,1,T. cap. a centros de enseñanzas no universitaria
-2014,GASTO,7,8,1,2,T. cap. a facultades y escuelas universitarias
-2014,GASTO,7,8,1,6,T. cap. a organizaciones culturales y artísticas
-2014,GASTO,7,8,1,9,T. de cap. a otras inst. sin fines de lucro
-2014,GASTO,7,9,,,Transferencias de capital al exterior
-2014,GASTO,7,9,0,,Transferencias de capital al exterior
-2014,GASTO,7,9,0,0,Transferencias de capital al exterior
-2014,GASTO,8,,,,Activos financieros
-2014,GASTO,8,0,,,Adquisición de deuda del sector público
-2014,GASTO,8,0,0,,Adq. de deuda del sector público a corto plazo
-2014,GASTO,8,0,0,0,Adq. de deuda del sector público a corto plazo
-2014,GASTO,8,0,1,,Adq. de deuda del sector público a largo plazo
-2014,GASTO,8,0,1,0,Adq. de deuda del sector público a largo plazo
-2014,GASTO,8,1,,,Adquisición de obligaciones y bonos fuera del s.p.
-2014,GASTO,8,1,0,,Adq. obligaciones y bonos fuera s.p. a corto plazo
-2014,GASTO,8,1,0,0,Adq. obligaciones y bonos fuera s.p. a corto plazo
-2014,GASTO,8,1,1,,Adq. obligaciones y bonos fuera s.p. a largo plazo
-2014,GASTO,8,1,1,0,Adq. obligaciones y bonos fuera s.p. a largo plazo
-2014,GASTO,8,2,,,Concesión de préstamos al sector público
-2014,GASTO,8,2,0,,Conces. préstamos al sector público a corto plazo
-2014,GASTO,8,2,0,1,Préstamos a organismos públicos a corto plazo
-2014,GASTO,8,2,0,4,Préstamos a empresas públicas a corto plazo
-2014,GASTO,8,2,0,6,Préstamos a corporac. local. de Navarra a corto p.
-2014,GASTO,8,2,0,9,Otros préstamos al sector público a corto plazo
-2014,GASTO,8,2,1,,Conces.préstamos al sector público a largo plazo
-2014,GASTO,8,2,1,1,Préstamos a organismos públicos a largo plazo
-2014,GASTO,8,2,1,4,Préstamos a empresas públicas a largo plazo
-2014,GASTO,8,2,1,6,Préstamos a corporac. local. de Navarra a largo p.
-2014,GASTO,8,2,1,9,Otros préstamos al sector público a largo plazo
-2014,GASTO,8,3,,,Concesión de préstamos fuera del sector público
-2014,GASTO,8,3,0,,Conces. préstamos fuera del sector público a c.p.
-2014,GASTO,8,3,0,7,Préstamos a empresas privadas a corto plazo
-2014,GASTO,8,3,0,8,Préstamos a familias y empleados a corto plazo
-2014,GASTO,8,3,0,9,Otros préstamos fuera del sector público a c. p.
-2014,GASTO,8,3,1,,Conces. préstamos fuera del sector público a l.p.
-2014,GASTO,8,3,1,7,Préstamos a empresas privadas a largo plazo
-2014,GASTO,8,3,1,8,Préstamos a familias y empleados a largo plazo
-2014,GASTO,8,3,1,9,Otros préstamos fuera del sector público largo p.
-2014,GASTO,8,4,,,Constitución de depósitos y fianzas
-2014,GASTO,8,4,0,,Const. depós. y pagos por incumplim. oblig. afian.
-2014,GASTO,8,4,0,0,Depósitos constituidos
-2014,GASTO,8,4,0,1,Pagos por incumplimiento obligaciones afianzadas
-2014,GASTO,8,4,1,,Constitución de fianzas
-2014,GASTO,8,4,1,0,Constitución de fianzas
-2014,GASTO,8,5,,,Adquisición de acciones y participac. del s. púb.
-2014,GASTO,8,5,0,,Adquisición de acciones y participac. del s. púb.
-2014,GASTO,8,5,0,0,Adq. acciones y partici. de sdes. púb. de la C. F.
-2014,GASTO,8,5,0,1,Adq. acciones y participaci. de otras entid. púb.
-2014,GASTO,8,6,,,Adquisición de acciones y partici. fuera del s. p.
-2014,GASTO,8,6,0,,Adquisición de acciones y partici. fuera del s. p.
-2014,GASTO,8,6,0,0,Adquisición de acciones y part. de fuera del s.p.
-2014,GASTO,8,7,,,Financiación de déficit de ejercicios anteriores
-2014,GASTO,8,7,0,,Financiación de déficit de ejercicios anteriores
-2014,GASTO,8,7,0,0,Financiación de déficit de ejercicios anteriores
-2014,GASTO,9,,,,Pasivos financieros
-2014,GASTO,9,0,,,Amortización de deuda pública interior
-2014,GASTO,9,0,0,,Amortización de deuda pública interior
-2014,GASTO,9,0,0,0,Amortización de deuda pública interior
-2014,GASTO,9,0,2,,Amortización de obligaciones y bonos a largo plazo
-2014,GASTO,9,0,2,0,Amortización de la deuda pública
-2014,GASTO,9,1,,,Amortización de préstamos del interior
-2014,GASTO,9,1,0,,Amortización de ptmos. y anticipos a corto plazo
-2014,GASTO,9,1,0,0,Amortización de ptmos. y anticipos a corto plazo
-2014,GASTO,9,1,2,,Amortización de ptmos. y anticipos a largo plazo
-2014,GASTO,9,1,2,0,Amortización de ptmos. y anticipos a largo plazo
-2014,GASTO,9,3,,,Amortización de préstamos del exterior
-2014,GASTO,9,3,0,,Amortización de ptmos. del exterior a corto plazo
-2014,GASTO,9,3,0,0,Amortización de ptmos. del exterior a corto plazo
-2014,GASTO,9,3,1,,Amortización de ptmos. del exterior a largo plazo
-2014,GASTO,9,3,1,0,Amortización de ptmos. del exterior a largo plazo
-2014,GASTO,9,4,,,"Devolución de depósitos, fianzas y otras"
-2014,GASTO,9,4,0,,"Devolución de depósitos, fianzas y otras"
-2014,GASTO,9,4,0,0,Devolución de depósitos
-2014,GASTO,9,4,0,1,Devolución de fianzas
-2014,GASTO,9,4,0,9,Otras devoluciones
-2014,INGRESO,1,,,,Impuestos directos
-2014,INGRESO,1,0,,,Impuestos directos sobre la renta
-2014,INGRESO,1,0,0,,Impuesto sobre la renta de las personas físicas
-2014,INGRESO,1,0,0,5,Total IRPF
-2014,INGRESO,1,0,0,6,Beneficios fiscales. IRPF
-2014,INGRESO,1,0,0,7,Gravamen único sobre revalorización activos. IRPF
-2014,INGRESO,1,0,1,,Impuesto sobre sociedades
-2014,INGRESO,1,0,1,5,Total sociedades
-2014,INGRESO,1,0,1,6,Beneficios fiscales. Sociedades
-2014,INGRESO,1,0,1,7,Gravamen único sob. revaloriz. activos. Sociedades
-2014,INGRESO,1,0,2,,Impuesto sobre la renta de no residentes
-2014,INGRESO,1,0,2,0,Impuesto sobre la renta de no residentes
-2014,INGRESO,1,1,,,Impuestos directos sobre el capital
-2014,INGRESO,1,1,0,,Impuesto sobre el Patrimonio
-2014,INGRESO,1,1,0,0,Impuesto sobre el Patrimonio
-2014,INGRESO,1,1,2,,Impuesto sobre sucesiones y donaciones
-2014,INGRESO,1,1,2,0,Impuesto sobre sucesiones y donaciones
-2014,INGRESO,1,1,3,,Gravamen sobre la actualización de valores
-2014,INGRESO,1,1,3,0,Gravamen sobre la actualización de valores
-2014,INGRESO,1,8,,,Otros impuestos directos
-2014,INGRESO,1,8,1,,Impuesto sobre la producción de energía eléctrica
-2014,INGRESO,1,8,1,0,Impuesto sobre la producción de energía eléctrica
-2014,INGRESO,1,8,2,,Impto. sobre grandes establecimientos comerciales
-2014,INGRESO,1,8,2,0,Impto. sobre grandes establecimientos comerciales
-2014,INGRESO,1,9,,,Impuestos directos extinguidos
-2014,INGRESO,1,9,0,,Impuestos directos extinguidos
-2014,INGRESO,1,9,0,0,Impuestos directos extinguidos
-2014,INGRESO,2,,,,Impuestos indirectos
-2014,INGRESO,2,1,,,Impuesto sobre el valor añadido
-2014,INGRESO,2,1,0,,Impuesto sobre el valor añadido
-2014,INGRESO,2,1,0,0,Impuesto sobre el valor añadido
-2014,INGRESO,2,2,,,Impuestos sobre consumos específicos
-2014,INGRESO,2,2,0,,Impuestos especiales
-2014,INGRESO,2,2,0,0,Impuestos sobre el alcohol y bebidas derivadas
-2014,INGRESO,2,2,0,1,Impuesto sobre determinados medios de transporte
-2014,INGRESO,2,2,0,2,Impuesto sobre la cerveza
-2014,INGRESO,2,2,0,3,Impuesto sobre las labores del tabaco
-2014,INGRESO,2,2,0,4,Impuesto sobre hidrocarburos
-2014,INGRESO,2,2,0,6,Impuesto sobre productos intermedios
-2014,INGRESO,2,2,0,7,Impuesto sobre producción de energía
-2014,INGRESO,2,2,0,9,Otros
-2014,INGRESO,2,2,1,,Otros impuestos sobre consumos específicos
-2014,INGRESO,2,2,1,0,Impto ventas minoristas de deter. hidrocarburos
-2014,INGRESO,2,2,1,1,Otros impuestos sobre consumos específicos
-2014,INGRESO,2,8,,,Otros impuestos indirectos
-2014,INGRESO,2,8,1,,Impuesto sobre las primas de seguros
-2014,INGRESO,2,8,1,0,Impuesto sobre las primas de seguros
-2014,INGRESO,2,8,2,,Impuesto sobre transmisiones patrimonial. interv.
-2014,INGRESO,2,8,2,0,Impuesto sobre transmisiones patrimonial. interv.
-2014,INGRESO,2,8,3,,Impuesto sobre actos jurídicos documentados
-2014,INGRESO,2,8,3,0,Impuesto sobre actos jurídicos documentados
-2014,INGRESO,2,8,4,,Impuesto sobre actividades del juego
-2014,INGRESO,2,8,4,0,Impuesto sobre actividades del juego
-2014,INGRESO,2,8,9,,Otros impuestos indirectos
-2014,INGRESO,2,8,9,0,Otros impuestos indirectos
-2014,INGRESO,3,,,,"Tasas, precios públicos y otros ingresos"
-2014,INGRESO,3,0,,,Tasas fiscales
-2014,INGRESO,3,0,0,,Tasas derivadas de la actividad del juego
-2014,INGRESO,3,0,0,0,Tasas derivadas de la actividad del juego
-2014,INGRESO,3,0,1,,Tasas por servicios administrativos
-2014,INGRESO,3,0,1,0,Tasas por servicios administrativos
-2014,INGRESO,3,0,2,,"Tasas por licencias de caza y pesca, cotos y otros"
-2014,INGRESO,3,0,2,0,"Tasas por licencias de caza y pesca, cotos y otros"
-2014,INGRESO,3,0,3,,Tasas judiciales
-2014,INGRESO,3,0,3,0,Tasas judiciales
-2014,INGRESO,3,0,4,,Tasas por servicios de ordenación del transporte
-2014,INGRESO,3,0,4,0,Tasas por servicios de ordenación del transporte
-2014,INGRESO,3,0,5,,"Tasas por servicios indust., energéticos y mineros"
-2014,INGRESO,3,0,5,0,"Tasas por servicios industr., energ. y mineros"
-2014,INGRESO,3,0,6,,Tasas por dirección y tasación de obras
-2014,INGRESO,3,0,6,0,Tasas por dirección y tasación de obras
-2014,INGRESO,3,0,7,,Tasas académicas y derechos de examen
-2014,INGRESO,3,0,7,0,Tasas académicas y derechos de examen
-2014,INGRESO,3,0,8,,Tasas de telecomunicaciones
-2014,INGRESO,3,0,8,0,Tasas de telecomunicaciones
-2014,INGRESO,3,0,9,,Otras tasas
-2014,INGRESO,3,0,9,0,Otras tasas
-2014,INGRESO,3,1,,,Precios públicos por prestación de servicios
-2014,INGRESO,3,1,0,,Prestación de servicios educativos
-2014,INGRESO,3,1,0,0,Prestación de servicios educativos
-2014,INGRESO,3,1,1,,"Prest. de servs. culturales, deportivos y de ocio"
-2014,INGRESO,3,1,1,0,Ingresos por visitas a centros culturales
-2014,INGRESO,3,1,1,1,Ingr. por organización de actividades culturales
-2014,INGRESO,3,1,1,3,Ingr. por organiza. y explotac. de activ. deport.
-2014,INGRESO,3,1,1,8,"Ingr. por otros serv. culturales, depor. y de ocio"
-2014,INGRESO,3,1,2,,Prestación de servicios sanitarios y sociales
-2014,INGRESO,3,1,2,0,Concierto con INGESA por asistencia médica
-2014,INGRESO,3,1,2,3,Concierto con otras entidades por asist. médica
-2014,INGRESO,3,1,2,4,Ingr. por prest. de asist. médica a particulares
-2014,INGRESO,3,1,2,5,Ingresos por prestación de servicios veterinarios
-2014,INGRESO,3,1,2,6,Ingresos por prestación de servicios sociales
-2014,INGRESO,3,1,2,8,Ingr. por prestación de asist. sant. uso especial
-2014,INGRESO,3,1,2,9,Ingr. por prest. de otros serv. sanit. y sociales
-2014,INGRESO,3,1,3,,Prestación de servicios de transporte
-2014,INGRESO,3,1,3,0,Ingresos por prestación de servicios de transporte
-2014,INGRESO,3,1,9,,Prestación de otros servicios
-2014,INGRESO,3,1,9,0,Ingresos por prestación de servicios informáticos
-2014,INGRESO,3,1,9,1,Ingresos por estancias carcelarias
-2014,INGRESO,3,1,9,2,Ingresos por alquiler de maquinaria
-2014,INGRESO,3,1,9,9,Ingresos por prestación de otros servicios
-2014,INGRESO,3,3,,,Venta de bienes y derechos
-2014,INGRESO,3,3,0,,Venta de bienes y derechos
-2014,INGRESO,3,3,0,1,Venta de material de desecho
-2014,INGRESO,3,3,0,2,Venta de productos agropecuarios
-2014,INGRESO,3,3,0,3,Venta de medicamentos
-2014,INGRESO,3,3,0,4,Venta de publicaciones
-2014,INGRESO,3,3,0,5,Venta de derechos
-2014,INGRESO,3,3,0,9,Venta de otros bienes y productos
-2014,INGRESO,3,8,,,Reintegros de operaciones
-2014,INGRESO,3,8,0,,Reintegros de ejercicios cerrados
-2014,INGRESO,3,8,0,0,Reintegros de ejercicios cerrados
-2014,INGRESO,3,8,1,,Reintegros del presupuesto corriente
-2014,INGRESO,3,8,1,0,Reintegros del presupuesto corriente
-2014,INGRESO,3,8,9,,Otros reintegros
-2014,INGRESO,3,8,9,0,Otros reintegros
-2014,INGRESO,3,9,,,Otros ingresos
-2014,INGRESO,3,9,0,,Cuotas de derechos pasivos
-2014,INGRESO,3,9,0,0,Cuotas de derechos pasivos
-2014,INGRESO,3,9,1,,"Multas, sanciones, intereses y recargos"
-2014,INGRESO,3,9,1,0,Multas y sanciones
-2014,INGRESO,3,9,1,1,Intereses de demora
-2014,INGRESO,3,9,1,2,Recargos
-2014,INGRESO,3,9,9,,Otros ingresos
-2014,INGRESO,3,9,9,0,Otros ingresos
-2014,INGRESO,4,,,,Transferencias corrientes
-2014,INGRESO,4,0,,,Transf. corrientes de la Administración del Estado
-2014,INGRESO,4,0,0,,Transf. corrientes de la Administración del Estado
-2014,INGRESO,4,0,0,0,Transf. corrientes de la Administración del Estado
-2014,INGRESO,4,0,0,2,Transferencias corrientes del FEGA
-2014,INGRESO,4,1,,,T. ctes. de OOAA de la Admón. de Comunidad Foral
-2014,INGRESO,4,1,0,,T. ctes. de OOAA de la Admón. de la C. Foral
-2014,INGRESO,4,1,0,0,T. ctes. de OOAA de la Admón. de la C. Foral
-2014,INGRESO,4,2,,,Transferencias corrientes de la Seguridad Social
-2014,INGRESO,4,2,0,,Transferencias corrientes de la Seguridad Social
-2014,INGRESO,4,2,0,0,Transferencias corrientes de la Seguridad Social
-2014,INGRESO,4,3,,,Transferencias corrientes de fundaciones
-2014,INGRESO,4,3,0,,Transferencias corrientes de fundaciones
-2014,INGRESO,4,3,0,0,Transferencias corrientes de fundaciones forales
-2014,INGRESO,4,3,0,9,Transferencias corrientes de otras fundaciones
-2014,INGRESO,4,4,,,T. ctes. de empre. públicas y otros entes públicos
-2014,INGRESO,4,4,0,,Transferencias corrientes de empresas públicas
-2014,INGRESO,4,4,0,0,T. ctes. de emp. púb. de la Admón. de la C. Foral
-2014,INGRESO,4,4,0,1,Transf. corrientes de empresas públicas del Estado
-2014,INGRESO,4,4,1,,Transferencias corrientes de otros entes públicos
-2014,INGRESO,4,4,1,0,T. ctes. de otros ent. públicos de Admón. de C. F.
-2014,INGRESO,4,4,1,1,T. corrientes de otros entes públicos del Estado
-2014,INGRESO,4,4,1,2,Transf. corr. de otros entes públicos de CCAA
-2014,INGRESO,4,4,1,3,Transf. corr. de otros entes públicos de EELL
-2014,INGRESO,4,5,,,Transferencias corrientes de comunidades autónomas
-2014,INGRESO,4,5,0,,Transferencias corrientes de comunidades autónomas
-2014,INGRESO,4,5,0,0,Transferencias corrientes de comunidades autónomas
-2014,INGRESO,4,6,,,Transferencias corrientes de entidades locales
-2014,INGRESO,4,6,0,,T. corrientes de entidades locales de Navarra
-2014,INGRESO,4,6,0,0,T. corrientes de entidades locales de Navarra
-2014,INGRESO,4,6,1,,T. ctes. de entidades locales no perten. a Navarra
-2014,INGRESO,4,6,1,0,T. ctes. de entidades locales no perten. a Navarra
-2014,INGRESO,4,7,,,Transferencias corrientes de empresas privadas
-2014,INGRESO,4,7,0,,Transferencias corrientes de empresas privadas
-2014,INGRESO,4,7,0,0,Transferencias corrientes de empresas privadas
-2014,INGRESO,4,8,,,T. ctes. de familias e instit. sin fines de lucro
-2014,INGRESO,4,8,0,,T. ctes. de familias e instit. sin fines de lucro
-2014,INGRESO,4,8,0,0,T. ctes. de familias e instit. sin fines de lucro
-2014,INGRESO,4,9,,,Transferencias corrientes del exterior
-2014,INGRESO,4,9,0,,Transferencias corrientes de la Unión Europea
-2014,INGRESO,4,9,0,0,Transf. corrientes del Fondo Social Europeo (FSE)
-2014,INGRESO,4,9,0,1,Transferencias corrientes del FEDER
-2014,INGRESO,4,9,0,2,Transf. corr. Fondo Europeo pesca y Recur agrícola
-2014,INGRESO,4,9,0,3,Transferencias corrientes del FEADER
-2014,INGRESO,4,9,0,4,Transferencias corrientes del FEAGA
-2014,INGRESO,4,9,0,6,Transferencias corrientes del FEOGA-GARANTIA
-2014,INGRESO,4,9,0,9,Otras transferencias corrientes de Unión Europea
-2014,INGRESO,4,9,9,,Otras transferencias corrientes del exterior
-2014,INGRESO,4,9,9,0,Otras transferencias corrientes del exterior
-2014,INGRESO,5,,,,Ingresos patrimoniales
-2014,INGRESO,5,0,,,Intereses de títulos y valores
-2014,INGRESO,5,0,0,,Intereses de títulos y valores
-2014,INGRESO,5,0,0,0,Intereses de títulos y valores
-2014,INGRESO,5,1,,,Intereses de anticipos y préstamos concedidos
-2014,INGRESO,5,1,0,,Intereses de anticipos y préstamos concedidos
-2014,INGRESO,5,1,0,0,Ints. de ant. y ptmos. a entid. locales de Navarra
-2014,INGRESO,5,1,0,1,Ints. de anticipos y ptmos. a organismos públicos
-2014,INGRESO,5,1,0,2,Ints. ant. y ptmos. a empr. y otros entes públicos
-2014,INGRESO,5,1,0,3,Ints. de anticipos y ptmos. a empresas privadas
-2014,INGRESO,5,1,0,4,Ints. ant. y ptmos. a fam. e inst. sin fines lucro
-2014,INGRESO,5,1,0,9,Ints. de anticipos y ptmos. a otros destinatarios
-2014,INGRESO,5,2,,,Intereses de depósitos y aplazamientos
-2014,INGRESO,5,2,0,,Intereses de depósitos y aplazamientos
-2014,INGRESO,5,2,0,0,Intereses de depósitos
-2014,INGRESO,5,2,0,1,Intereses de aplazamientos
-2014,INGRESO,5,3,,,Dividendos y participaciones en beneficios
-2014,INGRESO,5,3,0,,Dividendos y participaciones en beneficios
-2014,INGRESO,5,3,0,0,Dividendos y participaciones en beneficios
-2014,INGRESO,5,4,,,Rentas de bienes inmuebles
-2014,INGRESO,5,4,0,,Rentas de bienes inmuebles
-2014,INGRESO,5,4,0,0,Rentas de bienes inmuebles
-2014,INGRESO,5,5,,,Productos de concesiones y aprovechtos. especiales
-2014,INGRESO,5,5,0,,Concesiones administrativas
-2014,INGRESO,5,5,0,0,Concesiones administrativas
-2014,INGRESO,5,5,1,,Aprovechamientos especiales
-2014,INGRESO,5,5,1,0,Aprovechamientos especiales
-2014,INGRESO,5,9,,,Otros ingresos patrimoniales
-2014,INGRESO,5,9,9,,Otros ingresos patrimoniales
-2014,INGRESO,5,9,9,0,Otros ingresos patrimoniales
-2014,INGRESO,6,,,,Enajenación de inversiones reales
-2014,INGRESO,6,0,,,Enajenación de terrenos
-2014,INGRESO,6,0,0,,Enajenación de terrenos
-2014,INGRESO,6,0,0,0,Enajenación de terrenos
-2014,INGRESO,6,1,,,Enajenación de otras inversiones reales
-2014,INGRESO,6,1,0,,Venta de edificios
-2014,INGRESO,6,1,0,0,Venta de edificios
-2014,INGRESO,6,1,1,,Venta del parque móvil
-2014,INGRESO,6,1,1,0,Venta del parque móvil
-2014,INGRESO,6,1,2,,Venta de equipos
-2014,INGRESO,6,1,2,0,Venta de equipos
-2014,INGRESO,6,1,3,,Venta de ganado y semovientes
-2014,INGRESO,6,1,3,0,Venta de ganado y semovientes
-2014,INGRESO,6,1,9,,Venta de otras inversiones reales
-2014,INGRESO,6,1,9,0,Venta de otras inversiones reales
-2014,INGRESO,6,8,,,Reintegros por operaciones de capital
-2014,INGRESO,6,8,0,,Reintegros por operaciones de capital
-2014,INGRESO,6,8,0,0,Reintegros por operaciones de capital
-2014,INGRESO,7,,,,Transferencias de capital
-2014,INGRESO,7,0,,,Transf. de capital de la Administración del Estado
-2014,INGRESO,7,0,0,,Transf. de capital de la Administración del Estado
-2014,INGRESO,7,0,0,0,Transf. de capital de la Administración del Estado
-2014,INGRESO,7,0,0,1,Transferencias de capital del FCI
-2014,INGRESO,7,0,0,2,Transferencias de capital del FEGA
-2014,INGRESO,7,1,,,T. capital de OOAA de la Admón. de la C. Foral
-2014,INGRESO,7,1,0,,T. capital de OOAA de la Admón. de la C. Foral
-2014,INGRESO,7,1,0,0,T. capital de OOAA de la Admón. de la C. Foral
-2014,INGRESO,7,2,,,Transferencias de capital de la Seguridad Social
-2014,INGRESO,7,2,0,,Transferencias de capital de la Seguridad Social
-2014,INGRESO,7,2,0,0,Transferencias de capital de la Seguridad Social
-2014,INGRESO,7,3,,,Transferencias de capital de fundaciones
-2014,INGRESO,7,3,0,,Transferencias de capital de fundaciones
-2014,INGRESO,7,3,0,0,Transferencias de capital de fundaciones
-2014,INGRESO,7,3,0,9,Transferencias de capital de otras fundaciones
-2014,INGRESO,7,4,,,T. cap. de empres. públicas y otros entes públicos
-2014,INGRESO,7,4,0,,Transferencias de capital de empresas públicas
-2014,INGRESO,7,4,0,0,T. cap. de emp. públicas de Admón. de la C. Foral
-2014,INGRESO,7,4,0,1,T. de capital de empresas públicas del Estado
-2014,INGRESO,7,4,1,,Transferencias de capital de otros entes públicos
-2014,INGRESO,7,4,1,0,T. cap. de otros entes púb. de Admón. de la C. F.
-2014,INGRESO,7,4,1,1,T. de capital de otros entes públicos del Estado
-2014,INGRESO,7,4,1,2,Transf. capital de otros entes públicos de CCAA
-2014,INGRESO,7,4,1,3,Transf. capital de otros entes públicos de EELL
-2014,INGRESO,7,5,,,Transferencias de capital de comunidades autónomas
-2014,INGRESO,7,5,0,,Transferencias de capital de comunidades autónomas
-2014,INGRESO,7,5,0,0,Transferencias de capital de comunidades autónomas
-2014,INGRESO,7,6,,,Transferencias de capital de entidades locales
-2014,INGRESO,7,6,0,,T. de capital de entidades locales de Navarra
-2014,INGRESO,7,6,0,0,T. de capital de entidades locales de Navarra
-2014,INGRESO,7,6,1,,T. cap. de entidades locales no perten. a Navarra
-2014,INGRESO,7,6,1,0,T. cap. de entidades locales no perten. a Navarra
-2014,INGRESO,7,7,,,Transferencias de capital de empresas privadas
-2014,INGRESO,7,7,0,,Transferencias de capital de empresas privadas
-2014,INGRESO,7,7,0,0,Transferencias de capital de empresas privadas
-2014,INGRESO,7,8,,,T. cap. de familias e instit. sin fines de lucro
-2014,INGRESO,7,8,0,,T. cap. de familias e instit. sin fines de lucro
-2014,INGRESO,7,8,0,0,T. cap. de familias e instit. sin fines de lucro
-2014,INGRESO,7,9,,,Transferencias de capital del exterior
-2014,INGRESO,7,9,0,,Transferencias de capital de la Unión Europea
-2014,INGRESO,7,9,0,0,Transf. de capital del Fondo Social Europeo (FSE)
-2014,INGRESO,7,9,0,1,Transferencias de capital del FEDER
-2014,INGRESO,7,9,0,2,Transf. capital Fondo Europ pesca y Recurs agrícol
-2014,INGRESO,7,9,0,3,Transferencias de capital del FEADER
-2014,INGRESO,7,9,0,4,Transferencias de capital del FEAGA
-2014,INGRESO,7,9,0,5,Transferencias de capital de fondos de cohesión
-2014,INGRESO,7,9,0,9,Otras transferencias de capital de Unión Europea
-2014,INGRESO,7,9,9,,Otras transferencias de capital del exterior
-2014,INGRESO,7,9,9,0,Otras transferencias de capital del exterior
-2014,INGRESO,8,,,,Activos financieros
-2014,INGRESO,8,0,,,Enajenación de deuda del sector público
-2014,INGRESO,8,0,0,,Enaj. de deuda del sector público a corto plazo
-2014,INGRESO,8,0,0,0,Enaj. de deuda del sector público a corto plazo
-2014,INGRESO,8,0,1,,Enaj. de deuda del sector público a largo plazo
-2014,INGRESO,8,0,1,0,Enaj. de deuda del sector público a largo plazo
-2014,INGRESO,8,1,,,Enaj. obligaciones y bonos de fuera sector público
-2014,INGRESO,8,1,0,,Enaj. oblig. y bonos de fuera sect. público c. p.
-2014,INGRESO,8,1,0,0,Enaj. oblig. y bonos de fuera s. p. a corto plazo
-2014,INGRESO,8,1,1,,Enaj. oblig. y bonos de fuera sect. público l. p.
-2014,INGRESO,8,1,1,0,Enaj. oblig. y bonos de fuera s. p. a largo plazo
-2014,INGRESO,8,2,,,Reint. de préstamos concedidos al sector público
-2014,INGRESO,8,2,0,,Reint. préstamos al sector público a corto plazo
-2014,INGRESO,8,2,0,0,Reint. ptmos. a corp. loc. de Navarra corto plazo
-2014,INGRESO,8,2,0,1,Reint. ptmos. a org. públicos y forales a corto p.
-2014,INGRESO,8,2,0,2,Reint. ptmos. a empresas públicas a corto plazo
-2014,INGRESO,8,2,0,9,Reint. otros ptmos. al sect. público a corto plazo
-2014,INGRESO,8,2,1,,Reint. préstamos al sector público a largo plazo
-2014,INGRESO,8,2,1,0,Reint. ptmos. a corp. loc. de Navarra largo plazo
-2014,INGRESO,8,2,1,1,Reint. pmos. a organ. púb.  y  forales largo plazo
-2014,INGRESO,8,2,1,2,Reint. ptmos. a empresas públicas a largo plazo
-2014,INGRESO,8,2,1,9,Reint. otros ptmos. al sect. público a largo plazo
-2014,INGRESO,8,3,,,Reint. ptmos. concedidos fuera del sector público
-2014,INGRESO,8,3,0,,Reint. de ptmos. fuera sect. público a corto plazo
-2014,INGRESO,8,3,0,0,Reint. ptmos. a empresas privadas a corto plazo
-2014,INGRESO,8,3,0,1,Reint. ptmos. a familias y empleados a corto plazo
-2014,INGRESO,8,3,0,9,Reint. otros ptmos. fuera del s. p. a corto plazo
-2014,INGRESO,8,3,1,,Reint. de ptmos. fuera sect. público a largo plazo
-2014,INGRESO,8,3,1,0,Reint. ptmos. a empresas privadas a largo plazo
-2014,INGRESO,8,3,1,1,Reint. ptmos. a familias y empleados a largo plazo
-2014,INGRESO,8,3,1,9,Reint. otros ptmos. fuera sect. p. a largo plazo
-2014,INGRESO,8,4,,,Devolución de depósitos y fianzas
-2014,INGRESO,8,4,0,,Devolución de depósitos y obligaciones afianzadas
-2014,INGRESO,8,4,0,0,Devolución de depósitos
-2014,INGRESO,8,4,0,1,Devolución de obligaciones afianzadas
-2014,INGRESO,8,4,1,,Devolución de fianzas
-2014,INGRESO,8,4,1,0,Devolución de fianzas
-2014,INGRESO,8,5,,,Enaj. de acciones y particip. del sector público
-2014,INGRESO,8,5,0,,Enaj. de acciones y particip. del sector público
-2014,INGRESO,8,5,0,0,Enaj. de acciones y particip. del sector público
-2014,INGRESO,8,6,,,Enaj. acciones y partici. fuera del sector público
-2014,INGRESO,8,6,0,,Enaj. acciones y partici. fuera del sector público
-2014,INGRESO,8,6,0,0,Enaj. acciones y partici. fuera del sector público
-2014,INGRESO,8,7,,,Remanente de tesorería
-2014,INGRESO,8,7,0,,Remanente de tesorería
-2014,INGRESO,8,7,0,0,Remanente de tesorería
-2014,INGRESO,9,,,,Pasivos financieros
-2014,INGRESO,9,0,,,Emisión de deuda pública en moneda nacional
-2014,INGRESO,9,0,0,,Emisión de deuda pública en moneda nacional
-2014,INGRESO,9,0,0,0,Emisión de deuda pública en moneda nacional
-2014,INGRESO,9,1,,,Préstamos recibidos en moneda nacional
-2014,INGRESO,9,1,0,,Préstamos recibi. a corto plazo en moneda nacional
-2014,INGRESO,9,1,0,0,Préstamos recibi. a corto plazo en moneda nacional
-2014,INGRESO,9,1,1,,Préstamos recibi. a largo plazo en moneda nacional
-2014,INGRESO,9,1,1,0,Préstamos recibi. a largo plazo en moneda nacional
-2014,INGRESO,9,3,,,Préstamos recibidos en moneda extranjera
-2014,INGRESO,9,3,0,,Préstamos recibi. corto plazo en moneda extranjera
-2014,INGRESO,9,3,0,0,Préstamos recibi. corto plazo en moneda extranjera
-2014,INGRESO,9,3,1,,Préstamos recibi. largo plazo en moneda extranjera
-2014,INGRESO,9,3,1,0,Préstamos recibi. largo plazo en moneda extranjera
-2014,INGRESO,9,4,,,Depósitos y fianzas recibidos
-2014,INGRESO,9,4,0,,Depósitos recibidos
-2014,INGRESO,9,4,0,0,Depósitos recibidos
-2014,INGRESO,9,4,1,,Fianzas recibidas
-2014,INGRESO,9,4,1,0,Fianzas recibidas
+#año,gasto_ingreso,capitulo,articulo,concepto,subconcepto,EU
+2014,GASTO,1,,,,Langile-gastuak
+2014,GASTO,1,0,,,Goi-kargudunak
+2014,GASTO,1,0,0,,
+2014,GASTO,1,0,0,0,
+2014,GASTO,1,0,0,1,Goi-kargudunen bestelako ordainsariak
+2014,GASTO,1,1,,,Behin-behineko langileak
+2014,GASTO,1,1,0,,Behin-behineko langileen ordainsariak
+2014,GASTO,1,1,0,0,Behin-behineko langileen ordainsariak
+2014,GASTO,1,2,,,
+2014,GASTO,1,2,0,,Langile finkoen ordainsariak
+2014,GASTO,1,2,0,0,Langile finkoen ordainsariak
+2014,GASTO,1,2,1,,
+2014,GASTO,1,2,1,0,
+2014,GASTO,1,2,1,1,
+2014,GASTO,1,2,2,,Kontratatutako langileen ordainsariak
+2014,GASTO,1,2,2,0,Aldi baterako langileen ordainsariak
+2014,GASTO,1,2,2,1,
+2014,GASTO,1,2,5,,
+2014,GASTO,1,2,5,0,
+2014,GASTO,1,4,,,
+2014,GASTO,1,4,0,,
+2014,GASTO,1,4,0,0,
+2014,GASTO,1,4,1,,Ibilbide profesionaleko ordainsariak
+2014,GASTO,1,4,1,0,Ibilbide profesionaleko ordainsariak
+2014,GASTO,1,6,,,"Kuotak, prestazioak eta gizarte-gastuak"
+2014,GASTO,1,6,0,,Gizarte-kuotak
+2014,GASTO,1,6,0,0,Gizarte Segurantza
+2014,GASTO,1,6,0,1,MUFACE-ISFASen kuotak
+2014,GASTO,1,6,0,9,Beste gizarte-kuota batzuk
+2014,GASTO,1,6,1,,Gizarte-prestazioak
+2014,GASTO,1,6,1,0,Funtzionarioen pentsio arruntak
+2014,GASTO,1,6,1,2,Ezohiko pentsioak
+2014,GASTO,1,6,1,4,Erretiro aurreratuengatiko kalte-ordainak
+2014,GASTO,1,6,2,,Langileen gizarte-gastuak
+2014,GASTO,1,6,2,0,Langileen gizarte-gastuak
+2014,GASTO,1,7,,,Langileen ordainsari aldagarriak
+2014,GASTO,1,7,0,,Langileen ordainsari aldagarriak
+2014,GASTO,1,7,0,0,
+2014,GASTO,1,7,0,1,Jantziengatiko kalte-ordainak
+2014,GASTO,1,7,0,2,Aparteko orduak
+2014,GASTO,1,7,0,3,Jaiegunean lan egiteagatiko gehigarria
+2014,GASTO,1,7,0,4,Guardiak egiteagatiko osagarria
+2014,GASTO,1,7,0,5,Gaueko txanden osagarria
+2014,GASTO,1,7,0,6,Dispertsio geografikoaren osagarria
+2014,GASTO,1,7,0,9,Beste ordainsari aldagarri batzuk
+2014,GASTO,1,7,1,,Errendimendurako pizgarriak
+2014,GASTO,1,7,1,0,Produktibitate-osagarria
+2014,GASTO,1,8,,,Langileen beste ordainsari batzuk
+2014,GASTO,1,8,0,,Langileen beste ordainsari batzuk
+2014,GASTO,1,8,0,0,Langileen beste ordainsari batzuk
+2014,GASTO,1,8,1,,Aurreko ekitaldietako langileen ordainsariak
+2014,GASTO,1,8,1,0,Aurreko ekitaldietako langileen ordainsariak
+2014,GASTO,1,8,2,,
+2014,GASTO,1,8,2,0,
+2014,GASTO,2,,,,Ondasunen eta zerbitzuen gastu arruntak
+2014,GASTO,2,0,,,Errentamenduak eta kanonak
+2014,GASTO,2,0,0,,Lurren eta ondasun naturalen errentamenduak
+2014,GASTO,2,0,0,0,Lurren eta ondasun naturalen errentamenduak
+2014,GASTO,2,0,2,,Ondasun higiezinen errentamendua
+2014,GASTO,2,0,2,0,Eraikinen eta beste eraikuntza batzuen errentamenduak
+2014,GASTO,2,0,2,9,Beste ondasun higiezin batzuen errentamenduak
+2014,GASTO,2,0,3,,
+2014,GASTO,2,0,3,0,
+2014,GASTO,2,0,4,,Garraiobideen errentamendua
+2014,GASTO,2,0,4,0,Garraiobideen errentamendua
+2014,GASTO,2,0,5,,Altzari eta lanabesen errentamenduak
+2014,GASTO,2,0,5,0,Altzari eta lanabesen errentamenduak
+2014,GASTO,2,0,6,,
+2014,GASTO,2,0,6,0,
+2014,GASTO,2,0,6,1,Programen eta lizentzien errentamenduak
+2014,GASTO,2,0,8,,Bestelako ibilgetu materialaren errentamenduak
+2014,GASTO,2,0,8,0,Bestelako ibilgetu materialaren errentamenduak
+2014,GASTO,2,0,9,,Kanonak
+2014,GASTO,2,0,9,0,Kanonak
+2014,GASTO,2,1,,,"Konponketak, mantentze-lanak eta kontserbazioa"
+2014,GASTO,2,1,0,,Azpiegitura eta ondasun naturalak
+2014,GASTO,2,1,0,0,Azpiegitura eta ondasun naturalak
+2014,GASTO,2,1,2,,Ondasun higiezinak
+2014,GASTO,2,1,2,0,Eraikinak eta beste eraikuntza batzuk
+2014,GASTO,2,1,3,,"Makineria, instalazioak eta tresneria"
+2014,GASTO,2,1,3,0,"Makineria, instalazioak eta tresneria"
+2014,GASTO,2,1,4,,Garraio-elementuak
+2014,GASTO,2,1,4,0,Garraio-elementuak
+2014,GASTO,2,1,5,,Altzariak eta lanabesak
+2014,GASTO,2,1,5,0,Altzariak eta lanabesak
+2014,GASTO,2,1,6,,Informazioa prozesatzeko ekipoak
+2014,GASTO,2,1,6,0,Ekipamendu informatikoak eta telekomunikazioak
+2014,GASTO,2,1,7,,Ekipamendu medikoak
+2014,GASTO,2,1,7,0,Ekipamendu medikoak
+2014,GASTO,2,1,9,,Bestelako ibilgetu materiala
+2014,GASTO,2,1,9,0,Bestelako ibilgetu materiala
+2014,GASTO,2,2,,,"Materiala, hornikuntzak eta bestelakoak"
+2014,GASTO,2,2,0,,Bulegoko materiala
+2014,GASTO,2,2,0,0,Inbentarioan sailka ez daitekeen material arrunta
+2014,GASTO,2,2,0,2,"Egunkariak, aldizkariak, liburuak eta bestelako argitalpenak"
+2014,GASTO,2,2,0,3,Inbentarioan sailka ez daitekeen material informatikoa
+2014,GASTO,2,2,1,,
+2014,GASTO,2,2,1,0,Elikadura
+2014,GASTO,2,2,1,1,Animaliak ugaltzeko eta elikatzeko produktuak
+2014,GASTO,2,2,1,2,Zentroen mantentze-lanen gastuak
+2014,GASTO,2,2,1,3,Protesiak
+2014,GASTO,2,2,1,4,Kontsumoko tresnak eta tresna txikiak
+2014,GASTO,2,2,1,5,Farmakoak
+2014,GASTO,2,2,1,6,Kontsumorako osasun materiala
+2014,GASTO,2,2,1,7,Osasungintzarako arropak
+2014,GASTO,2,2,1,8,Albaitaritza-produktuak
+2014,GASTO,2,2,1,9,Beste hornidura berezi batzuk
+2014,GASTO,2,2,2,,Komunikazioak
+2014,GASTO,2,2,2,0,Telekomunikazio-zerbitzuak
+2014,GASTO,2,2,2,1,Postalak eta mezularitza
+2014,GASTO,2,2,2,4,Datu-transmisioak
+2014,GASTO,2,2,2,9,Bestelakoak
+2014,GASTO,2,2,3,,Garraio-gastuak
+2014,GASTO,2,2,3,0,Garraio-gastuak
+2014,GASTO,2,2,4,,Aseguru-primak
+2014,GASTO,2,2,4,0,Eraikinen eta lokalen aseguru-primak
+2014,GASTO,2,2,4,1,Ibilgailuen aseguru-primak
+2014,GASTO,2,2,4,2,Beste ibilgetu batzuen aseguru-primak
+2014,GASTO,2,2,4,9,Bestelako arriskuak
+2014,GASTO,2,2,5,,Tributuak
+2014,GASTO,2,2,5,0,Tokiko tributuak
+2014,GASTO,2,2,5,2,Estatuko tributuak
+2014,GASTO,2,2,6,,Hainbat gastu
+2014,GASTO,2,2,6,1,Protokolo- eta ordezkaritza-arreta
+2014,GASTO,2,2,6,2,Publizitatea eta propaganda
+2014,GASTO,2,2,6,3,"Gastu juridikoak, auziak"
+2014,GASTO,2,2,6,4,Komunitate-gastuak
+2014,GASTO,2,2,6,5,Bitartekari independenteen ordainsariak
+2014,GASTO,2,2,6,6,"Bilerak, hitzaldiak eta ikastaroak"
+2014,GASTO,2,2,6,7,Oposizioak eta hautaprobak
+2014,GASTO,2,2,6,9,Bestelako gastuak
+2014,GASTO,2,2,7,,
+2014,GASTO,2,2,7,0,Garbitegi-zerbitzuak
+2014,GASTO,2,2,7,1,Garbiketa-zerbitzuak
+2014,GASTO,2,2,7,2,Ordainketak eta jakinarazpenak kudeatzeko zerbitzuak
+2014,GASTO,2,2,7,3,Informatika-zerbitzuak
+2014,GASTO,2,2,7,4,Segurtasun-zerbitzuak
+2014,GASTO,2,2,7,5,Hauteskunde-prozesuak eta herri-galdeketak
+2014,GASTO,2,2,7,6,Azterketa eta lan teknikoak
+2014,GASTO,2,2,7,7,
+2014,GASTO,2,2,7,8,Elikadura
+2014,GASTO,2,2,7,9,Hirugarrenek egindako bestelako lanak
+2014,GASTO,2,2,8,,Hornidura osagarriak
+2014,GASTO,2,2,8,0,"Energia elektrikoa, ura eta gasa"
+2014,GASTO,2,2,8,1,"Erregaiak, lubrifikatzaileak eta berokuntza"
+2014,GASTO,2,2,8,3,
+2014,GASTO,2,2,8,4,Garbiketa-materiala
+2014,GASTO,2,2,8,5,Jantziak
+2014,GASTO,2,2,8,6,Produktu kimikoak eta laborategikoak
+2014,GASTO,2,2,8,7,Medikuntzako gasak
+2014,GASTO,2,2,8,9,Beste hornigai osagarri batzuk
+2014,GASTO,2,3,,,Zerbitzuagatiko kalte-ordainak
+2014,GASTO,2,3,0,,"Dietak, joan-etorriak eta bidaia-gastuak"
+2014,GASTO,2,3,0,0,Dietak
+2014,GASTO,2,3,0,1,Joan-etorriak eta bidaia-gastuak
+2014,GASTO,2,3,3,,Beste kalte-ordain batzuk
+2014,GASTO,2,3,3,0,Egindako lanengatiko ordainsariak
+2014,GASTO,2,3,3,9,Beste kalte-ordain batzuk
+2014,GASTO,2,4,,,Argitalpen-gastuak
+2014,GASTO,2,4,0,,Argitalpen- eta banaketa-gastuak
+2014,GASTO,2,4,0,0,Liburuak eta argitalpenak editatzeko gastuak
+2014,GASTO,2,5,,,Osasun-arretarako hitzarmenak
+2014,GASTO,2,5,0,,Osasun-arretarako hitzarmenak
+2014,GASTO,2,5,0,0,Osasun-arretarako hitzarmenak
+2014,GASTO,3,,,,Gastu finantzarioak
+2014,GASTO,3,0,,,Barneko zor publikoaren gastu finantzarioak
+2014,GASTO,3,0,0,,Obligazioen eta bonuen interesak
+2014,GASTO,3,0,0,0,Nafarroako zorraren interesak
+2014,GASTO,3,0,0,8,Zor-agirien interesak
+2014,GASTO,3,0,0,9,Bestelako interesak
+2014,GASTO,3,0,1,,
+2014,GASTO,3,0,1,0,
+2014,GASTO,3,0,2,,Obligazioen eta bonuen amortizazio-primak
+2014,GASTO,3,0,2,0,Obligazioen eta bonuen amortizazio-primak
+2014,GASTO,3,0,3,,Errendimendu inplizituak
+2014,GASTO,3,0,3,0,Errendimendu inplizituak
+2014,GASTO,3,1,,,Barneko maileguen gastu finantzarioak
+2014,GASTO,3,1,0,,Barneko maileguen eta aurrerakinen interesak
+2014,GASTO,3,1,0,0,
+2014,GASTO,3,1,0,1,
+2014,GASTO,3,1,1,,
+2014,GASTO,3,1,1,0,
+2014,GASTO,3,1,3,,Errendimendu inplizituak
+2014,GASTO,3,1,3,0,Errendimendu inplizituak
+2014,GASTO,3,3,,,Kanpoko maileguen gastu finantzarioak
+2014,GASTO,3,3,0,,Kanpoko maileguen eta aurrerakinen interesak
+2014,GASTO,3,3,0,0,Kanpoko maileguen eta aurrerakinen interesak
+2014,GASTO,3,3,1,,
+2014,GASTO,3,3,1,0,
+2014,GASTO,3,3,2,,Kanbio-diferentziak
+2014,GASTO,3,3,2,0,Kanbio-diferentziak
+2014,GASTO,3,3,3,,Errendimendu inplizituak
+2014,GASTO,3,3,3,0,Errendimendu inplizituak
+2014,GASTO,3,4,,,Gordailuen eta fidantzen gastu finantzarioak
+2014,GASTO,3,4,0,,Gordailuen eta fidantzen interesak
+2014,GASTO,3,4,0,0,Gordailuen interesak
+2014,GASTO,3,4,0,1,Fidantzen interesak
+2014,GASTO,3,5,,,Berandutze-interesak eta beste gastu finantzario batzuk
+2014,GASTO,3,5,0,,Berandutze-interesak eta beste gastu finantzario batzuk
+2014,GASTO,3,5,0,1,Berandutze-interesak
+2014,GASTO,3,5,0,9,Bestelako gastu finantzarioak
+2014,GASTO,4,,,,Transferentzia arruntak
+2014,GASTO,4,0,,,
+2014,GASTO,4,0,0,,
+2014,GASTO,4,0,0,0,
+2014,GASTO,4,0,9,,
+2014,GASTO,4,0,9,0,
+2014,GASTO,4,1,,,
+2014,GASTO,4,1,0,,
+2014,GASTO,4,1,0,0,
+2014,GASTO,4,2,,,Gizarte Segurantzari egindako transferentzia arruntak
+2014,GASTO,4,2,0,,Gizarte Segurantzari egindako transferentzia arruntak
+2014,GASTO,4,2,0,0,Gizarte Segurantzari egindako transferentzia arruntak
+2014,GASTO,4,3,,,
+2014,GASTO,4,3,0,,
+2014,GASTO,4,3,0,0,Foru-fundazioei egindako transferentzia arruntak
+2014,GASTO,4,3,0,9,Beste fundazio batzuei egindako transferentzia arruntak
+2014,GASTO,4,4,,,
+2014,GASTO,4,4,0,,Enpresa publikoei egindako transferentzia arruntak
+2014,GASTO,4,4,0,0,
+2014,GASTO,4,4,0,9,
+2014,GASTO,4,4,5,,Beste erakunde publiko batzuei egindako transferentzia arruntak
+2014,GASTO,4,4,5,0,Nafarroako Parlamentuari egindako transferentzia arruntak
+2014,GASTO,4,4,5,1,Nafarroako Kontuen Ganberari egindako transferentzia arruntak
+2014,GASTO,4,4,5,2,Nafarroako Arartekoari egindako transferentzia arruntak
+2014,GASTO,4,4,5,5,
+2014,GASTO,4,4,5,9,Beste erakunde publiko batzuei egindako transferentzia arruntak
+2014,GASTO,4,5,,,Autonomia-erkidegoei egindako transferentzia arruntak
+2014,GASTO,4,5,0,,Autonomia-erkidegoei egindako transferentzia arruntak
+2014,GASTO,4,5,0,0,Autonomia-erkidegoei egindako transferentzia arruntak
+2014,GASTO,4,6,,,Tokiko erakundeei egindako transferentzia arruntak
+2014,GASTO,4,6,0,,
+2014,GASTO,4,6,0,0,Transferentzia arrunten funtsa
+2014,GASTO,4,6,0,9,
+2014,GASTO,4,6,1,,
+2014,GASTO,4,6,1,0,
+2014,GASTO,4,7,,,Enpresa pribatuei egindako transferentzia arruntak
+2014,GASTO,4,7,0,,Enpresa pribatuei egindako transferentzia arruntak
+2014,GASTO,4,7,0,0,
+2014,GASTO,4,7,0,1,
+2014,GASTO,4,7,0,9,
+2014,GASTO,4,8,,,
+2014,GASTO,4,8,0,,
+2014,GASTO,4,8,0,0,
+2014,GASTO,4,8,0,2,Laguntza-pentsioak
+2014,GASTO,4,8,0,9,
+2014,GASTO,4,8,1,,
+2014,GASTO,4,8,1,1,
+2014,GASTO,4,8,1,2,
+2014,GASTO,4,8,1,6,
+2014,GASTO,4,8,1,9,
+2014,GASTO,4,9,,,Kanpora egindako transferentzia arruntak
+2014,GASTO,4,9,0,,Kanpora egindako transferentzia arruntak
+2014,GASTO,4,9,0,0,Kanpora egindako transferentzia arruntak
+2014,GASTO,5,,,,Kontingentzia-funtsa
+2014,GASTO,5,0,,,Kontingentzia-funtsa
+2014,GASTO,5,0,0,,Kontingentzia-funtsa
+2014,GASTO,5,0,0,0,Kontingentzia-funtsa
+2014,GASTO,6,,,,Inbertsio errealak
+2014,GASTO,6,0,,,Inbertsio errealak
+2014,GASTO,6,0,0,,Lursailak eta ondasun naturalak
+2014,GASTO,6,0,0,0,Orubeak
+2014,GASTO,6,0,0,1,Landa-finkak
+2014,GASTO,6,0,0,2,Beste ondasun natural batzuk
+2014,GASTO,6,0,1,,Herri-lanak
+2014,GASTO,6,0,1,0,"Errepideak, bideak eta zubiak"
+2014,GASTO,6,0,1,3,Linea elektrikoak eta telefonikoak
+2014,GASTO,6,0,1,4,Obra hidraulikoak
+2014,GASTO,6,0,1,5,Industrialdeak
+2014,GASTO,6,0,1,6,Aireportuak
+2014,GASTO,6,0,1,9,Beste herri-lan batzuk
+2014,GASTO,6,0,2,,Eraikinak eta beste eraikuntza batzuk
+2014,GASTO,6,0,2,0,Eraikinak
+2014,GASTO,6,0,2,1,Bestelako eraikuntzak
+2014,GASTO,6,0,3,,"Makineria, instalazioak eta tresneria"
+2014,GASTO,6,0,3,0,Makineria
+2014,GASTO,6,0,3,1,Instalazioak
+2014,GASTO,6,0,3,2,Erremintak eta tresnak
+2014,GASTO,6,0,4,,Garraio-materiala
+2014,GASTO,6,0,4,0,Pertsonak garraiatzeko ibilgailuak
+2014,GASTO,6,0,4,1,Zamak garraiatzeko ibilgailuak
+2014,GASTO,6,0,4,2,Bestelako garraio-materiala
+2014,GASTO,6,0,5,,Altzariak eta lanabesak
+2014,GASTO,6,0,5,0,Altzariak eta bulegoko ekipoak
+2014,GASTO,6,0,5,4,Material teknikoa
+2014,GASTO,6,0,5,5,Seinaleztapenerako materiala
+2014,GASTO,6,0,5,6,Lan eta material artistikoak
+2014,GASTO,6,0,5,7,Ekipamendu medikoak
+2014,GASTO,6,0,5,9,Beste altzari eta ekipamendu batzuk
+2014,GASTO,6,0,6,,Informazioa prozesatzeko ekipoak
+2014,GASTO,6,0,6,0,Informazioa prozesatzeko ekipoak
+2014,GASTO,6,0,7,,Aziendak
+2014,GASTO,6,0,7,0,Aziendak
+2014,GASTO,6,0,8,,Bestelako ibilgetu materiala
+2014,GASTO,6,0,8,1,Argitalpen-funtsen erosketak
+2014,GASTO,6,0,8,2,Ikerketa-materiala eta -ekipamendua
+2014,GASTO,6,0,8,9,Bestelako ibilgetu materiala
+2014,GASTO,6,0,9,,Ibilgetu immateriala
+2014,GASTO,6,0,9,0,Bestelako ibilgetu ez-materiala
+2014,GASTO,6,0,9,1,Proiektu teknikoak
+2014,GASTO,6,0,9,2,"Azterlanak, txostenak eta bestelakoak"
+2014,GASTO,7,,,,Kapital-transferentziak
+2014,GASTO,7,0,,,
+2014,GASTO,7,0,0,,
+2014,GASTO,7,0,0,0,
+2014,GASTO,7,1,,,
+2014,GASTO,7,1,0,,
+2014,GASTO,7,1,0,0,
+2014,GASTO,7,2,,,Gizarte Segurantzari egindako kapital-transferentziak
+2014,GASTO,7,2,0,,Gizarte Segurantzari egindako kapital-transferentziak
+2014,GASTO,7,2,0,0,Gizarte Segurantzari egindako kapital-transferentziak
+2014,GASTO,7,3,,,
+2014,GASTO,7,3,0,,
+2014,GASTO,7,3,0,0,Foru-fundazioei egindako kapital-transferentziak
+2014,GASTO,7,3,0,9,Beste fundazio batzuei egindako kapital-transferentziak
+2014,GASTO,7,4,,,
+2014,GASTO,7,4,0,,Enpresa publikoei egindako kapital-transferentziak
+2014,GASTO,7,4,0,0,
+2014,GASTO,7,4,0,9,
+2014,GASTO,7,4,5,,Beste erakunde publiko batzuei egindako kapital-transferentziak
+2014,GASTO,7,4,5,0,Nafarroako Parlamentuari egindako kapital-transferentziak
+2014,GASTO,7,4,5,1,Nafarroako Kontuen Ganberari egindako kapital-transferentziak
+2014,GASTO,7,4,5,2,Nafarroako Arartekoari egindako kapital-transferentziak
+2014,GASTO,7,4,5,5,
+2014,GASTO,7,4,5,9,Beste erakunde publiko batzuei egindako kapital-transferentziak
+2014,GASTO,7,5,,,Autonomia-erkidegoei egindako kapital-transferentziak
+2014,GASTO,7,5,0,,Autonomia-erkidegoei egindako kapital-transferentziak
+2014,GASTO,7,5,0,0,Autonomia-erkidegoei egindako kapital-transferentziak
+2014,GASTO,7,6,,,Tokiko erakundeei egindako kapital-transferentziak
+2014,GASTO,7,6,0,,
+2014,GASTO,7,6,0,0,Kapital-transferentzien funtsa
+2014,GASTO,7,6,0,9,
+2014,GASTO,7,6,1,,
+2014,GASTO,7,6,1,0,
+2014,GASTO,7,7,,,Enpresa pribatuei egindako kapital-transferentziak
+2014,GASTO,7,7,0,,Enpresa pribatuei egindako kapital-transferentziak
+2014,GASTO,7,7,0,0,
+2014,GASTO,7,7,0,1,
+2014,GASTO,7,7,0,9,
+2014,GASTO,7,8,,,
+2014,GASTO,7,8,0,,
+2014,GASTO,7,8,0,0,
+2014,GASTO,7,8,0,9,
+2014,GASTO,7,8,1,,
+2014,GASTO,7,8,1,1,
+2014,GASTO,7,8,1,2,
+2014,GASTO,7,8,1,6,
+2014,GASTO,7,8,1,9,
+2014,GASTO,7,9,,,Kanpora egindako kapital-transferentziak
+2014,GASTO,7,9,0,,Kanpora egindako kapital-transferentziak
+2014,GASTO,7,9,0,0,Kanpora egindako kapital-transferentziak
+2014,GASTO,8,,,,Finantza-aktiboak
+2014,GASTO,8,0,,,Sektore Publikoaren zorra eskuratzea
+2014,GASTO,8,0,0,,
+2014,GASTO,8,0,0,0,
+2014,GASTO,8,0,1,,
+2014,GASTO,8,0,1,0,
+2014,GASTO,8,1,,,
+2014,GASTO,8,1,0,,
+2014,GASTO,8,1,0,0,
+2014,GASTO,8,1,1,,
+2014,GASTO,8,1,1,0,
+2014,GASTO,8,2,,,Sektore publikoari maileguak ematea
+2014,GASTO,8,2,0,,
+2014,GASTO,8,2,0,1,
+2014,GASTO,8,2,0,4,
+2014,GASTO,8,2,0,6,
+2014,GASTO,8,2,0,9,
+2014,GASTO,8,2,1,,
+2014,GASTO,8,2,1,1,
+2014,GASTO,8,2,1,4,
+2014,GASTO,8,2,1,6,
+2014,GASTO,8,2,1,9,
+2014,GASTO,8,3,,,Sektore publikotik kanpo maileguak ematea
+2014,GASTO,8,3,0,,
+2014,GASTO,8,3,0,7,
+2014,GASTO,8,3,0,8,
+2014,GASTO,8,3,0,9,
+2014,GASTO,8,3,1,,
+2014,GASTO,8,3,1,7,
+2014,GASTO,8,3,1,8,
+2014,GASTO,8,3,1,9,
+2014,GASTO,8,4,,,Gordailuak eta fidantzak eratzea
+2014,GASTO,8,4,0,,
+2014,GASTO,8,4,0,0,Eratutako gordailuak
+2014,GASTO,8,4,0,1,Fidantzatutako obligazioak ez betetzeagatiko ordainketak
+2014,GASTO,8,4,1,,Fidantzak eratzea
+2014,GASTO,8,4,1,0,Fidantzak eratzea
+2014,GASTO,8,5,,,
+2014,GASTO,8,5,0,,
+2014,GASTO,8,5,0,0,
+2014,GASTO,8,5,0,1,
+2014,GASTO,8,6,,,
+2014,GASTO,8,6,0,,
+2014,GASTO,8,6,0,0,
+2014,GASTO,8,7,,,Aurreko ekitaldietako defizitaren finantzaketa
+2014,GASTO,8,7,0,,Aurreko ekitaldietako defizitaren finantzaketa
+2014,GASTO,8,7,0,0,Aurreko ekitaldietako defizitaren finantzaketa
+2014,GASTO,9,,,,Finantza-pasiboak
+2014,GASTO,9,0,,,Barneko zor publikoaren amortizazioa
+2014,GASTO,9,0,0,,Barneko zor publikoaren amortizazioa
+2014,GASTO,9,0,0,0,Barneko zor publikoaren amortizazioa
+2014,GASTO,9,0,2,,Epe luzeko obligazioen eta bonuen amortizazioa
+2014,GASTO,9,0,2,0,Zor publikoaren amortizazioa
+2014,GASTO,9,1,,,Barneko maileguen amortizazioa
+2014,GASTO,9,1,0,,
+2014,GASTO,9,1,0,0,
+2014,GASTO,9,1,2,,
+2014,GASTO,9,1,2,0,
+2014,GASTO,9,3,,,Kanpoko maileguen amortizazioa
+2014,GASTO,9,3,0,,
+2014,GASTO,9,3,0,0,
+2014,GASTO,9,3,1,,
+2014,GASTO,9,3,1,0,
+2014,GASTO,9,4,,,"Gordailuak, fidantzak eta bestelakoak itzultzea"
+2014,GASTO,9,4,0,,"Gordailuak, fidantzak eta bestelakoak itzultzea"
+2014,GASTO,9,4,0,0,Gordailuen itzulketak
+2014,GASTO,9,4,0,1,Fidantzen itzulketak
+2014,GASTO,9,4,0,9,Beste itzulketa batzuk
+#año,gasto_ingreso,capitulo,articulo,concepto,subconcepto,EU
+2014,INGRESO,1,0,,,Errentaren gaineko zuzeneko zergak
+2014,INGRESO,1,0,0,,Pertsona fisikoen errentaren gaineko zerga
+2014,INGRESO,1,0,0,5,"PFEZ, guztira"
+2014,INGRESO,1,0,0,6,Onura fiskalak. PFEZ
+2014,INGRESO,1,0,0,7,Aktiboen errebalorizazioen gaineko karga bakarra. PFEZ
+2014,INGRESO,1,0,1,,Sozietateen gaineko zerga
+2014,INGRESO,1,0,1,5,"Sozietateak, guztira"
+2014,INGRESO,1,0,1,6,Onura fiskalak. Sozietateak
+2014,INGRESO,1,0,1,7,
+2014,INGRESO,1,0,2,,Ez-egoiliarren errentaren gaineko zerga
+2014,INGRESO,1,0,2,0,Ez-egoiliarren errentaren gaineko zerga
+2014,INGRESO,1,1,,,Kapitalaren gaineko zuzeneko zergak
+2014,INGRESO,1,1,0,,
+2014,INGRESO,1,1,0,0,
+2014,INGRESO,1,1,2,,Oinordetzen eta dohaintzen gaineko zerga
+2014,INGRESO,1,1,2,0,Oinordetzen eta dohaintzen gaineko zerga
+2014,INGRESO,1,1,3,,Baloreak eguneratzearen gaineko karga
+2014,INGRESO,1,1,3,0,Baloreak eguneratzearen gaineko karga
+2014,INGRESO,1,8,,,Zuzeneko beste zerga batzuk
+2014,INGRESO,1,8,1,,Energia elektrikoaren ekoizpenaren gaineko zerga
+2014,INGRESO,1,8,1,0,Energia elektrikoaren ekoizpenaren gaineko zerga
+2014,INGRESO,1,8,2,,Saltoki handien gaineko zerga
+2014,INGRESO,1,8,2,0,Saltoki handien gaineko zerga
+2014,INGRESO,1,9,,,Iraungitako zuzeneko zergak
+2014,INGRESO,1,9,0,,Iraungitako zuzeneko zergak
+2014,INGRESO,1,9,0,0,Iraungitako zuzeneko zergak
+2014,INGRESO,2,,,,Zeharkako zergak
+2014,INGRESO,2,1,,,Balio erantsiaren gaineko Zerga
+2014,INGRESO,2,1,0,,Balio erantsiaren gaineko Zerga
+2014,INGRESO,2,1,0,0,Balio erantsiaren gaineko Zerga
+2014,INGRESO,2,2,,,Kontsumo berezien gaineko zerga
+2014,INGRESO,2,2,0,,Zerga bereziak
+2014,INGRESO,2,2,0,0,Alkoholaren eta edari deribatuen gaineko zerga
+2014,INGRESO,2,2,0,1,Zenbait garraiobideren gaineko zerga berezia
+2014,INGRESO,2,2,0,2,Garagardoaren gaineko zerga
+2014,INGRESO,2,2,0,3,Tabako-laboreen gaineko zerga
+2014,INGRESO,2,2,0,4,Hidrokarburoen gaineko zerga
+2014,INGRESO,2,2,0,6,Tarteko produktuen gaineko zerga
+2014,INGRESO,2,2,0,7,Energia-ekoizpenaren gaineko zerga
+2014,INGRESO,2,2,0,9,Beste batzuk
+2014,INGRESO,2,2,1,,Kontsumo berezien gaineko beste zerga batzuk
+2014,INGRESO,2,2,1,0,
+2014,INGRESO,2,2,1,1,Kontsumo berezien gaineko beste zerga batzuk
+2014,INGRESO,2,8,,,Zeharkako beste zerga batzuk
+2014,INGRESO,2,8,1,,Aseguru-primen gaineko zerga
+2014,INGRESO,2,8,1,0,Aseguru-primen gaineko zerga
+2014,INGRESO,2,8,2,,
+2014,INGRESO,2,8,2,0,
+2014,INGRESO,2,8,3,,Egintza juridiko dokumentatuen gaineko zerga
+2014,INGRESO,2,8,3,0,Egintza juridiko dokumentatuen gaineko zerga
+2014,INGRESO,2,8,4,,Joko-jardueraren gaineko zerga
+2014,INGRESO,2,8,4,0,Joko-jardueraren gaineko zerga
+2014,INGRESO,2,8,9,,Zeharkako beste zerga batzuk
+2014,INGRESO,2,8,9,0,Zeharkako beste zerga batzuk
+2014,INGRESO,3,,,,"Tasak, prezio publikoak eta beste diru-sarrera batzuk"
+2014,INGRESO,3,0,,,Zerga-tasak
+2014,INGRESO,3,0,0,,Joko-jardueren ondoriozko tasak
+2014,INGRESO,3,0,0,0,Joko-jardueren ondoriozko tasak
+2014,INGRESO,3,0,1,,Administrazio-zerbitzuengatik ordaindu beharreko tasa
+2014,INGRESO,3,0,1,0,Administrazio-zerbitzuengatik ordaindu beharreko tasa
+2014,INGRESO,3,0,2,,"Ehizako, arrantzako, barrutietako eta bestelako lizentzien tasak"
+2014,INGRESO,3,0,2,0,"Ehizako, arrantzako, barrutietako eta bestelako lizentzien tasak"
+2014,INGRESO,3,0,3,,Tasa judizialak
+2014,INGRESO,3,0,3,0,Tasa judizialak
+2014,INGRESO,3,0,4,,Garraioa antolatzeko zerbitzuen tasak
+2014,INGRESO,3,0,4,0,Garraioa antolatzeko zerbitzuen tasak
+2014,INGRESO,3,0,5,,
+2014,INGRESO,3,0,5,0,
+2014,INGRESO,3,0,6,,Obrak zuzendu eta tasatzearen ondoriozko tasak
+2014,INGRESO,3,0,6,0,Obrak zuzendu eta tasatzearen ondoriozko tasak
+2014,INGRESO,3,0,7,,Tasa akademikoak eta azterketa-eskubideak
+2014,INGRESO,3,0,7,0,Tasa akademikoak eta azterketa-eskubideak
+2014,INGRESO,3,0,8,,Telekomunikazio-tasak
+2014,INGRESO,3,0,8,0,Telekomunikazio-tasak
+2014,INGRESO,3,0,9,,Bestelako tasak
+2014,INGRESO,3,0,9,0,Bestelako tasak
+2014,INGRESO,3,1,,,Zerbitzuak emateagatiko prezio publikoak
+2014,INGRESO,3,1,0,,Hezkuntza-zerbitzuak ematea
+2014,INGRESO,3,1,0,0,Hezkuntza-zerbitzuak ematea
+2014,INGRESO,3,1,1,,
+2014,INGRESO,3,1,1,0,Zentro kulturaletara egindako bisiten ondoriozko diru-sarrerak
+2014,INGRESO,3,1,1,1,
+2014,INGRESO,3,1,1,3,
+2014,INGRESO,3,1,1,8,
+2014,INGRESO,3,1,2,,Osasun- eta gizarte-zerbitzuak ematea
+2014,INGRESO,3,1,2,0,
+2014,INGRESO,3,1,2,3,
+2014,INGRESO,3,1,2,4,
+2014,INGRESO,3,1,2,5,Albaitaritza-zerbitzuak ematearen ondoriozko diru-sarrerak
+2014,INGRESO,3,1,2,6,Gizarte-zerbitzuak ematearen ondoriozko diru-sarrerak
+2014,INGRESO,3,1,2,8,
+2014,INGRESO,3,1,2,9,
+2014,INGRESO,3,1,3,,Garraio-zerbitzuak ematea
+2014,INGRESO,3,1,3,0,
+2014,INGRESO,3,1,9,,Bestelako zerbitzuak ematea
+2014,INGRESO,3,1,9,0,Informatika-zerbitzuak ematearen ondoriozko diru-sarrerak
+2014,INGRESO,3,1,9,1,Kartzelaldien ondoriozko diru-sarrerak
+2014,INGRESO,3,1,9,2,Makineria alokatzearen ondoriozko diru-sarrerak
+2014,INGRESO,3,1,9,9,Bestelako zerbitzuak ematearen ondoriozko diru-sarrerak
+2014,INGRESO,3,3,,,
+2014,INGRESO,3,3,0,,
+2014,INGRESO,3,3,0,1,Hondakinen salmenta
+2014,INGRESO,3,3,0,2,Nekazaritza eta abeltzaintzako produktuen salmenta
+2014,INGRESO,3,3,0,3,Medikamentuen salmenta
+2014,INGRESO,3,3,0,4,Argitalpenen salmenta
+2014,INGRESO,3,3,0,5,Eskubideen salmenta
+2014,INGRESO,3,3,0,9,Beste ondasun eta produktu batzuen salmenta
+2014,INGRESO,3,8,,,Operazioen itzulketak
+2014,INGRESO,3,8,0,,Itxitako ekitaldietako itzulketak
+2014,INGRESO,3,8,0,0,Itxitako ekitaldietako itzulketak
+2014,INGRESO,3,8,1,,Aurrekontu arruntaren itzulketak
+2014,INGRESO,3,8,1,0,Aurrekontu arruntaren itzulketak
+2014,INGRESO,3,8,9,,Beste itzulketa batzuk
+2014,INGRESO,3,8,9,0,Beste itzulketa batzuk
+2014,INGRESO,3,9,,,Bestelako sarrerak
+2014,INGRESO,3,9,0,,Eskubide pasiboetako kuotak
+2014,INGRESO,3,9,0,0,Eskubide pasiboetako kuotak
+2014,INGRESO,3,9,1,,"Isunak, zehapenak, interesak eta errekarguak"
+2014,INGRESO,3,9,1,0,Isunak eta zehapenak
+2014,INGRESO,3,9,1,1,Berandutze-interesak
+2014,INGRESO,3,9,1,2,Errekarguak
+2014,INGRESO,3,9,9,,Bestelako sarrerak
+2014,INGRESO,3,9,9,0,Bestelako sarrerak
+2014,INGRESO,4,,,,Transferentzia arruntak
+2014,INGRESO,4,0,,,
+2014,INGRESO,4,0,0,,
+2014,INGRESO,4,0,0,0,
+2014,INGRESO,4,0,0,2,
+2014,INGRESO,4,1,,,
+2014,INGRESO,4,1,0,,
+2014,INGRESO,4,1,0,0,
+2014,INGRESO,4,2,,,Gizarte Segurantzaren transferentzia arruntak
+2014,INGRESO,4,2,0,,Gizarte Segurantzaren transferentzia arruntak
+2014,INGRESO,4,2,0,0,Gizarte Segurantzaren transferentzia arruntak
+2014,INGRESO,4,3,,,Fundazioen transferentzia arruntak
+2014,INGRESO,4,3,0,,Fundazioen transferentzia arruntak
+2014,INGRESO,4,3,0,0,Foru-fundazioen transferentzia arruntak
+2014,INGRESO,4,3,0,9,Beste fundazio batzuen transferentzia arruntak
+2014,INGRESO,4,4,,,
+2014,INGRESO,4,4,0,,Enpresa publikoen transferentzia arruntak
+2014,INGRESO,4,4,0,0,
+2014,INGRESO,4,4,0,1,
+2014,INGRESO,4,4,1,,Beste erakunde publiko batzuen transferentzia arruntak
+2014,INGRESO,4,4,1,0,
+2014,INGRESO,4,4,1,1,
+2014,INGRESO,4,4,1,2,
+2014,INGRESO,4,4,1,3,
+2014,INGRESO,4,5,,,Autonomia-erkidegoen transferentzia arruntak
+2014,INGRESO,4,5,0,,Autonomia-erkidegoen transferentzia arruntak
+2014,INGRESO,4,5,0,0,Autonomia-erkidegoen transferentzia arruntak
+2014,INGRESO,4,6,,,Tokiko erakundeen transferentzia arruntak
+2014,INGRESO,4,6,0,,
+2014,INGRESO,4,6,0,0,
+2014,INGRESO,4,6,1,,
+2014,INGRESO,4,6,1,0,
+2014,INGRESO,4,7,,,Enpresa pribatuen transferentzia arruntak
+2014,INGRESO,4,7,0,,Enpresa pribatuen transferentzia arruntak
+2014,INGRESO,4,7,0,0,Enpresa pribatuen transferentzia arruntak
+2014,INGRESO,4,8,,,
+2014,INGRESO,4,8,0,,
+2014,INGRESO,4,8,0,0,
+2014,INGRESO,4,9,,,Kanpoko transferentzia arruntak
+2014,INGRESO,4,9,0,,Europar Batasunaren transferentzia arruntak
+2014,INGRESO,4,9,0,0,
+2014,INGRESO,4,9,0,1,
+2014,INGRESO,4,9,0,2,
+2014,INGRESO,4,9,0,3,
+2014,INGRESO,4,9,0,4,
+2014,INGRESO,4,9,0,6,
+2014,INGRESO,4,9,0,9,
+2014,INGRESO,4,9,9,,Kanpoko beste transferentzia arrunt batzuk
+2014,INGRESO,4,9,9,0,Kanpoko beste transferentzia arrunt batzuk
+2014,INGRESO,5,,,,Ondare-sarrerak
+2014,INGRESO,5,0,,,Tituluen eta baloreen interesak
+2014,INGRESO,5,0,0,,Tituluen eta baloreen interesak
+2014,INGRESO,5,0,0,0,Tituluen eta baloreen interesak
+2014,INGRESO,5,1,,,Emandako aurrerakinen eta maileguen interesak
+2014,INGRESO,5,1,0,,Emandako aurrerakinen eta maileguen interesak
+2014,INGRESO,5,1,0,0,
+2014,INGRESO,5,1,0,1,
+2014,INGRESO,5,1,0,2,
+2014,INGRESO,5,1,0,3,
+2014,INGRESO,5,1,0,4,
+2014,INGRESO,5,1,0,9,
+2014,INGRESO,5,2,,,Gordailuen eta atzerapenen interesak
+2014,INGRESO,5,2,0,,Gordailuen eta atzerapenen interesak
+2014,INGRESO,5,2,0,0,Gordailuen interesak
+2014,INGRESO,5,2,0,1,Berandutzeen interesak
+2014,INGRESO,5,3,,,Dibidenduak eta mozkinen partizipazioak
+2014,INGRESO,5,3,0,,Dibidenduak eta mozkinen partizipazioak
+2014,INGRESO,5,3,0,0,Dibidenduak eta mozkinen partizipazioak
+2014,INGRESO,5,4,,,Ondasun higiezinen errentak
+2014,INGRESO,5,4,0,,Ondasun higiezinen errentak
+2014,INGRESO,5,4,0,0,Ondasun higiezinen errentak
+2014,INGRESO,5,5,,,
+2014,INGRESO,5,5,0,,Administrazioaren emakidak
+2014,INGRESO,5,5,0,0,Administrazioaren emakidak
+2014,INGRESO,5,5,1,,Aprobetxamendu bereziak
+2014,INGRESO,5,5,1,0,Aprobetxamendu bereziak
+2014,INGRESO,5,9,,,Beste ondare-sarrera batzuk
+2014,INGRESO,5,9,9,,Beste ondare-sarrera batzuk
+2014,INGRESO,5,9,9,0,Beste ondare-sarrera batzuk
+2014,INGRESO,6,,,,Inbertsio errealen besterentzea
+2014,INGRESO,6,0,,,Lurren besterentzea
+2014,INGRESO,6,0,0,,Lurren besterentzea
+2014,INGRESO,6,0,0,0,Lurren besterentzea
+2014,INGRESO,6,1,,,Beste inbertsio erreal batzuen besterentzea
+2014,INGRESO,6,1,0,,Eraikinen salmenta
+2014,INGRESO,6,1,0,0,Eraikinen salmenta
+2014,INGRESO,6,1,1,,Automobil-parkearen salmenta
+2014,INGRESO,6,1,1,0,Automobil-parkearen salmenta
+2014,INGRESO,6,1,2,,Ekipamenduen salmenta
+2014,INGRESO,6,1,2,0,Ekipamenduen salmenta
+2014,INGRESO,6,1,3,,Ganadu- eta azienda-salmenta
+2014,INGRESO,6,1,3,0,Ganadu- eta azienda-salmenta
+2014,INGRESO,6,1,9,,Beste inbertsio erreal batzuen salmenta
+2014,INGRESO,6,1,9,0,Beste inbertsio erreal batzuen salmenta
+2014,INGRESO,6,8,,,Kapital-eragiketen ondoriozko diru-sarrerak
+2014,INGRESO,6,8,0,,Kapital-eragiketen ondoriozko diru-sarrerak
+2014,INGRESO,6,8,0,0,Kapital-eragiketen ondoriozko diru-sarrerak
+2014,INGRESO,7,,,,Kapital-transferentziak
+2014,INGRESO,7,0,,,
+2014,INGRESO,7,0,0,,
+2014,INGRESO,7,0,0,0,
+2014,INGRESO,7,0,0,1,
+2014,INGRESO,7,0,0,2,
+2014,INGRESO,7,1,,,
+2014,INGRESO,7,1,0,,
+2014,INGRESO,7,1,0,0,
+2014,INGRESO,7,2,,,Gizarte Segurantzaren kapital-transferentziak
+2014,INGRESO,7,2,0,,Gizarte Segurantzaren kapital-transferentziak
+2014,INGRESO,7,2,0,0,Gizarte Segurantzaren kapital-transferentziak
+2014,INGRESO,7,3,,,Fundazioen kapital-transferentziak
+2014,INGRESO,7,3,0,,Fundazioen kapital-transferentziak
+2014,INGRESO,7,3,0,0,Fundazioen kapital-transferentziak
+2014,INGRESO,7,3,0,9,Beste fundazio batzuen kapital-transferentziak
+2014,INGRESO,7,4,,,
+2014,INGRESO,7,4,0,,Enpresa publikoen kapital-transferentziak
+2014,INGRESO,7,4,0,0,
+2014,INGRESO,7,4,0,1,
+2014,INGRESO,7,4,1,,Beste erakunde publiko batzuen kapital-transferentziak
+2014,INGRESO,7,4,1,0,
+2014,INGRESO,7,4,1,1,
+2014,INGRESO,7,4,1,2,
+2014,INGRESO,7,4,1,3,
+2014,INGRESO,7,5,,,Autonomia-erkidegoen kapital-transferentziak
+2014,INGRESO,7,5,0,,Autonomia-erkidegoen kapital-transferentziak
+2014,INGRESO,7,5,0,0,Autonomia-erkidegoen kapital-transferentziak
+2014,INGRESO,7,6,,,Tokiko erakundeen kapital-transferentziak
+2014,INGRESO,7,6,0,,
+2014,INGRESO,7,6,0,0,
+2014,INGRESO,7,6,1,,
+2014,INGRESO,7,6,1,0,
+2014,INGRESO,7,7,,,Enpresa pribatuen kapital-transferentziak
+2014,INGRESO,7,7,0,,Enpresa pribatuen kapital-transferentziak
+2014,INGRESO,7,7,0,0,Enpresa pribatuen kapital-transferentziak
+2014,INGRESO,7,8,,,
+2014,INGRESO,7,8,0,,
+2014,INGRESO,7,8,0,0,
+2014,INGRESO,7,9,,,Kanpoko kapital-transferentziak
+2014,INGRESO,7,9,0,,Europar Batasunaren kapital-transferentziak
+2014,INGRESO,7,9,0,0,
+2014,INGRESO,7,9,0,1,
+2014,INGRESO,7,9,0,2,
+2014,INGRESO,7,9,0,3,
+2014,INGRESO,7,9,0,4,
+2014,INGRESO,7,9,0,5,Kohesio-funtsen kapital-transferentziak
+2014,INGRESO,7,9,0,9,
+2014,INGRESO,7,9,9,,Kanpoko beste kapital-transferentzia batzuk
+2014,INGRESO,7,9,9,0,Kanpoko beste kapital-transferentzia batzuk
+2014,INGRESO,8,,,,Finantza-aktiboak
+2014,INGRESO,8,0,,,Sektore Publikoaren zorra besterentzea
+2014,INGRESO,8,0,0,,
+2014,INGRESO,8,0,0,0,
+2014,INGRESO,8,0,1,,
+2014,INGRESO,8,0,1,0,
+2014,INGRESO,8,1,,,
+2014,INGRESO,8,1,0,,
+2014,INGRESO,8,1,0,0,
+2014,INGRESO,8,1,1,,
+2014,INGRESO,8,1,1,0,
+2014,INGRESO,8,2,,,
+2014,INGRESO,8,2,0,,
+2014,INGRESO,8,2,0,0,
+2014,INGRESO,8,2,0,1,
+2014,INGRESO,8,2,0,2,
+2014,INGRESO,8,2,0,9,
+2014,INGRESO,8,2,1,,
+2014,INGRESO,8,2,1,0,
+2014,INGRESO,8,2,1,1,
+2014,INGRESO,8,2,1,2,
+2014,INGRESO,8,2,1,9,
+2014,INGRESO,8,3,,,
+2014,INGRESO,8,3,0,,
+2014,INGRESO,8,3,0,0,
+2014,INGRESO,8,3,0,1,
+2014,INGRESO,8,3,0,9,
+2014,INGRESO,8,3,1,,
+2014,INGRESO,8,3,1,0,
+2014,INGRESO,8,3,1,1,
+2014,INGRESO,8,3,1,9,
+2014,INGRESO,8,4,,,Gordailuen eta fidantzen itzulketak
+2014,INGRESO,8,4,0,,Fidantzatutako gordailuen eta obligazioen itzulketak
+2014,INGRESO,8,4,0,0,Gordailuen itzulketak
+2014,INGRESO,8,4,0,1,Fidantzatutako obligazioen itzulketak
+2014,INGRESO,8,4,1,,Fidantzen itzulketak
+2014,INGRESO,8,4,1,0,Fidantzen itzulketak
+2014,INGRESO,8,5,,,
+2014,INGRESO,8,5,0,,
+2014,INGRESO,8,5,0,0,
+2014,INGRESO,8,6,,,
+2014,INGRESO,8,6,0,,
+2014,INGRESO,8,6,0,0,
+2014,INGRESO,8,7,,,Diruzaintzako geldikina
+2014,INGRESO,8,7,0,,Diruzaintzako geldikina
+2014,INGRESO,8,7,0,0,Diruzaintzako geldikina
+2014,INGRESO,9,,,,Finantza-pasiboak
+2014,INGRESO,9,0,,,Zor publikoa jaulkitzea moneta nazionalean
+2014,INGRESO,9,0,0,,Zor publikoa jaulkitzea moneta nazionalean
+2014,INGRESO,9,0,0,0,Zor publikoa jaulkitzea moneta nazionalean
+2014,INGRESO,9,1,,,Moneta nazionalean jasotako maileguak
+2014,INGRESO,9,1,0,,
+2014,INGRESO,9,1,0,0,
+2014,INGRESO,9,1,1,,
+2014,INGRESO,9,1,1,0,
+2014,INGRESO,9,3,,,Atzerri-monetan jasotako maileguak
+2014,INGRESO,9,3,0,,
+2014,INGRESO,9,3,0,0,
+2014,INGRESO,9,3,1,,
+2014,INGRESO,9,3,1,0,
+2014,INGRESO,9,4,,,Jasotako gordailuak eta fidantzak
+2014,INGRESO,9,4,0,,Jasotako gordailuak
+2014,INGRESO,9,4,0,0,Jasotako gordailuak
+2014,INGRESO,9,4,1,,Jasotako fidantzak
+2014,INGRESO,9,4,1,0,Jasotako fidantzak
