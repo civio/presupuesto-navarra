@@ -1,6 +1,6 @@
 <form id="tax-receipt-form" class="form-user-incomings form-inline" action="#" method="get">
   <div class="row">
-    <div class="col-md-8 col-md-offset-2">
+    <div class="col-md-9 col-md-offset-2">
       <div class="form-group">
         <label for="input-incomes">{{ _('Indica tus ingresos brutos anuales') }}</label>
         <div class="input-group">
@@ -8,10 +8,10 @@
           <div class="input-group-addon">€</div>
         </div>
       </div>
-      <button type="submit" class="btn btn-primary">Calcular</button>
+      <button type="submit" class="btn btn-primary">{{ _('Calcular') }}</button>
     </div>
   </div>
 </form>
 
 
-<p id="tax-amount">{{ _('Has ingresado <strong id="income-amount"></strong>, contribuyes con un total de <strong id="tax-amount-paid"></strong> a los presupuestos del')|safe }} {{ _('Gobierno de Aragón') }}.</p>
+<p id="tax-amount">{{ _('Has ingresado <strong id="income-amount"></strong>, contribuyes con un total de <strong id="tax-amount-paid"></strong> a los presupuestos del Gobierno de Navarra')|safe }}.</p>
