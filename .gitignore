@@ -1,2 +1,6 @@
 *.pyc
 .DS_Store
+/node_modules
+npm-debug.log
+static/stylesheets/main.css.map
+static/stylesheets/main.css
