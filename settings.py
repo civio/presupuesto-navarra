@@ -30,7 +30,17 @@ OVERVIEW_INCOME_NODES = [
                             'link_id': '10'
                           },
                         ]
-OVERVIEW_EXPENSE_NODES = [ '31', '32', '94', '23', '45', '95', '21' ]
+OVERVIEW_EXPENSE_NODES = [
+                            '31',
+                            '32',
+                            '23',
+                            '94',
+                            {
+                              'nodes': '95',
+                              'label.es': 'Intereses',
+                              'label.eu': 'Intereses'
+                            }
+                          ]
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
