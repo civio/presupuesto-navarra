@@ -154,6 +154,22 @@ h1, h2, h3, h4, h5, h6{
 .main-footer{
   margin-bottom: 30px;
   opacity: 0.95;
+
+  .credit-aragon{
+    font-weight: $font-weight-400;
+    font-size: 0.875em;
+    min-height: 50px;
+    padding-top: 80px;
+    line-height: 40px;
+    background: url(../assets/footer-logo.png) no-repeat center 0 transparent;
+
+    @media (min-width: $screen-sm-min) {
+      line-height: 1em;
+      padding-top: 15px;
+      padding-left: 200px;
+      background-position: 0 0;
+    }
+  }
 }
 
 .home-content{
