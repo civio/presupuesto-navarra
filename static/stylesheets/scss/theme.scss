@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6{
   }
 
   &.active{
-    border-top: 3px solid $brand-terciary;
+    border-top: 5px solid $brand-terciary;
     
     > a{
       background: white;
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6{
 
   .options .option > div {
     border: 1px solid $brand-primary;
-    border-top-width: 4px;
+    border-top-width: 5px;
     
     .icon{
       color: mix( $brand-terciary, $brand-secondary, 20% );
@@ -172,6 +172,11 @@ h1, h2, h3, h4, h5, h6{
 
     &:hover{
       border-color: $brand-terciary;
+      background: mix( $brand-secondary, white, 50% );
+
+      .icon{
+        color: mix( $brand-terciary, $brand-secondary, 70% );
+      }
     }
   }
 }
