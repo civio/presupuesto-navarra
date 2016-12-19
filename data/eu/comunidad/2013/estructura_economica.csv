@@ -499,6 +499,7 @@
 2013,INGRESO,9,0,0,0,Zor publikoa jaulkitzea moneta nazionalean
 2013,INGRESO,9,1,1,0,Moneta nazionalean epe luzera jasotako maileguak
 2013,GASTO,5,0,0,0,
+2013,GASTO,8,2,1,4,
 2013,GASTO,8,3,0,8,
 2013,INGRESO,1,0,1,7,
 2013,INGRESO,1,8,1,0,
@@ -513,3 +514,4 @@
 2013,INGRESO,7,7,0,0,
 2013,INGRESO,8,2,1,2,
 2013,INGRESO,8,3,0,1,
+2013,INGRESO,8,7,0,0,
