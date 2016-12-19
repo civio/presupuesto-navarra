@@ -13,20 +13,20 @@ OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['10', '100']],
                             'label.es': 'Impuesto sobre la renta de las personas físicas',
-                            'label.eu': 'Impuesto sobre la renta de las personas físicas',
+                            'label.eu': 'Pertsona fisikoen errentaren gaineko zerga',
                             'link_id': '10'
                           },
                           '21',
                           {
                             'nodes': [['22', '220']],
                             'label.es': 'Impuestos especiales',
-                            'label.eu': 'Impuestos especiales',
+                            'label.eu': 'Zerga bereziak',
                             'link_id': '22'
                           },
                           {
                             'nodes': [['10', '101']],
                             'label.es': 'Impuesto sobre sociedades',
-                            'label.eu': 'Impuesto sobre sociedades',
+                            'label.eu': 'Sozietateen gaineko zerga',
                             'link_id': '10'
                           },
                         ]
@@ -34,17 +34,28 @@ OVERVIEW_EXPENSE_NODES = [
                             '31',
                             '32',
                             '23',
-                            '94',
+                            {
+                              'nodes': [['94', '9411']],
+                              'label.es': 'Convenio económico con el Estado',
+                              'label.eu': 'Hitzarmen Ekonomikoa Estatuarekin',
+                              'link_id': '94'
+                            },
+                            {
+                              'nodes': [['94', '9422'], ['94', '9423'], ['94', '9424'], ['94', '9425'], ['94', '9421'], ['94', '9419']],
+                              'label.es': 'Transferencias a otras administraciones públicas',
+                              'label.eu': 'Transferentziak beste Administrazio Publiko batzuetara',
+                              'link_id': '94'
+                            },
                             {
                               'nodes': '95',
                               'label.es': 'Intereses',
-                              'label.eu': 'Intereses'
+                              'label.eu': 'Interesak'
                             }
                           ]
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
-OVERVIEW_RELAX_FACTOR = 0.4
+OVERVIEW_RELAX_FACTOR = 0.3
 
 # Treemaps minimum height or width to show labels. Default: 70 (Optional)
 TREEMAP_LABELS_MIN_SIZE = 50
