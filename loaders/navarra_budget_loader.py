@@ -69,7 +69,7 @@ class NavarraBudgetLoader(BudgetLoader):
 
 
     def add_economic_category(self, items, line):
-        description = line[6]
+        description = line[6].strip()
 
         items.append({
                 'expense': (line[1].upper() == 'GASTO'),
