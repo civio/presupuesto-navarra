@@ -55,10 +55,13 @@ OVERVIEW_EXPENSE_NODES = [
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
-OVERVIEW_RELAX_FACTOR = 0.3
+OVERVIEW_RELAX_FACTOR = 0.15
 
 # Treemaps minimum height or width to show labels. Default: 70 (Optional)
-TREEMAP_LABELS_MIN_SIZE = 50
+TREEMAP_LABELS_MIN_SIZE = 30
+
+# Treemap minimum font size. Default: 11 (Optional)
+TREEMAP_LABELS_FONT_SIZE_MIN = 7
 
 # Show Payments section in menu & home options. Default: False.
 # SHOW_PAYMENTS           = True
