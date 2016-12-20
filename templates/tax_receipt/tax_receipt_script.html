@@ -24,6 +24,11 @@
       // get input placeholder if empty value
       val = (val !== '') ? val : $('#input-incomes').attr('placeholder')
 
+      if (val < 3000) {
+        val = 3000;
+        $('#input-incomes').val(val);
+      }
+
       // set income amount
       $('#income-amount').html( formatTaxAmount(val, false) );
       
