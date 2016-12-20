@@ -162,12 +162,25 @@ h1, h2, h3, h4, h5, h6{
     padding-top: 80px;
     line-height: 40px;
     background: url(../assets/footer-logo.png) no-repeat center 0 transparent;
+  }
 
-    @media (min-width: $screen-sm-min) {
+  @media (min-width: $screen-sm-min) {
+    .credit-aragon{
       line-height: 1em;
       padding-top: 15px;
       padding-left: 200px;
       background-position: 0 0;
+    }
+  }
+  @media (min-width: $screen-md-min) {
+    .credit-aragon{
+      float: left;
+      margin-bottom: 0;
+    }
+    .footer-menu{
+      float: right;
+      margin-top: -27px;
+      margin-right: -1*$grid-gutter-width/6;
     }
   }
 }
@@ -255,6 +268,12 @@ table.table-grid tr td .toggle.collapse{
   .form-group{
     width: auto;
   }
+}
+
+.tax-receipt .tax-note{
+  background: $brand-secondary;
+  padding: $grid-gutter-width/3;
+  text-align: center;
 }
 
 @media (min-width: $screen-sm-min) {
