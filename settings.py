@@ -73,7 +73,7 @@ SHOW_TAX_RECEIPT        = True
 # SHOW_COUNTIES_AND_TOWNS = False
 
 # Show an extra tab with institutional breakdown. Default: True.
-SHOW_INSTITUTIONAL_TAB  = False
+# SHOW_INSTITUTIONAL_TAB  = False
 
 # Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
 # SHOW_FUNDING_TAB = False
