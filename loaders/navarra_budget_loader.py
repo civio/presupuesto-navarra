@@ -9,6 +9,9 @@ import re
 
 class NavarraBudgetLoader(BudgetLoader):
 
+    def __init__(self):
+        self.descriptions = []
+
     # We don't have funding categories, so create a dummy one and assign everything to it
     def get_default_funding_categories(self):
         categories = BudgetLoader.get_default_funding_categories(self)
@@ -25,17 +28,6 @@ class NavarraBudgetLoader(BudgetLoader):
                         'fund_class': 'XX',
                         'fund': 'XXX',
                         'description': 'Ingresos'
-                    })
-        return categories
-
-    # TODO: Temporary, while we sort out why so many codes are missing
-    def get_default_institutional_categories(self):
-        categories = BudgetLoader.get_default_funding_categories(self)
-        categories.append({
-                        'institution': 'XX',
-                        'section': 'XXX',
-                        'department': 'XXXXX',
-                        'description': 'Gobierno de Navarra'
                     })
         return categories
 
@@ -100,6 +92,17 @@ class NavarraBudgetLoader(BudgetLoader):
         ic_code = line[2]
         amount = self._read_spanish_number(line[7 if is_actual else 6])
 
+        # We need subheading+item_number to be consistent across departments,
+        # since we're grouping all different items together using economic_uid().
+        # That's not the case in Navarra, so we make sure each description
+        # gets a unique item number.
+        description = line[5]
+        if description in self.descriptions:
+            item_number = self.descriptions.index(description)
+        else:
+            item_number = len(self.descriptions)
+            self.descriptions.append(description)
+
         # Load the data item
         items.append({
                 'ic_institution': ic_code[0:2],
@@ -116,8 +119,7 @@ class NavarraBudgetLoader(BudgetLoader):
                 'ec_subheading': (ec_code if len(ec_code)>=4 else None),
                 'ec_code': ec_code, # Redundant, but convenient
                 'fdc_code': 'XXX',  # Not used
-                'item_number': fc_code[-2:],    # Last two digits
-                # We leave it blank, so the base loader will fill it in using the economica category
+                'item_number': item_number,
                 'description': line[5],
                 'amount': amount
             })
