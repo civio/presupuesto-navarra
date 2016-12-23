@@ -138,6 +138,18 @@ h1, h2, h3, h4, h5, h6{
   }
 }
 
+// Makes sankey labels bigger
+@media (min-width: $screen-sm-min) {
+  .sankey-container{
+    .chart-container{
+      font-size: 1.125em;
+    }
+  }
+  .budget-viz .sankey-labels{
+    font-size: 1em;
+  }
+}
+
 .panel-downloads{
   background: $brand-secondary;
   border-color: $brand-secondary;
