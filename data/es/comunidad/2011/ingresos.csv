@@ -1,438 +1,427 @@
-2011,010001,01000,4000,000000,Ingresos por transferencias de la Delegación del Gobierno pa,"-0,00","27.284,56"
-2011,010003,01500,3304,000002,Publicación de anuncios,"190.000,00","283.949,64"
-2011,010004,01100,3990,000000,Otros ingresos,"30.000,00","70.861,86"
-2011,010005,01200,3010,000000,Tasas por actuaciones del Registro de Asociaciones,"7.000,00","7.273,21"
-2011,020002,04100,3800,000000,Reintegro de retribuciones abonadas indebidamente,"72.812,47","145.924,83"
-2011,020002,04100,3900,000000,Cuotas de derechos pasivos,"3.700.000,00","3.418.341,17"
-2011,020002,04100,3990,000000,Otros ingresos,"-0,00","735.006,60"
-2011,020002,04100,8311,000000,Reintegro de anticipos de sueldo,"728.125,00","728.125,00"
-2011,020002,04300,3128,000000,Asistencia sanitaria. Uso especial,"832.141,00","973.163,21"
-2011,020002,04310,8200,000000,Gestión del Montepío de funcionarios municipales,"18.687.993,00","18.479.536,47"
-2011,040000,03000,3990,000000,Otros ingresos,"100,00","199,73"
-2011,040000,03000,4000,000000,Cursos de formación continua (INAP estatal),"950.240,00","950.240,00"
-2011,040000,03000,4410,000000,Transferencias de otros entes públicos de la Administración,"100,00","-0,00"
-2011,040000,03400,4000,000000,Transferencias de la Administración del Estado para el vascuence,"9.999,81","9.999,81"
-2011,040005,03500,3070,000000,Tasas académicas y derechos de examen,"196.237,00","197.487,10"
-2011,050000,02000,3890,000000,Devolución de pagos,"3.000,00","6.602,53"
-2011,050000,02000,3990,000000,Otros ingresos,"2.000,00","58.931,58"
-2011,050000,02000,7000,000000,Sistema de seguimiento integral de los casos de violencia de género,"300.000,00","300.000,00"
-2011,050000,02400,3010,000000,"Tasas por informes, certificados y demás actuaciones admvas.","184.000,00","165.561,61"
-2011,050000,02400,3910,000000,Multas de juego,"1.000,00","2.250,00"
-2011,050000,02400,3910,000002,Multas de espectáculos,"50.000,00","59.752,54"
-2011,050000,02400,3910,000003,Multas de seguridad ciudadana,"300.000,00","584.888,02"
-2011,050000,02400,3990,000002,Otros ingresos,"100,00","-0,00"
-2011,050005,02920,3040,000000,Tasas por autorización de transportes especiales,"695.000,00","600.152,00"
-2011,050005,02920,3090,000000,Tasas por otras autorizaciones,"150,00","1.029,00"
-2011,051000,02100,3090,000000,"Tasas por informes, acompañamientos y otros","145.000,00","100.393,87"
-2011,051000,02100,3090,000002,Tasas por estancias de vehículos particulares en dependencias,"1.300,00","-0,00"
-2011,054000,02720,3090,000000,Tasas por servicios de extinción de incendios,"300,00","768,20"
-2011,054000,02720,3990,000000,Contribuciones especiales,"1.700.000,00","1.700.000,00"
-2011,054001,02710,3199,000000,Ingresos por traslado de cadáveres por disposición judicial,"100,00","-0,00"
-2011,054002,02730,3010,000000,Tasas por servicios administrativos,"500,00","640,00"
-2011,054002,02730,3070,000000,Tasas académicas y derechos de examen,"1.000,00","-0,00"
-2011,054002,02730,3890,000000,Devolución de pagos,"100,00","-0,00"
-2011,054002,02730,3990,000000,Otros ingresos,"100,00","-0,00"
-2011,060000,06000,3191,000000,Estancias en el Centro Penitenciario a cargo de la D.G.Inst. Pen.,"132.000,00","114.522,35"
-2011,060000,06000,3990,000000,Otros ingresos,"1.500,00","3.380,12"
-2011,060000,06000,4800,000000,Ingresos convenio de reeducación de maltratadores,"-0,00","7.942,37"
-2011,060001,06000,3990,000000,Ingresos derivados de actuaciones judiciales,"1.000,00","849,07"
-2011,060001,06000,6800,000000,Reintegro por revisión de precios de la obra de PN2012-49. E,"105.886,59","105.886,59"
-2011,070000,05000,4000,000000,Ingresos del  Estado para organización de jornadas técnicas,"30.000,00","30.000,00"
-2011,070000,05000,4600,000000,Ingresos de Entidades locales para organización de jornadas,"30.000,00","15.416,68"
-2011,070002,05200,4901,000002,Ingresos del proyecto europeo BRISEIDE,"19.327,00","23.193,00"
-2011,070005,05520,3990,000000,Ingresos telefónicos en centros educativos,"1.000,00","-0,00"
-2011,100000,10100,3010,000000,Tasas por servicios administrativos,"1.500,00","2.427,50"
-2011,112000,11400,8700,000000,Remanente de tesorería afecto,"2.010.039,99","-0,00"
-2011,112000,11400,8700,000002,Remanente de tesorería afecto al Fondo de participación de Hac. Loc.,"4.001.481,85","-0,00"
-2011,112002,11420,3800,000000,Reintegros,"500.000,00","3.453.090,93"
-2011,112002,11420,3990,000002,Otros ingresos,"1.000,00","216.908,71"
-2011,112002,11420,5100,000000,Intereses de las cuentas de repartimientos,"500,00","-0,00"
-2011,112002,11420,5100,000002,Intereses de anticipos y aplazamientos concedidos,"1.000,00","-0,00"
-2011,112002,11420,5200,000000,Intereses de cuentas corrientes,"5.000.000,00","2.878.557,06"
-2011,112002,11420,8309,000000,Reintegro de obligaciones afianzadas,"213.436,80","2.299.709,85"
-2011,112003,11430,3010,000000,Tasas de la actividad mediadora en seguros privados,"500,00","-0,00"
-2011,112003,11430,5990,000000,Ingresos patrimoniales por operaciones de endeudamiento,"-0,00","2.951.866,36"
-2011,112003,11430,9000,000000,Emisiones de Deuda de Navarra,"92.674.990,00","388.870.300,00"
-2011,112003,11430,9110,000000,Préstamos en moneda nacional,"243.600.000,00","93.500.000,00"
-2011,112003,11430,9110,000002,Financiación de la construcción del corredor navarro del Tren Alta Velocidad,"45.000.000,00","-0,00"
-2011,121002,13300,5400,000000,.,"-0,00","-0,00"
-2011,123003,13100,3800,000000,Ingresos por reintegros de subvenciones,"1,00","-0,00"
-2011,123003,13110,4900,000002,Ingresos FSE. Asistencia técnica Objetivo 3,"1,00","-0,00"
-2011,123003,13110,4900,000003,Ingresos FSE. Asistencia técnica Programa Operativo. Objetiv,"33.000,00","36.959,59"
-2011,123003,13110,4901,000002,Ingresos FEDER. Asistencia técnica Objetivo 2,"1,00","-0,00"
-2011,123003,13110,4901,000003,Ingresos FEDER. Asistencia técnica Programa Operativo. Objet,"41.000,00","68.779,61"
-2011,123003,13120,4901,000000,Ingresos FEDER proyectos Interreg III,"9.000,00","-0,00"
-2011,123003,13120,4901,000003,Ingresos FEDER proyectos Interreg IV - Objetivo Cooperación,"32.000,00","-0,00"
-2011,124001,13200,3800,000000,Ingresos por reintegro de Becas Navarra,"1,00","-0,00"
-2011,124001,13200,4900,000000,Ingresos  Programa Operativo FSE 2007-2013,"100.000,00","20.049,80"
-2011,124001,13200,4901,000000,Ingresos FEDER Proyecto Brain-Flow - Interreg IVC,"1,00","-0,00"
-2011,131000,15100,3910,000000,Penalizaciones por incumplimientos de contratos,"1,00","-0,00"
-2011,131000,15100,3990,000000,Otros ingresos,"3.335,36","3.335,36"
-2011,131000,15100,3990,000002,Indemnizaciones de contratos de seguros,"84.323,19","142.874,62"
-2011,131000,15100,4800,000000,Herencias legales,"1,00","-0,00"
-2011,131000,15100,4800,000002,Donaciones y herencias y legados testamentarios,"1,00","-0,00"
-2011,131001,15100,6120,000000,Venta de bienes muebles,"7.475,48","61.593,63"
-2011,131002,15100,3990,000000,Comisiones de avales,"1,00","-0,00"
-2011,131002,15100,5000,000000,Intereses de títulos valores,"1,00","-0,00"
-2011,131002,15100,5200,000000,Intereses de la cuenta del Fondo de Carbono,"35.000,00","39.819,51"
-2011,131002,15100,5300,000000,"Dividendos, participaciones y beneficios","8.501.232,00","531,75"
-2011,131002,15100,5400,000000,Rentas de inmuebles,"535.000,00","282.894,69"
-2011,131002,15100,5400,000002,Arrendamiento Petilla de Aragón,"4.600,00","4.597,50"
-2011,131002,15100,5500,000000,Concesión demanial garajes González Tablas,"110.492,05","127.879,37"
-2011,131002,15100,6000,000000,Venta de terrenos,"29.074,78","141.485,78"
-2011,131002,15100,6000,000002,Reversión de terrenos,"1,00","-0,00"
-2011,131002,15100,6100,000000,Venta de inmuebles,"26.753,35","28.012,00"
-2011,131002,15100,7400,000000,Ingresos de sociedades,"1,00","-0,00"
-2011,150000,17000,3800,000000,Reintegros de ejercicios cerrados,"10,00","-0,00"
-2011,152000,17110,1900,000000,Impuestos extinguidos,"6,00","637.228,36"
-2011,152000,17110,3910,000000,Sanciones,"12.797.000,00","18.283.640,47"
-2011,152001,17112,1015,000000,Ingresos por el Impuesto de Sociedades,"244.388.000,00","167.526.487,33"
-2011,152001,17112,1016,000000,Beneficios fiscales. Impuesto de Sociedades,"112.861.249,00","108.833.339,54"
-2011,152001,17112,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,"9.901.000,00","8.459.446,67"
-2011,152001,17122,2100,000000,Ingresos por el IVA,"1.143.891.000,00","937.005.131,25"
-2011,152001,17122,2100,000002,Ajuste por el IVA,"141.108.424,00","171.154.619,77"
-2011,152001,17217,1005,000000,Ingresos por el IRPF,"1.097.326.000,00","1.099.198.549,43"
-2011,152001,17217,1005,000002,"Fondo 0,7 por cien de otros fines de interés social","5.316.000,00","-0,00"
-2011,152001,17217,1006,000000,Beneficios fiscales. IRPF,"229.955.507,00","202.433.667,85"
-2011,152002,17115,1120,000000,Ingresos por el Impuesto sobre Sucesiones y Donaciones,"52.357.000,00","33.447.654,77"
-2011,152002,17115,2820,000000,Ingresos por el Impuesto sobre Transmisiones Patrimoniales,"51.951.000,00","37.192.917,64"
-2011,152002,17115,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,"25.751.000,00","18.928.046,75"
-2011,152002,17123,2200,000000,Ingresos por los impuestos especiales sobre el alcohol y beb,"13.020.134,00","17.084.828,06"
-2011,152002,17123,2201,000000,Ingresos por el Impuesto Especial sobre determinados medios,"11.474.000,00","6.741.242,03"
-2011,152002,17123,2202,000000,Ingresos por el Impuesto Especial sobre la cerveza,"4.167.012,00","4.396.480,38"
-2011,152002,17123,2203,000000,Ingresos por el Impuesto Especial sobre las labores del taba,"176.159.997,00","172.287.452,49"
-2011,152002,17123,2204,000000,Ingresos por el Impuesto Especial sobre hidrocarburos,"212.504.315,00","212.220.964,05"
-2011,152002,17123,2206,000000,Ingresos por el Impuesto Especial sobre productos intermedio,"171.000,00","193.242,07"
-2011,152002,17123,2207,000000,Ingresos por el Impuesto Especial sobre producción de energí,"26.230.000,00","23.435.930,91"
-2011,152002,17123,2208,000000,Ingresos por el Impuesto sobre las ventas minoristas de hidr,"22.825.000,00","23.878.886,88"
-2011,152002,17123,2810,000000,Impuesto sobre las primas de seguros,"20.160.000,00","20.308.208,10"
-2011,152002,17123,3000,000000,Tasas de juego,"12.500.000,00","11.242.927,57"
-2011,152002,17123,3050,000000,Canon de superficie de minas,"7.500,00","4.335,02"
-2011,152002,17123,3080,000000,Canon de Telefónica,"125.000,00","76.720,97"
-2011,152002,17123,3309,000000,Ingresos por la venta de cartones de juego,"99.000,00","68.256,68"
-2011,154000,17220,3090,000000,Tasas sobre la información suministrada,"26.500,00","21.141,15"
-2011,155002,17143,3890,000000,Ingresos por la compensación de costas en procedimientos de,"60.000,00","163.326,86"
-2011,155002,17143,3912,000000,Recargos de apremio,"18.000.000,00","18.784.485,63"
-2011,155002,17143,5201,000000,Intereses por la deuda fraccionada en vía de apremio,"200.000,00","455.576,06"
-2011,155004,17142,3911,000000,Intereses de demora de deudas no aplazadas,"10.500.000,00","8.300.440,96"
-2011,155004,17142,5201,000000,Intereses de demora de deudas aplazadas,"4.000.000,00","6.873.948,14"
-2011,156000,17230,3309,000000,Ingresos por venta de impresos,"1.000,00","760,80"
-2011,160000,16100,3800,000000,Saldo de la liquidación definitiva de la Aportación al Estad,"43.360.510,00","24.323.660,00"
-2011,160000,16100,4000,000000,Participación de las diputaciones en los ingresos del Estado,"65.000,00","67.834,58"
-2011,160000,16100,4200,000000,Participación de las diputaciones en los ingresos del Estado,"100,00","-0,00"
-2011,211000,20100,3010,000000,Tasas por servicios administrativos,"1,00","-0,00"
-2011,211000,21000,3800,000000,Reintegro de ejercicios cerrados,"-0,00","2.502,19"
-2011,211000,21000,3810,000000,Reintegro del presupuesto corriente,"-0,00","2.166,88"
-2011,211000,21000,3990,000000,Otros ingresos,"-0,00","376,14"
-2011,211001,21500,4600,000000,Ingresos de entidades locales de Navarra,"453.172,00","453.172,00"
-2011,211004,21200,4000,000000,Participación de los municipios en los ingresos del Estado,"725.569,99","725.569,99"
-2011,211004,21200,4401,000000,Ingresos por participación en tasas de Telefónica,"2.192.000,00","1.963.004,74"
-2011,211004,21200,8210,000000,Reintegro fondo anticipado. Equilibrio presupuestario,"49.102,00","53.873,64"
-2011,212002,21200,3800,000000,Reintegro Fondo. Corporativos,"1,00","-0,00"
-2011,300000,30100,3910,000000,Multas e indemnizaciones,"50.000,00","52.200,00"
-2011,300000,30100,3990,000000,Otros ingresos,"3.000,00","414.056,55"
-2011,310000,32100,4901,000000,"Iniciativas, programas y proyectos europeos FEDER","-0,00","16.825,73"
-2011,320000,32200,3890,000000,Devolución de subvenciones de viviendas de protección oficia,"2.500.000,00","2.692.794,07"
-2011,320000,32200,3910,000000,Multas e indemnizaciones,"50.000,00","92.412,90"
-2011,320000,32200,3990,000000,Otros ingresos,"1.000,00","-0,00"
-2011,320000,32200,5109,000000,Ingresos financieros de intereses de préstamos de suelo y vi,"175.000,00","99.779,61"
-2011,320000,32200,5400,000000,Alquileres de locales y viviendas,"40.000,00","6.922,67"
-2011,320000,32200,6000,000000,Ingresos por venta de suelo del Banco Foral de Suelo Público,"1.500.000,00","-0,00"
-2011,320000,32200,6100,000000,Ingresos por venta de bienes inmuebles adquiridos por derech,"1.000.000,00","268.750,96"
-2011,320000,32200,8219,000000,Devolución de préstamos concedidos a promotores públicos y a,"140.000,00","110.634,09"
-2011,320000,32200,8311,000000,"Amortización de préstamos para viviendas, locales y suelo. P","500.000,00","390.832,07"
-2011,400000,41000,3070,000000,Tasas por participación en oposiciones,"75.000,00","61.920,00"
-2011,400000,41000,3100,000000,"Ingresos por prestación de servicios educativos, cuotas esco","750.000,00","961.482,11"
-2011,400000,41000,3800,000000,Reintegros de ejercicios cerrados,"100,00","127.472,49"
-2011,400000,41000,3810,000000,Reintegros de ejercicios corrientes,"100,00","-0,00"
-2011,400000,41000,3990,000000,Ingresos varios,"100,00","189.827,16"
-2011,400000,41000,5200,000000,Intereses bancarios,"100,00","-0,00"
-2011,400000,41700,4000,000000,Gratificación por jubilación LOE,"895.945,75","895.945,75"
-2011,410000,41100,4000,000000,Premios recibidos de otras administraciones públicas,"6.000,00","6.000,00"
-2011,410000,41820,3990,000000,Ingresos por siniestros,"10,00","-0,00"
-2011,410001,41810,5400,000000,"Ingresos por arrendamiento de ""Casa Maxurrenea""","23.259,00","23.100,69"
-2011,410001,41810,7600,000000,Aportaciones para obras en centros escolares,"10,00","-0,00"
-2011,410002,41150,3800,000000,Devolución de becas,"9.173,43","61.878,51"
-2011,410002,41150,3800,000002,Devoluciones del programa de gratuidad,"-0,00","52.668,44"
-2011,410002,41150,7000,000000,Convenio para la financiación de libros de texto,"1.059.256,00","1.059.256,00"
-2011,421000,42400,3070,000000,Tasas de expedición del título de aptitud en vascuence,"2.600,00","9.023,44"
-2011,421000,42400,3100,000002,Derechos de exámenes para el título de aptitud en vascuence,"19.800,00","30.162,00"
-2011,421002,42420,3100,000000,Derechos de exámenes para la prueba homologada de idiomas,"11.625,00","14.701,18"
-2011,421002,42420,4900,000000,Ingresos Programa Operativo FSE (2007-2013). Lenguas extranj,"63.462,00","104.819,75"
-2011,422000,42100,3070,000000,Tasas de expedición de títulos,"160.000,00","259.798,93"
-2011,422004,42130,3100,000000,Prestación de servicios educativos: Aulas Mentor,"10.320,00","10.488,00"
-2011,423000,42000,4800,000000,Convenios de colaboración con la Fundación Caja Navarra,"10,00","-0,00"
-2011,423001,42200,3800,000000,Devolución de becas de educación especial,"10,00","1.721,35"
-2011,425004,42350,3800,000000,Ingresos por devolución de ayudas,"10,00","-0,00"
-2011,425004,42350,4000,000000,Escuelas viajeras,"60.000,00","63.108,70"
-2011,425004,42350,4000,000002,Rutas literarias,"34.000,00","40.072,16"
-2011,425004,42350,4000,000003,Rutas científicas,"34.000,00","39.628,56"
-2011,431000,43100,3130,000000,Ingresos por transporte escolar a centros universitarios de,"100,00","5.100,00"
-2011,431000,43100,3800,000000,Ingresos por devolución de ayudas,"100,00","73.252,93"
-2011,431000,43100,3800,000002,Intercambios con universidades extranjeras: Erasmus y otras,"100,00","69.257,12"
-2011,431000,43100,3911,000000,Intereses por devolución de ayudas,"100,00","9.396,06"
-2011,431000,43100,4000,000000,Programa I3. Transferencia del Ministerio de Ciencia e Innov,"-0,00","100.000,00"
-2011,431000,43100,4000,000002,Adaptación de las universidades al Espacio Europeo de Educac,"164.427,78","164.437,78"
-2011,431000,43100,4411,000000,Convenio FECYT-EURAXESS (Red Europea de Centros de Movilidad,"-0,00","8.000,00"
-2011,431000,43100,9110,000002,Convenio para la financiación de proyectos de Campus de Exce,"850.000,00","850.000,00"
-2011,432000,43100,3990,000000,.,"-0,00","-0,00"
-2011,433000,43300,4000,000002,Ingresos para la mejora de la calidad en la Formación Profes,"27.367,97","36.490,62"
-2011,433000,43300,4000,000003,Ingresos para la formación permanente del profesorado de For,"52.179,40","100.000,00"
-2011,433000,43310,4900,000000,Programa Leonardo da Vinci. FSE,"660.000,00","425.321,41"
-2011,433001,43300,4000,000000,Convenio para la actualización del catálogo de títulos de fo,"15.795,24","48.500,00"
-2011,433001,43300,4000,000002,Procedimiento de acreditación de la competencia profesional,"269.681,06","269.681,06"
-2011,433001,43300,4900,000000,Ingresos del Programa Operativo FSE 2007-2013 de Navarra. Fo,"131.711,00","930.887,90"
-2011,440000,44000,3800,000000,Ingresos por devolución de ayudas,"100,00","1.370,68"
-2011,440001,44100,3100,000000,Cursos intensivos de vascuence: cuotas de cursos,"20.748,00","73.482,13"
-2011,440001,44100,4000,000000,Convenio con el INAP para la promoción del conocimiento del,"9.675,17","14.512,75"
-2011,440001,44100,4500,000000,Programa europeo Culturas y Lenguas en el Camino de Santiago,"21.000,00","21.000,00"
-2011,440001,44100,4700,000000,Convenio de colaboración con Seguros Lagun Aro,"20.000,00","-0,00"
-2011,500000,51000,3010,000000,Tasas por servicios administrativos,"700,00","1.189,00"
-2011,500000,51000,3890,000000,Devolución de pagos,"40.000,00","15.141,18"
-2011,500000,51000,3910,000000,Multas y sanciones,"140.000,00","225.278,84"
-2011,500000,51000,3911,000000,Intereses de demora,"300,00","181,59"
-2011,500000,51000,4000,000000,Subvención del Ministerio del Interior para programas de pre,"10,00","-0,00"
-2011,500000,51000,4000,000002,Subvención del Ministerio de Ciencia e Innovación,"300.000,00","300.000,00"
-2011,510000,51200,3990,000000,Otros ingresos,"1,00","-0,00"
-2011,511001,51110,3129,000000,Ingresos por la prestación de otros servicios sanitarios (au,"5.500,00","16.305,00"
-2011,511001,51110,3129,000002,Ingresos por la prestación de otros servicios sanitarios (au,"9.000,00","21.555,00"
-2011,511001,51110,3129,000003,Ingresos por la prestación de otros servicios sanitarios (in,"2.000,00","10.107,86"
-2011,511002,51120,4000,000000,Subvención para el programa de trasplantes,"29.045,00","39.583,37"
-2011,511002,51120,4000,000003,Mesa redonda sobre Ética y nuevos trasplantes,"9.000,00","9.000,00"
-2011,514000,53000,3199,000000,Otros ingresos,"60.000,00","45.977,46"
-2011,540000,52000,3129,000000,Otros ingresos,"240.000,00","145.993,93"
-2011,540000,52000,3800,000000,Reintegro de retribuciones abonadas indebidamente en ejercic,"648.898,16","663.218,79"
-2011,540000,52000,4000,000000,Convenio con el Ministerio de Sanidad y Política Social para,"40.000,00","40.500,00"
-2011,540000,52000,4200,000000,Convenio INSS. Gestión incapacidad temporal,"490.800,00","1.312.601,00"
-2011,540002,52205,3129,000000,Otros ingresos,"1.000,00","-0,00"
-2011,540002,52205,3890,000000,Otros reintegros,"-0,00","288,49"
-2011,541001,52204,3309,000000,.,"-0,00","-0,00"
-2011,541004,52203,3123,000000,Prestación de servicios,"10,00","8.331,80"
-2011,541005,52203,7800,000000,Herencia de Don Jesús Simarro y Doña Julia Cortés,"9.992,78","9.992,78"
-2011,543000,52240,3123,000000,.,"-0,00","-0,00"
-2011,543000,52290,3123,000000,Prestación de servicios,"4.571.000,00","5.050.476,03"
-2011,543000,52290,3129,000000,Otros ingresos,"128.200,00","149.551,69"
-2011,543000,52290,3890,000000,Otros reintegros,"50.000,00","191,44"
-2011,543000,52290,4000,000000,Subvención para el programa de transplantes,"11.728,00","5.009,40"
-2011,543000,52290,4410,000000,Ingresos al personal investigador del Servicio Navarro de Sa,"31.554,97","31.554,97"
-2011,543000,52290,4411,000000,Convenio con Instituto Carlos III para la intensificación de,"45.567,00","45.567,00"
-2011,543000,52290,7800,000000,Legado de Mercedes Chivite. Oncología,"-0,00","63.900,00"
-2011,543000,52290,7901,000000,Ingresos Fondos FEDER 2007-2013. Proyecto CIB,"10,00","3.883.415,95"
-2011,543004,52291,3123,000000,Prestación de servicios,"130.000,00","17.206,73"
-2011,543004,52291,3129,000000,Otros ingresos,"2.500,00","121,00"
-2011,544000,52250,3123,000000,.,"-0,00","-0,00"
-2011,545000,52400,3123,000000,Prestación de servicios,"1.200.000,00","1.166.674,17"
-2011,545000,52400,3990,000000,Otros ingresos,"46.000,00","33.270,03"
-2011,545001,52420,3123,000000,Prestación de servicios,"83.000,00","126.439,77"
-2011,546000,52500,3123,000000,Prestación de servicios,"600.000,00","670.854,72"
-2011,546000,52500,3129,000000,Otros ingresos,"1.500,00","6.553,76"
-2011,546001,52520,3123,000000,Prestación de servicios,"60.000,00","90.603,66"
-2011,547001,52310,3123,000000,Prestación de servicios,"550.000,00","901.625,49"
-2011,547001,52310,3129,000000,Otros ingresos,"102.000,00","119.864,23"
-2011,547001,52310,3303,000000,Venta de fármacos extranjeros,"4.700,00","6.719,09"
-2011,547001,52310,4000,000000,Transferencia del Ministerio de Sanidad y Política social pa,"40.000,00","26.227,41"
-2011,547001,52310,4000,000002,Transferencia del Ministerio Sanidad y Política social para,"10,00","83.521,00"
-2011,547001,52310,4000,000003,Transferencia del Ministerio de Sanidad y Polìtica Social. I,"-0,00","5.668,54"
-2011,547001,52310,4410,000000,Ingresos al personal investigador del Servicio Navarro de Sa,"787,50","787,50"
-2011,547001,52310,4700,000000,Convenio con Farmaindustria para la intensificación de la ac,"18.750,00","18.750,00"
-2011,547002,52370,4000,000000,Transferencia del Ministerio Sanidad y Política Social para,"295.819,66","295.819,66"
-2011,548000,52280,3090,000000,Tasas por análisis de salud pública,"1.000,00","-0,00"
-2011,548000,52280,3090,000001,Tasas de recogidas de perros,"20.500,00","8.427,87"
-2011,548000,52280,3090,000002,Otras tasas,"37.000,00","106.604,65"
-2011,548000,52280,3890,000000,Otros reintegros,"1.500,00","99,25"
-2011,548000,52280,4411,000000,Convenio con Instituto Carlos III para la intensificación de,"30.000,00","30.000,00"
-2011,548000,52280,4411,000002,Premio al Programa de detección precoz de cáncer de mama,"30.051,50","39.051,50"
-2011,549000,52204,3309,000000,Suministros y productos hemoterápicos,"1.200.000,00","840.621,66"
-2011,600000,60100,3010,000000,Tasas y actuaciones administrativas,"5.000,00","11.238,57"
-2011,600000,60100,3890,000000,.,"-0,00","-0,00"
-2011,600000,60100,3990,000000,Ingresos por expedientes de responsabilidad patrimonial,"378.652,05","427.709,50"
-2011,600000,60100,3990,000002,Otros ingresos,"8.000,00","2.378,66"
-2011,600000,61000,3800,000000,Reintegros por expropiación de terrenos,"1.000,00","7.737,20"
-2011,600000,61000,6000,000000,Ingresos por reversión de terrenos,"30.000,00","80.293,91"
-2011,610000,61310,3800,000000,Reintegro por liquidación Convenio transfronterizo Navarra-P,"-0,00","67.780,00"
-2011,610001,61300,7400,000000,"Aportación de Canal de Navarra, S.A., por expropiación de te","400.000,00","128.821,81"
-2011,610003,61330,3309,000000,"Ventas de planos, litovales y fotografías","5.000,00","3.888,25"
-2011,620000,61100,7901,000000,Financiación INTERREG a proyectos de Obras Públicas,"-0,00","9.058,40"
-2011,620001,61100,5500,000000,Canon anual de la concesión del área de servicio de la Autov,"40.000,00","40.536,39"
-2011,620001,61100,7700,000000,Plan Navarra 2012. Aportación del concesionario de la A-21 p,"2.000.000,00","2.000.000,00"
-2011,621000,61200,3090,000000,Autorizaciones,"25.000,00","24.405,20"
-2011,621000,61200,3910,000000,Multas y sanciones,"4.500,00","31.001,00"
-2011,621000,61210,3890,000000,.,"-0,00","-0,00"
-2011,621000,61210,3990,000000,Ingresos por daños en señalización y otros,"350.000,00","313.840,74"
-2011,630000,62100,4411,000000,Convenio con el IDAE para actuaciones en materia de eficienc,"227.800,00","192.732,15"
-2011,630000,62100,7411,000000,Convenio con el IDAE para actuaciones en materia de eficienc,"183.357,00","-0,00"
-2011,630000,62110,3800,000000,Reintegro remanente aportación al transporte público de la c,"-0,00","89.729,55"
-2011,630001,62300,3010,000000,Tasas por servicios administrativos,"20.000,00","43.200,01"
-2011,630001,62300,3040,000000,Ingresos por tasas de tarjetas de transporte,"200.000,00","129.300,00"
-2011,630001,62300,3070,000000,Tasas de exámenes de transportista,"10.000,00","24.993,00"
-2011,630001,62300,3309,000000,Venta de tarjetas para tacógrafos digitales,"87.295,00","112.579,00"
-2011,630001,62300,3910,000000,Sanciones de transportes,"4.200.000,00","4.807.128,82"
-2011,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,"25.000,00","28.274,08"
-2011,700000,70000,3890,000002,Ingresos por reintegros de subvenciones. PDR,"150.000,00","392.925,76"
-2011,700000,70000,3990,000000,Otros ingresos,"250.000,00","179.585,32"
-2011,700000,70000,4002,000000,Ingresos del FEGA por funciones y servicios traspasados,"400.000,00","466.167,49"
-2011,700000,70000,4903,000000,"Ingresos del Organismo Pagador, retención por irregularidade","20.000,00","1.594,75"
-2011,700000,70000,4903,000002,Ingresos por condicionalidad,"2.000,00","1.692,68"
-2011,700001,71430,4000,000000,Transferencias para estadística del Ministerio de Medio Ambi,"50.000,00","-0,00"
-2011,700001,71430,4901,000000,Ingresos de proyectos europeos,"46.501,00","46.500,00"
-2011,700003,70110,3010,000000,Ingresos por tasas de maquinaria,"40.000,00","77.606,64"
-2011,710000,71210,3010,000000,Ingresos por tasas de certificación y registro,"4.000,00","7.322,00"
-2011,710001,71230,4000,000000,Programa fruta para escolares,"29.578,16","29.578,16"
-2011,710001,71230,4903,000000,Programas medioambientales. PDR FEADER,"1.701.700,00","1.499.907,90"
-2011,710001,71230,4903,000002,Indemnización compensatoria. PDR FEADER,"2.227.500,00","2.314.897,80"
-2011,710002,71220,3990,000000,Ingresos por utilización de silos,"100.000,00","-0,00"
-2011,711000,71320,3910,000000,Sanciones,"80.000,00","48.143,81"
-2011,711000,71320,7002,000000,Ingresos por sanidad animal. FEGA,"100.000,00","901.237,87"
-2011,711001,71310,4903,000000,Ingresos por mejora de la producción y comercialización de l,"20.000,00","-0,00"
-2011,720000,72130,5109,000000,Intereses de préstamos,"25.000,00","30.109,59"
-2011,720000,72130,7903,000000,Ingresos cofinanciación nuevos regadíos. FEADER,"3.124.500,00","2.319.305,75"
-2011,720000,72130,8219,000000,Amortización de préstamos,"100.000,00","157.234,04"
-2011,720001,72100,3010,000000,Certificaciones,"500,00","965,00"
-2011,720001,72120,7903,000000,Cofinanciación por concentración parcelaria. PDR FEADER,"500.000,00","231.616,96"
-2011,720001,72120,7903,000002,Cofinanciación por ayudas en infraestructuras ganaderas. PDR,"295.000,00","541.288,23"
-2011,720002,72140,8210,000000,Reintegros de préstamos para creación y mejora de pastos com,"50.000,00","48.877,56"
-2011,721000,72210,3010,000000,Tasas del registro de industrias agrarias,"40.000,00","50.666,37"
-2011,721000,72210,7903,000000,Cofinanciación por subvenciones a la industria agroalimentar,"3.000.000,00","1.474.442,54"
-2011,721000,72210,7909,000000,Ayudas FEP,"75.000,00","71.118,10"
-2011,721001,72220,3090,000000,Ingresos por tasas de laboratorio,"1.000,00","2.720,11"
-2011,721001,72220,3910,000000,Sanciones,"20.000,00","126.132,22"
-2011,721002,72230,4903,000000,Cofinanciación del cese anticipado de la actividad agraria.,"323.560,00","332.007,32"
-2011,721002,72230,7903,000000,Mejora de la eficacia de las explotaciones agrarias. PDR FEA,"5.340.840,00","4.589.751,07"
-2011,722001,72320,7903,000000,Cofinanciación por eje Leader PDR (2007-2013) FEADER,"2.107.440,00","1.349.085,78"
-2011,722001,72320,7903,000002,Cofinanciación diversificación rural. PDR FEADER,"300.960,00","243.899,54"
-2011,730000,72400,3090,000000,Ingresos por tasas del laboratorio,"32.000,00","49.241,44"
-2011,730000,72400,3302,000000,Ingresos por ventas de productos,"800,00","4.353,36"
-2011,730000,72400,3910,000000,Sanciones,"30.000,00","61.380,75"
-2011,740001,74100,3910,000000,Multas e indemnizaciones,"300.000,00","688.103,78"
-2011,740002,74200,3010,000000,Tasas por registro de industrias forestales,"300,00","264,00"
-2011,740002,74200,3010,000002,Tasas por información ambiental,"50,00","-0,00"
-2011,740002,74200,3020,000000,Licencias y permisos de caza y de pesca,"250.000,00","571.469,08"
-2011,740002,74200,3090,000000,Tasas por ocupación de vías pecuarias,"10.000,00","23.519,11"
-2011,740002,74200,3302,000002,Ingresos por aprovechamientos forestales del patrimonio fore,"45.000,00","12.299,55"
-2011,740002,74200,3304,000000,Ingresos por venta de publicaciones,"2.000,00","-0,00"
-2011,740002,74200,3890,000000,Otros reintegros por ayudas a trabajos forestales,"5.000,00","-0,00"
-2011,740002,74200,3910,000000,Multas e indemnizaciones,"90.000,00","71.660,30"
-2011,740002,74200,4901,000000,Ingresos derivados de la participación en proyectos comunita,"12.000,00","21.211,00"
-2011,740002,74200,4903,000000,Cofinanciación por ayudas agroambientales e ICM. PDR FEADER,"694.100,00","315.798,79"
-2011,740002,74200,4903,000002,Cofinanciación por indemnizaciones y ayudas a entidades loca,"134.900,00","52.557,26"
-2011,740002,74200,7903,000004,Cofinanciación por conservación y mejora del patrimonio rura,"222.500,00","213.352,37"
-2011,740002,74200,7903,000005,Cofinanciación por ayudas forestales. PDR FEADER,"1.639.780,00","1.914.828,16"
-2011,740002,74200,7903,000006,Cofinanciación por inversiones forestales. PDR FEADER,"678.530,00","372.368,55"
-2011,800000,80100,3010,000000,Ingresos por servicios administrativos,"1.000,00","400,00"
-2011,800000,80100,3990,000000,Otros ingresos,"1.000,00","9.100,30"
-2011,800000,80100,7901,000000,Ingresos FEDER Docup Objetivo 2,"-0,00","216.364,36"
-2011,810001,81140,5201,000000,Intereses de aplazamientos por venta de terrenos,"250.000,00","94.982,10"
-2011,810001,81140,6000,000000,Venta de terrenos,"1.875.646,00","1.977.157,65"
-2011,810001,81140,8210,000000,Reintegros de anticipos a municipios,"244.793,00","244.793,19"
-2011,810002,81140,3800,000000,Reintegros de subvenciones para inversiones en energías reno,"10.000,00","-0,00"
-2011,810002,81140,4411,000003,Convenio con IDAE 2009 para energías renovables,"-0,00","514.407,60"
-2011,810002,81140,4411,000004,Convenio con IDAE 2010 para energías renovables,"529.784,00","529.784,40"
-2011,810002,81140,4901,000000,Ingresos del proyecto RENREN. FEDER,"40.345,00","25.954,98"
-2011,810002,81140,7901,000000,Ingresos del Programa Operativo FEDER 2007-2013,"-0,00","217.341,30"
-2011,810003,81140,3800,000000,Reintegro de subvenciones al ahorro y eficiencia energética,"20.000,00","38.806,31"
-2011,810003,81140,4411,000002,Transferencias del IDAE para acciones de ahorro y eficiencia,"-0,00","20.538,86"
-2011,810003,81140,4411,000004,Transferencias del IDAE para acciones de ahorro y eficiencia,"1.148.511,00","-0,00"
-2011,810003,81140,4411,000005,Transferencias del IDAE para acciones de ahorro y eficiencia,"2.977.186,00","-0,00"
-2011,820001,81300,3050,000000,Tasas por autorizaciones y otras,"450.000,00","755.969,46"
-2011,820001,81300,3910,000000,Ingresos por sanciones,"100.000,00","109.013,00"
-2011,830001,81120,3800,000000,Reintegros de subvenciones de acciones directas,"100.000,00","390.527,95"
-2011,830001,81120,3890,000000,Reintegros de bonificación de intereses a las pymes,"100,00","-0,00"
-2011,830002,81150,3990,000000,Comisiones de apertura por avales concedidos,"-0,00","23.388,75"
-2011,830002,81150,5103,000000,Intereses de anticipos a empresas en crisis,"54.320,00","86.710,36"
-2011,830002,81150,8310,000000,Reintegros de anticipos a empresas en crisis,"247.819,00","779.744,56"
-2011,840001,81210,3199,000000,Ingresos de consultas sobre información tecnológica,"300,00","-0,00"
-2011,840001,81210,3800,000000,"Reintegros de subvenciones a la investigación, al desarrollo","30.000,00","47.253,68"
-2011,840001,81210,4901,000002,Ingresos de proyectos Interreg. FEDER,"-0,00","314.281,02"
-2011,840001,81210,4909,000004,Ingresos de otros proyectos europeos,"494.000,00","139.939,84"
-2011,840001,81210,7901,000000,Ingresos Programa Operativo FEDER 2007-2013,"2.170.000,00","438.702,66"
-2011,840001,81210,8310,000000,Reintegros de anticipos I+D,"255.218,00","246.851,36"
-2011,850002,81400,3890,000000,Reintegros de subvenciones,"5.000,00","6.997,25"
-2011,850002,81400,3990,000000,Otros ingresos,"1.000,00","19.475,50"
-2011,870000,83100,3910,000000,Sanciones por infracción de la normativa laboral,"1.400.000,00","1.066.302,95"
-2011,870000,83100,3990,000000,Otros ingresos,"500,00","45.071,54"
-2011,880001,84000,3990,000000,Otros ingresos,"5.000,00","17.765,06"
-2011,880001,84000,4000,000000,Transferencias del SPEE para modernización del SNE,"850.000,00","876.918,00"
-2011,880001,84000,4000,000002,Transferencias del SPEE para flexibilidad,"2.980.000,00","3.261.032,00"
-2011,881001,84100,3890,000000,Reintegros de ayudas para la promoción del empleo,"500.000,00","1.281.346,05"
-2011,881001,84100,4000,000000,Transferencias para jubilaciones anticipadas,"128.000,00","-0,00"
-2011,881001,84100,4000,000002,"Transferencias del SPEE para fomento del empleo, escuelas-ta","14.500.000,00","14.420.487,43"
-2011,881001,84100,4900,000002,Ayudas al Empleo Programa Operativo FSE 2007-2013 de Navarra,"1.500.000,00","1.528.573,28"
-2011,882001,84200,3890,000000,Reintegros de ayudas de programas de formación,"800.000,00","962.511,44"
-2011,882001,84200,4000,000000,Transferencias del SPEE para formación para el empleo dirigi,"7.000.000,00","7.544.941,00"
-2011,882001,84200,4000,000003,Transferencias del SPEE para formación para el empleo dirigi,"5.000.000,00","4.188.824,40"
-2011,882001,84200,4000,000006,Transferencias del SPEE para el Convenio del Centro de Refer,"800.000,00","547.892,80"
-2011,882002,84500,4000,000000,Transferencias del SPEE para la contratación de promotores d,"673.750,00","673.750,00"
-2011,882002,84500,4000,000002,Transferencias del SPEE para medidas de trabajadores de SINT,"5.925,00","5.925,00"
-2011,882002,84500,4000,000004,Transferencias del SPEE para el Plan Extraordinario de Orien,"735.000,00","735.000,00"
-2011,882002,84500,4000,000005,Transferencias del SPEE para el sector textil y de la confec,"100.000,00","-0,00"
-2011,900000,91000,3890,000000,Devolución de subvenciones,"40.000,00","448.167,62"
-2011,900000,91000,3910,000000,Multas y sanciones,"1,00","351.441,73"
-2011,900000,91000,3990,000000,Otros ingresos,"150.000,00","296.216,83"
-2011,900000,91000,3990,000002,Otros ingresos recibidos por siniestros,"1,00","-0,00"
-2011,900001,91200,4800,000000,Premio Príncipe de Viana a la Solidaridad,"35.327,18","35.327,18"
-2011,900001,91500,4800,000000,Premio Príncipe de Viana a la Innovación en Dependencia,"40.000,00","40.000,00"
-2011,900002,91600,4000,000000,Transferencias del Estado PAS,"44.000,00","14.536,42"
-2011,900003,91600,3126,000000,Cuotas de usuarios de centros de incorporación social,"64.000,00","61.655,07"
-2011,920000,91800,3990,000000,Otros ingresos,"200.000,00","231.691,64"
-2011,920000,91800,3990,000002,Otros ingresos recibidos por siniestros,"1,00","-0,00"
-2011,920000,91800,3990,000003,Resarcimiento de gastos de centros propios,"4.809,82","4.809,82"
-2011,920001,91800,3126,000000,Ingresos por estancias en escuelas infantiles,"880.000,00","859.720,79"
-2011,920002,91830,3126,000000,Ingresos de la Residencia Santo Domingo de Estella,"790.000,00","603.861,10"
-2011,920002,91830,3126,000002,Ingresos de la Residencia El Vergel de Pamplona,"1.180.000,00","1.122.383,80"
-2011,920002,91830,3126,000003,Ingresos de la Residencia San Francisco Javier de Pamplona,"1.210.000,00","1.028.562,69"
-2011,920002,91830,3126,000004,Ingresos Ley 17/2000 aportación de usuarios de centros de la,"4.500.000,00","7.730.567,27"
-2011,920003,91800,3126,000000,Ingresos del Centro San José,"510.000,00","523.805,25"
-2011,920003,91800,3126,000002,Ingresos de la Residencia Lur Gorri,"49.000,00","46.560,47"
-2011,920004,91820,3126,000000,Cuotas de usuarios de centros de tercera edad,"18.447.000,00","17.955.262,25"
-2011,920004,91820,3126,000002,Cuotas de usuarios de centros de discapacidad,"3.332.000,00","3.236.174,96"
-2011,920004,91820,3126,000003,Cuotas de usuarios de centros de enfermedad mental,"752.000,00","636.502,56"
-2011,920006,91830,3126,000000,Ingresos del Servicio Telefónico de Emergencia,"306.000,00","325.881,55"
-2011,920006,91830,4000,000000,Sistema para la autonomía y atención a la dependencia,"18.000.000,00","13.081.122,99"
-2011,930000,94000,3990,000000,Otros ingresos,"25.000,00","4.482,29"
-2011,940000,95300,3010,000000,Tasas por servicios administrativos,"600,00","857,37"
-2011,940000,95300,3199,000000,Otros ingresos,"1.000,00","2.081.651,56"
-2011,940000,95300,4000,000000,Transferencias de organismos del Estado,"650.000,00","503.613,04"
-2011,940000,95300,5400,000000,Ingresos por arrendamientos,"3.800,00","3.832,01"
-2011,940002,95100,3113,000000,Ingresos de instalaciones deportivas,"115.600,00","112.981,73"
-2011,940002,95100,3129,000000,"Centro de Estudios, Investigación y Medicina Deportiva (CEIM","1.000,00","-0,00"
-2011,940002,95100,4000,000000,Transferencias del Consejo Superior de Deportes,"40.000,00","96.494,99"
-2011,940002,95100,4000,000002,Transferencias de la Administración del Estado para programa,"1,00","-15.426,42"
-2011,950001,92200,3890,000000,Otros reintegros,"28.854,00","44.306,28"
-2011,950002,92300,3990,000000,Otros ingresos,"24.748,55","93.821,09"
-2011,951001,92410,3910,000000,Ingresos por sanciones,"97.744,00","266.199,40"
-2011,951002,92420,4000,000000,Transferencias del Instituto Nacional de Consumo,"1,00","17.656,41"
-2011,960000,96100,3118,000000,Ingresos de instalaciones juveniles,"245.000,00","246.995,15"
-2011,960000,96100,3118,000002,Programas de juventud de actividades de verano,"75.000,00","49.586,98"
-2011,960000,96100,3309,000000,Ingresos de Carnet Joven más 26 y otros,"30.000,00","26.135,97"
-2011,A00000,A0100,3990,000000,Otros ingresos,"100,00","768,31"
-2011,A10000,A1000,3110,000000,"Gestión turísitca del Palacio de Olite, Andelos, Arellano y","-0,00","38.983,00"
-2011,A10001,A1100,3890,000000,Reintegros,"40.000,00","77.775,58"
-2011,A10001,A1100,3910,000000,Ingresos por sanciones,"3.000,00","4.801,00"
-2011,A10001,A1100,3990,000000,.,"-0,00","-0,00"
-2011,A10001,A1100,3990,000002,Ingresos por consumo de agua en Javier,"22.500,00","11.632,58"
-2011,A10001,A1100,5100,000000,Intereses de anticipos a entes locales,"10.008,00","8.723,32"
-2011,A10001,A1100,5500,000000,Concesiones a establecimientos turísticos,"37.460,00","163.676,90"
-2011,A10001,A1100,7901,000000,Ingresos FEDER para financiar inversiones,"35.000,00","-0,00"
-2011,A10001,A1100,8210,000000,Reintegros de anticipos a entes locales,"243.167,00","217.464,86"
-2011,A10001,A1100,8319,000000,Reintegros de otros anticipos a largo plazo,"150.000,00","150.000,00"
-2011,A10002,A1200,3304,000000,Venta de publicaciones y objetos promocionales en las oficin,"2.500,00","3.812,27"
-2011,A20000,A2000,3890,000000,Reintegros,"70.000,00","27.549,25"
-2011,A20000,A2000,8210,000000,Reintegros de anticipos a entes locales,"750.000,00","-0,00"
-2011,A20001,A2100,3199,000000,Copias y otros ingresos en el Servicio de Patrimonio Históri,"500,00","90,00"
-2011,A20001,A2110,7600,000000,Aportación del Ayuntamiento de Marcilla para la restauración,"179.900,00","268.308,14"
-2011,A20002,A2510,3111,000000,"Entradas de espectáculos, cursos y otros","30.000,00","4.095,00"
-2011,A20003,A2310,3110,000002,Entradas y venta de objetos en el Museo del Carlismo,"4.500,00","4.627,00"
-2011,A20003,A2320,3110,000000,Visitas y otros ingresos del Museo de Navarra,"6.500,00","16.480,59"
-2011,A21001,A2400,3199,000000,Fotocopias en bibliotecas,"2.500,00","4.000,00"
-2011,A21001,A2400,7000,000000,Convenio con el Ministerio de Cultura para la preservación d,"-0,00","-0,00"
-2011,A21001,A2400,7000,000002,Subvención del Ministerio de Cultura para la creación y tran,"22.040,00","22.040,00"
-2011,A21002,A2200,3199,000000,Fotocopias y otros ingresos en el Archivo Real y General de,"12.000,00","8.318,39"
-2011,A21002,A2200,4413,000000,Aportación de la Mancomunidad de Aguas de Pamplona para expo,"50.000,00","50.000,00"
-2011,B00000,B0000,4909,000000,Ingresos procedentes del Comité de las Regiones,"2.000,00","-0,00"
-2011,B20001,B2200,4700,000000,Convenio de colaboración con Caja Navarra para la celebració,"-0,00","25.000,00"
-2011,B20002,B2400,3304,000000,Ventas en librería,"120.000,00","106.787,28"
-2011,B20002,B2400,3304,000002,Reembolsos,"100,00","2.154,00"
-2011,B20003,B2220,3800,000000,Reintegro de subvenciones,"-0,00","5.018,85"
-2011,B40000,B0200,3800,000000,Reintegro de subvenciones,"10,00","5.877,77"
-2011,B40000,B0200,3911,000000,Intereses de demora por devolución de subvenciones,"10,00","138,28"
-2011,B40000,B0200,4000,000000,Ingresos procedentes del Ministerio de Trabajo e Inmigración,"576.075,00","555.025,96"
+2011,010001,01000,4000,000000,Ingresos por transferencias de la Delegación del Gobierno para procesos electorales,,,27284.56
+2011,010003,01500,3304,000002,Publicación de anuncios,190000.0,190000.0,283949.64
+2011,010004,01100,3990,000000,Otros ingresos,30000.0,30000.0,70861.86
+2011,010005,01200,3010,000000,"Tasas por actuaciones del Registro de Asociaciones, del Registro de Fundaciones y del Registro de Colegios Profesionales",7000.0,7000.0,7273.21
+2011,020002,04300,3128,000000,Asistencia sanitaria. Uso especial,832141.0,832141.0,973163.21
+2011,020002,04100,3800,000000,Reintegro de retribuciones abonadas indebidamente en ejercicios anteriores,3000.0,72812.47,145924.83
+2011,020002,04100,3900,000000,Cuotas de derechos pasivos,3700000.0,3700000.0,3418341.17
+2011,020002,04100,3990,000000,Otros ingresos,,,735006.6
+2011,020002,04310,8200,000000,Gestión del Montepío de funcionarios municipales,18687993.0,18687993.0,18479536.47
+2011,020002,04100,8311,000000,Reintegro de anticipos de sueldo,728125.0,728125.0,728125.0
+2011,040000,03000,3990,000000,Otros ingresos,100.0,100.0,199.73
+2011,040000,03000,4000,000000,Cursos de formación continua (INAP estatal),100.0,950240.0,950240.0
+2011,040000,03400,4000,000000,Transferencias de la Administración del Estado para el vascuence (INAP estatal),100.0,9999.81,9999.81
+2011,040000,03000,4410,000000,Transferencias de otros entes públicos de la Administración de la Comunidad Foral para estudios y cursos,100.0,100.0,
+2011,040005,03500,3070,000000,Tasas académicas y derechos de examen,10000.0,196237.0,197487.1
+2011,050000,02400,3010,000000,"Tasas por informes, certificados y demás actuaciones administrativas",184000.0,184000.0,165561.61
+2011,050000,02000,3890,000000,Devolución de pagos,3000.0,3000.0,6602.53
+2011,050000,02400,3910,000002,Multas de espectáculos,50000.0,50000.0,59752.54
+2011,050000,02400,3910,000000,Multas de juego,1000.0,1000.0,2250.0
+2011,050000,02400,3910,000003,Multas de seguridad ciudadana,300000.0,300000.0,584888.02
+2011,050000,02000,3990,000000,Otros ingresos,2000.0,2000.0,58931.58
+2011,050000,02400,3990,000002,Otros ingresos,100.0,100.0,
+2011,050000,02000,7000,000000,Sistema de seguimiento integral de los casos de violencia de género,,300000.0,300000.0
+2011,050005,02920,3040,000000,Tasas por autorización de transportes especiales,695000.0,695000.0,600152.0
+2011,050005,02920,3090,000000,Tasas por otras autorizaciones,150.0,150.0,1029.0
+2011,051000,02100,3090,000002,Tasas por estancias de vehículos particulares en dependencias policiales,1300.0,1300.0,
+2011,051000,02100,3090,000000,"Tasas por informes, acompañamientos y otros",145000.0,145000.0,100393.87
+2011,054000,02720,3090,000000,Tasas por servicios de extinción de incendios,300.0,300.0,768.2
+2011,054000,02720,3990,000000,Contribuciones especiales,1700000.0,1700000.0,1700000.0
+2011,054001,02710,3199,000000,Ingresos por traslado de cadáveres por disposición judicial,100.0,100.0,
+2011,054002,02730,3010,000000,Tasas por servicios administrativos,500.0,500.0,640.0
+2011,054002,02730,3070,000000,Tasas académicas y derechos de examen,1000.0,1000.0,
+2011,054002,02730,3890,000000,Devolución de pagos,100.0,100.0,
+2011,054002,02730,3990,000000,Otros ingresos,100.0,100.0,
+2011,060000,06000,3191,000000,Estancias en el Centro Penitenciario a cargo de la D.G.Instituciones Penitenciarias y del Ayuntamiento de Pamplona,132000.0,132000.0,114522.35
+2011,060000,06000,3990,000000,Otros ingresos,1500.0,1500.0,3380.12
+2011,060000,06000,4800,000000,Ingresos convenio de reeducación de maltratadores,,,7942.37
+2011,060001,06000,3990,000000,Ingresos derivados de actuaciones judiciales,1000.0,1000.0,849.07
+2011,060001,06000,6800,000000,Reintegro por revisión de precios de la obra de PN2012-49. Edificios Judiciales. Estella,,105886.59,105886.59
+2011,070000,05000,4000,000000,Ingresos del Estado para organización de jornadas técnicas,,30000.0,30000.0
+2011,070000,05000,4600,000000,Ingresos de Entidades locales para organización de jornadas técnicas,,30000.0,15416.68
+2011,070002,05200,4901,000002,Ingresos del proyecto europeo BRISEIDE,19327.0,19327.0,23193.0
+2011,070005,05520,3990,000000,Ingresos telefónicos en centros educativos,1000.0,1000.0,
+2011,100000,10100,3010,000000,Tasas por servicios administrativos,1500.0,1500.0,2427.5
+2011,112000,11400,8700,000000,Remanente de tesorería afecto,,2010039.99,
+2011,112000,11400,8700,000002,Remanente de tesorería afecto al Fondo de participación de las entidades locales,,4001481.85,
+2011,112002,11420,3800,000000,Reintegros,500000.0,500000.0,3453090.93
+2011,112002,11420,3990,000002,Otros ingresos,1000.0,1000.0,216908.71
+2011,112002,11420,5100,000002,Intereses de anticipos y aplazamientos concedidos a entidades,1000.0,1000.0,
+2011,112002,11420,5100,000000,Intereses de las cuentas de repartimientos,500.0,500.0,
+2011,112002,11420,5200,000000,Intereses de cuentas corrientes,5000000.0,5000000.0,2878557.06
+2011,112002,11420,8309,000000,Reintegro de obligaciones afianzadas,100000.0,213436.8,2299709.85
+2011,112003,11430,3010,000000,Tasas de la actividad mediadora en seguros privados,500.0,500.0,
+2011,112003,11430,5990,000000,Ingresos patrimoniales por operaciones de endeudamiento,,,2951866.36
+2011,112003,11430,9000,000000,Emisiones de Deuda de Navarra,,92674990.0,388870300.0
+2011,112003,11430,9110,000002,Financiación de la construcción del corredor navarro del Tren de Alta Velocidad,45000000.0,45000000.0,
+2011,112003,11430,9110,000000,Préstamos en moneda nacional,243600000.0,243600000.0,93500000.0
+2011,123003,13100,3800,000000,Ingresos por reintegros de subvenciones,1.0,1.0,
+2011,123003,13110,4900,000002,Ingresos FSE. Asistencia técnica Objetivo 3,1.0,1.0,
+2011,123003,13110,4900,000003,Ingresos FSE. Asistencia técnica Programa Operativo. Objetivo competitividad,33000.0,33000.0,36959.59
+2011,123003,13120,4901,000000,Ingresos FEDER proyectos Interreg III,9000.0,9000.0,
+2011,123003,13120,4901,000003,Ingresos FEDER proyectos Interreg IV - Objetivo Cooperación Territorial,32000.0,32000.0,
+2011,123003,13110,4901,000002,Ingresos FEDER. Asistencia técnica Objetivo 2,1.0,1.0,
+2011,123003,13110,4901,000003,Ingresos FEDER. Asistencia técnica Programa Operativo. Objetivo competitividad,41000.0,41000.0,68779.61
+2011,124001,13200,3800,000000,Ingresos por reintegro de Becas Navarra,1.0,1.0,
+2011,124001,13200,4900,000000,Ingresos Programa Operativo FSE 2007-2013,100000.0,100000.0,20049.8
+2011,124001,13200,4901,000000,Ingresos FEDER Proyecto Brain-Flow - Interreg IVC,1.0,1.0,
+2011,131000,15100,3910,000000,Penalizaciones por incumplimientos de contratos,1.0,1.0,
+2011,131000,15100,3990,000002,Indemnizaciones de contratos de seguros,1.0,84323.19,142874.62
+2011,131000,15100,3990,000000,Otros ingresos,1.0,3335.36,3335.36
+2011,131000,15100,4800,000002,Donaciones y herencias y legados testamentarios,1.0,1.0,
+2011,131000,15100,4800,000000,Herencias legales,1.0,1.0,
+2011,131001,15100,6120,000000,Venta de bienes muebles,6000.0,7475.48,61593.63
+2011,131002,15100,3990,000000,Comisiones de avales,1.0,1.0,
+2011,131002,15100,5000,000000,Intereses de títulos valores,1.0,1.0,
+2011,131002,15100,5200,000000,Intereses de la cuenta del Fondo de Carbono,35000.0,35000.0,39819.51
+2011,131002,15100,5300,000000,"Dividendos, participaciones y beneficios",8501232.0,8501232.0,531.75
+2011,131002,15100,5400,000002,Arrendamiento Petilla de Aragón,4600.0,4600.0,4597.5
+2011,131002,15100,5400,000000,Rentas de inmuebles,535000.0,535000.0,282894.69
+2011,131002,15100,5500,000000,Concesión demanial garajes González Tablas,1.0,110492.05,127879.37
+2011,131002,15100,6000,000002,Reversión de terrenos,1.0,1.0,
+2011,131002,15100,6000,000000,Venta de terrenos,1.0,29074.78,141485.78
+2011,131002,15100,6100,000000,Venta de inmuebles,1.0,26753.35,28012.0
+2011,131002,15100,7400,000000,Ingresos de sociedades,1.0,1.0,
+2011,150000,17000,3800,000000,Reintegros de ejercicios cerrados,10.0,10.0,
+2011,152000,17110,1900,000000,Impuestos extinguidos,6.0,6.0,637228.36
+2011,152000,17110,3910,000000,Sanciones,12500000.0,12797000.0,18283640.47
+2011,152001,17217,1005,000002,"Fondo 0,7 por cien de otros fines de interés social",5316000.0,5316000.0,
+2011,152001,17217,1005,000000,Ingresos por el IRPF,1097326000.0,1097326000.0,1099198549.43
+2011,152001,17112,1015,000000,Ingresos por el Impuesto de Sociedades,244388000.0,244388000.0,167526487.33
+2011,152001,17112,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,9901000.0,9901000.0,8459446.67
+2011,152001,17122,2100,000002,Ajuste por el IVA,141108424.0,141108424.0,171154619.77
+2011,152001,17122,2100,000000,Ingresos por el IVA,1143891000.0,1143891000.0,937005131.25
+2011,152002,17115,1120,000000,Ingresos por el Impuesto sobre Sucesiones y Donaciones,52357000.0,52357000.0,33447654.77
+2011,152002,17123,2200,000000,Ingresos por los impuestos especiales sobre el alcohol y bebidas derivadas,13020134.0,13020134.0,17084828.06
+2011,152002,17123,2201,000000,Ingresos por el Impuesto Especial sobre determinados medios de transporte,11474000.0,11474000.0,6741242.03
+2011,152002,17123,2202,000000,Ingresos por el Impuesto Especial sobre la cerveza,4167012.0,4167012.0,4396480.38
+2011,152002,17123,2203,000000,Ingresos por el Impuesto Especial sobre las labores del tabaco,176159997.0,176159997.0,172287452.49
+2011,152002,17123,2204,000000,Ingresos por el Impuesto Especial sobre hidrocarburos,212504315.0,212504315.0,212220964.05
+2011,152002,17123,2206,000000,Ingresos por el Impuesto Especial sobre productos intermedios,171000.0,171000.0,193242.07
+2011,152002,17123,2207,000000,Ingresos por el Impuesto Especial sobre producción de energía,26230000.0,26230000.0,23435930.91
+2011,152002,17123,2208,000000,Ingresos por el Impuesto sobre las ventas minoristas de hidrocarburos,22825000.0,22825000.0,23878886.88
+2011,152002,17123,2810,000000,Impuesto sobre las primas de seguros,20160000.0,20160000.0,20308208.1
+2011,152002,17115,2820,000000,Ingresos por el Impuesto sobre Transmisiones Patrimoniales,51951000.0,51951000.0,37192917.64
+2011,152002,17115,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,25751000.0,25751000.0,18928046.75
+2011,152002,17123,3000,000000,Tasas de juego,12500000.0,12500000.0,11242927.57
+2011,152002,17123,3050,000000,Canon de superficie de minas,7500.0,7500.0,4335.02
+2011,152002,17123,3080,000000,Canon de Telefónica,125000.0,125000.0,76720.97
+2011,152002,17123,3309,000000,Ingresos por la venta de cartones de juego,99000.0,99000.0,68256.68
+2011,154000,17220,3090,000000,Tasas sobre la información suministrada,26500.0,26500.0,21141.15
+2011,155002,17143,3890,000000,Ingresos por la compensación de costas en procedimientos de apremio,60000.0,60000.0,163326.86
+2011,155002,17143,3912,000000,Recargos de apremio,18000000.0,18000000.0,18784485.63
+2011,155002,17143,5201,000000,Intereses por la deuda fraccionada en vía de apremio,200000.0,200000.0,455576.06
+2011,155004,17142,3911,000000,Intereses de demora de deudas no aplazadas,10500000.0,10500000.0,8300440.96
+2011,155004,17142,5201,000000,Intereses de demora de deudas aplazadas,4000000.0,4000000.0,6873948.14
+2011,156000,17230,3309,000000,Ingresos por venta de impresos,1000.0,1000.0,760.8
+2011,160000,16100,3800,000000,Saldo de la liquidación definitiva de la Aportación al Estado,43360510.0,43360510.0,24323660.0
+2011,160000,16100,4000,000000,Participación de las diputaciones en los ingresos del Estado,65000.0,65000.0,67834.58
+2011,160000,16100,4200,000000,Participación de las diputaciones en los ingresos del Estado,100.0,100.0,
+2011,211000,20100,3010,000000,Tasas por servicios administrativos,1.0,1.0,
+2011,211000,21000,3800,000000,Reintegro de ejercicios cerrados,,,2502.19
+2011,211000,21000,3810,000000,Reintegro del presupuesto corriente,,,2166.88
+2011,211000,21000,3990,000000,Otros ingresos,,,376.14
+2011,211001,21500,4600,000000,Ingresos de entidades locales de Navarra,380000.0,453172.0,453172.0
+2011,211004,21200,4000,000000,Participación de los municipios en los ingresos del Estado,685000.0,725569.99,725569.99
+2011,211004,21200,4401,000000,Ingresos por participación en tasas de Telefónica,2192000.0,2192000.0,1963004.74
+2011,211004,21200,8210,000000,Reintegro fondo anticipado. Equilibrio presupuestario,49102.0,49102.0,53873.64
+2011,212002,21200,3800,000000,Reintegro Fondo. Corporativos,1.0,1.0,
+2011,300000,30100,3910,000000,Multas e indemnizaciones,50000.0,50000.0,52200.0
+2011,300000,30100,3990,000000,Otros ingresos,3000.0,3000.0,414056.55
+2011,310000,32100,4901,000000,"Iniciativas, programas y proyectos europeos FEDER",,,16825.73
+2011,320000,32200,3890,000000,Devolución de subvenciones de viviendas de protección oficial y rehabilitación,2500000.0,2500000.0,2692794.07
+2011,320000,32200,3910,000000,Multas e indemnizaciones,50000.0,50000.0,92412.9
+2011,320000,32200,3990,000000,Otros ingresos,1000.0,1000.0,
+2011,320000,32200,5109,000000,Ingresos financieros de intereses de préstamos de suelo y vivienda,175000.0,175000.0,99779.61
+2011,320000,32200,5400,000000,Alquileres de locales y viviendas,40000.0,40000.0,6922.67
+2011,320000,32200,6000,000000,Ingresos por venta de suelo del Banco Foral de Suelo Público,1500000.0,1500000.0,
+2011,320000,32200,6100,000000,Ingresos por venta de bienes inmuebles adquiridos por derechos de tanteo y retracto,1000000.0,1000000.0,268750.96
+2011,320000,32200,8219,000000,Devolución de préstamos concedidos a promotores públicos y asimilados,140000.0,140000.0,110634.09
+2011,320000,32200,8311,000000,"Amortización de préstamos para viviendas, locales y suelo. Particulares",500000.0,500000.0,390832.07
+2011,400000,41000,3070,000000,Tasas por participación en oposiciones,75000.0,75000.0,61920.0
+2011,400000,41000,3100,000000,"Ingresos por prestación de servicios educativos, cuotas escolares, transporte, comedor y otros",750000.0,750000.0,961482.11
+2011,400000,41000,3800,000000,Reintegros de ejercicios cerrados,100.0,100.0,127472.49
+2011,400000,41000,3810,000000,Reintegros de ejercicios corrientes,100.0,100.0,
+2011,400000,41000,3990,000000,Ingresos varios,100.0,100.0,189827.16
+2011,400000,41700,4000,000000,Gratificación por jubilación LOE,10.0,895945.75,895945.75
+2011,400000,41000,5200,000000,Intereses bancarios,100.0,100.0,
+2011,410000,41820,3990,000000,Ingresos por siniestros,10.0,10.0,
+2011,410000,41100,4000,000000,Premios recibidos de otras administraciones públicas,,6000.0,6000.0
+2011,410001,41810,5400,000000,"Ingresos por arrendamiento de ""Casa Maxurrenea""",23259.0,23259.0,23100.69
+2011,410001,41810,7600,000000,Aportaciones para obras en centros escolares,10.0,10.0,
+2011,410002,41150,3800,000000,Devolución de becas,100.0,9173.43,61878.51
+2011,410002,41150,3800,000002,Devoluciones del programa de gratuidad,,,52668.44
+2011,410002,41150,7000,000000,Convenio para la financiación de libros de texto,,1059256.0,1059256.0
+2011,421000,42400,3070,000000,Tasas de expedición del título de aptitud en vascuence,2600.0,2600.0,9023.44
+2011,421000,42400,3100,000002,Derechos de exámenes para el título de aptitud en vascuence,19800.0,19800.0,30162.0
+2011,421002,42420,3100,000000,Derechos de exámenes para la prueba homologada de idiomas,11625.0,11625.0,14701.18
+2011,421002,42420,4900,000000,Ingresos Programa Operativo FSE (2007-2013). Lenguas extranjeras,63462.0,63462.0,104819.75
+2011,422000,42100,3070,000000,Tasas de expedición de títulos,160000.0,160000.0,259798.93
+2011,422004,42130,3100,000000,Prestación de servicios educativos: Aulas Mentor,10.0,10320.0,10488.0
+2011,423000,42000,4800,000000,Convenios de colaboración con la Fundación Caja Navarra,10.0,10.0,
+2011,423001,42200,3800,000000,Devolución de becas de educación especial,10.0,10.0,1721.35
+2011,425004,42350,3800,000000,Ingresos por devolución de ayudas,10.0,10.0,
+2011,425004,42350,4000,000000,Escuelas viajeras,60000.0,60000.0,63108.7
+2011,425004,42350,4000,000003,Rutas científicas,34000.0,34000.0,39628.56
+2011,425004,42350,4000,000002,Rutas literarias,34000.0,34000.0,40072.16
+2011,431000,43100,3130,000000,Ingresos por transporte escolar a centros universitarios de Navarra,100.0,100.0,5100.0
+2011,431000,43100,3800,000000,Ingresos por devolución de ayudas,100.0,100.0,73252.93
+2011,431000,43100,3800,000002,Intercambios con universidades extranjeras: Erasmus y otras,100.0,100.0,69257.12
+2011,431000,43100,3911,000000,Intereses por devolución de ayudas,100.0,100.0,9396.06
+2011,431000,43100,4000,000002,Adaptación de las universidades al Espacio Europeo de Educación Superior,,164427.78,164437.78
+2011,431000,43100,4000,000000,Programa I3. Transferencia del Ministerio de Ciencia e Innovación,,,100000.0
+2011,431000,43100,4411,000000,Convenio FECYT-EURAXESS (Red Europea de Centros de Movilidad),,,8000.0
+2011,431000,43100,9110,000002,Convenio para la financiación de proyectos de Campus de Excelencia Internacional 2011 UPNA,,850000.0,850000.0
+2011,433000,43300,4000,000003,Ingresos para la formación permanente del profesorado de Formación Profesional,,52179.4,100000.0
+2011,433000,43300,4000,000002,Ingresos para la mejora de la calidad en la Formación Profesional,,27367.97,36490.62
+2011,433000,43310,4900,000000,Programa Leonardo da Vinci. FSE,660000.0,660000.0,425321.41
+2011,433001,43300,4000,000000,Convenio para la actualización del catálogo de títulos de formación profesional,,15795.24,48500.0
+2011,433001,43300,4000,000002,Procedimiento de acreditación de la competencia profesional de iniciativa estatal,,269681.06,269681.06
+2011,433001,43300,4900,000000,Ingresos del Programa Operativo FSE 2007-2013 de Navarra. Formación Profesional,131711.0,131711.0,930887.9
+2011,440000,44000,3800,000000,Ingresos por devolución de ayudas,100.0,100.0,1370.68
+2011,440001,44100,3100,000000,Cursos intensivos de vascuence: cuotas de cursos,20748.0,20748.0,73482.13
+2011,440001,44100,4000,000000,Convenio con el INAP para la promoción del conocimiento del vascuence,,9675.17,14512.75
+2011,440001,44100,4500,000000,Programa europeo Culturas y Lenguas en el Camino de Santiago,,21000.0,21000.0
+2011,440001,44100,4700,000000,Convenio de colaboración con Seguros Lagun Aro,,20000.0,
+2011,500000,51000,3010,000000,Tasas por servicios administrativos,700.0,700.0,1189.0
+2011,500000,51000,3890,000000,Devolución de pagos,40000.0,40000.0,15141.18
+2011,500000,51000,3910,000000,Multas y sanciones,140000.0,140000.0,225278.84
+2011,500000,51000,3911,000000,Intereses de demora,300.0,300.0,181.59
+2011,500000,51000,4000,000002,Subvención del Ministerio de Ciencia e Innovación,,300000.0,300000.0
+2011,500000,51000,4000,000000,Subvención del Ministerio del Interior para programas de prevención de las drogodependencias,10.0,10.0,
+2011,510000,51200,3990,000000,Otros ingresos,1.0,1.0,
+2011,511001,51110,3129,000002,Ingresos por la prestación de otros servicios sanitarios (autorizaciones de centros),9000.0,9000.0,21555.0
+2011,511001,51110,3129,000000,Ingresos por la prestación de otros servicios sanitarios (autorizaciones de farmacias),5500.0,5500.0,16305.0
+2011,511001,51110,3129,000003,Ingresos por la prestación de otros servicios sanitarios (inspección y varios),2000.0,2000.0,10107.86
+2011,511002,51120,4000,000003,Mesa redonda sobre Ética y nuevos trasplantes,,9000.0,9000.0
+2011,511002,51120,4000,000000,Subvención para el programa de trasplantes,29045.0,29045.0,39583.37
+2011,514000,53000,3199,000000,Otros ingresos,60000.0,60000.0,45977.46
+2011,540000,52000,3129,000000,Otros ingresos,240000.0,240000.0,145993.93
+2011,540000,52000,3800,000000,Reintegro de retribuciones abonadas indebidamente en ejercicios anteriores,,648898.16,663218.79
+2011,540000,52000,4000,000000,Convenio con el Ministerio de Sanidad y Política Social para el impulso de prácticas seguras en los centros sanitarios,40000.0,40000.0,40500.0
+2011,540000,52000,4200,000000,Convenio INSS. Gestión incapacidad temporal,,490800.0,1312601.0
+2011,540002,52205,3129,000000,Otros ingresos,1000.0,1000.0,
+2011,540002,52205,3890,000000,Otros reintegros,,,288.49
+2011,541004,52203,3123,000000,Prestación de servicios,10.0,10.0,8331.8
+2011,541005,52203,7800,000000,Herencia de Don Jesús Simarro y Doña Julia Cortés,,9992.78,9992.78
+2011,543000,52290,3123,000000,Prestación de servicios,4571000.0,4571000.0,5050476.03
+2011,543000,52290,3129,000000,Otros ingresos,128200.0,128200.0,149551.69
+2011,543000,52290,3890,000000,Otros reintegros,50000.0,50000.0,191.44
+2011,543000,52290,4000,000000,Subvención para el programa de transplantes,11728.0,11728.0,5009.4
+2011,543000,52290,4410,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,,31554.97,31554.97
+2011,543000,52290,4411,000000,Convenio con Instituto Carlos III para la intensificación de la actividad investigadora,10.0,45567.0,45567.0
+2011,543000,52290,7800,000000,Legado de Mercedes Chivite. Oncología,,,63900.0
+2011,543000,52290,7901,000000,Ingresos Fondos FEDER 2007-2013. Proyecto CIB,10.0,10.0,3883415.95
+2011,543004,52291,3123,000000,Prestación de servicios,130000.0,130000.0,17206.73
+2011,543004,52291,3129,000000,Otros ingresos,2500.0,2500.0,121.0
+2011,545000,52400,3123,000000,Prestación de servicios,1200000.0,1200000.0,1166674.17
+2011,545000,52400,3990,000000,Otros ingresos,46000.0,46000.0,33270.03
+2011,545001,52420,3123,000000,Prestación de servicios,83000.0,83000.0,126439.77
+2011,546000,52500,3123,000000,Prestación de servicios,600000.0,600000.0,670854.72
+2011,546000,52500,3129,000000,Otros ingresos,1500.0,1500.0,6553.76
+2011,546001,52520,3123,000000,Prestación de servicios,60000.0,60000.0,90603.66
+2011,547001,52310,3123,000000,Prestación de servicios,550000.0,550000.0,901625.49
+2011,547001,52310,3129,000000,Otros ingresos,102000.0,102000.0,119864.23
+2011,547001,52310,3303,000000,Venta de fármacos extranjeros,4700.0,4700.0,6719.09
+2011,547001,52310,4000,000000,Transferencia del Ministerio de Sanidad y Política social para implantación de la estrategia de cuidados paliativos,40000.0,40000.0,26227.41
+2011,547001,52310,4000,000003,Transferencia del Ministerio de Sanidad y Polìtica Social. Implantación de la estrategia de violencia de género,,,5668.54
+2011,547001,52310,4000,000002,Transferencia del Ministerio Sanidad y Política social para promoción de actividades para la salud bucodental infantil,10.0,10.0,83521.0
+2011,547001,52310,4410,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,,787.5,787.5
+2011,547001,52310,4700,000000,Convenio con Farmaindustria para la intensificación de la actividad investigadora,,18750.0,18750.0
+2011,547002,52370,4000,000000,Transferencia del Ministerio Sanidad y Política Social para promoción de actividades programa uso racional medicamento,10.0,295819.66,295819.66
+2011,548000,52280,3090,000002,Otras tasas,37000.0,37000.0,106604.65
+2011,548000,52280,3090,000001,Tasas de recogidas de perros,20500.0,20500.0,8427.87
+2011,548000,52280,3090,000000,Tasas por análisis de salud pública,1000.0,1000.0,
+2011,548000,52280,3890,000000,Otros reintegros,1500.0,1500.0,99.25
+2011,548000,52280,4411,000000,Convenio con Instituto Carlos III para la intensificación de la actividad investigadora,,30000.0,30000.0
+2011,548000,52280,4411,000002,Premio al Programa de detección precoz de cáncer de mama,,30051.5,39051.5
+2011,549000,52204,3309,000000,Suministros y productos hemoterápicos,1200000.0,1200000.0,840621.66
+2011,600000,60100,3010,000000,Tasas y actuaciones administrativas,5000.0,5000.0,11238.57
+2011,600000,61000,3800,000000,Reintegros por expropiación de terrenos,1000.0,1000.0,7737.2
+2011,600000,60100,3990,000000,Ingresos por expedientes de responsabilidad patrimonial,1000.0,378652.05,427709.5
+2011,600000,60100,3990,000002,Otros ingresos,8000.0,8000.0,2378.66
+2011,600000,61000,6000,000000,Ingresos por reversión de terrenos,30000.0,30000.0,80293.91
+2011,610000,61310,3800,000000,Reintegro por liquidación Convenio transfronterizo Navarra-Pirineos Atlánticos,,,67780.0
+2011,610001,61300,7400,000000,"Aportación de Canal de Navarra, S.A., por expropiación de terrenos y servicios",400000.0,400000.0,128821.81
+2011,610003,61330,3309,000000,"Ventas de planos, litovales y fotografías",5000.0,5000.0,3888.25
+2011,620000,61100,7901,000000,Financiación INTERREG a proyectos de Obras Públicas,,,9058.4
+2011,620001,61100,5500,000000,Canon anual de la concesión del área de servicio de la Autovía del Camino,40000.0,40000.0,40536.39
+2011,620001,61100,7700,000000,"Plan Navarra 2012. Aportación del concesionario de la A-21 para expropiaciones, dirección de obra y control de calidad",2000000.0,2000000.0,2000000.0
+2011,621000,61200,3090,000000,Autorizaciones,25000.0,25000.0,24405.2
+2011,621000,61200,3910,000000,Multas y sanciones,4500.0,4500.0,31001.0
+2011,621000,61210,3990,000000,Ingresos por daños en señalización y otros,350000.0,350000.0,313840.74
+2011,630000,62110,3800,000000,Reintegro remanente aportación al transporte público de la comarca de Pamplona. Familias numerosas,,,89729.55
+2011,630000,62100,4411,000000,Convenio con el IDAE para actuaciones en materia de eficiencia energética,227800.0,227800.0,192732.15
+2011,630000,62100,7411,000000,Convenio con el IDAE para actuaciones en materia de eficiencia energética,183357.0,183357.0,
+2011,630001,62300,3010,000000,Tasas por servicios administrativos,20000.0,20000.0,43200.01
+2011,630001,62300,3040,000000,Ingresos por tasas de tarjetas de transporte,200000.0,200000.0,129300.0
+2011,630001,62300,3070,000000,Tasas de exámenes de transportista,10000.0,10000.0,24993.0
+2011,630001,62300,3309,000000,Venta de tarjetas para tacógrafos digitales,100.0,87295.0,112579.0
+2011,630001,62300,3910,000000,Sanciones de transportes,4200000.0,4200000.0,4807128.82
+2011,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,25000.0,25000.0,28274.08
+2011,700000,70000,3890,000002,Ingresos por reintegros de subvenciones. PDR,150000.0,150000.0,392925.76
+2011,700000,70000,3990,000000,Otros ingresos,250000.0,250000.0,179585.32
+2011,700000,70000,4002,000000,Ingresos del FEGA por funciones y servicios traspasados,400000.0,400000.0,466167.49
+2011,700000,70000,4903,000000,"Ingresos del Organismo Pagador, retención por irregularidades. FEADER",20000.0,20000.0,1594.75
+2011,700000,70000,4903,000002,Ingresos por condicionalidad,2000.0,2000.0,1692.68
+2011,700001,71430,4000,000000,Transferencias para estadística del Ministerio de Medio Ambiente y Medio Rural y Marino,50000.0,50000.0,
+2011,700001,71430,4901,000000,Ingresos de proyectos europeos,1.0,46501.0,46500.0
+2011,700003,70110,3010,000000,Ingresos por tasas de maquinaria,40000.0,40000.0,77606.64
+2011,710000,71210,3010,000000,Ingresos por tasas de certificación y registro,4000.0,4000.0,7322.0
+2011,710001,71230,4000,000000,Programa fruta para escolares,,29578.16,29578.16
+2011,710001,71230,4903,000002,Indemnización compensatoria. PDR FEADER,2227500.0,2227500.0,2314897.8
+2011,710001,71230,4903,000000,Programas medioambientales. PDR FEADER,1701700.0,1701700.0,1499907.9
+2011,710002,71220,3990,000000,Ingresos por utilización de silos,100000.0,100000.0,
+2011,711000,71320,3910,000000,Sanciones,80000.0,80000.0,48143.81
+2011,711000,71320,7002,000000,Ingresos por sanidad animal. FEGA,100000.0,100000.0,901237.87
+2011,711001,71310,4903,000000,Ingresos por mejora de la producción y comercialización de la miel. PDR FEADER,20000.0,20000.0,
+2011,720000,72130,5109,000000,Intereses de préstamos,25000.0,25000.0,30109.59
+2011,720000,72130,7903,000000,Ingresos cofinanciación nuevos regadíos. FEADER,3124500.0,3124500.0,2319305.75
+2011,720000,72130,8219,000000,Amortización de préstamos,100000.0,100000.0,157234.04
+2011,720001,72100,3010,000000,Certificaciones,500.0,500.0,965.0
+2011,720001,72120,7903,000002,Cofinanciación por ayudas en infraestructuras ganaderas. PDR FEADER,295000.0,295000.0,541288.23
+2011,720001,72120,7903,000000,Cofinanciación por concentración parcelaria. PDR FEADER,500000.0,500000.0,231616.96
+2011,720002,72140,8210,000000,Reintegros de préstamos para creación y mejora de pastos comunales,50000.0,50000.0,48877.56
+2011,721000,72210,3010,000000,Tasas del registro de industrias agrarias,40000.0,40000.0,50666.37
+2011,721000,72210,7903,000000,Cofinanciación por subvenciones a la industria agroalimentaria. PDR FEADER,3000000.0,3000000.0,1474442.54
+2011,721000,72210,7909,000000,Ayudas FEP,75000.0,75000.0,71118.1
+2011,721001,72220,3090,000000,Ingresos por tasas de laboratorio,1000.0,1000.0,2720.11
+2011,721001,72220,3910,000000,Sanciones,20000.0,20000.0,126132.22
+2011,721002,72230,4903,000000,Cofinanciación del cese anticipado de la actividad agraria. PDR FEADER,323560.0,323560.0,332007.32
+2011,721002,72230,7903,000000,Mejora de la eficacia de las explotaciones agrarias. PDR FEADER,5340840.0,5340840.0,4589751.07
+2011,722001,72320,7903,000002,Cofinanciación diversificación rural. PDR FEADER,300960.0,300960.0,243899.54
+2011,722001,72320,7903,000000,Cofinanciación por eje Leader PDR (2007-2013) FEADER,2107440.0,2107440.0,1349085.78
+2011,730000,72400,3090,000000,Ingresos por tasas del laboratorio,32000.0,32000.0,49241.44
+2011,730000,72400,3302,000000,Ingresos por ventas de productos,800.0,800.0,4353.36
+2011,730000,72400,3910,000000,Sanciones,30000.0,30000.0,61380.75
+2011,740001,74100,3910,000000,Multas e indemnizaciones,300000.0,300000.0,688103.78
+2011,740002,74200,3010,000002,Tasas por información ambiental,50.0,50.0,
+2011,740002,74200,3010,000000,Tasas por registro de industrias forestales,300.0,300.0,264.0
+2011,740002,74200,3020,000000,Licencias y permisos de caza y de pesca,250000.0,250000.0,571469.08
+2011,740002,74200,3090,000000,Tasas por ocupación de vías pecuarias,10000.0,10000.0,23519.11
+2011,740002,74200,3302,000002,Ingresos por aprovechamientos forestales del patrimonio forestal de Navarra,45000.0,45000.0,12299.55
+2011,740002,74200,3304,000000,Ingresos por venta de publicaciones,2000.0,2000.0,
+2011,740002,74200,3890,000000,Otros reintegros por ayudas a trabajos forestales,5000.0,5000.0,
+2011,740002,74200,3910,000000,Multas e indemnizaciones,90000.0,90000.0,71660.3
+2011,740002,74200,4901,000000,Ingresos derivados de la participación en proyectos comunitarios,12000.0,12000.0,21211.0
+2011,740002,74200,4903,000000,Cofinanciación por ayudas agroambientales e ICM. PDR FEADER,694100.0,694100.0,315798.79
+2011,740002,74200,4903,000002,Cofinanciación por indemnizaciones y ayudas a entidades locales. PDR FEADER,134900.0,134900.0,52557.26
+2011,740002,74200,7903,000005,Cofinanciación por ayudas forestales. PDR FEADER,1639780.0,1639780.0,1914828.16
+2011,740002,74200,7903,000004,Cofinanciación por conservación y mejora del patrimonio rural. PDR FEADER,222500.0,222500.0,213352.37
+2011,740002,74200,7903,000006,Cofinanciación por inversiones forestales. PDR FEADER,678530.0,678530.0,372368.55
+2011,800000,80100,3010,000000,Ingresos por servicios administrativos,1000.0,1000.0,400.0
+2011,800000,80100,3990,000000,Otros ingresos,1000.0,1000.0,9100.3
+2011,800000,80100,7901,000000,Ingresos FEDER Docup Objetivo 2,,,216364.36
+2011,810001,81140,5201,000000,Intereses de aplazamientos por venta de terrenos,250000.0,250000.0,94982.1
+2011,810001,81140,6000,000000,Venta de terrenos,1875646.0,1875646.0,1977157.65
+2011,810001,81140,8210,000000,Reintegros de anticipos a municipios,244793.0,244793.0,244793.19
+2011,810002,81140,3800,000000,Reintegros de subvenciones para inversiones en energías renovables,10000.0,10000.0,
+2011,810002,81140,4411,000003,Convenio con IDAE 2009 para energías renovables,,,514407.6
+2011,810002,81140,4411,000004,Convenio con IDAE 2010 para energías renovables,529784.0,529784.0,529784.4
+2011,810002,81140,4901,000000,Ingresos del proyecto RENREN. FEDER,40345.0,40345.0,25954.98
+2011,810002,81140,7901,000000,Ingresos del Programa Operativo FEDER 2007-2013,,,217341.3
+2011,810003,81140,3800,000000,Reintegro de subvenciones al ahorro y eficiencia energética,20000.0,20000.0,38806.31
+2011,810003,81140,4411,000004,Transferencias del IDAE para acciones de ahorro y eficiencia energética. Convenio 2010,1148511.0,1148511.0,
+2011,810003,81140,4411,000005,Transferencias del IDAE para acciones de ahorro y eficiencia energética. Convenio 2011,2977186.0,2977186.0,
+2011,810003,81140,4411,000002,Transferencias del IDAE para acciones de ahorro y eficiencia energíetica. Convenio 2008,,,20538.86
+2011,820001,81300,3050,000000,Tasas por autorizaciones y otras,450000.0,450000.0,755969.46
+2011,820001,81300,3910,000000,Ingresos por sanciones,100000.0,100000.0,109013.0
+2011,830001,81120,3800,000000,Reintegros de subvenciones de acciones directas,100000.0,100000.0,390527.95
+2011,830001,81120,3890,000000,Reintegros de bonificación de intereses a las pymes,100.0,100.0,
+2011,830002,81150,3990,000000,Comisiones de apertura por avales concedidos,,,23388.75
+2011,830002,81150,5103,000000,Intereses de anticipos a empresas en crisis,54320.0,54320.0,86710.36
+2011,830002,81150,8310,000000,Reintegros de anticipos a empresas en crisis,247819.0,247819.0,779744.56
+2011,840001,81210,3199,000000,Ingresos de consultas sobre información tecnológica,300.0,300.0,
+2011,840001,81210,3800,000000,"Reintegros de subvenciones a la investigación, al desarrollo y a la innovación",30000.0,30000.0,47253.68
+2011,840001,81210,4901,000002,Ingresos de proyectos Interreg. FEDER,,,314281.02
+2011,840001,81210,4909,000004,Ingresos de otros proyectos europeos,494000.0,494000.0,139939.84
+2011,840001,81210,7901,000000,Ingresos Programa Operativo FEDER 2007-2013,2170000.0,2170000.0,438702.66
+2011,840001,81210,8310,000000,Reintegros de anticipos I+D,255218.0,255218.0,246851.36
+2011,850002,81400,3890,000000,Reintegros de subvenciones,5000.0,5000.0,6997.25
+2011,850002,81400,3990,000000,Otros ingresos,1000.0,1000.0,19475.5
+2011,870000,83100,3910,000000,Sanciones por infracción de la normativa laboral,1400000.0,1400000.0,1066302.95
+2011,870000,83100,3990,000000,Otros ingresos,500.0,500.0,45071.54
+2011,880001,84000,3990,000000,Otros ingresos,5000.0,5000.0,17765.06
+2011,880001,84000,4000,000002,Transferencias del SPEE para flexibilidad,2980000.0,2980000.0,3261032.0
+2011,880001,84000,4000,000000,Transferencias del SPEE para modernización del SNE,850000.0,850000.0,876918.0
+2011,881001,84100,3890,000000,Reintegros de ayudas para la promoción del empleo,500000.0,500000.0,1281346.05
+2011,881001,84100,4000,000002,"Transferencias del SPEE para fomento del empleo, escuelas-taller, casas de oficios y talleres de empleo",14500000.0,14500000.0,14420487.43
+2011,881001,84100,4000,000000,Transferencias para jubilaciones anticipadas,128000.0,128000.0,
+2011,881001,84100,4900,000002,Ayudas al Empleo Programa Operativo FSE 2007-2013 de Navarra CCI 2007ES052PO009,1500000.0,1500000.0,1528573.28
+2011,882001,84200,3890,000000,Reintegros de ayudas de programas de formación,800000.0,800000.0,962511.44
+2011,882001,84200,4000,000006,Transferencias del SPEE para el Convenio del Centro de Referencia Nacional de Formación en Energías Renovables,800000.0,800000.0,547892.8
+2011,882001,84200,4000,000000,Transferencias del SPEE para formación para el empleo dirigida preferentemente a desempleados,7000000.0,7000000.0,7544941.0
+2011,882001,84200,4000,000003,Transferencias del SPEE para formación para el empleo dirigida preferentemente a ocupados,5000000.0,5000000.0,4188824.4
+2011,882002,84500,4000,000004,"Transferencias del SPEE para el Plan Extraordinario de Orientación, Formación Profesional e Inserción Laboral",735000.0,735000.0,735000.0
+2011,882002,84500,4000,000005,Transferencias del SPEE para el sector textil y de la confección,100000.0,100000.0,
+2011,882002,84500,4000,000000,Transferencias del SPEE para la contratación de promotores de empleo,,673750.0,673750.0
+2011,882002,84500,4000,000002,Transferencias del SPEE para medidas de trabajadores de SINTEL,,5925.0,5925.0
+2011,900000,91000,3890,000000,Devolución de subvenciones,40000.0,40000.0,448167.62
+2011,900000,91000,3910,000000,Multas y sanciones,1.0,1.0,351441.73
+2011,900000,91000,3990,000000,Otros ingresos,150000.0,150000.0,296216.83
+2011,900000,91000,3990,000002,Otros ingresos recibidos por siniestros,1.0,1.0,
+2011,900001,91500,4800,000000,Premio Príncipe de Viana a la Innovación en Dependencia,1.0,40000.0,40000.0
+2011,900001,91200,4800,000000,Premio Príncipe de Viana a la Solidaridad,1.0,35327.18,35327.18
+2011,900002,91600,4000,000000,Transferencias del Estado PAS,44000.0,44000.0,14536.42
+2011,900003,91600,3126,000000,Cuotas de usuarios de centros de incorporación social,64000.0,64000.0,61655.07
+2011,920000,91800,3990,000000,Otros ingresos,200000.0,200000.0,231691.64
+2011,920000,91800,3990,000002,Otros ingresos recibidos por siniestros,1.0,1.0,
+2011,920000,91800,3990,000003,Resarcimiento de gastos de centros propios,,4809.82,4809.82
+2011,920001,91800,3126,000000,Ingresos por estancias en escuelas infantiles,880000.0,880000.0,859720.79
+2011,920002,91830,3126,000002,Ingresos de la Residencia El Vergel de Pamplona,1180000.0,1180000.0,1122383.8
+2011,920002,91830,3126,000003,Ingresos de la Residencia San Francisco Javier de Pamplona,1210000.0,1210000.0,1028562.69
+2011,920002,91830,3126,000000,Ingresos de la Residencia Santo Domingo de Estella,790000.0,790000.0,603861.1
+2011,920002,91830,3126,000004,Ingresos Ley 17/2000 aportación de usuarios de centros de la tercera edad,4500000.0,4500000.0,7730567.27
+2011,920003,91800,3126,000002,Ingresos de la Residencia Lur Gorri,49000.0,49000.0,46560.47
+2011,920003,91800,3126,000000,Ingresos del Centro San José,510000.0,510000.0,523805.25
+2011,920004,91820,3126,000002,Cuotas de usuarios de centros de discapacidad,3332000.0,3332000.0,3236174.96
+2011,920004,91820,3126,000003,Cuotas de usuarios de centros de enfermedad mental,752000.0,752000.0,636502.56
+2011,920004,91820,3126,000000,Cuotas de usuarios de centros de tercera edad,18447000.0,18447000.0,17955262.25
+2011,920006,91830,3126,000000,Ingresos del Servicio Telefónico de Emergencia,306000.0,306000.0,325881.55
+2011,920006,91830,4000,000000,Sistema para la autonomía y atención a la dependencia,18000000.0,18000000.0,13081122.99
+2011,930000,94000,3990,000000,Otros ingresos,25000.0,25000.0,4482.29
+2011,940000,95300,3010,000000,Tasas por servicios administrativos,600.0,600.0,857.37
+2011,940000,95300,3199,000000,Otros ingresos,1000.0,1000.0,2081651.56
+2011,940000,95300,4000,000000,Transferencias de organismos del Estado,650000.0,650000.0,503613.04
+2011,940000,95300,5400,000000,Ingresos por arrendamientos,3800.0,3800.0,3832.01
+2011,940002,95100,3113,000000,Ingresos de instalaciones deportivas,115600.0,115600.0,112981.73
+2011,940002,95100,3129,000000,"Centro de Estudios, Investigación y Medicina Deportiva (CEIMD)",1000.0,1000.0,
+2011,940002,95100,4000,000002,Transferencias de la Administración del Estado para programas de investigación deportiva,1.0,1.0,-15426.42
+2011,940002,95100,4000,000000,Transferencias del Consejo Superior de Deportes,10000.0,40000.0,96494.99
+2011,950001,92200,3890,000000,Otros reintegros,28854.0,28854.0,44306.28
+2011,950002,92300,3990,000000,Otros ingresos,,24748.55,93821.09
+2011,951001,92410,3910,000000,Ingresos por sanciones,94504.0,97744.0,266199.4
+2011,951002,92420,4000,000000,Transferencias del Instituto Nacional de Consumo,1.0,1.0,17656.41
+2011,960000,96100,3118,000000,Ingresos de instalaciones juveniles,245000.0,245000.0,246995.15
+2011,960000,96100,3118,000002,Programas de juventud de actividades de verano,75000.0,75000.0,49586.98
+2011,960000,96100,3309,000000,Ingresos de Carnet Joven más 26 y otros,30000.0,30000.0,26135.97
+2011,A00000,A0100,3990,000000,Otros ingresos,100.0,100.0,768.31
+2011,A10000,A1000,3110,000000,"Gestión turísitca del Palacio de Olite, Andelos, Arellano y Rada",,,38983.0
+2011,A10001,A1100,3890,000000,Reintegros,40000.0,40000.0,77775.58
+2011,A10001,A1100,3910,000000,Ingresos por sanciones,3000.0,3000.0,4801.0
+2011,A10001,A1100,3990,000002,Ingresos por consumo de agua en Javier,22500.0,22500.0,11632.58
+2011,A10001,A1100,5100,000000,Intereses de anticipos a entes locales,10008.0,10008.0,8723.32
+2011,A10001,A1100,5500,000000,Concesiones a establecimientos turísticos,37460.0,37460.0,163676.9
+2011,A10001,A1100,7901,000000,Ingresos FEDER para financiar inversiones,35000.0,35000.0,
+2011,A10001,A1100,8210,000000,Reintegros de anticipos a entes locales,243167.0,243167.0,217464.86
+2011,A10001,A1100,8319,000000,Reintegros de otros anticipos a largo plazo,150000.0,150000.0,150000.0
+2011,A10002,A1200,3304,000000,Venta de publicaciones y objetos promocionales en las oficinas de turismo,2500.0,2500.0,3812.27
+2011,A20000,A2000,3890,000000,Reintegros,70000.0,70000.0,27549.25
+2011,A20000,A2000,8210,000000,Reintegros de anticipos a entes locales,750000.0,750000.0,
+2011,A20001,A2100,3199,000000,Copias y otros ingresos en el Servicio de Patrimonio Histórico,500.0,500.0,90.0
+2011,A20001,A2110,7600,000000,Aportación del Ayuntamiento de Marcilla para la restauración del Castillo de Marcilla,179900.0,179900.0,268308.14
+2011,A20002,A2510,3111,000000,"Entradas de espectáculos, cursos y otros",30000.0,30000.0,4095.0
+2011,A20003,A2310,3110,000002,Entradas y venta de objetos en el Museo del Carlismo,4500.0,4500.0,4627.0
+2011,A20003,A2320,3110,000000,Visitas y otros ingresos del Museo de Navarra,6500.0,6500.0,16480.59
+2011,A21001,A2400,3199,000000,Fotocopias en bibliotecas,2500.0,2500.0,4000.0
+2011,A21001,A2400,7000,000002,Subvención del Ministerio de Cultura para la creación y transformación de recursos digitales,,22040.0,22040.0
+2011,A21002,A2200,3199,000000,Fotocopias y otros ingresos en el Archivo Real y General de Navarra,12000.0,12000.0,8318.39
+2011,A21002,A2200,4413,000000,Aportación de la Mancomunidad de Aguas de Pamplona para exposición sobre traída de aguas y Acueducto de Noain,,50000.0,50000.0
+2011,B00000,B0000,4909,000000,Ingresos procedentes del Comité de las Regiones,2000.0,2000.0,
+2011,B20001,B2200,4700,000000,Convenio de colaboración con Caja Navarra para la celebración del Día de Navarra,,,25000.0
+2011,B20002,B2400,3304,000002,Reembolsos,100.0,100.0,2154.0
+2011,B20002,B2400,3304,000000,Ventas en librería,120000.0,120000.0,106787.28
+2011,B20003,B2220,3800,000000,Reintegro de subvenciones,,,5018.85
+2011,B40000,B0200,3800,000000,Reintegro de subvenciones,10.0,10.0,5877.77
+2011,B40000,B0200,3911,000000,Intereses de demora por devolución de subvenciones,10.0,10.0,138.28
+2011,B40000,B0200,4000,000000,Ingresos procedentes del Ministerio de Trabajo e Inmigración para inmigración,576075.0,576075.0,555025.96

@@ -90,7 +90,8 @@ class NavarraBudgetLoader(BudgetLoader):
         # Gather all the relevant bits and store them to be processed
         ec_code = line[3]
         ic_code = line[2]
-        amount = self._read_spanish_number(line[7 if is_actual else 6])
+        raw_amount = line[8 if is_actual else 7]
+        amount = self._read_english_number(raw_amount) if line[0]=='2011' else self._read_spanish_number(raw_amount)
 
         # We need subheading+item_number to be consistent across departments,
         # since we're grouping all different items together using economic_uid().
