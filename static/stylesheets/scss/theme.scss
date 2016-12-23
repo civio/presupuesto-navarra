@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6{
   }
 
   &.active{
-    border-top: 5px solid $brand-terciary;
+    border-top: 6px solid $brand-terciary;
     
     > a{
       background: white;
@@ -155,31 +155,31 @@ h1, h2, h3, h4, h5, h6{
   margin-bottom: 30px;
   opacity: 0.95;
 
+  .main-entity-link{
+    display: block;
+    margin-bottom: $grid-gutter-width;
+  }
+
   .credit-aragon{
     font-weight: $font-weight-400;
     font-size: 0.875em;
-    min-height: 50px;
-    padding-top: 80px;
-    line-height: 40px;
-    background: url(../assets/footer-logo.png) no-repeat center 0 transparent;
+    padding-top: $grid-gutter-width;
+    margin-bottom: 0;
   }
 
-  @media (min-width: $screen-sm-min) {
-    .credit-aragon{
-      line-height: 1em;
-      padding-top: 15px;
-      padding-left: 200px;
-      background-position: 0 0;
-    }
+  .footer-menu a:hover{
+    color: $brand-terciary;
+    text-decoration: none;
   }
-  @media (min-width: $screen-md-min) {
-    .credit-aragon{
+  
+  @media (min-width: $screen-sm-min) {
+    .main-entity-link{
       float: left;
       margin-bottom: 0;
     }
     .footer-menu{
       float: right;
-      margin-top: -27px;
+      margin-top: 16px;
       margin-right: -1*$grid-gutter-width/6;
     }
   }
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6{
 
   .options .option > div {
     border: 1px solid $brand-primary;
-    border-top-width: 5px;
+    border-top-width: 6px;
     
     .icon{
       color: mix( $brand-terciary, $brand-secondary, 20% );

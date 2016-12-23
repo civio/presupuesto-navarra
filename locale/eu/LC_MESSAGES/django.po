@@ -89,3 +89,12 @@ msgstr "Entzun, Parte hartu. Elkarrizketak eduki"
 
 msgid "Gobierno Abierto de Navarra"
 msgstr "Nafarroako Gobernu Irekia"
+
+msgid "Mapa web"
+msgstr "Webaren mapa"
+
+msgid "Accesibilidad"
+msgstr "Erabilerraztasuna"
+
+msgid "Contacte con nosotros"
+msgstr "Jar zaitez gurekin harremanetan"
