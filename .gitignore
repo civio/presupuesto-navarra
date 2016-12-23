@@ -6,3 +6,5 @@ npm-debug.log
 static/stylesheets/main.css
 
 static/stylesheets/main.css.map
+
+copy_csvs_to_theme.sh
