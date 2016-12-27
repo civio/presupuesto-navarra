@@ -41,9 +41,9 @@ OVERVIEW_EXPENSE_NODES = [
                               'link_id': '94'
                             },
                             {
-                              'nodes': [['94', '9422'], ['94', '9423'], ['94', '9424'], ['94', '9425'], ['94', '9421']],
-                              'label.es': 'Transferencias a otras administraciones públicas',
-                              'label.eu': 'Transferentziak beste Administrazio Publiko batzuetara',
+                              'nodes': [['94', '9422'], ['94', '9421']],
+                              'label.es': 'Participación de las entidades locales, Fondo de Haciendas Locales',
+                              'label.eu': 'Toki entitateen parte-hartzea, Toki Ogasunen Funtsa',
                               'link_id': '94'
                             },
                             {
