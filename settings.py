@@ -7,7 +7,7 @@ MAIN_ENTITY_NAME = 'Navarra'
 
 BUDGET_LOADER = 'NavarraBudgetLoader'
 
-FEATURED_PROGRAMMES = ['3123', '2315', '1321', '3341']
+FEATURED_PROGRAMMES = ['3123', '231B', '3341', '2411', '4679']
 
 OVERVIEW_INCOME_NODES = [
                           {
