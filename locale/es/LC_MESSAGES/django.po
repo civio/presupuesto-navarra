@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-12-27 02:03+0100\n"
+"PO-Revision-Date: 2016-12-27 02:43+0100\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,16 +29,6 @@ msgstr "Presupuestos Generales de Navarra"
 msgid "Información presupuestaria del Gobierno de Aragón"
 msgstr "Información presupuestaria del Gobierno de Navarra"
 
-#: templates/budgets/budgets_intro.html:16
-msgid ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración "
-"General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
-"ingresos como el IVA y el IRPF"
-msgstr ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración "
-"General del Estado y del Gobierno de Navarra, que son los encargados de recaudar otros "
-"ingresos como el IVA y el IRPF"
-
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Ingresos y gastos no financieros en el Gobierno de Navarra"
@@ -58,12 +48,8 @@ msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Arag�
 msgstr "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Navarra"
 
 #: templates/tax_receipt/tax_receipt_form.html:75
-msgid ""
-"Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno "
-"de Aragón"
-msgstr ""
-"Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno "
-"de Navarra"
+msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno de Aragón"
+msgstr "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno de Navarra"
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
@@ -72,3 +58,19 @@ msgstr "¿Cómo y en qué gasta el Gobierno de Navarra?"
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Para que tengas una idea general de los ingresos y gastos del Gobierno de Navarra"
+
+# El recorrido de tus impuestos
+msgid "La recaudación local"
+msgstr "La recaudación"
+
+msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
+msgstr "Se efectúa por Hacienda Tributaria de Navarra que cuenta con régimen tributario propio para los impuestos directos como IRPF, Patrimonio o Sociedades, y recauda en su totalidad los impuestos indirectos como el IVA y los impuestos especiales sobre el tabaco y los hidrocarburos. Además, se complementa con otros ingresos tales como tasas, precios públicos, transferencias de otras administraciones o enajenación de patrimonio"
+
+msgid "Otras fuentes de ingresos"
+msgstr "¿Cómo se reparte?"
+
+msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
+msgstr "La recaudación se distribuye entre las Administraciones Públicas. La parte destinada  a la Administración del Estado se fija en el Convenio Económico y se denomina Aportación. Otra parte va a las entidades locales a través del Fondo de Haciendas Locales o del Plan de Infraestructuras Locales"
+
+msgid "El ayuntamiento utiliza el dinero recaudado, junto con otras fuentes de financiación como la deuda, para mantener los servicios públicos y la infraestructura de la ciudad."
+msgstr "El Gobierno de Navarra emplea sus recursos en la prestación de los servicios públicos de su competencia."

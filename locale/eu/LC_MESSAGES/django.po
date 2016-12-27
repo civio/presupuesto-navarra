@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-12-27 02:18+0100\n"
+"PO-Revision-Date: 2016-12-27 02:44+0100\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,16 +25,9 @@ msgstr "Nafarroako Gobernuaren aurrekontuak"
 msgid "Información presupuestaria del Gobierno de Aragón"
 msgstr "Nafarroako Gobernuaren aurrekontuei buruzko informazioa"
 
-#: templates/budgets/budgets_intro.html:16
-msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr "Udalerriek zergen bidez bildutako dirua osatzeko, Estatuko Administrazio Orokorraren eta Nafarroako Gobernuaren transferentziak jasotzen dituzte, haiek arduratzen baitira beste zerga batzuk biltzeaz, hala nola, BEZ eta PFEZ"
-
-msgid "El ayuntamiento utiliza el dinero recaudado, junto con otras fuentes de financiación como la deuda, para mantener los servicios públicos y la infraestructura de la ciudad."
-msgstr "Komunitateak zerbitzu publikoak bermatzeko eta hiriko azpiegiturak mantentzeko erabiltzen du bildutako dirua, zorrarekin eta beste finantzaketa-iturri batzuekin batera."
-
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
-msgstr "Nafarroako Gobernuaren diru-sarrerak eta gastuak ez finantzarioak"
+msgstr "Diru-sarrera eta gastu ez finantzarioak Nafarroako Gobernuan"
 
 #: templates/budgets/index.html:127 templates/shared/data_sources.html:7
 #: templates/shared/footer.html:18 templates/shared/header.html:28
@@ -98,3 +91,22 @@ msgstr "Erabilerraztasuna"
 
 msgid "Contacte con nosotros"
 msgstr "Jar zaitez gurekin harremanetan"
+
+# El recorrido de tus impuestos
+msgid "La recaudación local"
+msgstr "Diru-bilketa"
+
+msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
+msgstr "Nafarroako Zerga Ogasunak egiten du; Nafarroak tributu araubidea berekia baitu zuzeneko zergetarako, hala nola, PFEZaren, ondarearen edo sozietateen gaineko zergetarako, eta osotara biltzen ditu zeharkako zergak, BEZa eta tabakoaren eta hidrokarburoen gaineko zerga bereziak, besteak beste.  Horrez gain, diru-bilketa beste diru-sarrera batzuekin osatzen da: tasak, prezio publikoak, beste administrazio batzuen transferentziak edo ondare-besterentzeak"
+
+msgid "Otras fuentes de ingresos"
+msgstr "Nola banatzen da?"
+
+msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
+msgstr "Bildutakoa Administrazio Publikoen artean banatzen da. Estatuko Administrazioari eman beharreko zatia, Ekarpena alegia,  Hitzarmen Ekonomikoan ezartzen da. Beste zati bat toki entitateetara joaten da, Toki Ogasunen Funtsaren bidez edo Toki Azpiegituren Planaren bidez"
+
+msgid "¿En qué se emplea?"
+msgstr "Zertan erabiltzen da?"
+
+msgid "El ayuntamiento utiliza el dinero recaudado, junto con otras fuentes de financiación como la deuda, para mantener los servicios públicos y la infraestructura de la ciudad."
+msgstr "Nafarroako Gobernuak Nafarroaren eskumenekoak diren zerbitzu publikoak emateko baliatzen ditu bere baliabideak."
