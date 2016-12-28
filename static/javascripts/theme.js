@@ -13,7 +13,14 @@ $(document).ready(function(){
     $('#totals-panel .budget-totals .text-center small').html( notes[lang] );
   };
 
+  // Show note about main treemap
+  var showTreemapNote = function(){
+    if ( $('body').hasClass('body-entities') )
+      $('.data-sources li.hidden').removeClass('hidden');
+  };
+
   addTotalsNote();
+  showTreemapNote();
 });
 
 
