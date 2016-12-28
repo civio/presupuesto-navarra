@@ -6,15 +6,6 @@
 2011,GASTO,7,,,,Transferencias de capital
 2011,GASTO,8,,,,Activos financieros
 2011,GASTO,9,,,,Pasivos financieros
-2011,INGRESO,1,,,,Impuestos directos
-2011,INGRESO,2,,,,Impuestos indirectos
-2011,INGRESO,3,,,,"Tasas, precios públicos y otros ingresos"
-2011,INGRESO,4,,,,Transferencias corrientes
-2011,INGRESO,5,,,,Ingresos patrimoniales
-2011,INGRESO,6,,,,Enajenación de inversiones reales
-2011,INGRESO,7,,,,Transferencias de capital
-2011,INGRESO,8,,,,Activos financieros
-2011,INGRESO,9,,,,Pasivos financieros
 2011,GASTO,1,0,,,Altos cargos
 2011,GASTO,1,1,,,Personal eventual
 2011,GASTO,1,2,,,Retribuciones del puesto
@@ -52,39 +43,6 @@
 2011,GASTO,8,6,,,Adquisición de acciones y participaciones de fuera del sector público
 2011,GASTO,9,0,,,Amortización de deuda pública interior
 2011,GASTO,9,4,,,"Devolución de depósitos, fianzas y otras"
-2011,INGRESO,1,0,,,Impuestos directos sobre la renta
-2011,INGRESO,1,1,,,Impuestos directos sobre el capital
-2011,INGRESO,1,9,,,Impuestos directos extinguidos
-2011,INGRESO,2,1,,,Impuesto sobre el valor añadido
-2011,INGRESO,2,2,,,Impuestos sobre consumos específicos
-2011,INGRESO,2,8,,,Otros impuestos indirectos
-2011,INGRESO,3,0,,,Tasas fiscales
-2011,INGRESO,3,1,,,Precios públicos por prestación de servicios
-2011,INGRESO,3,3,,,Venta de bienes
-2011,INGRESO,3,8,,,Reintegros de operaciones
-2011,INGRESO,3,9,,,Otros ingresos
-2011,INGRESO,4,0,,,Transferencias corrientes de la Administración del Estado
-2011,INGRESO,4,2,,,Transferencias corrientes de la Seguridad Social
-2011,INGRESO,4,4,,,Transferencias corrientes de empresas públicas y otros entes públicos
-2011,INGRESO,4,6,,,Transferencias corrientes de entidades locales
-2011,INGRESO,4,8,,,Transferencias corrientes de familias e instituciones sin fines de lucro
-2011,INGRESO,4,9,,,Transferencias corrientes del exterior
-2011,INGRESO,5,0,,,Intereses de títulos y valores
-2011,INGRESO,5,1,,,Intereses de anticipos y préstamos concedidos
-2011,INGRESO,5,2,,,Intereses de depósitos y aplazamientos
-2011,INGRESO,5,3,,,Dividendos y participaciones en beneficios
-2011,INGRESO,5,4,,,Rentas de bienes inmuebles
-2011,INGRESO,5,5,,,Productos de concesiones y aprovechamientos especiales
-2011,INGRESO,6,0,,,Enajenación de terrenos
-2011,INGRESO,6,1,,,Enajenación de otras inversiones reales
-2011,INGRESO,7,0,,,Transferencias de capital de la Administración del Estado
-2011,INGRESO,7,4,,,Transferencias de capital de empresas públicas y otros entes públicos
-2011,INGRESO,7,6,,,Transferencias de capital de entidades locales
-2011,INGRESO,7,7,,,Transferencias de capital de empresas privadas
-2011,INGRESO,7,9,,,Transferencias de capital del exterior
-2011,INGRESO,8,2,,,Reintegros de préstamos concedidos al sector público
-2011,INGRESO,8,3,,,Reintegros de préstamos concedidos fuera del sector público
-2011,INGRESO,9,1,,,Préstamos recibidos en moneda nacional
 2011,GASTO,1,0,0,,Retribuciones y otras remuneraciones de altos cargos
 2011,GASTO,1,1,0,,Retribuciones del personal eventual
 2011,GASTO,1,2,0,,Retribuciones del personal fijo
@@ -165,63 +123,6 @@
 2011,GASTO,8,6,0,,Adquisición de acciones y participaciones de fuera del sector público
 2011,GASTO,9,0,2,,Amortización de obligaciones y bonos a largo plazo
 2011,GASTO,9,4,0,,"Devolución de depósitos, fianzas y otras"
-2011,INGRESO,1,0,0,,Impuesto sobre la renta de las personas físicas
-2011,INGRESO,1,0,1,,Impuesto sobre sociedades
-2011,INGRESO,1,0,2,,Impuesto sobre la renta de no residentes
-2011,INGRESO,1,1,2,,Impuesto sobre sucesiones y donaciones
-2011,INGRESO,1,9,0,,Impuestos directos extinguidos
-2011,INGRESO,2,1,0,,Impuesto sobre el valor añadido
-2011,INGRESO,2,2,0,,Impuestos especiales
-2011,INGRESO,2,8,1,,Impuesto sobre las primas de seguros
-2011,INGRESO,2,8,2,,Impuesto sobre transmisiones patrimoniales intervivos
-2011,INGRESO,2,8,3,,Impuesto sobre actos jurídicos documentados
-2011,INGRESO,3,0,0,,Tasas derivadas de la actividad del juego
-2011,INGRESO,3,0,1,,Tasas por servicios administrativos
-2011,INGRESO,3,0,2,,"Tasas por licencias de caza y pesca, cotos y otros"
-2011,INGRESO,3,0,4,,Tasas por servicios de ordenación del transporte
-2011,INGRESO,3,0,5,,"Tasas por servicios industriales, energéticos y mineros"
-2011,INGRESO,3,0,7,,Tasas académicas y derechos de examen
-2011,INGRESO,3,0,8,,Tasas de telecomunicaciones
-2011,INGRESO,3,0,9,,Otras tasas
-2011,INGRESO,3,1,0,,Prestación de servicios educativos
-2011,INGRESO,3,1,1,,"Prestación de servicios culturales, deportivos y de ocio"
-2011,INGRESO,3,1,2,,Prestación de servicios sanitarios y sociales
-2011,INGRESO,3,1,3,,Prestación de servicios de transporte
-2011,INGRESO,3,1,9,,Prestación de otros servicios
-2011,INGRESO,3,3,0,,Venta de bienes
-2011,INGRESO,3,8,0,,Reintegros de ejercicios cerrados
-2011,INGRESO,3,8,1,,Reintegros del presupuesto corriente
-2011,INGRESO,3,8,9,,Otros reintegros
-2011,INGRESO,3,9,0,,Cuotas de derechos pasivos
-2011,INGRESO,3,9,1,,"Multas, sanciones, intereses y recargos"
-2011,INGRESO,3,9,9,,Otros ingresos
-2011,INGRESO,4,0,0,,Transferencias corrientes de la Administración del Estado
-2011,INGRESO,4,2,0,,Transferencias corrientes de la Seguridad Social
-2011,INGRESO,4,4,0,,Transferencias corrientes de empresas públicas
-2011,INGRESO,4,4,1,,Transferencias corrientes de otros entes públicos
-2011,INGRESO,4,6,0,,Transferencias corrientes de entidades locales de Navarra
-2011,INGRESO,4,8,0,,Transferencias corrientes de familias e instituciones sin fines de lucro
-2011,INGRESO,4,9,0,,Transferencias corrientes de la Unión Europea
-2011,INGRESO,5,0,0,,Intereses de títulos y valores
-2011,INGRESO,5,1,0,,Intereses de anticipos y préstamos concedidos
-2011,INGRESO,5,2,0,,Intereses de depósitos y aplazamientos
-2011,INGRESO,5,3,0,,Dividendos y participaciones en beneficios
-2011,INGRESO,5,4,0,,Rentas de bienes inmuebles
-2011,INGRESO,5,5,0,,Concesiones administrativas
-2011,INGRESO,6,0,0,,Enajenación de terrenos
-2011,INGRESO,6,1,0,,Venta de edificios
-2011,INGRESO,6,1,2,,Venta de equipos
-2011,INGRESO,7,0,0,,Transferencias de capital de la Administración del Estado
-2011,INGRESO,7,4,0,,Transferencias de capital de empresas públicas
-2011,INGRESO,7,4,1,,Transferencias de capital de otros entes públicos
-2011,INGRESO,7,6,0,,Transferencias de capital de entidades locales de Navarra
-2011,INGRESO,7,7,0,,Transferencias de capital de empresas privadas
-2011,INGRESO,7,9,0,,Transferencias de capital de la Unión Europea
-2011,INGRESO,8,2,0,,Reintegros de préstamos concedidos al sector público a corto plazo
-2011,INGRESO,8,2,1,,Reintegros de préstamos concedidos al sector público a largo plazo
-2011,INGRESO,8,3,0,,Reintegros de préstamos concedidos fuera del sector público a corto plazo
-2011,INGRESO,8,3,1,,Reintegros de préstamos concedidos fuera del sector público a largo plazo
-2011,INGRESO,9,1,1,,Préstamos recibidos a largo plazo en moneda nacional
 2011,GASTO,1,0,0,0,Retribuciones de altos cargos
 2011,GASTO,1,0,0,1,Otras remuneraciones de altos cargos
 2011,GASTO,1,1,0,0,Retribuciones del personal eventual
@@ -404,6 +305,105 @@
 2011,GASTO,8,6,0,0,Adquisición de acciones y participaciones de fuera del sector público
 2011,GASTO,9,0,2,0,Amortización de la deuda pública
 2011,GASTO,9,4,0,9,Otras devoluciones
+2011,INGRESO,1,,,,Impuestos directos
+2011,INGRESO,2,,,,Impuestos indirectos
+2011,INGRESO,3,,,,"Tasas, precios públicos y otros ingresos"
+2011,INGRESO,4,,,,Transferencias corrientes
+2011,INGRESO,5,,,,Ingresos patrimoniales
+2011,INGRESO,6,,,,Enajenación de inversiones reales
+2011,INGRESO,7,,,,Transferencias de capital
+2011,INGRESO,8,,,,Activos financieros
+2011,INGRESO,9,,,,Pasivos financieros
+2011,INGRESO,1,0,,,Impuestos directos sobre la renta
+2011,INGRESO,1,1,,,Impuestos directos sobre el capital
+2011,INGRESO,1,9,,,Impuestos directos extinguidos
+2011,INGRESO,2,1,,,Impuesto sobre el valor añadido
+2011,INGRESO,2,2,,,Impuestos sobre consumos específicos
+2011,INGRESO,2,8,,,Otros impuestos indirectos
+2011,INGRESO,3,0,,,Tasas fiscales
+2011,INGRESO,3,1,,,Precios públicos por prestación de servicios
+2011,INGRESO,3,3,,,Venta de bienes
+2011,INGRESO,3,8,,,Reintegros de operaciones
+2011,INGRESO,3,9,,,Otros ingresos
+2011,INGRESO,4,0,,,Transferencias corrientes de la Administración del Estado
+2011,INGRESO,4,2,,,Transferencias corrientes de la Seguridad Social
+2011,INGRESO,4,4,,,Transferencias corrientes de empresas públicas y otros entes públicos
+2011,INGRESO,4,6,,,Transferencias corrientes de entidades locales
+2011,INGRESO,4,8,,,Transferencias corrientes de familias e instituciones sin fines de lucro
+2011,INGRESO,4,9,,,Transferencias corrientes del exterior
+2011,INGRESO,5,0,,,Intereses de títulos y valores
+2011,INGRESO,5,1,,,Intereses de anticipos y préstamos concedidos
+2011,INGRESO,5,2,,,Intereses de depósitos y aplazamientos
+2011,INGRESO,5,3,,,Dividendos y participaciones en beneficios
+2011,INGRESO,5,4,,,Rentas de bienes inmuebles
+2011,INGRESO,5,5,,,Productos de concesiones y aprovechamientos especiales
+2011,INGRESO,6,0,,,Enajenación de terrenos
+2011,INGRESO,6,1,,,Enajenación de otras inversiones reales
+2011,INGRESO,7,0,,,Transferencias de capital de la Administración del Estado
+2011,INGRESO,7,4,,,Transferencias de capital de empresas públicas y otros entes públicos
+2011,INGRESO,7,6,,,Transferencias de capital de entidades locales
+2011,INGRESO,7,7,,,Transferencias de capital de empresas privadas
+2011,INGRESO,7,9,,,Transferencias de capital del exterior
+2011,INGRESO,8,2,,,Reintegros de préstamos concedidos al sector público
+2011,INGRESO,8,3,,,Reintegros de préstamos concedidos fuera del sector público
+2011,INGRESO,9,1,,,Préstamos recibidos en moneda nacional
+2011,INGRESO,1,0,0,,Impuesto sobre la renta de las personas físicas
+2011,INGRESO,1,0,1,,Impuesto sobre sociedades
+2011,INGRESO,1,0,2,,Impuesto sobre la renta de no residentes
+2011,INGRESO,1,1,2,,Impuesto sobre sucesiones y donaciones
+2011,INGRESO,1,9,0,,Impuestos directos extinguidos
+2011,INGRESO,2,1,0,,Impuesto sobre el valor añadido
+2011,INGRESO,2,2,0,,Impuestos especiales
+2011,INGRESO,2,8,1,,Impuesto sobre las primas de seguros
+2011,INGRESO,2,8,2,,Impuesto sobre transmisiones patrimoniales intervivos
+2011,INGRESO,2,8,3,,Impuesto sobre actos jurídicos documentados
+2011,INGRESO,3,0,0,,Tasas derivadas de la actividad del juego
+2011,INGRESO,3,0,1,,Tasas por servicios administrativos
+2011,INGRESO,3,0,2,,"Tasas por licencias de caza y pesca, cotos y otros"
+2011,INGRESO,3,0,4,,Tasas por servicios de ordenación del transporte
+2011,INGRESO,3,0,5,,"Tasas por servicios industriales, energéticos y mineros"
+2011,INGRESO,3,0,7,,Tasas académicas y derechos de examen
+2011,INGRESO,3,0,8,,Tasas de telecomunicaciones
+2011,INGRESO,3,0,9,,Otras tasas
+2011,INGRESO,3,1,0,,Prestación de servicios educativos
+2011,INGRESO,3,1,1,,"Prestación de servicios culturales, deportivos y de ocio"
+2011,INGRESO,3,1,2,,Prestación de servicios sanitarios y sociales
+2011,INGRESO,3,1,3,,Prestación de servicios de transporte
+2011,INGRESO,3,1,9,,Prestación de otros servicios
+2011,INGRESO,3,3,0,,Venta de bienes
+2011,INGRESO,3,8,0,,Reintegros de ejercicios cerrados
+2011,INGRESO,3,8,1,,Reintegros del presupuesto corriente
+2011,INGRESO,3,8,9,,Otros reintegros
+2011,INGRESO,3,9,0,,Cuotas de derechos pasivos
+2011,INGRESO,3,9,1,,"Multas, sanciones, intereses y recargos"
+2011,INGRESO,3,9,9,,Otros ingresos
+2011,INGRESO,4,0,0,,Transferencias corrientes de la Administración del Estado
+2011,INGRESO,4,2,0,,Transferencias corrientes de la Seguridad Social
+2011,INGRESO,4,4,0,,Transferencias corrientes de empresas públicas
+2011,INGRESO,4,4,1,,Transferencias corrientes de otros entes públicos
+2011,INGRESO,4,6,0,,Transferencias corrientes de entidades locales de Navarra
+2011,INGRESO,4,8,0,,Transferencias corrientes de familias e instituciones sin fines de lucro
+2011,INGRESO,4,9,0,,Transferencias corrientes de la Unión Europea
+2011,INGRESO,5,0,0,,Intereses de títulos y valores
+2011,INGRESO,5,1,0,,Intereses de anticipos y préstamos concedidos
+2011,INGRESO,5,2,0,,Intereses de depósitos y aplazamientos
+2011,INGRESO,5,3,0,,Dividendos y participaciones en beneficios
+2011,INGRESO,5,4,0,,Rentas de bienes inmuebles
+2011,INGRESO,5,5,0,,Concesiones administrativas
+2011,INGRESO,6,0,0,,Enajenación de terrenos
+2011,INGRESO,6,1,0,,Venta de edificios
+2011,INGRESO,6,1,2,,Venta de equipos
+2011,INGRESO,7,0,0,,Transferencias de capital de la Administración del Estado
+2011,INGRESO,7,4,0,,Transferencias de capital de empresas públicas
+2011,INGRESO,7,4,1,,Transferencias de capital de otros entes públicos
+2011,INGRESO,7,6,0,,Transferencias de capital de entidades locales de Navarra
+2011,INGRESO,7,7,0,,Transferencias de capital de empresas privadas
+2011,INGRESO,7,9,0,,Transferencias de capital de la Unión Europea
+2011,INGRESO,8,2,0,,Reintegros de préstamos concedidos al sector público a corto plazo
+2011,INGRESO,8,2,1,,Reintegros de préstamos concedidos al sector público a largo plazo
+2011,INGRESO,8,3,0,,Reintegros de préstamos concedidos fuera del sector público a corto plazo
+2011,INGRESO,8,3,1,,Reintegros de préstamos concedidos fuera del sector público a largo plazo
+2011,INGRESO,9,1,1,,Préstamos recibidos a largo plazo en moneda nacional
 2011,INGRESO,1,0,0,5,Total IRPF
 2011,INGRESO,1,0,0,6,Beneficios fiscales. IRPF
 2011,INGRESO,1,0,1,5,Total sociedades

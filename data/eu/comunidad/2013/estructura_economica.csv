@@ -1,4 +1,3 @@
-#año,gasto_ingreso,capitulo,articulo,concepto,subconcepto,EU
 2013,GASTO,1,,,,Langile-gastuak
 2013,GASTO,2,,,,Ondasunen eta zerbitzuen gastu arruntak
 2013,GASTO,3,,,,Gastu finantzarioak
@@ -304,7 +303,7 @@
 2013,GASTO,9,0,2,0,Zor publikoaren amortizazioa
 2013,GASTO,9,1,2,0,Epe luzeko maileguen eta aurrerakinen amortizazioa
 2013,GASTO,9,4,0,9,Beste itzulketa batzuk
-#año,gasto_ingreso,capitulo,articulo,concepto,subconcepto,EU
+2013,INGRESO,1,,,,Zuzeneko zergak
 2013,INGRESO,2,,,,Zeharkako zergak
 2013,INGRESO,3,,,,"Tasak, prezio publikoak eta beste diru-sarrera batzuk"
 2013,INGRESO,4,,,,Transferentzia arruntak

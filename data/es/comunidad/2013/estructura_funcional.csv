@@ -1,3 +1,4 @@
+#año,area,politica,grupo,programa,descripcion
 2013,1,,,,Servicios públicos básicos
 2013,2,,,,Actuaciones de protección y promoción social
 2013,3,,,,Producción de bienes públicos de carácter preferente
@@ -259,10 +260,10 @@
 2013,9,3,2.0,3.0,Resolución de reclamaciones económico-administrativas
 2013,9,3,2.0,4.0,Inspección fiscal
 2013,9,4,1.0,1.0,Convenio económico con el Estado
-2013,9,4,1.0,9.0,Otros convenios
 2013,9,4,2.0,2.0,Transferencias a entidades locales por participación en ingresos del Estado
 2013,9,4,2.0,3.0,Otras transferencias
 2013,9,4,2.0,4.0,Transferencias a entidades locales para cooperar en obras y servicios
 2013,9,5,1.0,1.0,Amortización y gastos financieros de la deuda pública en moneda nacional
 2013,3,2,2,0,Dirección y servicios generales de enseñanza
 2013,2,3,1,0,Programac. gral. protección y promoción social
+2013,9,4,1,9,Otros convenios
