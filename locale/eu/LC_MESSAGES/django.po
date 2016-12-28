@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-12-27 02:48+0100\n"
+"PO-Revision-Date: 2016-12-28 02:32+0100\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,3 +114,10 @@ msgstr "Nafarroako Gobernuak Nafarroaren eskumenekoak diren zerbitzu publikoak e
 # Calculadora
 msgid "El cálculo está basado en aproximaciones medias y ni sustituye ni completa a las declaraciones tributarias oficiales, no es un simulador de la Renta.<br/>La aproximación incluye IRPF, IVA e Impuestos especiales, pero no la Seguridad Social. Para realizar el cálculo se ha supuesto lo siguiente: todos sus ingresos provienen de rendimientos del trabajo o de actividades económicas; tiene un consumo medio de gasolina, alcohol y tabaco; ahorra el 10% de sus ingresos; y se le han aplicado las reducciones de la base y deducciones de la cuota medias del conjunto de los contribuyentes en el IRPF"
 msgstr "Kalkulua gutxi gorabeherakoa da, batez bestekoetan oinarritua, eta ez ditu ordezten ez osatzen tributu aitorpen ofizialak, ez da Errentaren simulagailu bat.<br/>Kalkuluan PFEZa, BEZa eta zerga bereziak sartuta daude, ez ordea Gizarte Segurantza. Kalkulua egiteko, kasu hau hartu dugu: bere diru-sarrera guztiak lan etekinetatik edo jarduera ekonomikoetatik sortuak dira; gasolina, alkohol eta tabako kontsumo ertaina du; bere diru-sarreren %10 aurrezten du; eta PFEZan zergadun guztien batez besteko oinarri-murrizketak eta kuota kenkariak aplikatu zaizkio"
+
+# Definición de indicadores
+msgid "Ingresos corrientes (capítulos I-V) - Gastos corrientes (capítulos I-V)"
+msgstr "Gastu arrunten I. kapitulutik V.era bitartekoak – I., II. eta IV. kapituluak"
+
+msgid "Ahorro bruto – capítulo IX de gastos (pasivos financieros)"
+msgstr "Aurrezki gordina – gastuen III. eta IX. kapituluak"
