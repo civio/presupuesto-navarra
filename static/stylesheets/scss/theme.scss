@@ -175,8 +175,15 @@ h1, h2, h3, h4, h5, h6{
   .credit-aragon{
     font-weight: $font-weight-400;
     font-size: 0.875em;
-    padding-top: $grid-gutter-width;
-    margin-bottom: 0;
+    padding-top: $grid-gutter-width/3;
+
+    > a{
+      margin: 0;
+
+      &.link-civio{
+        margin-left: 5px;
+      }
+    }
   }
 
   .footer-menu a:hover{
@@ -184,14 +191,19 @@ h1, h2, h3, h4, h5, h6{
     text-decoration: none;
   }
   
-  @media (min-width: $screen-sm-min) {
+  @media (min-width: $screen-md-min) {
     .main-entity-link{
       float: left;
       margin-bottom: 0;
     }
+    .credit-aragon{
+      float: left;
+      margin-bottom: 0;
+      padding-left: $grid-gutter-width/3;
+    }
     .footer-menu{
       float: right;
-      margin-top: 16px;
+      margin-top: 18px;
       margin-right: -1*$grid-gutter-width/6;
     }
   }
