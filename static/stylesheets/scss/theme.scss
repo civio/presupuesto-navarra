@@ -176,12 +176,20 @@ h1, h2, h3, h4, h5, h6{
     font-weight: $font-weight-400;
     font-size: 0.875em;
     padding-top: $grid-gutter-width/3;
-
     > a{
       margin: 0;
 
       &.link-civio{
-        margin-left: 5px;
+        margin-left: 2px;
+        background-size: 100% auto;
+        width: 70px;
+        height: 20px;
+      }
+
+      &.link-aragon{
+        background-size: 100% auto;
+        width: 110px;
+        height: 20px;
       }
     }
   }
@@ -199,7 +207,8 @@ h1, h2, h3, h4, h5, h6{
     .credit-aragon{
       float: left;
       margin-bottom: 0;
-      padding-left: $grid-gutter-width/3;
+      padding-top: 17px;
+      padding-left: 30px;
     }
     .footer-menu{
       float: right;
