@@ -1,0 +1,780 @@
+2017,GASTO,1, , , ,Gastos de personal                        
+2017,GASTO,1,0, , ,Altos cargos                                                                                              
+2017,GASTO,1,0,0, ,Retribuciones y otras remuneraciones de altos cargos                                                      
+2017,GASTO,1,0,0,0,Retribuciones de altos cargos                                                                             
+2017,GASTO,1,0,0,1,Otras remuneraciones de altos cargos                                                                      
+2017,GASTO,1,1, , ,Personal eventual                                                                                         
+2017,GASTO,1,1,0, ,Retribuciones del personal eventual                                                                       
+2017,GASTO,1,1,0,0,Retribuciones del personal eventual                                                                       
+2017,GASTO,1,2, , ,Retribuciones del puesto                                                                                  
+2017,GASTO,1,2,0, ,Retribuciones del personal fijo                                                                           
+2017,GASTO,1,2,0,0,Retribuciones del personal fijo                                                                           
+2017,GASTO,1,2,1, ,Retribuciones del personal contratado en plazas de plantilla orgánica                                     
+2017,GASTO,1,2,1,0,Retribuciones del personal contratado para cubrir plazas reservadas                                       
+2017,GASTO,1,2,1,1,Retribuciones del personal contratado para cubrir vacantes                                                
+2017,GASTO,1,2,2, ,Retribuciones del personal contratado                                                                     
+2017,GASTO,1,2,2,0,Retribuciones del personal contratado temporal                                                            
+2017,GASTO,1,2,2,1,Retribuciones del personal temporal contratado para campañas                                              
+2017,GASTO,1,2,5, ,Retribuciones del personal contratado para sustituciones                                                  
+2017,GASTO,1,2,5,0,Retribuciones del personal contratado para sustituciones                                                  
+2017,GASTO,1,4, , ,Retribuciones personales                                                                                  
+2017,GASTO,1,4,0, ,Retribuciones personales                                                                                  
+2017,GASTO,1,4,0,0,Retribuciones personales                                                                                  
+2017,GASTO,1,4,1, ,Retribuciones carrera profesional                                                                         
+2017,GASTO,1,4,1,0,Retribuciones carrera profesional                                                                         
+2017,GASTO,1,6, , ,"Cuotas, prestaciones y gastos sociales                                                                    "
+2017,GASTO,1,6,0, ,Cuotas sociales                                                                                           
+2017,GASTO,1,6,0,0,Seguridad social                                                                                          
+2017,GASTO,1,6,0,1,Cuotas MUFACE-ISFAS                                                                                       
+2017,GASTO,1,6,0,9,Otras cuotas sociales                                                                                     
+2017,GASTO,1,6,1, ,Prestaciones sociales                                                                                     
+2017,GASTO,1,6,1,0,Pensiones ordinarias de funcionarios                                                                      
+2017,GASTO,1,6,1,2,Pensiones excepcionales                                                                                   
+2017,GASTO,1,6,1,4,Indemnizaciones por jubilaciones anticipadas                                                              
+2017,GASTO,1,6,2, ,Gastos sociales del personal                                                                              
+2017,GASTO,1,6,2,0,Gastos sociales del personal                                                                              
+2017,GASTO,1,7, , ,Retribuciones variables del personal                                                                      
+2017,GASTO,1,7,0, ,Retribuciones variables del personal                                                                      
+2017,GASTO,1,7,0,0,Indemnización por traslado forzoso con cambio de residencia                                               
+2017,GASTO,1,7,0,1,Indemnización por vestuario                                                                               
+2017,GASTO,1,7,0,2,Horas extraordinarias                                                                                     
+2017,GASTO,1,7,0,3,Remuneración por trabajo en días festivos                                                                 
+2017,GASTO,1,7,0,4,Complemento por realización de guardias                                                                   
+2017,GASTO,1,7,0,5,Complemento por trabajo en turnos de noche                                                                
+2017,GASTO,1,7,0,6,Complemento de dispersión geográfica                                                                      
+2017,GASTO,1,7,0,9,Otras retribuciones variables                                                                             
+2017,GASTO,1,7,1, ,Incentivos al rendimiento                                                                                 
+2017,GASTO,1,7,1,0,Complemento de productividad                                                                              
+2017,GASTO,1,8, , ,Otras retribuciones de personal                                                                           
+2017,GASTO,1,8,0, ,Otras retribuciones de personal                                                                           
+2017,GASTO,1,8,0,0,Otras retribuciones de personal                                                                           
+2017,GASTO,1,8,1, ,Retribuciones de personal de ejercicios anteriores                                                        
+2017,GASTO,1,8,1,0,Retribuciones de personal de ejercicios anteriores                                                        
+2017,GASTO,1,8,2, ,Retribuciones por ejecución de sentencias y otras indemnizaciones                                         
+2017,GASTO,1,8,2,0,Retribuciones por ejecución de sentencias y otras indemnizaciones                                         
+2017,GASTO,2, , , ,Gastos corrientes en bienes y servicios
+2017,GASTO,2,0, , ,Arrendamientos y cánones                                                                                  
+2017,GASTO,2,0,0, ,Arrendamientos de terrenos y bienes naturales                                                             
+2017,GASTO,2,0,0,0,Arrendamientos de terrenos y bienes naturales                                                             
+2017,GASTO,2,0,2, ,Arrendamientos de bienes inmuebles                                                                        
+2017,GASTO,2,0,2,0,Arrendamientos de edificios y otras construcciones                                                        
+2017,GASTO,2,0,2,9,Arrendamientos de otros bienes inmuebles                                                                  
+2017,GASTO,2,0,3, ,"Arrendamientos de maquinaria, instalaciones y utillaje                                                    "
+2017,GASTO,2,0,3,0,"Arrendamientos de maquinaria, instalaciones y utillaje                                                    "
+2017,GASTO,2,0,4, ,Arrendamientos de medios de transporte                                                                    
+2017,GASTO,2,0,4,0,Arrendamientos de medios de transporte                                                                    
+2017,GASTO,2,0,5, ,Arrendamientos de mobiliario y enseres                                                                    
+2017,GASTO,2,0,5,0,Arrendamientos de mobiliario y enseres                                                                    
+2017,GASTO,2,0,6, ,Arrendamientos de equipos y programas para procesos de información                                        
+2017,GASTO,2,0,6,0,Arrendamientos de equipos para proceso de información                                                     
+2017,GASTO,2,0,6,1,Arrendamientos de programas y licencias                                                                   
+2017,GASTO,2,0,8, ,Arrendamientos de otro inmovilizado material                                                              
+2017,GASTO,2,0,8,0,Arrendamientos de otro inmovilizado material                                                              
+2017,GASTO,2,0,9, ,Cánones                                                                                                   
+2017,GASTO,2,0,9,0,Cánones                                                                                                   
+2017,GASTO,2,1, , ,"Reparaciones, mantenimiento y conservación                                                                "
+2017,GASTO,2,1,0, ,Infraestructura y bienes naturales                                                                        
+2017,GASTO,2,1,0,0,Infraestructura y bienes naturales                                                                        
+2017,GASTO,2,1,2, ,Bienes inmuebles                                                                                          
+2017,GASTO,2,1,2,0,Edificios y otras construcciones                                                                          
+2017,GASTO,2,1,3, ,"Maquinaria, instalaciones y utillaje                                                                      "
+2017,GASTO,2,1,3,0,"Maquinaria, instalaciones y utillaje                                                                      "
+2017,GASTO,2,1,4, ,Elementos de transporte                                                                                   
+2017,GASTO,2,1,4,0,Elementos de transporte                                                                                   
+2017,GASTO,2,1,5, ,Mobiliario y enseres                                                                                      
+2017,GASTO,2,1,5,0,Mobiliario y enseres                                                                                      
+2017,GASTO,2,1,6, ,Equipos para procesos de la información                                                                   
+2017,GASTO,2,1,6,0,Equipos informáticos y de telecomunicaciones                                                              
+2017,GASTO,2,1,7, ,Equipos médicos                                                                                           
+2017,GASTO,2,1,7,0,Equipos médicos                                                                                           
+2017,GASTO,2,1,9, ,Otro inmovilizado material                                                                                
+2017,GASTO,2,1,9,0,Otro inmovilizado material                                                                                
+2017,GASTO,2,2, , ,"Material, suministros y otros                                                                             "
+2017,GASTO,2,2,0, ,Material de oficina                                                                                       
+2017,GASTO,2,2,0,0,Material ordinario no inventariable                                                                       
+2017,GASTO,2,2,0,2,"Prensa, revistas, libros y otras publicaciones                                                            "
+2017,GASTO,2,2,0,3,Material informático no inventariable                                                                     
+2017,GASTO,2,2,1, ,Suministros especiales para el funcionamiento de los servicios                                            
+2017,GASTO,2,2,1,0,Alimentación                                                                                              
+2017,GASTO,2,2,1,1,Productos para reproducción y alimentación animal                                                         
+2017,GASTO,2,2,1,3,Prótesis                                                                                                  
+2017,GASTO,2,2,1,4,Instrumental y pequeño utillaje de consumo                                                                
+2017,GASTO,2,2,1,5,Fármacos                                                                                                  
+2017,GASTO,2,2,1,6,Material sanitario de consumo                                                                             
+2017,GASTO,2,2,1,7,Ropería para uso sanitario                                                                                
+2017,GASTO,2,2,1,8,Productos veterinarios                                                                                    
+2017,GASTO,2,2,1,9,Otros suministros especiales                                                                              
+2017,GASTO,2,2,2, ,Comunicaciones                                                                                            
+2017,GASTO,2,2,2,0,Servicios de telecomunicaciones                                                                           
+2017,GASTO,2,2,2,1,Postales y cartería                                                                                       
+2017,GASTO,2,2,2,4,Transmisiones de datos                                                                                    
+2017,GASTO,2,2,2,9,Otras                                                                                                     
+2017,GASTO,2,2,3, ,Gastos de transportes                                                                                     
+2017,GASTO,2,2,3,0,Transporte escolar                                                                                        
+2017,GASTO,2,2,3,1,Transporte sanitario                                                                                      
+2017,GASTO,2,2,3,9,Otros gastos de transporte                                                                                
+2017,GASTO,2,2,4, ,Primas de seguros                                                                                         
+2017,GASTO,2,2,4,0,Primas de seguros de edificios y locales                                                                  
+2017,GASTO,2,2,4,1,Primas de seguros de vehículos                                                                            
+2017,GASTO,2,2,4,2,Primas de seguros de otro inmovilizado                                                                    
+2017,GASTO,2,2,4,9,Otros riesgos                                                                                             
+2017,GASTO,2,2,5, ,Tributos                                                                                                  
+2017,GASTO,2,2,5,0,Tributos locales                                                                                          
+2017,GASTO,2,2,5,2,Tributos estatales                                                                                        
+2017,GASTO,2,2,6, ,Gastos diversos                                                                                           
+2017,GASTO,2,2,6,1,Atenciones protocolarias y representativas                                                                
+2017,GASTO,2,2,6,2,Publicidad y propaganda                                                                                   
+2017,GASTO,2,2,6,3,"Gastos jurídicos, contenciosos                                                                            "
+2017,GASTO,2,2,6,4,Gastos de comunidad de propietarios                                                                       
+2017,GASTO,2,2,6,5,Remuneraciones a agentes mediadores independientes                                                        
+2017,GASTO,2,2,6,6,"Reuniones, conferencias y cursillos                                                                       "
+2017,GASTO,2,2,6,7,Oposiciones y pruebas selectivas                                                                          
+2017,GASTO,2,2,6,8,"Premios, concursos y certámenes                                                                           "
+2017,GASTO,2,2,6,9,Otros gastos diversos                                                                                     
+2017,GASTO,2,2,7, ,Trabajos realizados por otras empresas y profesionales                                                    
+2017,GASTO,2,2,7,0,Servicios de lavandería                                                                                   
+2017,GASTO,2,2,7,1,Servicios de limpieza y aseo                                                                              
+2017,GASTO,2,2,7,2,Servicios de gestión de cobros y notificaciones                                                           
+2017,GASTO,2,2,7,3,Servicios informáticos                                                                                    
+2017,GASTO,2,2,7,4,Servicios de seguridad                                                                                    
+2017,GASTO,2,2,7,5,Procesos electorales y consultas populares                                                                
+2017,GASTO,2,2,7,6,Estudios y trabajos técnicos                                                                              
+2017,GASTO,2,2,7,7,Gestión de residuos                                                                                       
+2017,GASTO,2,2,7,8,Alimentación                                                                                              
+2017,GASTO,2,2,7,9,Otros trabajos realizados por terceros                                                                    
+2017,GASTO,2,2,8, ,Suministros auxiliares                                                                                    
+2017,GASTO,2,2,8,0,"Energía eléctrica, agua y calefacción                                                                     "
+2017,GASTO,2,2,8,1,Combustibles y lubricantes                                                                                
+2017,GASTO,2,2,8,3,"Materiales para reparaciones, conservación y repuestos                                                    "
+2017,GASTO,2,2,8,4,Material de limpieza y aseo                                                                               
+2017,GASTO,2,2,8,5,Vestuario                                                                                                 
+2017,GASTO,2,2,8,6,Productos químicos y de laboratorio                                                                       
+2017,GASTO,2,2,8,7,Gases médicos                                                                                             
+2017,GASTO,2,2,8,9,Otros suministros auxiliares                                                                              
+2017,GASTO,2,2,9, ,Gastos de funcionamiento de edificios                                                                     
+2017,GASTO,2,2,9,0,Gastos de funcionamiento de centros docentes no universitarios                                            
+2017,GASTO,2,2,9,9,Gastos de funcionamiento de otros edificios                                                               
+2017,GASTO,2,3, , ,Indemnizaciones por razón del servicio                                                                    
+2017,GASTO,2,3,0, ,"Dietas, locomoción y gastos de viaje                                                                      "
+2017,GASTO,2,3,0,0,Dietas                                                                                                    
+2017,GASTO,2,3,0,1,Locomoción y gastos de viaje                                                                              
+2017,GASTO,2,3,3, ,Otras indemnizaciones                                                                                     
+2017,GASTO,2,3,3,0,Indemnización por trabajos realizados                                                                     
+2017,GASTO,2,3,3,9,Otras indemnizaciones                                                                                     
+2017,GASTO,2,4, , ,Gastos de publicaciones                                                                                   
+2017,GASTO,2,4,0, ,Gastos de edición y distribución                                                                          
+2017,GASTO,2,4,0,0,Gastos de edición de libros y publicaciones                                                               
+2017,GASTO,2,5, , ,Conciertos de asistencia sanitaria                                                                        
+2017,GASTO,2,5,0, ,Conciertos de asistencia sanitaria                                                                        
+2017,GASTO,2,5,0,0,Conciertos de asistencia sanitaria                                                                        
+2017,GASTO,3, , , ,Gastos financieros                      
+2017,GASTO,3,0, , ,Gastos financieros de deuda pública interior                                                              
+2017,GASTO,3,0,0, ,Intereses de obligaciones y bonos                                                                         
+2017,GASTO,3,0,0,0,Intereses de deuda de Navarra                                                                             
+2017,GASTO,3,0,0,8,Intereses de pagarés                                                                                      
+2017,GASTO,3,0,0,9,Otros intereses                                                                                           
+2017,GASTO,3,0,1, ,"Gastos de emisión, modificación y cancelación de deuda                                                    "
+2017,GASTO,3,0,1,0,"Gastos de emisión, modificación y cancelación de deuda                                                    "
+2017,GASTO,3,0,2, ,Primas de reembolso de obligaciones y bonos                                                               
+2017,GASTO,3,0,2,0,Primas de reembolso de obligaciones y bonos                                                               
+2017,GASTO,3,0,3, ,Rendimientos implícitos                                                                                   
+2017,GASTO,3,0,3,0,Rendimientos implícitos                                                                                   
+2017,GASTO,3,1, , ,Gastos financieros de préstamos del interior                                                              
+2017,GASTO,3,1,0, ,Intereses de préstamos y anticipos del interior                                                           
+2017,GASTO,3,1,0,0,Intereses de préstamos y anticipos recibidos del sector público                                           
+2017,GASTO,3,1,0,1,Intereses de préstamos y anticipos recibidos del sector privado                                           
+2017,GASTO,3,1,1, ,Gastos de formalización y otros de préstamos y anticipos del interior                                     
+2017,GASTO,3,1,1,0,Gastos de formalización y otros de préstamos y anticipos del interior                                     
+2017,GASTO,3,1,3, ,Rendimientos implícitos                                                                                   
+2017,GASTO,3,1,3,0,Rendimientos implícitos                                                                                   
+2017,GASTO,3,3, , ,Gastos financieros de préstamos del exterior                                                              
+2017,GASTO,3,3,0, ,Intereses de préstamos y anticipos del exterior                                                           
+2017,GASTO,3,3,0,0,Intereses de préstamos y anticipos del exterior                                                           
+2017,GASTO,3,3,1, ,Gastos de formalización y otros de préstamos y anticipos del exterior                                     
+2017,GASTO,3,3,1,0,Gastos de formalización y otros de préstamos y anticipos del exterior                                     
+2017,GASTO,3,3,2, ,Diferencias de cambio                                                                                     
+2017,GASTO,3,3,2,0,Diferencias de cambio                                                                                     
+2017,GASTO,3,3,3, ,Rendimientos implícitos                                                                                   
+2017,GASTO,3,3,3,0,Rendimientos implícitos                                                                                   
+2017,GASTO,3,4, , ,Gastos financieros de depósitos y fianzas                                                                 
+2017,GASTO,3,4,0, ,Intereses de depósitos y fianzas                                                                          
+2017,GASTO,3,4,0,0,Intereses de depósitos                                                                                    
+2017,GASTO,3,4,0,1,Intereses de fianzas                                                                                      
+2017,GASTO,3,5, , ,Intereses de demora y otros gastos financieros                                                            
+2017,GASTO,3,5,0, ,Intereses de demora y otros gastos financieros                                                            
+2017,GASTO,3,5,0,1,Intereses de demora                                                                                       
+2017,GASTO,3,5,0,9,Otros gastos financieros                                                                                  
+2017,GASTO,4, , , ,Transferencias corrientes                                    
+2017,GASTO,4,0, , ,Transferencias corrientes a la Administración del Estado                                                  
+2017,GASTO,4,0,0, ,Aportación al Estado derivada del Convenio Económico                                                      
+2017,GASTO,4,0,0,0,Aportación al Estado derivada del Convenio Económico                                                      
+2017,GASTO,4,0,9, ,Otras aportaciones al Estado o a sus organismos autónomos                                                 
+2017,GASTO,4,0,9,0,Otras aportaciones al Estado o a sus organismos autónomos                                                 
+2017,GASTO,4,1, , ,Transferencias corrientes a organismos autónomos de la Administración de la Comunidad Foral               
+2017,GASTO,4,1,0, ,Transferencias corrientes a organismos autónomos de la Administración de la Comunidad Foral               
+2017,GASTO,4,1,0,0,Transferencias corrientes a organismos autónomos de la Administración de la Comunidad Foral               
+2017,GASTO,4,2, , ,Transferencias corrientes a la Seguridad Social                                                           
+2017,GASTO,4,2,0, ,Transferencias corrientes a la Seguridad Social                                                           
+2017,GASTO,4,2,0,0,Transferencias corrientes a la Seguridad Social                                                           
+2017,GASTO,4,3, , ,Transferencias corrientes a fundaciones                                                                   
+2017,GASTO,4,3,0, ,Transferencias corrientes a fundaciones                                                                   
+2017,GASTO,4,3,0,0,Transferencias corrientes a fundaciones forales                                                           
+2017,GASTO,4,3,0,9,Transferencias corrientes a otras fundaciones                                                             
+2017,GASTO,4,4, , ,Transferencias corrientes a empresas públicas y otros entes públicos                                      
+2017,GASTO,4,4,0, ,Transferencias corrientes a empresas públicas                                                             
+2017,GASTO,4,4,0,0,Transferencias corrientes a empresas públicas del Gobierno de Navarra                                     
+2017,GASTO,4,4,0,9,Transferencias corrientes a otras empresas públicas                                                       
+2017,GASTO,4,4,5, ,Transferencias corrientes a otros entes públicos                                                          
+2017,GASTO,4,4,5,0,Transferencias corrientes al Parlamento de Navarra                                                        
+2017,GASTO,4,4,5,1,Transferencias corrientes a la Cámara de Comptos                                                          
+2017,GASTO,4,4,5,2,Transferencias corrientes al Defensor del Pueblo                                                          
+2017,GASTO,4,4,5,5,Transferencias corrientes a la Universidad Pública de Navarra                                             
+2017,GASTO,4,4,5,9,Transferencias corrientes a otros entes públicos                                                          
+2017,GASTO,4,5, , ,Transferencias corrientes a comunidades autónomas                                                         
+2017,GASTO,4,5,0, ,Transferencias corrientes a comunidades autónomas                                                         
+2017,GASTO,4,5,0,0,Transferencias corrientes a comunidades autónomas                                                         
+2017,GASTO,4,6, , ,Transferencias corrientes a entidades locales                                                             
+2017,GASTO,4,6,0, ,Transferencias corrientes a entidades locales de Navarra                                                  
+2017,GASTO,4,6,0,0,Fondo de transferencias corrientes                                                                        
+2017,GASTO,4,6,0,9,Otras transferencias corrientes a entidades locales de Navarra                                            
+2017,GASTO,4,6,1, ,Transferencias corrientes a entidades locales no pertenecientes a Navarra                                 
+2017,GASTO,4,6,1,0,Transferencias corrientes a entidades locales no pertenecientes a Navarra                                 
+2017,GASTO,4,7, , ,Transferencias corrientes a empresas privadas                                                             
+2017,GASTO,4,7,0, ,Transferencias corrientes a empresas privadas                                                             
+2017,GASTO,4,7,0,0,Transferencias corrientes a empresas agrícolas y ganaderas                                                
+2017,GASTO,4,7,0,1,Transferencias corrientes a empresas comerciales e industriales                                           
+2017,GASTO,4,7,0,9,Transferencias corrientes a otras empresas privadas                                                       
+2017,GASTO,4,8, , ,Transferencias corrientes a familias e instituciones sin fines de lucro                                   
+2017,GASTO,4,8,0, ,Transferencias corrientes a familias y particulares                                                       
+2017,GASTO,4,8,0,0,Transferencias corrientes a particulares estudiantes                                                      
+2017,GASTO,4,8,0,2,Pensiones asistenciales                                                                                   
+2017,GASTO,4,8,0,9,Transferencias corrientes a familias y otros particulares                                                 
+2017,GASTO,4,8,1, ,Transferencias corrientes a instituciones sin fines de lucro                                              
+2017,GASTO,4,8,1,1,Transferencias corrientes a centros de enseñanza no universitaria                                         
+2017,GASTO,4,8,1,2,Transferencias corrientes a facultades y escuelas universitarias                                          
+2017,GASTO,4,8,1,6,Transferencias corrientes a organizaciones culturales y artísticas                                        
+2017,GASTO,4,8,1,9,Transferencias corrientes a otras instituciones sin fines de lucro                                        
+2017,GASTO,4,9, , ,Transferencias corrientes al exterior                                                                     
+2017,GASTO,4,9,0, ,Transferencias corrientes al exterior                                                                     
+2017,GASTO,4,9,0,0,Transferencias corrientes al exterior                                                                     
+2017,GASTO,5, , , ,Fondo de Prórroga o Fondo de Contingencia               
+2017,GASTO,5,0, , ,Fondo de Prórroga o Fondo de Contingencia                                                                 
+2017,GASTO,5,0,0, ,Fondo de Prórroga o Fondo de Contingencia                                                                 
+2017,GASTO,5,0,0,0,Fondo de Prórroga o Fondo de Contingencia                                                                 
+2017,GASTO,6, , , ,Inversiones reales                      
+2017,GASTO,6,0, , ,Inversiones reales                                                                                        
+2017,GASTO,6,0,0, ,Terrenos y bienes naturales                                                                               
+2017,GASTO,6,0,0,0,Solares                                                                                                   
+2017,GASTO,6,0,0,1,Fincas rústicas                                                                                           
+2017,GASTO,6,0,0,2,Otros bienes naturales                                                                                    
+2017,GASTO,6,0,1, ,Obras públicas                                                                                            
+2017,GASTO,6,0,1,0,"Carreteras, caminos y puentes                                                                             "
+2017,GASTO,6,0,1,3,Líneas eléctricas y telefónicas                                                                           
+2017,GASTO,6,0,1,4,Obras hidráulicas                                                                                         
+2017,GASTO,6,0,1,5,Polígonos industriales                                                                                    
+2017,GASTO,6,0,1,6,Aeropuertos                                                                                               
+2017,GASTO,6,0,1,9,Otras obras públicas                                                                                      
+2017,GASTO,6,0,2, ,Edificios y otras construcciones                                                                          
+2017,GASTO,6,0,2,0,Edificios                                                                                                 
+2017,GASTO,6,0,2,1,Otras construcciones                                                                                      
+2017,GASTO,6,0,3, ,"Maquinaria, instalaciones y utillaje                                                                      "
+2017,GASTO,6,0,3,0,Maquinaria                                                                                                
+2017,GASTO,6,0,3,1,Instalaciones                                                                                             
+2017,GASTO,6,0,3,2,Utillaje y herramientas                                                                                   
+2017,GASTO,6,0,4, ,Material de transporte                                                                                    
+2017,GASTO,6,0,4,0,Vehículos para el transporte de personas                                                                  
+2017,GASTO,6,0,4,1,Vehículos para el transporte de cargas                                                                    
+2017,GASTO,6,0,4,2,Otro material de transporte                                                                               
+2017,GASTO,6,0,5, ,Mobiliario y enseres                                                                                      
+2017,GASTO,6,0,5,0,Mobiliario y equipo de oficina                                                                            
+2017,GASTO,6,0,5,4,Material técnico                                                                                          
+2017,GASTO,6,0,5,5,Material de señalización                                                                                  
+2017,GASTO,6,0,5,6,Obras y material artístico                                                                                
+2017,GASTO,6,0,5,7,Equipos médicos                                                                                           
+2017,GASTO,6,0,5,9,Otro mobiliario y equipo                                                                                  
+2017,GASTO,6,0,6, ,Equipos para proceso de información                                                                       
+2017,GASTO,6,0,6,0,Equipos para proceso de información                                                                       
+2017,GASTO,6,0,7, ,Bienes semovientes                                                                                        
+2017,GASTO,6,0,7,0,Bienes semovientes                                                                                        
+2017,GASTO,6,0,8, ,Otro inmovilizado material                                                                                
+2017,GASTO,6,0,8,1,Adquisición de fondos editoriales                                                                         
+2017,GASTO,6,0,8,2,Material y equipos de investigación                                                                       
+2017,GASTO,6,0,8,9,Otro inmovilizado material                                                                                
+2017,GASTO,6,0,9, ,Inmovilizado inmaterial                                                                                   
+2017,GASTO,6,0,9,1,Proyectos técnicos                                                                                        
+2017,GASTO,6,0,9,2,"Estudios, informes y otros                                                                                "
+2017,GASTO,6,0,9,3,Propiedad industrial e intelectual                                                                        
+2017,GASTO,6,0,9,4,Aplicaciones informáticas                                                                                 
+2017,GASTO,6,0,9,5,Gastos de investigación y desarrollo                                                                      
+2017,GASTO,6,0,9,9,Otro inmovilizado inmaterial                                                                              
+2017,GASTO,7, , , ,Transferencias de capital         
+2017,GASTO,7,0, , ,Transferencias de capital a la Administración del Estado                                                  
+2017,GASTO,7,0,0, ,Transferencias de capital a la Administración del Estado                                                  
+2017,GASTO,7,0,0,0,Transferencias de capital a la Administración del Estado                                                  
+2017,GASTO,7,1, , ,Transferencias de capital a organismos autónomos de la Administración de la Comunidad Foral               
+2017,GASTO,7,1,0, ,Transferencias de capital a organismos autónomos de la Administración de la Comunidad Foral               
+2017,GASTO,7,1,0,0,Transferencias de capital a organismos autónomos de la Administración de la Comunidad Foral               
+2017,GASTO,7,2, , ,Transferencias de capital a la Seguridad Social                                                           
+2017,GASTO,7,2,0, ,Transferencias de capital a la Seguridad Social                                                           
+2017,GASTO,7,2,0,0,Transferencias de capital a la Seguridad Social                                                           
+2017,GASTO,7,3, , ,Transferencias de capital a fundaciones                                                                   
+2017,GASTO,7,3,0, ,Transferencias de capital a fundaciones                                                                   
+2017,GASTO,7,3,0,0,Transferencias de capital a fundaciones forales                                                           
+2017,GASTO,7,3,0,9,Transferencias de capital a otras fundaciones                                                             
+2017,GASTO,7,4, , ,Transferencias de capital a empresas públicas y otros entes públicos                                      
+2017,GASTO,7,4,0, ,Transferencias de capital a empresas públicas                                                             
+2017,GASTO,7,4,0,0,Transferencias de capital a empresas públicas del Gobierno de Navarra                                     
+2017,GASTO,7,4,0,9,Transferencias de capital a otras empresas públicas                                                       
+2017,GASTO,7,4,5, ,Transferencias de capital a otros entes públicos                                                          
+2017,GASTO,7,4,5,0,Transferencias de capital al Parlamento de Navarra                                                        
+2017,GASTO,7,4,5,1,Transferencias de capital a la Cámara de Comptos                                                          
+2017,GASTO,7,4,5,2,Transferencias de capital al Defensor del Pueblo                                                          
+2017,GASTO,7,4,5,5,Transferencias de capital a la Universidad Pública de Navarra                                             
+2017,GASTO,7,4,5,9,Transferencias de capital a otros entes públicos                                                          
+2017,GASTO,7,5, , ,Transferencias de capital a comunidades autónomas                                                         
+2017,GASTO,7,5,0, ,Transferencias de capital a comunidades autónomas                                                         
+2017,GASTO,7,5,0,0,Transferencias de capital a comunidades autónomas                                                         
+2017,GASTO,7,6, , ,Transferencias de capital a entidades locales                                                             
+2017,GASTO,7,6,0, ,Transferencias de capital a entidades locales de Navarra                                                  
+2017,GASTO,7,6,0,0,Fondo de transferencias de capital                                                                        
+2017,GASTO,7,6,0,9,Otras transferencias de capital a entidades locales de Navarra                                            
+2017,GASTO,7,6,1, ,Transferencias de capital a entidades locales no pertenecientes a Navarra                                 
+2017,GASTO,7,6,1,0,Transferencias de capital a entidades locales no pertenecientes a Navarra                                 
+2017,GASTO,7,7, , ,Transferencias de capital a empresas privadas                                                             
+2017,GASTO,7,7,0, ,Transferencias de capital a empresas privadas                                                             
+2017,GASTO,7,7,0,0,Transferencias de capital a empresas agrícolas y ganaderas                                                
+2017,GASTO,7,7,0,1,Transferencias de capital a empresas comerciales e industriales                                           
+2017,GASTO,7,7,0,9,Transferencias de capital a otras empresas privadas                                                       
+2017,GASTO,7,8, , ,Transferencias de capital a familias e instituciones sin fines de lucro                                   
+2017,GASTO,7,8,0, ,Transferencias capital a familias y particulares                                                          
+2017,GASTO,7,8,0,0,Transferencias capital a familias y particulares                                                          
+2017,GASTO,7,8,0,9,Transferencias de capital a otras familias y particulares                                                 
+2017,GASTO,7,8,1, ,Transferencias de capital a instituciones sin fines de lucro                                              
+2017,GASTO,7,8,1,1,Transferencias de capital a centros de enseñanza no universitaria                                         
+2017,GASTO,7,8,1,2,Transferencias de capital a facultades y escuelas universitarias                                          
+2017,GASTO,7,8,1,6,Transferencias de capital a organizaciones culturales y artísticas                                        
+2017,GASTO,7,8,1,9,Transferencias de capital a otras instituciones sin fines de lucro                                        
+2017,GASTO,7,9, , ,Transferencias de capital al exterior                                                                     
+2017,GASTO,7,9,0, ,Transferencias de capital al exterior                                                                     
+2017,GASTO,7,9,0,0,Transferencias de capital al exterior                                                                     
+2017,GASTO,8, , , ,Activos financieros                        
+2017,GASTO,8,0, , ,Adquisición de deuda del sector público                                                                   
+2017,GASTO,8,0,0, ,Adquisición de deuda del sector público a corto plazo                                                     
+2017,GASTO,8,0,0,0,Adquisición de deuda del sector público a corto plazo                                                     
+2017,GASTO,8,0,1, ,Adquisición de deuda del sector público a largo plazo                                                     
+2017,GASTO,8,0,1,0,Adquisición de deuda del sector público a largo plazo                                                     
+2017,GASTO,8,1, , ,Adquisición de obligaciones y bonos fuera del sector público                                              
+2017,GASTO,8,1,0, ,Adquisición de obligaciones y bonos fuera del sector público a corto plazo                                
+2017,GASTO,8,1,0,0,Adquisición de obligaciones y bonos fuera del sector público a corto plazo                                
+2017,GASTO,8,1,1, ,Adquisición de obligaciones y bonos fuera del sector público a largo plazo                                
+2017,GASTO,8,1,1,0,Adquisición de obligaciones y bonos fuera del sector público a largo plazo                                
+2017,GASTO,8,2, , ,Concesión de préstamos al sector público                                                                  
+2017,GASTO,8,2,0, ,Concesión de préstamos al sector público a corto plazo                                                    
+2017,GASTO,8,2,0,1,Concesión de préstamos a organismos públicos a corto plazo                                                
+2017,GASTO,8,2,0,4,Concesión de préstamos a empresas públicas a corto plazo                                                  
+2017,GASTO,8,2,0,6,Concesión de préstamos a corporaciones locales de Navarra a corto plazo                                   
+2017,GASTO,8,2,0,9,Concesión de otros préstamos al sector público a corto plazo                                              
+2017,GASTO,8,2,1, ,Concesión de préstamos al sector público a largo plazo                                                    
+2017,GASTO,8,2,1,1,Concesión de préstamos a organismos públicos a largo plazo                                                
+2017,GASTO,8,2,1,4,Concesión de préstamos a empresas públicas a largo plazo                                                  
+2017,GASTO,8,2,1,6,Concesión de préstamos a corporaciones locales de Navarra a largo plazo                                   
+2017,GASTO,8,2,1,9,Concesión de otros préstamos al sector público a largo plazo                                              
+2017,GASTO,8,3, , ,Concesión de préstamos fuera del sector público                                                           
+2017,GASTO,8,3,0, ,Concesión de préstamos fuera del sector público a corto plazo                                             
+2017,GASTO,8,3,0,7,Concesión de préstamos a empresas privadas a corto plazo                                                  
+2017,GASTO,8,3,0,8,Concesión de préstamos a familias y empleados a corto plazo                                               
+2017,GASTO,8,3,0,9,Concesión de otros préstamos fuera del sector público a corto plazo                                       
+2017,GASTO,8,3,1, ,Concesión de préstamos fuera del sector público a largo plazo                                             
+2017,GASTO,8,3,1,7,Concesión de préstamos a empresas privadas a largo plazo                                                  
+2017,GASTO,8,3,1,8,Concesión de préstamos a familias y empleados a largo plazo                                               
+2017,GASTO,8,3,1,9,Concesión de otros préstamos fuera del sector público a largo plazo                                       
+2017,GASTO,8,4, , ,Constitución de depósitos y fianzas                                                                       
+2017,GASTO,8,4,0, ,Constitución de depósitos y pagos por incumplimiento de obligaciones afianzadas                           
+2017,GASTO,8,4,0,0,Depósitos constituidos                                                                                    
+2017,GASTO,8,4,0,1,Pagos por incumplimiento obligaciones afianzadas                                                          
+2017,GASTO,8,4,1, ,Constitución de fianzas                                                                                   
+2017,GASTO,8,4,1,0,Constitución de fianzas                                                                                   
+2017,GASTO,8,5, , ,Adquisición de acciones y participaciones del sector público                                              
+2017,GASTO,8,5,0, ,Adquisición de acciones y participaciones del sector público                                              
+2017,GASTO,8,5,0,0,Adquisición de acciones y participaciones de sociedades públicas de la Comunidad Foral                    
+2017,GASTO,8,5,0,1,Adquisición de acciones y participaciones de otras instituciones o entidades públicas                     
+2017,GASTO,8,6, , ,Adquisición de acciones y participaciones de fuera del sector público                                     
+2017,GASTO,8,6,0, ,Adquisición de acciones y participaciones de fuera del sector público                                     
+2017,GASTO,8,6,0,0,Adquisición de acciones y participaciones de fuera del sector público                                     
+2017,GASTO,8,7, , ,Financiación de déficit de ejercicios anteriores                                                          
+2017,GASTO,8,7,0, ,Financiación de déficit de ejercicios anteriores                                                          
+2017,GASTO,8,7,0,0,Financiación de déficit de ejercicios anteriores                                                          
+2017,GASTO,9, , , ,Pasivos financieros                            
+2017,GASTO,9,0, , ,Amortización de deuda pública interior                                                                    
+2017,GASTO,9,0,0, ,Amortización de deuda pública interior                                                                    
+2017,GASTO,9,0,0,0,Amortización de deuda pública interior                                                                    
+2017,GASTO,9,0,2, ,Amortización de obligaciones y bonos a largo plazo                                                        
+2017,GASTO,9,0,2,0,Amortización de la deuda pública                                                                          
+2017,GASTO,9,1, , ,Amortización de préstamos del interior                                                                    
+2017,GASTO,9,1,0, ,Amortización de préstamos y anticipos a corto plazo                                                       
+2017,GASTO,9,1,0,0,Amortización de préstamos y anticipos a corto plazo                                                       
+2017,GASTO,9,1,2, ,Amortización de préstamos y anticipos a largo plazo                                                       
+2017,GASTO,9,1,2,0,Amortización de préstamos y anticipos a largo plazo                                                       
+2017,GASTO,9,3, , ,Amortización de préstamos del exterior                                                                    
+2017,GASTO,9,3,0, ,Amortización de préstamos del exterior a corto plazo                                                      
+2017,GASTO,9,3,0,0,Amortización de préstamos del exterior a corto plazo                                                      
+2017,GASTO,9,3,1, ,Amortización de préstamos del exterior a largo plazo                                                      
+2017,GASTO,9,3,1,0,Amortización de préstamos del exterior a largo plazo                                                      
+2017,GASTO,9,4, , ,"Devolución de depósitos, fianzas y otras                                                                  "
+2017,GASTO,9,4,0, ,"Devolución de depósitos, fianzas y otras                                                                  "
+2017,GASTO,9,4,0,0,Devolución de depósitos                                                                                   
+2017,GASTO,9,4,0,1,Devolución de fianzas                                                                                     
+2017,GASTO,9,4,0,9,Otras devoluciones                                                                                        
+2017,INGRESO,1,,,,Impuestos directos
+2017,INGRESO,1,0,,,Impuestos directos sobre la renta
+2017,INGRESO,1,0,0,,Impuesto sobre la renta de las personas físicas
+2017,INGRESO,1,0,0,5,Total IRPF
+2017,INGRESO,1,0,0,6,Beneficios fiscales. IRPF
+2017,INGRESO,1,0,0,7,Gravamen único sobre revalorización de activos. IRPF
+2017,INGRESO,1,0,1,,Impuesto sobre sociedades
+2017,INGRESO,1,0,1,5,Total sociedades
+2017,INGRESO,1,0,1,6,Beneficios fiscales. Sociedades
+2017,INGRESO,1,0,1,7,Gravamen único sobre revalorizacionmes de activos. Sociedades
+2017,INGRESO,1,0,2,,Impuesto sobre la renta de no residentes
+2017,INGRESO,1,0,2,0,Impuesto sobre la renta de no residentes
+2017,INGRESO,1,1,,,Impuestos directos sobre el capital
+2017,INGRESO,1,1,0,,Ingresos por el Impuesto sobre el Patrimonio
+2017,INGRESO,1,1,0,0,Ingresos por el Impuesto sobre el Patrimonio
+2017,INGRESO,1,1,2,,Impuesto sobre sucesiones y donaciones
+2017,INGRESO,1,1,2,0,Impuesto sobre sucesiones y donaciones
+2017,INGRESO,1,1,3,,Gravamen sobre la actualización de valores
+2017,INGRESO,1,1,3,0,Gravamen sobre la actualización de valores
+2017,INGRESO,1,1,4,,Impuesto sobre depósitos bancarios
+2017,INGRESO,1,1,4,0,Impuesto sobre depósitos bancarios
+2017,INGRESO,1,3,,,Impuesto sobre la producción y almacenamiento de energía eléctrica y combustible
+2017,INGRESO,1,3,0,,Impuesto sobre el valor de producción de energía eléctrica
+2017,INGRESO,1,3,0,0,Impuesto sobre el valor de producción de energía eléctrica
+2017,INGRESO,1,3,1,,Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica
+2017,INGRESO,1,3,1,0,Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica
+2017,INGRESO,1,3,2,,Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas
+2017,INGRESO,1,3,2,0,Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas
+2017,INGRESO,1,8,,,Otros impuestos directos
+2017,INGRESO,1,8,2,,Impto. sobre grandes establecimientos comerciales
+2017,INGRESO,1,8,2,0,Impto. sobre grandes establecimientos comerciales
+2017,INGRESO,1,8,3,,Impuesto sobre premios de loterías
+2017,INGRESO,1,8,3,0,Impuesto sobre premios de loterías
+2017,INGRESO,1,8,4,,Impuesto sobre depósitos en entidades de crédito
+2017,INGRESO,1,8,4,0,Impuesto sobre depósitos en entidades de crédito
+2017,INGRESO,1,9,,,Impuestos directos extinguidos
+2017,INGRESO,1,9,0,,Impuestos directos extinguidos
+2017,INGRESO,1,9,0,0,Impuestos directos extinguidos
+2017,INGRESO,2,,,,Impuestos indirectos
+2017,INGRESO,2,1,,,Impuesto sobre el valor añadido
+2017,INGRESO,2,1,0,,Impuesto sobre el valor añadido
+2017,INGRESO,2,1,0,0,Impuesto sobre el valor añadido
+2017,INGRESO,2,2,,,Impuestos sobre consumos específicos
+2017,INGRESO,2,2,0,,Impuestos especiales
+2017,INGRESO,2,2,0,0,Impuestos sobre el alcohol y bebidas derivadas
+2017,INGRESO,2,2,0,1,Impuesto sobre determinados medios de transporte
+2017,INGRESO,2,2,0,2,Impuesto sobre la cerveza
+2017,INGRESO,2,2,0,3,Impuesto sobre las labores del tabaco
+2017,INGRESO,2,2,0,4,Impuesto sobre hidrocarburos
+2017,INGRESO,2,2,0,6,Impuesto sobre productos intermedios
+2017,INGRESO,2,2,0,7,Impuesto sobre producción de energía
+2017,INGRESO,2,2,0,9,Otros
+2017,INGRESO,2,2,1,,Otros impuestos sobre consumos específicos
+2017,INGRESO,2,2,1,0,Impuesto sobre ventas minoristas de determinados hidrocarburos
+2017,INGRESO,2,2,1,1,Otros impuestos sobre consumos específicos
+2017,INGRESO,2,8,,,Otros impuestos indirectos
+2017,INGRESO,2,8,1,,Impuesto sobre las primas de seguros
+2017,INGRESO,2,8,1,0,Impuesto sobre las primas de seguros
+2017,INGRESO,2,8,2,,Impuesto sobre transmisiones patrimonialales intervivos
+2017,INGRESO,2,8,2,0,Impuesto sobre transmisiones patrimonialales intervivos
+2017,INGRESO,2,8,3,,Impuesto sobre actos jurídicos documentados
+2017,INGRESO,2,8,3,0,Impuesto sobre actos jurídicos documentados
+2017,INGRESO,2,8,4,,Impuesto sobre actividades del juego
+2017,INGRESO,2,8,4,0,Impuesto sobre actividades del juego
+2017,INGRESO,2,8,5,,Impuesto sobre gases fluorados de efecto invernadero
+2017,INGRESO,2,8,5,0,Impuesto sobre gases fluorados de efecto invernadero
+2017,INGRESO,2,8,9,,Otros impuestos indirectos
+2017,INGRESO,2,8,9,0,Otros impuestos indirectos
+2017,INGRESO,3,,,,"Tasas, precios públicos y otros ingresos"
+2017,INGRESO,3,0,,,Tasas fiscales
+2017,INGRESO,3,0,0,,Tasas derivadas de la actividad del juego
+2017,INGRESO,3,0,0,0,Tasas derivadas de la actividad del juego
+2017,INGRESO,3,0,1,,Tasas por servicios administrativos
+2017,INGRESO,3,0,1,0,Tasas por servicios administrativos
+2017,INGRESO,3,0,2,,"Tasas por licencias de caza y pesca, cotos y otros"
+2017,INGRESO,3,0,2,0,"Tasas por licencias de caza y pesca, cotos y otros"
+2017,INGRESO,3,0,3,,Tasas judiciales
+2017,INGRESO,3,0,3,0,Tasas judiciales
+2017,INGRESO,3,0,4,,Tasas por servicios de ordenación del transporte
+2017,INGRESO,3,0,4,0,Tasas por servicios de ordenación del transporte
+2017,INGRESO,3,0,5,,Tasas por servicios industriales energéticos y mineros
+2017,INGRESO,3,0,5,0,Tasas por servicios industriales energéticos y mineros
+2017,INGRESO,3,0,6,,Tasas por dirección y tasación de obras
+2017,INGRESO,3,0,6,0,Tasas por dirección y tasación de obras
+2017,INGRESO,3,0,7,,Tasas académicas y derechos de examen
+2017,INGRESO,3,0,7,0,Tasas académicas y derechos de examen
+2017,INGRESO,3,0,8,,Tasas de telecomunicaciones
+2017,INGRESO,3,0,8,0,Tasas de telecomunicaciones
+2017,INGRESO,3,0,9,,Otras tasas
+2017,INGRESO,3,0,9,0,Otras tasas
+2017,INGRESO,3,1,,,Precios públicos por prestación de servicios
+2017,INGRESO,3,1,0,,Prestación de servicios educativos
+2017,INGRESO,3,1,0,0,Prestación de servicios educativos
+2017,INGRESO,3,1,1,,"Prestación de servicios culturales, deportivos y de ocio"
+2017,INGRESO,3,1,1,0,Ingresos por visitas a centros culturales
+2017,INGRESO,3,1,1,1,Ingresos por organización de actividades culturales
+2017,INGRESO,3,1,1,3,Ingresos por organización y explotación de actividades deportivas
+2017,INGRESO,3,1,1,8,"Ingresos por otros servicios culturales, deportivos y de ocio"
+2017,INGRESO,3,1,2,,Prestación de servicios sanitarios y sociales
+2017,INGRESO,3,1,2,0,Concierto con INGESA por asistencia médica
+2017,INGRESO,3,1,2,3,Concierto con otras entidades por asistencia médica
+2017,INGRESO,3,1,2,4,Ingresos por prestación de asistencoia médica a particulares
+2017,INGRESO,3,1,2,5,Ingresos por prestación de servicios veterinarios
+2017,INGRESO,3,1,2,6,Ingresos por prestación de servicios sociales
+2017,INGRESO,3,1,2,8,Ingreso por prestación de asistenciasanitaria uso especial
+2017,INGRESO,3,1,2,9,Ingresos por prestación de otros servicios sanitarios y sociales
+2017,INGRESO,3,1,3,,Prestación de servicios de transporte
+2017,INGRESO,3,1,3,0,Ingresos por prestación de servicios de transporte
+2017,INGRESO,3,1,9,,Prestación de otros servicios
+2017,INGRESO,3,1,9,0,Ingresos por prestación de servicios informáticos
+2017,INGRESO,3,1,9,1,Ingresos por estancias carcelarias
+2017,INGRESO,3,1,9,2,Ingresos por alquiler de maquinaria
+2017,INGRESO,3,1,9,9,Ingresos por prestación de otros servicios
+2017,INGRESO,3,3,,,Venta de bienes y derechos
+2017,INGRESO,3,3,0,,Venta de bienes y derechos
+2017,INGRESO,3,3,0,1,Venta de material de desecho
+2017,INGRESO,3,3,0,2,Venta de productos agropecuarios
+2017,INGRESO,3,3,0,3,Venta de medicamentos
+2017,INGRESO,3,3,0,4,Venta de publicaciones
+2017,INGRESO,3,3,0,5,Venta de derechos
+2017,INGRESO,3,3,0,9,Venta de otros bienes y productos
+2017,INGRESO,3,8,,,Reintegros de operaciones
+2017,INGRESO,3,8,0,,Reintegros de ejercicios cerrados
+2017,INGRESO,3,8,0,0,Reintegros de ejercicios cerrados
+2017,INGRESO,3,8,1,,Reintegros del presupuesto corriente
+2017,INGRESO,3,8,1,0,Reintegros del presupuesto corriente
+2017,INGRESO,3,8,9,,Otros reintegros
+2017,INGRESO,3,8,9,0,Otros reintegros
+2017,INGRESO,3,9,,,Otros ingresos
+2017,INGRESO,3,9,0,,Cuotas de derechos pasivos
+2017,INGRESO,3,9,0,0,Cuotas de derechos pasivos
+2017,INGRESO,3,9,1,,"Multas, sanciones, intereses y recargos"
+2017,INGRESO,3,9,1,0,Multas y sanciones
+2017,INGRESO,3,9,1,1,Intereses de demora
+2017,INGRESO,3,9,1,2,Recargos
+2017,INGRESO,3,9,9,,Otros ingresos
+2017,INGRESO,3,9,9,0,Otros ingresos
+2017,INGRESO,4,,,,Transferencias corrientes
+2017,INGRESO,4,0,,,Transferencias corrientes de la Administración del Estado
+2017,INGRESO,4,0,0,,Transferencias corrientes de la Administración del Estado
+2017,INGRESO,4,0,0,0,Transferencias corrientes de la Administración del Estado
+2017,INGRESO,4,0,0,2,Transferencias corrientes del FEGA
+2017,INGRESO,4,1,,,Trasnferencias corrientes de Organismos Autónomos de la Administración de la Comunidad Foral
+2017,INGRESO,4,1,0,,Trasnferencias corrientes de Organismos Autónomos de la Administración de la Comunidad Foral
+2017,INGRESO,4,1,0,0,Trasnferencias corrientes de Organismos Autónomos de la Administración de la Comunidad Foral
+2017,INGRESO,4,2,,,Transferencias corrientes de la Seguridad Social
+2017,INGRESO,4,2,0,,Transferencias corrientes de la Seguridad Social
+2017,INGRESO,4,2,0,0,Transferencias corrientes de la Seguridad Social
+2017,INGRESO,4,3,,,Transferencias corrientes de fundaciones
+2017,INGRESO,4,3,0,,Transferencias corrientes de fundaciones
+2017,INGRESO,4,3,0,0,Transferencias corrientes de fundaciones forales
+2017,INGRESO,4,3,0,9,Transferencias corrientes de otras fundaciones
+2017,INGRESO,4,4,,,Transferencias corrientes de empresas públicas y otros entes públicos
+2017,INGRESO,4,4,0,,Transferencias corrientes de empresas públicas
+2017,INGRESO,4,4,0,0,Transferencias corrientes de empresas públicas de la Administración de la Comunidad Foral
+2017,INGRESO,4,4,0,1,Transf. corrientes de empresas públicas del Estado
+2017,INGRESO,4,4,1,,Transferencias corrientes de otros entes públicos
+2017,INGRESO,4,4,1,0,Trasnferencias corrientes de otros entes públicos de Administración de la comunidad Foral
+2017,INGRESO,4,4,1,1,Trasnferencias corrientes de otros entes públicos del Estado
+2017,INGRESO,4,4,1,2,Transferencias corrientes de otros entes públicos de comunidades autónomas
+2017,INGRESO,4,4,1,3,Transferencias corrientes de otros entes públicos de entidades locales
+2017,INGRESO,4,5,,,Transferencias corrientes de comunidades autónomas
+2017,INGRESO,4,5,0,,Transferencias corrientes de comunidades autónomas
+2017,INGRESO,4,5,0,0,Transferencias corrientes de comunidades autónomas
+2017,INGRESO,4,6,,,Transferencias corrientes de entidades locales
+2017,INGRESO,4,6,0,,Transferencias corrientes de entidades locales de Navarra
+2017,INGRESO,4,6,0,0,Transferencias corrientes de entidades locales de Navarra
+2017,INGRESO,4,6,1,,Transferencias corrientes de entidades locales no pertenecientes a Navarra
+2017,INGRESO,4,6,1,0,Transferencias corrientes de entidades locales no pertenecientes a Navarra
+2017,INGRESO,4,7,,,Transferencias corrientes de empresas privadas
+2017,INGRESO,4,7,0,,Transferencias corrientes de empresas privadas
+2017,INGRESO,4,7,0,0,Transferencias corrientes de empresas privadas
+2017,INGRESO,4,8,,,Transferencias corrientes de familias e instituciones sin fines de lucro
+2017,INGRESO,4,8,0,,Transferencias corrientes de familias e instituciones sin fines de lucro
+2017,INGRESO,4,8,0,0,Transferencias corrientes de familias e instituciones sin fines de lucro
+2017,INGRESO,4,9,,,Transferencias corrientes del exterior
+2017,INGRESO,4,9,0,,Transferencias corrientes de la Unión Europea
+2017,INGRESO,4,9,0,0,Transferencias corrientes del Fondo Social Europeo (FSE)
+2017,INGRESO,4,9,0,1,Transferencias corrientes del FEDER
+2017,INGRESO,4,9,0,2,Transferencias corrientes del Fondo Europeo de pesca y otros recursos agrícolas y pesqueros
+2017,INGRESO,4,9,0,3,Transferencias corrientes del FEADER
+2017,INGRESO,4,9,0,4,Transferencias corrientes del FEAGA
+2017,INGRESO,4,9,0,6,Transferencias corrientes del FEOGA-GARANTIA
+2017,INGRESO,4,9,0,9,Otras transferencias corrientes de Unión Europea
+2017,INGRESO,4,9,9,,Otras transferencias corrientes del exterior
+2017,INGRESO,4,9,9,0,Otras transferencias corrientes del exterior
+2017,INGRESO,5,,,,Ingresos patrimoniales
+2017,INGRESO,5,0,,,Intereses de títulos y valores
+2017,INGRESO,5,0,0,,Intereses de títulos y valores
+2017,INGRESO,5,0,0,0,Intereses de títulos y valores
+2017,INGRESO,5,1,,,Intereses de anticipos y préstamos concedidos
+2017,INGRESO,5,1,0,,Intereses de anticipos y préstamos concedidos
+2017,INGRESO,5,1,0,0,Intereses de anticipos y préstamos concedidos a entidades locales de Navarra
+2017,INGRESO,5,1,0,1,Intereses de anticipos y préstamos concedidos a organismos públicos
+2017,INGRESO,5,1,0,2,Intereses de anticipos y préstamos concedidos a empresas y otros entes públicos
+2017,INGRESO,5,1,0,3,Intereses de anticipos y préstamos concedidos a empresas privadas
+2017,INGRESO,5,1,0,4,Intereses de anticipos y préstamos concedidos a familias e instituciones sin fines lucro
+2017,INGRESO,5,1,0,9,Intereses de anticipos y préstamos concedidos a otros destinatarios
+2017,INGRESO,5,2,,,Intereses de depósitos y aplazamientos
+2017,INGRESO,5,2,0,,Intereses de depósitos y aplazamientos
+2017,INGRESO,5,2,0,0,Intereses de depósitos
+2017,INGRESO,5,2,0,1,Intereses de aplazamientos
+2017,INGRESO,5,3,,,Dividendos y participaciones en beneficios
+2017,INGRESO,5,3,0,,Dividendos y participaciones en beneficios
+2017,INGRESO,5,3,0,0,Dividendos y participaciones en beneficios
+2017,INGRESO,5,4,,,Rentas de bienes inmuebles
+2017,INGRESO,5,4,0,,Rentas de bienes inmuebles
+2017,INGRESO,5,4,0,0,Rentas de bienes inmuebles
+2017,INGRESO,5,5,,,Productos de concesiones y aprovechamintos especiales
+2017,INGRESO,5,5,0,,Concesiones administrativas
+2017,INGRESO,5,5,0,0,Concesiones administrativas
+2017,INGRESO,5,5,1,,Aprovechamientos especiales
+2017,INGRESO,5,5,1,0,Aprovechamientos especiales
+2017,INGRESO,5,9,,,Otros ingresos patrimoniales
+2017,INGRESO,5,9,9,,Otros ingresos patrimoniales
+2017,INGRESO,5,9,9,0,Otros ingresos patrimoniales
+2017,INGRESO,6,,,,Enajenación de inversiones reales
+2017,INGRESO,6,0,,,Enajenación de terrenos
+2017,INGRESO,6,0,0,,Enajenación de terrenos
+2017,INGRESO,6,0,0,0,Enajenación de terrenos
+2017,INGRESO,6,1,,,Enajenación de otras inversiones reales
+2017,INGRESO,6,1,0,,Venta de edificios
+2017,INGRESO,6,1,0,0,Venta de edificios
+2017,INGRESO,6,1,1,,Venta del parque móvil
+2017,INGRESO,6,1,1,0,Venta del parque móvil
+2017,INGRESO,6,1,2,,Venta de equipos
+2017,INGRESO,6,1,2,0,Venta de equipos
+2017,INGRESO,6,1,3,,Venta de ganado y semovientes
+2017,INGRESO,6,1,3,0,Venta de ganado y semovientes
+2017,INGRESO,6,1,9,,Venta de otras inversiones reales
+2017,INGRESO,6,1,9,0,Venta de otras inversiones reales
+2017,INGRESO,6,8,,,Reintegros por operaciones de capital
+2017,INGRESO,6,8,0,,Reintegros por operaciones de capital
+2017,INGRESO,6,8,0,0,Reintegros por operaciones de capital
+2017,INGRESO,7,,,,Transferencias de capital
+2017,INGRESO,7,0,,,Transferencias de capital de la Administración del Estado
+2017,INGRESO,7,0,0,,Transferencias de capital de la Administración del Estado
+2017,INGRESO,7,0,0,0,Transferencias de capital de la Administración del Estado
+2017,INGRESO,7,0,0,1,Transferencias de capital del Fondo de Compensación Iterterritorial (FCI)
+2017,INGRESO,7,0,0,2,Transferencias de capital del Fondo Español de Garantía Agraria (FEGA)
+2017,INGRESO,7,1,,,Transferencias de capital de organismos autónomos de la Administración de la Comunidad Foral
+2017,INGRESO,7,1,0,,Transferencias de capital de organismos autónomos de la Administración de la Comunidad Foral
+2017,INGRESO,7,1,0,0,Transferencias de capital de organismos autónomos de la Administración de la Comunidad Foral
+2017,INGRESO,7,2,,,Transferencias de capital de la Seguridad Social
+2017,INGRESO,7,2,0,,Transferencias de capital de la Seguridad Social
+2017,INGRESO,7,2,0,0,Transferencias de capital de la Seguridad Social
+2017,INGRESO,7,3,,,Transferencias de capital de fundaciones
+2017,INGRESO,7,3,0,,Transferencias de capital de fundaciones
+2017,INGRESO,7,3,0,0,Transferencias de capital de fundaciones
+2017,INGRESO,7,3,0,9,Transferencias de capital de otras fundaciones
+2017,INGRESO,7,4,,,Transferencias de capital de empresas públicas y otros entes públicos
+2017,INGRESO,7,4,0,,Transferencias de capital de empresas públicas y otros entes públicos
+2017,INGRESO,7,4,0,0,Transferencias de capital de empresas públicas de la Administración de la Comunidad Foral
+2017,INGRESO,7,4,0,1,Transferencias de capital de empresas públicas del Estado
+2017,INGRESO,7,4,1,,Transferencias de capital de otros entes públicos
+2017,INGRESO,7,4,1,0,Transferencias de capital de otros entes públicos de la Administración de la Comunidad Foral
+2017,INGRESO,7,4,1,1,Transferencias de capital de otros entes públicos del Estado
+2017,INGRESO,7,4,1,2,Transferencias de capital de otros entes públicos de comunidades autónomas
+2017,INGRESO,7,4,1,3,Transferencias de capital de otros entes públicos de entidades locales
+2017,INGRESO,7,5,,,Transferencias de capital de comunidades autónomas
+2017,INGRESO,7,5,0,,Transferencias de capital de comunidades autónomas
+2017,INGRESO,7,5,0,0,Transferencias de capital de comunidades autónomas
+2017,INGRESO,7,6,,,Transferencias de capital de entidades locales
+2017,INGRESO,7,6,0,,Transferencias de capital de entidades locales de Navarra
+2017,INGRESO,7,6,0,0,Transferencias de capital de entidades locales de Navarra
+2017,INGRESO,7,6,1,,Transferencias de capital de entidades locales no pertenecientes a Navarra
+2017,INGRESO,7,6,1,0,Transferencias de capital de entidades locales no pertenecientes a Navarra
+2017,INGRESO,7,7,,,Transferencias de capital de empresas privadas
+2017,INGRESO,7,7,0,,Transferencias de capital de empresas privadas
+2017,INGRESO,7,7,0,0,Transferencias de capital de empresas privadas
+2017,INGRESO,7,8,,,Transferencias de capital de familias e instituciones sin fines de lucro
+2017,INGRESO,7,8,0,,Transferencias de capital de familias e instituciones sin fines de lucro
+2017,INGRESO,7,8,0,0,Transferencias de capital de familias e instituciones sin fines de lucro
+2017,INGRESO,7,9,,,Transferencias de capital del exterior
+2017,INGRESO,7,9,0,,Transferencias de capital de la Unión Europea
+2017,INGRESO,7,9,0,0,Transferencias de capital del Fondo Social Europeo (FSE)
+2017,INGRESO,7,9,0,1,Transferencias de capital del Fondo Europeo de Desarrollo Económico Regional (FEDER)
+2017,INGRESO,7,9,0,2,Transferencias de capital del Fondo Europeo de la pesca y otros recursos agrícolas y pesqueros
+2017,INGRESO,7,9,0,3,Transferencias de capital del Fondo Europeo Agrícola de Desarrollo Rural (FEADER)
+2017,INGRESO,7,9,0,4,Transferencias de capital del Fondo Europeo Agrícola de Garantía Agraria (FEAGA)
+2017,INGRESO,7,9,0,5,Transferencias de capital de fondos de cohesión
+2017,INGRESO,7,9,0,9,Otras transferencias de capital de la Unión Europea
+2017,INGRESO,7,9,9,,Otras transferencias de capital del exterior
+2017,INGRESO,7,9,9,0,Otras transferencias de capital del exterior
+2017,INGRESO,8,,,,Activos financieros
+2017,INGRESO,8,0,,,Enajenación de deuda del sector público
+2017,INGRESO,8,0,0,,Enajenación de deuda del sector público a corto plazo
+2017,INGRESO,8,0,0,0,Enajenación de deuda del sector público a corto plazo
+2017,INGRESO,8,0,1,,Enajenación de deuda del sector público a largo plazo
+2017,INGRESO,8,0,1,0,Enajenación de deuda del sector público a largo plazo
+2017,INGRESO,8,1,,,Enajenación de obligaciones y bonos de fuera del sector público
+2017,INGRESO,8,1,0,,Enajenación de obligaciones y bonos de fuera del sector público a corto plazo
+2017,INGRESO,8,1,0,0,Enajenación de obligaciones y bonos de fuera del sector público a corto plazo
+2017,INGRESO,8,1,1,,Enajenación de obligaciones y bonos de fuera del sector público a largo plazo
+2017,INGRESO,8,1,1,0,Enajenación de obligaciones y bonos de fuera del sector público a largo plazo
+2017,INGRESO,8,2,,,Reintegros de préstamos concedidos al sector público
+2017,INGRESO,8,2,0,,Reintegros de préstamos concedidos al sector público a corto plazo
+2017,INGRESO,8,2,0,0,Reintegros de préstamos concedidos a corporaciones locales de Navarra a corto plazo
+2017,INGRESO,8,2,0,1,Reintegros de préstamos concedidos a organismos públicos y forales a corto plazo
+2017,INGRESO,8,2,0,2,Reintegros de préstamos concedidos a empresas públicas a corto plazo
+2017,INGRESO,8,2,0,9,Reintegros de otros préstamos concedidos al sector público a corto plazo
+2017,INGRESO,8,2,1,,Reintegros de préstamos concedidos al sector público a largo plazo
+2017,INGRESO,8,2,1,0,Reintegros de préstamos concedidos a corporaciones locales de Navarra a largo plazo
+2017,INGRESO,8,2,1,1,Reintegros de préstamos concedidos a organismos públicos y forales a largo plazo
+2017,INGRESO,8,2,1,2,Reintegros de préstamos concedidos a empresas públicas a largo plazo
+2017,INGRESO,8,2,1,9,Reintegros de otros préstamos concedidos al sector público a largo plazo
+2017,INGRESO,8,3,,,Reintegros de préstamos concedidos fuera del sector público
+2017,INGRESO,8,3,0,,Reintegros de préstamos concedidos fuera del sector público a corto plazo
+2017,INGRESO,8,3,0,0,Reintegros de préstamos concedidos a empresas privadas a corto plazo
+2017,INGRESO,8,3,0,1,Reintegros de préstamos concedidos a familias y empleados a corto plazo
+2017,INGRESO,8,3,0,9,Reintegros de otros préstamos concedidos fuera del sector público a corto plazo
+2017,INGRESO,8,3,1,,Reintegros de préstamos concedidos fuera del sector público a largo plazo
+2017,INGRESO,8,3,1,0,Reintegros de préstamos concedidos a empresas privadas a largo plazo
+2017,INGRESO,8,3,1,1,Reintegros de préstamos concedidos a familias y empleados a largo plazo
+2017,INGRESO,8,3,1,9,Reintegros de otros préstamos concedidos fuera del sector público a largo plazo
+2017,INGRESO,8,4,,,Devolución de depósitos y fianzas
+2017,INGRESO,8,4,0,,Devolución de depósitos y obligaciones afianzadas
+2017,INGRESO,8,4,0,0,Devolución de depósitos
+2017,INGRESO,8,4,0,1,Devolución de obligaciones afianzadas
+2017,INGRESO,8,4,1,,Devolución de fianzas
+2017,INGRESO,8,4,1,0,Devolución de fianzas
+2017,INGRESO,8,5,,,Enajenación de acciones y participaciones del sector público
+2017,INGRESO,8,5,0,,Enajenación de acciones y participaciones del sector público
+2017,INGRESO,8,5,0,0,Enajenación de acciones y participaciones del sector público
+2017,INGRESO,8,6,,,Enajenación de acciones y participaciones de fuera del sector público
+2017,INGRESO,8,6,0,,Enajenación de acciones y participaciones de fuera del sector público
+2017,INGRESO,8,6,0,0,Enajenación de acciones y participaciones de fuera del sector público
+2017,INGRESO,8,7,,,Remanente de tesorería
+2017,INGRESO,8,7,0,,Remanente de tesorería
+2017,INGRESO,8,7,0,0,Remanente de tesorería
+2017,INGRESO,8,9,,,Ingresos Prórroga
+2017,INGRESO,8,9,0,,Ingresos Prórroga
+2017,INGRESO,8,9,0,0,Ingresos Prórroga
+2017,INGRESO,9,,,,Pasivos financieros
+2017,INGRESO,9,0,,,Emisión de deuda pública en moneda nacional
+2017,INGRESO,9,0,0,,Emisión de deuda pública en moneda nacional
+2017,INGRESO,9,0,0,0,Emisión de deuda pública en moneda nacional
+2017,INGRESO,9,1,,,Préstamos recibidos en moneda nacional
+2017,INGRESO,9,1,0,,Préstamos recibidos a corto plazo en moneda nacional
+2017,INGRESO,9,1,0,0,Préstamos recibidos a corto plazo en moneda nacional
+2017,INGRESO,9,1,1,,Préstamos recibidos a largo plazo en moneda nacional
+2017,INGRESO,9,1,1,0,Préstamos recibidos a largo plazo en moneda nacional
+2017,INGRESO,9,3,,,Préstamos recibidos en moneda extranjera
+2017,INGRESO,9,3,0,,Préstamos recibidos a corto plazo en moneda extranjera
+2017,INGRESO,9,3,0,0,Préstamos recibidos a corto plazo en moneda extranjera
+2017,INGRESO,9,3,1,,Préstamos recibidos a largo plazo en moneda extranjera
+2017,INGRESO,9,3,1,0,Préstamos recibidos a largo plazo en moneda extranjera
+2017,INGRESO,9,4,,,Depósitos y fianzas recibidos
+2017,INGRESO,9,4,0,,Depósitos recibidos
+2017,INGRESO,9,4,0,0,Depósitos recibidos
+2017,INGRESO,9,4,1,,Fianzas recibidas
+2017,INGRESO,9,4,1,0,Fianzas recibidas
+2017,GASTO,2,6,0,0,Gestión de servicios sociales garantizados en la Cartera de Servicios Sociales
