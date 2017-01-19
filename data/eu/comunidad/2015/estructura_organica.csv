@@ -3,107 +3,107 @@
 2015,000,"Departamento de Presidencia, Justicia e Interior"
 2015,0000,"Departamento de Presidencia, Justicia e Interior"
 2015,00001,"Departamento de Presidencia, Justicia e Interior"
-2015,001,Secretaría General Técnica
-2015,0010,"Secretaría General Técnica de Presidencia, Justicia e Interior"
-2015,00100,"Secretaría General Técnica de Presidencia, Justicia e Interior"
-2015,00102,Negociado de Secretaría y Documentación
-2015,0011,Sección de Régimen Jurídico
-2015,00110,Sección de Régimen Jurídico
-2015,0012,Sección de Régimen Interior
-2015,00120,Sección de Régimen Interior
-2015,00121,Negociado de Gestión de Personal
-2015,0013,Sección Económica
-2015,00130,Sección Económica de la Secretaría General Técnica
-2015,00131,Negociado de Gestión Económica y Contable
-2015,00132,Negociado de Gestión Económica y Contable de Interior
-2015,00133,Negociado de Gestión Económica y Contable de Justicia
-2015,0015,Sección de Estadísticas y Gestión de la Información
-2015,00150,Sección de Estadística y Gestión de la Información
-2015,01,Dirección General de Presidencia y Justicia
-2015,010,Dirección General de Presidencia y Justicia
-2015,0100,Dirección General de Presidencia y Justicia
-2015,01000,Dirección General de Presidencia y Justicia
-2015,011,Servicio de Asesoría Jurídica
-2015,0110,Servicio de Asesoría Jurídica
-2015,01100,Servicio de Asesoría Jurídica
-2015,0111,Sección de Gestión Administrativa
-2015,01110,Sección de Gestión Administrativa
-2015,0112,Sección de Asuntos Civiles
-2015,01120,Sección de Asuntos Civiles
-2015,0113,Sección de lo Contencioso-Administrativo
+2015,001,Idazkaritza Tekniko Orokorra
+2015,0010,"Lehendakaritzako, Justiziako eta Barneko Departamentuko Idazkaritza Tekniko Nagusia"
+2015,00100,"Lehendakaritzako, Justiziako eta Barneko Departamentuko Idazkaritza Tekniko Nagusia"
+2015,00102,Idazkaritza eta Dokumentazio Bulegoa
+2015,0011,Araubide Juridikoaren Atala
+2015,00110,Araubide Juridikoaren Atala
+2015,0012,Barne Araubideko Atala
+2015,00120,Barne Araubideko Atala
+2015,00121,Langileriaren Kudeaketarako Bulego
+2015,0013,Ekonomia Atala
+2015,00130,Idazkaritza Tekniko Nagusiko Ekonomia Atala
+2015,00131,Ekonomiaren eta Kontabilitatearen Kudeaketa Bulegoa
+2015,00132,Barne Zuzendaritza Nagusiko Ekonomiaren eta Kontabilitatearen Kudeaketa Bulegoa
+2015,00133,Justizia Zuzendaritza Nagusiko Ekonomiaren eta Kontabilitatearen Kudeaketa Bulegoa
+2015,0015,Estatistiken eta Informazio Kudeaketaren Atala
+2015,00150,Estatistiken eta Informazio Kudeaketaren Atala
+2015,01,Lehendakaritza eta Justiziako Zuzendaritza Nagusia
+2015,010,Lehendakaritza eta Justiziako Zuzendaritza Nagusia
+2015,0100,Lehendakaritza eta Justiziako Zuzendaritza Nagusia
+2015,01000,Lehendakaritza eta Justiziako Zuzendaritza Nagusia
+2015,011,Aholkularitza Juridikoaren Zerbitzua
+2015,0110,Aholkularitza Juridikoaren Zerbitzua
+2015,01100,Aholkularitza Juridikoaren Zerbitzua
+2015,0111,Kudeaketa Administratiboaren Atala
+2015,01110,Kudeaketa Administratiboaren Atala
+2015,0112,Gai Zibilen Atala
+2015,01120,Gai Zibilen Atala
+2015,0113,Administrazioarekiko Auzien Atala
 2015,01130,Sección de lo Contencioso Administrativo
-2015,0114,Sección de Asuntos Laborales
-2015,01140,Sección de Asuntos Laborales
-2015,0116,Sección de Asuntos Penales
-2015,01160,Sección de Asuntos Penales
-2015,0117,Sección de Asuntos Tributarios
-2015,01170,Sección de Asuntos Tributarios
-2015,013,Servicio de Secretariado del Gobierno y Acción Normativa
-2015,0130,Servicio de Secretariado del Gobierno y Acción Normativa
-2015,01300,Servicio de Secretariado del Gobierno y Acción Normativa
+2015,0114,Afera Zibilen Atala
+2015,01140,Afera Zibilen Atala
+2015,0116,Afera Penalen Atala
+2015,01160,Afera Penalen Atala
+2015,0117,Zerga Aferen Atala
+2015,01170,Zerga Aferen Atala
+2015,013,Gobernuaren Idazkaritzako eta Araugintzako Zerbitzua
+2015,0130,Gobernuaren Idazkaritzako eta Araugintzako Zerbitzua
+2015,01300,Gobernuaren Idazkaritzako eta Araugintzako Zerbitzua
 2015,01301,Negociado de Gestión Administrativa del Secretariado del Gobierno
 2015,01302,Negociado de Información al Público y Registro
 2015,01303,Negociado de Cartería
-2015,0132,Sección de Secretariado del Gobierno
-2015,01320,Sección de Secretariado del Gobierno
-2015,0133,Sección de Desarrollo Legislativo y Coordinación
-2015,01330,Sección de Desarrollo Legislativo y Coordinación
+2015,0132,Gobernuaren Idazkaritza Atala
+2015,01320,Gobernuaren Idazkaritza Atala
+2015,0133,Legeen Garapenerako eta Koordinaziorako Atala
+2015,01330,Legeen Garapenerako eta Koordinaziorako Atala
 2015,01331,"Negociado de Asociaciones, Fundaciones y Colegios Profesionales"
-2015,014,Servicio Social de Justicia
-2015,0140,Servicio Social de Justicia
-2015,01400,Servicio Social de Justicia
+2015,014,Justiziako Gizarte Zerbitzua
+2015,0140,Justiziako Gizarte Zerbitzua
+2015,01400,Justiziako Gizarte Zerbitzua
 2015,01401,Negociado de Asistencia y Gestión Administrativa
 2015,01402,Negociado de Apoyo a la Reinserción Social
-2015,0141,Sección de Asistencia a las Víctimas del Delito de Navarra y Colaboración con los Órganos Judiciales
-2015,01410,Sección de Asistencia a las Víctimas del Delito de Navarra y Colaboración con los Órganos Judiciales
-2015,015,Servicio del Boletín Oficial de Navarra
-2015,0150,Servicio del Boletín Oficial de Navarra
-2015,01500,Servicio del Boletín Oficial de Navarra
-2015,0151,Sección de Gestión del Boletín Oficial de Navarra
-2015,01510,Sección de Gestión del Boletín Oficial de Navarra
-2015,01511,Negociado de Gestión Económica
+2015,0141,Nafarroako Delituen Biktimei Laguntzeko eta Organo Judizialekin Aritzeko Atala
+2015,01410,Nafarroako Delituen Biktimei Laguntzeko eta Organo Judizialekin Aritzeko Atala
+2015,015,Nafarroako Aldizkari Ofizialaren Atala
+2015,0150,Nafarroako Aldizkari Ofizialaren Atala
+2015,01500,Nafarroako Aldizkari Ofizialaren Atala
+2015,0151,Nafarroako Aldizkari Ofizialaren Zerbitzua
+2015,01510,Nafarroako Aldizkari Ofizialaren Zerbitzua
+2015,01511,Kudeaketa Ekonomikorako Bulegoa
 2015,01512,Negociado de Calidad y Control
-2015,0152,Sección de Traducción
-2015,01520,Sección de Traducción
-2015,0153,Sección de Producción y Difusión
-2015,01530,Sección de Producción y Difusión
-2015,016,Tribunal Administrativo de Navarra
-2015,0160,Tribunal Administrativo de Navarra
-2015,01600,Tribunal Administrativo de Navarra
-2015,0161,Sección 1ª
-2015,01610,Sección 1ª
-2015,0162,Sección 2ª
-2015,01620,Sección 2ª
-2015,0163,Sección 3ª
-2015,01630,Sección 3ª
-2015,0164,Secretaría del Tribunal Administrativo de Navarra
-2015,01640,Secretaría del Tribunal Administrativo de Navarra
+2015,0152,Itzulpenen Atala
+2015,01520,Itzulpenen Atala
+2015,0153,Ekoizpen eta Zabalkunde Atala
+2015,01530,Ekoizpen eta Zabalkunde Atala
+2015,016,Nafarroako Administrazio Auzitegia
+2015,0160,Nafarroako Administrazio Auzitegia
+2015,01600,Nafarroako Administrazio Auzitegia
+2015,0161,1. atala
+2015,01610,1. atala
+2015,0162,2. atala
+2015,01620,2. atala
+2015,0163,3. atala
+2015,01630,3. atala
+2015,0164,Nafarroako Administrazio Auzitegiko Idazkaritza
+2015,01640,Nafarroako Administrazio Auzitegiko Idazkaritza
 2015,01641,Negociado de Registro y Tramitación
 2015,01642,Negociado de Resoluciones y Relación con la Jurisdicción Contencioso-Administrativa
-2015,018,Servicio de Gestión de Medios Materiales
-2015,0180,Servicio de Gestión de Medios Materiales
-2015,01800,Servicio de Gestión de Medios Materiales
+2015,018,Baliabide Materialen Kudeaketarako Zerbitzua
+2015,0180,Baliabide Materialen Kudeaketarako Zerbitzua
+2015,01800,Baliabide Materialen Kudeaketarako Zerbitzua
 2015,01801,Negociado de Aprovisionamiento
-2015,0181,Sección de Calidad
-2015,01810,Sección de Calidad
-2015,0182,Sección de Bienes
-2015,01820,Sección de Bienes
+2015,0181,Kalitatearen Atala
+2015,01810,Kalitatearen Atala
+2015,0182,Ondasun Atala
+2015,01820,Ondasun Atala
 2015,01821,Negociado de Servicios Generales de la Administración de Justicia
-2015,019,Servicio Jurídico-Administrativo de Justicia
-2015,0190,Servicio Jurídico-Administrativo de Justicia
-2015,01900,Servicio Jurídico-Administrativo de Justicia
-2015,0191,Sección de Asuntos Jurídicos y Personal de Justicia
-2015,01910,Sección de Asuntos Jurídicos y Personal de Justicia
+2015,019,Justiziako Zerbitzu Juridiko-Administratiboa
+2015,0190,Justiziako Zerbitzu Juridiko-Administratiboa
+2015,01900,Justiziako Zerbitzu Juridiko-Administratiboa
+2015,0191,Afera Juridikoen eta Justiziako Langileriaren Atala
+2015,01910,Afera Juridikoen eta Justiziako Langileriaren Atala
 2015,01911,Negociado de Personal de Justicia
-2015,02,Dirección General de Interior
-2015,020,Dirección General de Interior
-2015,0200,Dirección General de Interior
-2015,02000,Dirección General de Interior
-2015,021,Cuerpo de Policía Foral
-2015,0210,Cuerpo de Policía Foral
-2015,02100,Cuerpo de Policía Foral
-2015,0212,Area de Inspección General
-2015,02120,Area de Inspección General
+2015,02,Barne Zuzendaritza Nagusia
+2015,020,Barne Zuzendaritza Nagusia
+2015,0200,Barne Zuzendaritza Nagusia
+2015,02000,Barne Zuzendaritza Nagusia
+2015,021,Foruzaingoa
+2015,0210,Foruzaingoa
+2015,02100,Foruzaingoa
+2015,0212,Ikuskapen Orokorraren Arloa
+2015,02120,Ikuskapen Orokorraren Arloa
 2015,02121,División General Técnica
 2015,02122,División de Régimen Interno
 2015,02123,Comisaría de Tudela
@@ -113,1657 +113,1657 @@
 2015,02127,Comisaría de Elizondo
 2015,02128,Comisaría de Estella
 2015,02129,Comisaría de Altsasu/Alsasua
-2015,0212A,División de Comunicación y Enlace Operativo
-2015,0213,Area de Tráfico y Seguridad Vial
-2015,02130,Area de Tráfico y Seguridad Vial
+2015,0212A,Komunikazioaren eta Bitartekaritza Operatiboaren Saila
+2015,0213,Zirkulazioaren eta Bide Segurtasunaren Arloa
+2015,02130,Zirkulazioaren eta Bide Segurtasunaren Arloa
 2015,02131,División de Seguridad Vial
 2015,02132,División de Atestados e Investigación
-2015,0217,Área de Seguridad Interior y Policía Administrativa
-2015,02170,Área de Seguridad Interior y Policía Administrativa
+2015,0217,Barne Segurtasunaren eta Administrazio Poliziaren Arloa
+2015,02170,Barne Segurtasunaren eta Administrazio Poliziaren Arloa
 2015,02174,División de Seguridad Interior
 2015,02175,División de Policía Administrativa
-2015,0218,Area de Seguridad Ciudadana
-2015,02180,Area de Seguridad Ciudadana
+2015,0218,Herri Segurtasunaren Arloa
+2015,02180,Herri Segurtasunaren Arloa
 2015,02181,División de Prevención y Atención Ciudadana
 2015,02182,División de Protección de Autoridades
 2015,02183,División de Intervención
-2015,0219,Area de Investigación Criminal
-2015,02190,Area de Investigación Criminal
+2015,0219,Krimen Ikerketen Arloa
+2015,02190,Krimen Ikerketen Arloa
 2015,02191,División de Policía Judicial
 2015,02192,División de Policía Científica
 2015,02193,División de Información
-2015,024,Servicio de Régimen Jurídico y de Personal
-2015,0240,Servicio de Régimen Jurídico y de Personal
-2015,02400,Servicio de Régimen Jurídico y de Personal
-2015,0244,Sección de Procedimiento Sancionador
-2015,02440,Sección de Procedimiento Sancionador
-2015,0245,Sección de Recursos Humanos
-2015,02450,Sección de Recursos Humanos
-2015,026,Escuela de Seguridad y Emergencias de Navarra
-2015,0260,Escuela de Seguridad y Emergencias de Navarra
-2015,02600,Escuela de Seguridad y Emergencias de Navarra
-2015,0261,"Sección de Planificación, Desarrollo y Coordinación"
-2015,02610,"Sección de Planificación, Desarrollo y Coordinación"
-2015,0262,Sección de Asistencia Jurídica y Gestión Administrativa
-2015,02620,Sección de Asistencia Jurídica y Gestión Administrativa
-2015,027,Agencia Navarra de Emergencias
-2015,0270,Agencia Navarra de Emergencias
-2015,02700,Agencia Navarra de Emergencias
+2015,024,Araubide Juridikoaren eta Langileriaren Zerbitzua
+2015,0240,Araubide Juridikoaren eta Langileriaren Zerbitzua
+2015,02400,Araubide Juridikoaren eta Langileriaren Zerbitzua
+2015,0244,Zehapen Prozeduraren Atala
+2015,02440,Zehapen Prozeduraren Atala
+2015,0245,Giza baliabideen Atala
+2015,02450,Giza baliabideen Atala
+2015,026,Nafarroako Segurtasun eta Larrialdi Eskola
+2015,0260,Nafarroako Segurtasun eta Larrialdi Eskola
+2015,02600,Nafarroako Segurtasun eta Larrialdi Eskola
+2015,0261,"Plangintzaren, Garapenaren eta Koordinazioaren Atala"
+2015,02610,"Plangintzaren, Garapenaren eta Koordinazioaren Atala"
+2015,0262,Laguntza Juridikoaren eta Administrazio Kudeaketaren Atala
+2015,02620,Laguntza Juridikoaren eta Administrazio Kudeaketaren Atala
+2015,027,Larrialdien Nafarroako Agentzia
+2015,0270,Larrialdien Nafarroako Agentzia
+2015,02700,Larrialdien Nafarroako Agentzia
 2015,02701,Área de Gestión Económico-Administrativa y de Personal
-2015,0271,Dirección de Protección Civil
-2015,02710,Dirección de Protección Civil
+2015,0271,Babes Zibileko Zuzendaritza
+2015,02710,Babes Zibileko Zuzendaritza
 2015,02712,Área de SOS Navarra
 2015,02713,Área de Coordinación de Emergencias y Planificación
 2015,02714,"Área Técnica de Prevención, Información y Formación en Emergencias"
 2015,02715,Área Técnica de Apoyo
 2015,02716,Área de Voluntariado
-2015,0272,"Dirección de Prevención, Extinción de Incendios y Salvamento"
-2015,02720,"Dirección de Prevención, Extinción de Incendios y Salvamento"
+2015,0272,"Prebentziorako, Suteak Itzaltzeko eta Salbamendurako Zuzendaritza"
+2015,02720,"Prebentziorako, Suteak Itzaltzeko eta Salbamendurako Zuzendaritza"
 2015,02721,Área de Intervención Operativa y de Parques
 2015,02722,"Área de Campañas, Grupos de Rescate y Especiales"
 2015,02723,Área de Mando y Apoyo
 2015,02724,"Área Técnica, Logística y de Equipos"
-2015,029,Servicio de Desarrollo de las Políticas de Seguridad
-2015,0290,Servicio de Desarrollo de las Políticas de Seguridad
-2015,02900,Servicio de Desarrollo de las Políticas de Seguridad
-2015,0291,Sección de Juego y Espectáculos Públicos
-2015,02910,Sección de Juego y Espectáculos Públicos
-2015,0293,Sección de Tráfico y Seguridad Vial
-2015,02930,Sección de Tráfico y Seguridad Vial
-2015,0294,Sección del Parque Móvil
-2015,02940,Sección del Parque Móvil
-2015,0295,Sección de Coordinación de Policías Locales y Seguridad Pública
+2015,029, Segurtasun Politikak Garatzeko Zerbitzua
+2015,0290, Segurtasun Politikak Garatzeko Zerbitzua
+2015,02900, Segurtasun Politikak Garatzeko Zerbitzua
+2015,0291,Jokoaren eta Ikuskizun Publikoen Atala
+2015,02910,Jokoaren eta Ikuskizun Publikoen Atala
+2015,0293,Zirkulazioaren eta Bide Segurtasunaren Atala
+2015,02930,Zirkulazioaren eta Bide Segurtasunaren Atala
+2015,0294,Automobil Parkearen Atala
+2015,02940,Automobil Parkearen Atala
+2015,0295,Udaltzaingoak eta Segurtasun Publikoa Koordinatzeko Atala
 2015,02950,Sección de Coordinación de Policías Locales y  Seguridad Pública
-2015,0296,Sección de Seguridad Privada
-2015,02960,Sección de Seguridad Privada
-2015,04,Dirección General de Función Pública
-2015,040,Dirección General de Función Pública
-2015,0400,Dirección General de Función Pública
-2015,04000,Dirección General de Función Pública
-2015,041,Servicio de Control de Gasto de Personal y Nóminas
-2015,0410,Servicio de Control de Gasto de Personal y Nóminas
-2015,04100,Servicio de Control de Gasto de Personal y Nóminas
-2015,0412,Sección de Gestión y Control Presupuestario
-2015,04120,Sección de Gestión y Control Presupuestario
-2015,0414,Sección de Nóminas y Seguridad Social
-2015,04140,Sección de Nóminas y Seguridad Social
+2015,0296,Segurtasun Pribatuaren Atala
+2015,02960,Segurtasun Pribatuaren Atala
+2015,04,Funtzio Publikoko Zuzendaritza Nagusia
+2015,040,Funtzio Publikoko Zuzendaritza Nagusia
+2015,0400,Funtzio Publikoko Zuzendaritza Nagusia
+2015,04000,Funtzio Publikoko Zuzendaritza Nagusia
+2015,041,Langileriaren Gastuaren Kontrolaren eta Nominen Zerbitzua
+2015,0410,Langileriaren Gastuaren Kontrolaren eta Nominen Zerbitzua
+2015,04100,Langileriaren Gastuaren Kontrolaren eta Nominen Zerbitzua
+2015,0412,Kudeaketaren eta Aurrekontuaren Kontrolaren Atala
+2015,04120,Kudeaketaren eta Aurrekontuaren Kontrolaren Atala
+2015,0414,Nominen eta Gizarte Segurantzaren Atala
+2015,04140,Nominen eta Gizarte Segurantzaren Atala
 2015,04141,Negociado de Seguridad Social
-2015,042,Servicio de Ordenación y Relaciones Laborales
-2015,0420,Servicio de Ordenación y Relaciones Laborales
-2015,04200,Servicio de Ordenación y Relaciones Laborales
-2015,0421,Sección de Régimen Jurídico
-2015,04210,Sección de Régimen Jurídico
-2015,0422,Sección de Inspección General y Asuntos Sindicales
-2015,04220,Sección de Inspección General y Asuntos Sindicales
-2015,043,Servicio de Prestaciones Sociales
-2015,0430,Servicio de Prestaciones Sociales
-2015,04300,Servicio de Prestaciones Sociales
-2015,0431,Sección de Gestión de Montepíos y Beneficios Sociales
-2015,04310,Sección de Gestión de Montepíos y Beneficios Sociales
-2015,0432,Sección de Prevención de Riesgos Laborales
-2015,04320,Sección de Prevención de Riesgos Laborales
-2015,0433,Sección de Asistencia Sanitaria
-2015,04330,Sección de Asistencia Sanitaria
-2015,044,Servicio de Gestión de Personal
-2015,0440,Servicio de Gestión de Personal
-2015,04400,Servicio de Gestión de Personal
-2015,0441,Sección de Promoción y Contratación Temporal
-2015,04410,Sección de Promoción y Contratación Temporal
-2015,0443,Sección de Registro Central de Personal
-2015,04430,Sección de Registro Central de Personal
-2015,0444,Sección de Selección y Provisión
-2015,04440,Sección de Selección y Provisión
-2015,045,Instituto Navarro de Administración Pública
-2015,0450,Instituto Navarro de Administración Pública
+2015,042,Antolamenduko eta Lan Harremanetarako Zerbitzua
+2015,0420,Antolamenduko eta Lan Harremanetarako Zerbitzua
+2015,04200,Antolamenduko eta Lan Harremanetarako Zerbitzua
+2015,0421,Araubide Juridikoaren Atala
+2015,04210,Araubide Juridikoaren Atala
+2015,0422,Ikuskaritza Orokorreko eta Sindikatuen Gaietako Atala
+2015,04220,Ikuskaritza Orokorreko eta Sindikatuen Gaietako Atala
+2015,043,Gizarte Prestazioen Zerbitzua
+2015,0430,Gizarte Prestazioen Zerbitzua
+2015,04300,Gizarte Prestazioen Zerbitzua
+2015,0431,Montepioen eta Mozkin Sozialen Kudeaketako Atala
+2015,04310,Montepioen eta Mozkin Sozialen Kudeaketako Atala
+2015,0432,Laneko Arriskuen Prebentziorako Atala
+2015,04320,Laneko Arriskuen Prebentziorako Atala
+2015,0433,Osasun Laguntzako Atala
+2015,04330,Osasun Laguntzako Atala
+2015,044,Langileriaren Kudeaketako Zerbitzua
+2015,0440,Langileriaren Kudeaketako Zerbitzua
+2015,04400,Langileriaren Kudeaketako Zerbitzua
+2015,0441,Sustapeneko eta Aldi Baterako Kontratazioko Atala
+2015,04410,Sustapeneko eta Aldi Baterako Kontratazioko Atala
+2015,0443,Langileen Erregistro Nagusiaren Atala
+2015,04430,Langileen Erregistro Nagusiaren Atala
+2015,0444,Hautaketa eta Hornikuntzako Atala
+2015,04440,Hautaketa eta Hornikuntzako Atala
+2015,045,Nafarroako Administrazio Publikoaren Institutua
+2015,0450,Nafarroako Administrazio Publikoaren Institutua
 2015,04500,Servicio Instituto Navarro de Administración Pública
 2015,04501,Negociado de Servicios Auxiliares
-2015,0451,Sección de Formación y Desarrollo
-2015,04510,Sección de Formación y Desarrollo
+2015,0451,Prestakuntza eta Garapeneko Atala
+2015,04510,Prestakuntza eta Garapeneko Atala
 2015,04511,Negociado de Innovación Formativa
-2015,0452,Sección de Vascuence e Idiomas Comunitarios
-2015,04520,Sección de Vascuence e Idiomas Comunitarios
+2015,0452,Euskararen eta Autonomia Erkidegoen Hizkuntzen Atala
+2015,04520,Euskararen eta Autonomia Erkidegoen Hizkuntzen Atala
 2015,04521,Negociado de Formación de Idiomas Comunitarios
 2015,04522,Negociado de Formación de Vascuence
-2015,0453,Sección de Psicología Aplicada
-2015,04530,Sección de Psicología Aplicada
-2015,046,Servicio de Organización y Modernización
-2015,0460,Servicio de Organización y Modernización
-2015,04600,Servicio de Organización y Modernización
-2015,0461,Sección de Organización
-2015,04610,Sección de Organización
-2015,0462,Sección de Modernización
-2015,04620,Sección de Modernización
-2015,0463,Sección de Evaluación y Calidad
-2015,04630,Sección de Evaluación y Calidad
-2015,05,Dirección General de Informática y Telecomunicaciones
-2015,050,Dirección General de Informática y Telecomunicaciones
-2015,0500,Dirección General de Informática y Telecomunicaciones
-2015,05000,Dirección General de Informática y Telecomunicaciones
-2015,0501,Sección de Régimen Jurídico
-2015,05010,Sección de Régimen Jurídico
-2015,0502,Sección de Gobierno Abierto
-2015,05020,Sección de Gobierno Abierto
-2015,0503,Sección de Asistencia Administrativa
-2015,05030,Sección de Asistencia Administrativa
+2015,0453,Psikologia Aplikatuko Atala
+2015,04530,Psikologia Aplikatuko Atala
+2015,046,Antolaketaren eta Berrikuntzaren Zerbitzua
+2015,0460,Antolaketaren eta Berrikuntzaren Zerbitzua
+2015,04600,Antolaketaren eta Berrikuntzaren Zerbitzua
+2015,0461,Antolakuntza Atala
+2015,04610,Antolakuntza Atala
+2015,0462,Modernizazio Atala
+2015,04620,Modernizazio Atala
+2015,0463,Ebaluazioaren eta Kalitatearen Atala
+2015,04630,Ebaluazioaren eta Kalitatearen Atala
+2015,05,Informatika eta Telekomunikazioen Zuzendaritza Nagusia
+2015,050,Informatika eta Telekomunikazioen Zuzendaritza Nagusia
+2015,0500,Informatika eta Telekomunikazioen Zuzendaritza Nagusia
+2015,05000,Informatika eta Telekomunikazioen Zuzendaritza Nagusia
+2015,0501,Araubide Juridikoaren Atala
+2015,05010,Araubide Juridikoaren Atala
+2015,0502,Gobernu Irekiko Atala
+2015,05020,Gobernu Irekiko Atala
+2015,0503,Administrazio Laguntzako Atala
+2015,05030,Administrazio Laguntzako Atala
 2015,05031,Negociado de Régimen Administrativo
-2015,052,Servicio de Sistemas de Información Corporativos
-2015,0520,Servicio de Sistemas de Información Corporativos
-2015,05200,Servicio de Sistemas de Información Corporativos
-2015,0521,Sección de Procedimientos Electrónicos
-2015,05210,Sección de Procedimientos Electrónicos
-2015,0524,Sección de Portalización y Gestión del Conocimiento
-2015,05240,Sección de Portalización y Gestión del Conocimiento
-2015,0525,Secc. Sistemas de Información Centrales
-2015,05250,Secc. Sistemas de Información Centrales
-2015,0526,Secc. Sistemas Información Territoriales
-2015,05260,Secc. Sistemas Información Territoriales
-2015,053,Servicio de Sistemas de Información Departamentales
-2015,0530,Servicio de Sistemas de Información Departamentales
-2015,05300,Servicio de Sistemas de Información Departamentales
-2015,0532,"Sección de Proyectos en las Áreas de Presidencia, Justicia, Interior yPolítica Social"
-2015,05320,"Sección de Proyectos en las Áreas de Presidencia, Justicia, Interior yPolítica Social"
-2015,0533,"Sección de Proyectos en las Áreas de Industria, Empelo, Cultutra, Turismo y Relaciones Institucionales"
+2015,052,Informazio Sistema Korporatiboen Zerbitzua
+2015,0520,Informazio Sistema Korporatiboen Zerbitzua
+2015,05200,Informazio Sistema Korporatiboen Zerbitzua
+2015,0521,Prozedura Elektronikoen Atala
+2015,05210,Prozedura Elektronikoen Atala
+2015,0524,Portalizaziorako eta Jakintzaren Kudeaketarako Atala
+2015,05240,Portalizaziorako eta Jakintzaren Kudeaketarako Atala
+2015,0525,Informazio Sistema Zentralen Atala
+2015,05250,Informazio Sistema Zentralen Atala
+2015,0526,Informazio Sistema Territorialen Atala
+2015,05260,Informazio Sistema Territorialen Atala
+2015,053,Departamentuetako Informazio Sistemen Zerbitzua
+2015,0530,Departamentuetako Informazio Sistemen Zerbitzua
+2015,05300,Departamentuetako Informazio Sistemen Zerbitzua
+2015,0532,"Lehendakaritza, Justizia, Barne eta Gizarte Politikako Alorretako Proiektuen Atala"
+2015,05320,"Lehendakaritza, Justizia, Barne eta Gizarte Politikako Alorretako Proiektuen Atala"
+2015,0533,"Industria, Enplegu, Kultura, Turismo eta Erakundeekiko Harremanen Alorretako Proiektuen Atala"
 2015,05330,"Sección de Proyectos en las Áreas de Industria, Empleo, Cultura, Turismo y Relaciones Institucionales"
-2015,0534,"Sección de Proyectos en las Áreas de Fomento, Vivienda, AdministraciónLocal, Desarrollo Rural y Medio Ambiente"
-2015,05340,"Sección de Proyectos en las Áreas de Fomento, Vivienda, AdministraciónLocal, Desarrollo Rural y Medio Ambiente"
-2015,055,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
-2015,0550,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
-2015,05500,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
-2015,0551,Sección de Infraestructuras Tecnológicas
-2015,05510,Sección de Infraestructuras Tecnológicas
+2015,0534,"Sustapen, Etxebizitza, Tokiko Administrazio, Landa Garapen eta Ingurumeneko Alorretako Proiektuen Atala"
+2015,05340,"Sustapen, Etxebizitza, Tokiko Administrazio, Landa Garapen eta Ingurumeneko Alorretako Proiektuen Atala"
+2015,055,Azpiegitura Teknologikoen eta Euskarri Zentroaren Zerbitzua
+2015,0550,Azpiegitura Teknologikoen eta Euskarri Zentroaren Zerbitzua
+2015,05500,Azpiegitura Teknologikoen eta Euskarri Zentroaren Zerbitzua
+2015,0551,Azpiegitura Teknologikoen Atala
+2015,05510,Azpiegitura Teknologikoen Atala
 2015,05511,Negociado de sistemas
-2015,0552,Sección de Sistemas de Telecomunicaciones
-2015,05520,Sección de Sistemas de Telecomunicaciones
-2015,0553,Sección de Producción
-2015,05530,Sección de Producción
+2015,0552,Telekomunikazio Sistemen Atala
+2015,05520,Telekomunikazio Sistemen Atala
+2015,0553,Ekoizpen Atala
+2015,05530,Ekoizpen Atala
 2015,05531,Negociado de Producción
-2015,056,Servicio de Sistemas de Información del Área Sanitaria
-2015,0560,Servicio de Sistemas de Información del Área Sanitaria
-2015,05600,Servicio de Sistemas de Información del Área Sanitaria
+2015,056,Osasun Arloko Informazio Sistemen Zerbitzua
+2015,0560,Osasun Arloko Informazio Sistemen Zerbitzua
+2015,05600,Osasun Arloko Informazio Sistemen Zerbitzua
 2015,05601,Negociado de Atención a Centros Hospitalarios
-2015,0561,Sección de Ordenación Sanitaria
-2015,05610,Sección de Ordenación Sanitaria
-2015,0562,Sección de Historia de Salud Electrónica
-2015,05620,Sección de Historia de Salud Electrónica
-2015,0563,Sección de Sistemas de Información Administrativos de Especializada
-2015,05630,Sección de Sistemas de Información Administrativos de Especializada
-2015,1,"Departamento de Economía, Hacienda, Industria y Empleo"
-2015,10,"Departamento de Economía, Hacienda, Industria y Empleo"
-2015,100,"Departamento de Economía, Hacienda, Industria y Empleo"
-2015,1000,"Departamento de Economía, Hacienda, Industria y Empleo"
-2015,10000,"Departamento de Economía, Hacienda, Industria y Empleo"
-2015,101,Secretaría General Técnica
-2015,1010,Secretaría General Técnica
-2015,10100,Secretaría General Técnica
-2015,1012,Sección de Régimen Administrativo
-2015,10120,Sección de Régimen Administrativo
-2015,1013,Sección de Régimen Jurídico
-2015,10130,Sección de Régimen Jurídico
-2015,10131,Negociado de Mantenimiento
-2015,102,Tribunal Económico Administrativo Foral de Navarra
-2015,1020,Tribunal Económico Administrativo Foral de Navarra
-2015,10200,Tribunal Económico Administrativo Foral de Navarra
-2015,11,Dirección General del Presupuesto
-2015,110,Dirección General del Presupuesto
-2015,1100,Dirección General del Presupuesto
-2015,11000,Dirección General del Presupuesto
-2015,1101,Sección de Análisis y Control del Gasto Público
-2015,11010,Sección de Análisis y Control del Gasto Público
-2015,111,Servicio de Contabilidad
-2015,1110,Servicio de Contabilidad
-2015,11100,Servicio de Contabilidad
-2015,1111,Sección de Contabilidad General y Presupuestaria
-2015,11110,Sección de Contabilidad General y Presupuestaria
-2015,11111,Negociado de Centro Contable
-2015,11112,Negociado de Producción de Información Contable
-2015,11113,Negociado de Difusión Información Contable
-2015,11114,Negociado de Procedimientos Especiales de Contabilización
-2015,1112,Sección de Sistemas de Gestión y Control
-2015,11120,Sección de Sistemas de Gestión y Control
-2015,112,Servicio de Intervención General
-2015,1120,Servicio de Intervención General
-2015,11200,Servicio de Intervención General
-2015,1121,Sección de Intervención
-2015,11210,Sección de Intervención
-2015,1123,Sección de Auditoría
-2015,11230,Sección de Auditoría
-2015,1124,Sección de Control Financiero de Fondos Estructurales
-2015,11240,Sección de Control Financiero de Fondos Estructurales
-2015,1125,Sección de Control Financiero de las Ayudas del FEAGA-FEADER
-2015,11250,Sección de Control Financiero de las Ayudas del FEAGA-FEADER
-2015,113,Servicio de Patrimonio
-2015,1130,Servicio de Patrimonio
-2015,11300,Servicio de Patrimonio
-2015,1131,Sección de Gestión Jurídica del Patrimonio
-2015,11310,Sección de Gestión Jurídica del Patrimonio
-2015,11311,Negociado de Inventario General
-2015,11314,Negociado de Asistencia Administrativa
-2015,11315,"Negociado de Asistencia Técnica, Sociedades Públicas y Avales"
-2015,1132,Sección de Gestión Técnica del Patrimonio
-2015,11320,Sección de Gestión Técnica del Patrimonio
-2015,11321,Negociado de Planeamiento y Valoraciones
-2015,1133,"Sección de Contratación, Seguros y Asuntos Económicos"
-2015,11330,"Sección de Contratación, Seguros y Asuntos Económicos"
-2015,11331,Negociado de Adquisiciones
-2015,11333,Negociado de Registros y Seguros
-2015,11334,Negociado de Asuntos Económicos
-2015,11335,Negociado de Asistencia Jurídica
-2015,114,Servicio de Presupuestos y Política Financiera
-2015,1140,Servicio de Presupuestos y Política Financiera
-2015,11400,Servicio de Presupuestos y Política Financiera
-2015,1141,Sección de Presupuestos
-2015,11410,Sección de Presupuestos
-2015,1142,Sección de Tesorería
-2015,11420,Sección de Tesorería
-2015,11421,Negociado de Cobros y Pagos
-2015,1143,Sección de Política Financiera
-2015,11430,Sección de Política Financiera
-2015,15,Servicio Navarro de Empleo
-2015,150,Servicio Navarro de Empleo
-2015,1500,Servicio Navarro de Empleo
-2015,15000,Servicio Navarro de Empleo
-2015,15001,Negociado de Secretaría de Dirección
-2015,151,Servicio de Promoción de Empleo e Igualdad de Oportunidades
-2015,1510,Servicio de Promoción de Empleo e Igualdad de Oportunidades
-2015,15100,Servicio de Promoción de Empleo e Igualdad de Oportunidades
-2015,1511,Sección de Promoción del Empleo
-2015,15110,Sección de Promoción del Empleo
-2015,15111,Negociado de Programas Propios
-2015,15113,Negociado de Promoción de la Economía Social
-2015,15115,Negociado de Ayudas a las Entidades Locales
-2015,15116,Negociado de Fomento del Empleo. Conciliación e Igualdad entre hombres y mujeres
-2015,1512,Sección de Igualdad de Oportunidades
-2015,15120,Sección de Igualdad de Oportunidades
-2015,15123,Negociado de Programas mixtos de Promoción y Empleo
-2015,15124,Negociado de Integración Laboral de Discapacitados
-2015,15125,Negociado de Ayudas para la Inserción
-2015,152,Servicio de Formación
-2015,1520,Servicio de Formación
-2015,15200,Servicio de Formación
-2015,1521,Sección de Programas y Seguimiento de la Calidad de la Formación Profesional para el Empleo
-2015,15210,Sección de Programas y Seguimiento de la Calidad de la Formación Profesional para el Empleo
-2015,15211,Negociado de Programación y Registro de Centros
-2015,1522,Sección de Gestión de la Formación Profesional para el Empleo
-2015,15220,Sección de Gestión de la Formación Profesional para el Empleo
-2015,15221,Negociado de Formación en la Empresa y Programas Específicos
-2015,15222,Negociado de Formación Externa a la Empresa
-2015,1523,Sección de Desarrollo de la Formación para el Empleo
-2015,15230,Sección de Desarrollo de la Formación para el Empleo
-2015,15231,Negociado de Metodología de la Formación
-2015,1526,Sección de Centros propios y Acreditación vía experiencia
-2015,15260,Sección de Centros propios y Acreditación vía experiencia
-2015,15261,Negociado de Centros propios
-2015,153,Servicio de Asistencia Técnica y Administrativa
-2015,1530,Servicio de Asistencia Técnica y Administrativa
-2015,15300,Servicio de Asistencia Técnica y Administrativa
-2015,15301,Negociado de Observatorio
-2015,1531,Sección de Gestión Económica
-2015,15310,Sección de Gestión Económica
-2015,15311,Negociado de Centro Contable
-2015,1532,Sección de Régimen Jurídico y de Personal
-2015,15320,Sección de Régimen Jurídico y de Personal
-2015,15321,Negociado de Registro y Personal
-2015,154,Servicio de Intermediación y Orientación
-2015,1540,Servicio de Intermediación y Orientación
-2015,15400,Servicio de Intermediación y Orientación
-2015,15401,Agencia de Empleo de Tafalla
-2015,15402,Agencia de Empleo de Estella
-2015,15403,Agencia de Empleo de Altsasu-Alsasua
-2015,15404,Agencia de Empleo de Lodosa
-2015,15405,Agencia de Empleo de Doneztebe-Santesteban
-2015,15406,Agencia de Empleo de Aoiz
-2015,1542,Sección de Orientación
-2015,15420,Sección de Orientación
-2015,15421,Negociado de Gestión y Seguimiento de Proyectos y Acciones
-2015,1543,Sección de Intermediación
-2015,15430,Sección de Intermediación
-2015,15431,Negociado de Ofertas Externas
-2015,15432,Área de contratos y ofertas de empleo del sector público y administración
-2015,15433,Área de ofertas de empleo del sector privado y prospección de empresas
-2015,1544,Agencia de Empleo Pamplona 2º Ensanche
-2015,15440,Agencia de Empleo Pamplona 2º Ensanche
-2015,15441,Área de Trabajadores
-2015,1545,Agencia de Empleo Pamplona Yamaguchi
-2015,15450,Agencia de Empleo Pamplona Yamaguchi
-2015,15451,Área de Trabajadores
-2015,1546,Agencia de Empleo Pamplona Rochapea
-2015,15460,Agencia de Empleo Pamplona Rochapea
-2015,15461,Área de Trabajadores
-2015,1547,Agencia de Empleo de Tudela
-2015,15470,Agencia de Empleo de Tudela
-2015,15471,Área de Trabajadores
-2015,15472,Área de Empresas Tudela
-2015,16,Dirección General de Política Económica y Empresarial
-2015,160,Dirección General de Política Económica y Empresarial
-2015,1600,Dirección General de Política Económica y Empresarial
-2015,16000,Dirección General de Política Económica y Empresarial
-2015,161,Servicio de Política Económica
-2015,1610,Servicio de Política Económica
-2015,16100,Servicio de Política Económica
-2015,1611,Sección de Política Económica
-2015,16110,Sección de Política Económica
-2015,1612,Sección de Proyectos Estratégicos
-2015,16120,Sección de Proyectos Estratégicos
-2015,162,Instituto de Estadística de Navarra
-2015,1620,Instituto de Estadística de Navarra
-2015,16200,Instituto de Estadística de Navarra
-2015,1621,Sección de Producción Estadística
-2015,16210,Sección de Producción Estadística
-2015,1622,Sección de Coordinación y Difusión Estadística
-2015,16220,Sección de Coordinación y Difusión Estadística
-2015,16223,Negociado de Comunicación
-2015,16224,Negociado de Coordinación del Plan de Estadística de Navarra
-2015,1623,Sección de Infraestructura Estadística
-2015,16230,Sección de Infraestructura Estadística
-2015,163,Servicio de Proyección Internacional
-2015,1630,Servicio de Proyección Internacional
-2015,16300,Servicio de Proyección Internacional
-2015,1631,Sección de Programas Europeos
-2015,16310,Sección de Programas Europeos
-2015,16311,Negociado de Control de Fondos
-2015,1632,Sección de Convocatorias Europeas
-2015,16320,Sección de Convocatorias Europeas
-2015,1633,Sección de Acción Internacional
-2015,16330,Sección de Acción Internacional
-2015,1634,Sección de Control de Fondos Europeos
-2015,16340,Sección de Control de Fondos Europeos
-2015,164,Servicio de Fomento Empresarial
-2015,1640,Servicio de Fomento Empresarial
-2015,16400,Servicio de Fomento Empresarial
-2015,16401,Negociado de Gestión de Expedientes
-2015,1641,Sección de Fomento de la Inversión
-2015,16410,Sección de Fomento de la Inversión
-2015,16411,Negociado de Gestión de Ayudas a las Pequeñas y Medianas Empresas
-2015,16412,Negociado de Industrias Agrarias y Alimentarias
-2015,1642,Sección de Promoción de la Sociedad de la Información y Sectores Empresariales
-2015,16420,Sección de Promoción de la Sociedad de la Información y Sectores Empresariales
-2015,165,"Servicio de Reindustrialización, Competitividad y Proyectos Estratégicos"
-2015,1650,"Servicio de Reindustrialización, Compretitividad y Proyectos Estratégicos"
-2015,16500,"Servicio de Reindustrialización, Compretitividad y Proyectos Estratégicos"
-2015,1651,Sección de Competitividad Empresarial
-2015,16510,Sección de Competitividad Empresarial
-2015,1652,Sección de Proyectos Estratégicos y Políticas de Empresa
-2015,16520,Sección de Proyectos Estratégicos y Políticas de Empresa
-2015,166,Convenio Económico
-2015,1660,Convenio Económico
-2015,16600,Convenio Económico
-2015,1661,Sección de Flujos Financieros con el Estado
-2015,16610,Sección de Flujos Financieros con el Estado
-2015,17,Organismo Autónomo Hacienda Tributaria de Navarra
-2015,170,Organismo Autónomo Hacienda Tributaria de Navarra
-2015,1700,Organismo Autónomo Hacienda Tributaria de Navarra
-2015,17000,Organismo Autónomo Hacienda Tributaria de Navarra
-2015,1701,Sección de Administración
-2015,17010,Sección de Administración
-2015,172,Servicio de Desarrollo Normativo y Asesoramiento Jurídico
-2015,1720,Servicio de Desarrollo Normativo y Asesoramiento Jurídico
-2015,17200,Servicio de Desarrollo Normativo y Asesoramiento Jurídico
-2015,1721,Sección de Fiscalidad y Desarrollo del Sistema Tributario
-2015,17210,Sección de Fiscalidad y Desarrollo del Sistema Tributario
-2015,1722,"Sección de Asesoramiento, Documentación y Difusión Tributaria"
-2015,17220,"Sección de Asesoramiento, Documentación y Difusión Tributaria"
-2015,173,Servicio de Sistemas de Información Tributaria
-2015,1730,Servicio de Sistemas de Información Tributaria
-2015,17300,Servicio de Sistemas de Información Tributaria
-2015,1731,Sección de Coordinación Informática
-2015,17310,Sección de Coordinación Informática
-2015,17311,Negociado de Control de Procesos
-2015,1732,Sección de Análisis de los Sistemas de Información
-2015,17320,Sección de Análisis de los Sistemas de Información
-2015,1733,Sección de Identificación y Modelos Informativos
-2015,17330,Sección de Identificación y Modelos Informativos
-2015,17331,Negociado de Archivo
-2015,1734,Sección de Seguridad e Innovación
-2015,17340,Sección de Seguridad e Innovación
-2015,17341,Negociado de Gestión y Control de los Accesos a la Información
-2015,174,"Servicio de Análisis, Planificación y Formación"
-2015,1740,"Servicio de Análisis, Planificación y Formación"
-2015,17400,"Servicio de Análisis, Planificación y Formación"
+2015,0561,Osasun Antolamenduaren Atala
+2015,05610,Osasun Antolamenduaren Atala
+2015,0562,Osasun Elektronikoaren Historiaren Atala
+2015,05620,Osasun Elektronikoaren Historiaren Atala
+2015,0563,Arreta Espezializatuko Informazio Sistema Administratiboen Atala
+2015,05630,Arreta Espezializatuko Informazio Sistema Administratiboen Atala
+2015,1,"Ekonomia, Ogasun, Industria eta Enplegu Departamentua"
+2015,10,"Ekonomia, Ogasun, Industria eta Enplegu Departamentua"
+2015,100,"Ekonomia, Ogasun, Industria eta Enplegu Departamentua"
+2015,1000,"Ekonomia, Ogasun, Industria eta Enplegu Departamentua"
+2015,10000,"Ekonomia, Ogasun, Industria eta Enplegu Departamentua"
+2015,101,Idazkaritza Tekniko Orokorra
+2015,1010,Idazkaritza Tekniko Orokorra
+2015,10100,Idazkaritza Tekniko Orokorra
+2015,1012,Administrazio Araubidearen Atala
+2015,10120,Administrazio Araubidearen Atala
+2015,1013,Araubide Juridikoaren Atala
+2015,10130,Araubide Juridikoaren Atala
+2015,10131,Mantentze Lanen Bulegoa
+2015,102,Nafarroako Foru Auzitegi Ekonomiko Administratiboa
+2015,1020,Nafarroako Foru Auzitegi Ekonomiko Administratiboa
+2015,10200,Nafarroako Foru Auzitegi Ekonomiko Administratiboa
+2015,11,Aurrekontuaren Zuzendaritza Nagusia
+2015,110,Aurrekontuaren Zuzendaritza Nagusia
+2015,1100,Aurrekontuaren Zuzendaritza Nagusia
+2015,11000,Aurrekontuaren Zuzendaritza Nagusia
+2015,1101,Gastu Publikoaren Analisi eta Kontrolerako Atala
+2015,11010,Gastu Publikoaren Analisi eta Kontrolerako Atala
+2015,111,Kontabilitate Zerbitzua
+2015,1110,Kontabilitate Zerbitzua
+2015,11100,Kontabilitate Zerbitzua
+2015,1111,Kontabilitate Orokorraren eta Aurrekontuetako Kontabilitatearen Atala
+2015,11110,Kontabilitate Orokorraren eta Aurrekontuetako Kontabilitatearen Atala
+2015,11111,Kontabilitate Zentroko Bulegoa
+2015,11112,Kontabilitateko Informazioa Sortzeko Bulegoa
+2015,11113,Kontabilitateko Informazioa Hedatzeko Bulegoa
+2015,11114,Kontabilizazioko Prozedura Berezien Bulegoa
+2015,1112,Kudeaketa eta Kontroleko Sistemen Atala
+2015,11120,Kudeaketa eta Kontroleko Sistemen Atala
+2015,112,Esku-hartze Orokorreko Zerbitzua
+2015,1120,Esku-hartze Orokorreko Zerbitzua
+2015,11200,Esku-hartze Orokorreko Zerbitzua
+2015,1121,Interbentzio Atala
+2015,11210,Interbentzio Atala
+2015,1123,Auditoretza Atala
+2015,11230,Auditoretza Atala
+2015,1124,Egitura Funtsen Finantza Kontroleko Atala
+2015,11240,Egitura Funtsen Finantza Kontroleko Atala
+2015,1125,FEAGA-LGENF  Laguntze Finantza Kontroleko Atala
+2015,11250,FEAGA-LGENF  Laguntze Finantza Kontroleko Atala
+2015,113,Ondare Zerbitzua
+2015,1130,Ondare Zerbitzua
+2015,11300,Ondare Zerbitzua
+2015,1131,Ondarearen Kudeaketa Juridikoaren Atala
+2015,11310,Ondarearen Kudeaketa Juridikoaren Atala
+2015,11311,Inbentario Orokorreko Bulegoa
+2015,11314,Administrazio Laguntzako Bulegoa
+2015,11315,"Laguntza Teknikoaren, Sozietate Publikoen eta Abalen Bulegoa"
+2015,1132,Ondarearen Kudeaketa Teknikoaren Atala
+2015,11320,Ondarearen Kudeaketa Teknikoaren Atala
+2015,11321,Plangintza eta Balorazioen Bulegoa
+2015,1133,"Kontratazioaren, Aseguruen eta Afera Ekonomikoen Atala"
+2015,11330,"Kontratazioaren, Aseguruen eta Afera Ekonomikoen Atala"
+2015,11331,Eskuratzeen Bulegoa
+2015,11333,Erregistro eta Aseguruen Bulegoa
+2015,11334,Gai Ekonomikoen Bulegoa
+2015,11335,Laguntza Juridikoko Bulegoa
+2015,114,Aurrekontuen eta Finantza Politikaren Zerbitzua
+2015,1140,Aurrekontuen eta Finantza Politikaren Zerbitzua
+2015,11400,Aurrekontuen eta Finantza Politikaren Zerbitzua
+2015,1141,Aurrekontuen Atala
+2015,11410,Aurrekontuen Atala
+2015,1142,Diruzaintza Atala
+2015,11420,Diruzaintza Atala
+2015,11421,Kobrantza eta Ordainketen Bulegoa
+2015,1143,Finantza Politikako Atala
+2015,11430,Finantza Politikako Atala
+2015,15,Nafar Lasarea
+2015,150,Nafar Lasarea
+2015,1500,Nafar Lasarea
+2015,15000,Nafar Lasarea
+2015,15001,Zuzendaritzako Idazkaritzaren Bulegoa
+2015,151,Enplegua eta Aukera Berdintasuna Sustatzeko Zerbitzua
+2015,1510,Enplegua eta Aukera Berdintasuna Sustatzeko Zerbitzua
+2015,15100,Enplegua eta Aukera Berdintasuna Sustatzeko Zerbitzua
+2015,1511,Enplegua Sustatzeko Atala
+2015,15110,Enplegua Sustatzeko Atala
+2015,15111,Programa Propioen Bulegoa
+2015,15113,Ekonomia Soziala Bultzatzeko Bulegoa
+2015,15115,Tokiko Erakundeentzako Laguntzen Bulegoa
+2015,15116,Enplegua Sustatzeko Bulegoa Gizon eta emakumeen arteko Kontziliazioa eta Berdintasuna
+2015,1512,Aukera-berdintasunaren Atala
+2015,15120,Aukera-berdintasunaren Atala
+2015,15123,Sustapen eta Enpleguko Programa mistoen Bulegoa
+2015,15124,Desgaituak Laneratzeko Bulegoa
+2015,15125,Gizarteratzeko Laguntzen Bulegoa
+2015,152,Prestakuntza Zerbitzua
+2015,1520,Prestakuntza Zerbitzua
+2015,15200,Prestakuntza Zerbitzua
+2015,1521,Enplegurako Lanbide Heziketako Programen eta Kalitatearen Jarraipenaren Atala
+2015,15210,Enplegurako Lanbide Heziketako Programen eta Kalitatearen Jarraipenaren Atala
+2015,15211,Programazioko eta Zentroen Erregistroko Bulegoa
+2015,1522,Enplegurako Lanbide Heziketaren Kudeaketarako Bulegoa
+2015,15220,Enplegurako Lanbide Heziketaren Kudeaketarako Bulegoa
+2015,15221,Enpresako Prestakuntzaren eta Programa Espezifikoen Bulegoa
+2015,15222,Enpresa Kanpoko Prestakuntzaren Bulegoa
+2015,1523,Enplegurako Lanbide Heziketaren Garapenerako Bulegoa
+2015,15230,Enplegurako Lanbide Heziketaren Garapenerako Bulegoa
+2015,15231,Prestakuntzaren Metodologiaren Bulegoa
+2015,1526,Zentro Propioen eta Esperientziaren bidezko Egiaztatzearen Atala
+2015,15260,Zentro Propioen eta Esperientziaren bidezko Egiaztatzearen Atala
+2015,15261,Zentro Propioen Bulegoa
+2015,153,Laguntza Tekniko eta Administratiboko Zerbitzua
+2015,1530,Laguntza Tekniko eta Administratiboko Zerbitzua
+2015,15300,Laguntza Tekniko eta Administratiboko Zerbitzua
+2015,15301,Behatokiaren Bulegoa
+2015,1531,Kudeaketa Ekonomikoaren Atala
+2015,15310,Kudeaketa Ekonomikoaren Atala
+2015,15311,Kontabilitate Zentroko Bulegoa
+2015,1532,Araubide Juridikoaren eta Langileriaren Atala
+2015,15320,Araubide Juridikoaren eta Langileriaren Atala
+2015,15321,Erregistroaren eta Langileen Bulegoa
+2015,154,Bitartekaritza eta Orientazio Zerbitzua
+2015,1540,Bitartekaritza eta Orientazio Zerbitzua
+2015,15400,Bitartekaritza eta Orientazio Zerbitzua
+2015,15401,Tafallako Enplegu Bulegoa
+2015,15402,Lizarrako Enplegu Bulegoa
+2015,15403,Altsasuko Enplegu Bulegoa
+2015,15404,Lodosako Enplegu Bulegoa
+2015,15405,Doneztebeko Enplegu Bulegoa
+2015,15406,Agoizko Enplegu Bulegoa
+2015,1542,Orientazio Atala
+2015,15420,Orientazio Atala
+2015,15421,Proiektu eta Ekintzen Kudeaketa eta Jarraipenerako Bulegoa
+2015,1543,Bitartekaritza Atala
+2015,15430,Bitartekaritza Atala
+2015,15431,Kanpoko Eskaintzen Bulegoa
+2015,15432,Sektore Publikoaren eta Administrazioaren Lan Kontratu eta Eskaintzen Alorra
+2015,15433,Sektore Pribatuko Lan Eskaintzen eta Enpresen Azterketako Alorra
+2015,1544,Iruñeko 2. Zabalguneko Enplegu Bulegoa
+2015,15440,Iruñeko 2. Zabalguneko Enplegu Bulegoa
+2015,15441,langileen Arloa
+2015,1545,Iruñeko Yamaguchiko Enplegu Bulegoa
+2015,15450,Iruñeko Yamaguchiko Enplegu Bulegoa
+2015,15451,langileen Arloa
+2015,1546,Iruñeko Errotxapeko Enplegu Bulegoa
+2015,15460,Iruñeko Errotxapeko Enplegu Bulegoa
+2015,15461,langileen Arloa
+2015,1547,Tuterako Enplegu Bulegoa
+2015,15470,Tuterako Enplegu Bulegoa
+2015,15471,langileen Arloa
+2015,15472,Tuterako Enpresen Alorra
+2015,16,Politika Ekonomiko eta Enpresarialaren Zuzendaritza Nagusia
+2015,160,Politika Ekonomiko eta Enpresarialaren Zuzendaritza Nagusia
+2015,1600,Politika Ekonomiko eta Enpresarialaren Zuzendaritza Nagusia
+2015,16000,Politika Ekonomiko eta Enpresarialaren Zuzendaritza Nagusia
+2015,161,Politika Ekonomikoaren Zerbitzua
+2015,1610,Politika Ekonomikoaren Zerbitzua
+2015,16100,Politika Ekonomikoaren Zerbitzua
+2015,1611,Politika Ekonomikoaren Atala
+2015,16110,Politika Ekonomikoaren Atala
+2015,1612,Proiektu Estrategikoen Atala
+2015,16120,Proiektu Estrategikoen Atala
+2015,162,Nafarroako Estatistika Institutua
+2015,1620,Nafarroako Estatistika Institutua
+2015,16200,Nafarroako Estatistika Institutua
+2015,1621,Ekoizpen Estatistikoaren Atala
+2015,16210,Ekoizpen Estatistikoaren Atala
+2015,1622,Estatistiken Koordinazio eta Hedapenerako Atala
+2015,16220,Estatistiken Koordinazio eta Hedapenerako Atala
+2015,16223,Komunikazio Bulegoa
+2015,16224,Nafarroako Estatistika Plana Kudeatzeko Bulegoa
+2015,1623,Azpiegitura Estatistikoaren Atala
+2015,16230,Azpiegitura Estatistikoaren Atala
+2015,163,Nazioarteko Proiekzioaren Zerbitzua
+2015,1630,Nazioarteko Proiekzioaren Zerbitzua
+2015,16300,Nazioarteko Proiekzioaren Zerbitzua
+2015,1631,Europako Programen Atala
+2015,16310,Europako Programen Atala
+2015,16311,Funts Kontrolen Bulegoa
+2015,1632,Europako Deialdien Atala
+2015,16320,Europako Deialdien Atala
+2015,1633,Nazioarteko Ekintzaren Atala
+2015,16330,Nazioarteko Ekintzaren Atala
+2015,1634,Europako Funtsen Kontroleko Atala
+2015,16340,Europako Funtsen Kontroleko Atala
+2015,164,Enpresa Sustapeneko Zerbitzua
+2015,1640,Enpresa Sustapeneko Zerbitzua
+2015,16400,Enpresa Sustapeneko Zerbitzua
+2015,16401,Espedienteen Kudeaketako Bulegoa
+2015,1641,Inbertsioa Sustatzeko Atala
+2015,16410,Inbertsioa Sustatzeko Atala
+2015,16411,Enpresa Txiki eta Ertainentzako Laguntzak Kudeatzeko Bulegoa
+2015,16412,Nekazaritza eta Elikagaigintza Industrien Bulegoa
+2015,1642, Informazioaren Gizartea eta Enpresa Sektoreak Sustatzeko Atala
+2015,16420, Informazioaren Gizartea eta Enpresa Sektoreak Sustatzeko Atala
+2015,165,"Berrindustrializazioaren, Lehiakortasunaren eta Proiektu Estrategikoen Zerbitzua"
+2015,1650,"Berrindustrializazioaren, Lehiakortasunareneta Proiektu Estrategikoen Zerbitzua"
+2015,16500,"Berrindustrializazioaren, Lehiakortasunareneta Proiektu Estrategikoen Zerbitzua"
+2015,1651,Enpresen Lehiakortasunaren Atala
+2015,16510,Enpresen Lehiakortasunaren Atala
+2015,1652,Proiektu Estrategikoen eta Enpresa Politiken Atala
+2015,16520,Proiektu Estrategikoen eta Enpresa Politiken Atala
+2015,166,Ekonomia Hitzarmena
+2015,1660,Ekonomia Hitzarmena
+2015,16600,Ekonomia Hitzarmena
+2015,1661,Estatuarekiko Finantza Fluxuen Atala
+2015,16610,Estatuarekiko Finantza Fluxuen Atala
+2015,17,Nafarroako Zerga Ogasuna Erakunde Autonomoa
+2015,170,Nafarroako Zerga Ogasuna Erakunde Autonomoa
+2015,1700,Nafarroako Zerga Ogasuna Erakunde Autonomoa
+2015,17000,Nafarroako Zerga Ogasuna Erakunde Autonomoa
+2015,1701,Administrazio Atala
+2015,17010,Administrazio Atala
+2015,172,Araudiaren Garapeneko eta Aholkularitza Juridikoko Zerbitzua
+2015,1720,Araudiaren Garapeneko eta Aholkularitza Juridikoko Zerbitzua
+2015,17200,Araudiaren Garapeneko eta Aholkularitza Juridikoko Zerbitzua
+2015,1721,Tributu Sistemaren Fiskalitate eta Garapenerako Atala
+2015,17210,Tributu Sistemaren Fiskalitate eta Garapenerako Atala
+2015,1722,"Tributuen arloko Aholkularitza, Dokumentazio eta Zabalkunderako Atala"
+2015,17220,"Tributuen arloko Aholkularitza, Dokumentazio eta Zabalkunderako Atala"
+2015,173,Zerga Informazioko Sistemen Zerbitzua
+2015,1730,Zerga Informazioko Sistemen Zerbitzua
+2015,17300,Zerga Informazioko Sistemen Zerbitzua
+2015,1731,Koordinazio Informatikoaren Atala
+2015,17310,Koordinazio Informatikoaren Atala
+2015,17311,Prozesuak Kontrolatzeko Bulegoa
+2015,1732,Informazio Sistemen Analisirako Atala
+2015,17320,Informazio Sistemen Analisirako Atala
+2015,1733,Identifikazioaren eta Eredu Informatiboen Atala
+2015,17330,Identifikazioaren eta Eredu Informatiboen Atala
+2015,17331,Artxibo Bulegoa
+2015,1734,Segurtasun eta Berrikuntza Atala
+2015,17340,Segurtasun eta Berrikuntza Atala
+2015,17341,Informazioa Eskuratzeko Bideak Kudeatu eta Kontrolatzeko Bulegoa
+2015,174,"Analisi, Plangintza eta Prestakuntza Zerbitzua"
+2015,1740,"Analisi, Plangintza eta Prestakuntza Zerbitzua"
+2015,17400,"Analisi, Plangintza eta Prestakuntza Zerbitzua"
 2015,1741,Sección de Aplicación y Control de la Recaudación
-2015,17410,Sección de Aplicación y Contrlol de la Recaudación
-2015,17411,Negociado de Aplicación de Cobros
+2015,17410,Diru-bilketaren Aplikazio eta Kontrolaren Atala
+2015,17411,Kobrantzaren Aplikazio Bulegoa
 2015,1742,Sección de Análisis Tributario y Recaudatorio
-2015,17420,Análisis Tributario y Recaudatorio
-2015,17421,Unidad Administrativa de Información para la Dirección
-2015,1743,Sección de Formación y Educación Fiscal
-2015,17430,Sección de Formación y Educación Fiscal
-2015,175,Servicio de Gestión Tributaria
-2015,1750,Servicio de Gestión Tributaria
-2015,17500,Servicio de Gestión Tributaria
-2015,1751,Sección Técnica y de Control de los Impuestos sobre la Renta de las Personas Físicas y sobre el Patrimonio
-2015,17510,Sección Técnica y de Control de los Impuestos sobre la Renta de las Personas Físicas y sobre el Patrimonio
-2015,17511,Negociado de Asesoramiento Técnico del Impuesto sobre la Renta de las Personas Físicas
-2015,1752,"Sección de los Impuestos sobre Sociedades, sobre la Renta de No Residentes y sobre Grandes Establecimientos Comerciales"
-2015,17520,"Sección de los Impuestos sobre Sociedades, sobre la Renta de No Residentes y sobre Grandes Establecimientos Comerciales"
-2015,17521,Negociado de Entidades no Residentes
-2015,1753,"Sección de los Impuestos sobre Sucesiones y Donaciones, Transmisiones Patrimoniales y Actos Jurídicos Documentados"
-2015,17530,"Sección de los Impuestos sobre Sucesiones y Donaciones, Transmisiones Patrimoniales y Actos Jurídicos Documentados"
-2015,17531,Negociado de Liquidación del Impuesto sobre Sucesiones
-2015,1754,Sección de Impuesto sobre el Valor Añadido
-2015,17540,Sección de Impuesto sobre el Valor Añadido
-2015,17541,Negociado de Devoluciones Anuales del IVA
-2015,17542,Negociado de Asesoramiento y Coordinación
-2015,1755,Sección de Impuestos Especiales y Otros Tributos
-2015,17550,Sección de Impuestos Especiales y Otros Tributos
-2015,17551,Negociado de Intervención de Impuestos Especiales sobre Primas de Seguros y Tasas
-2015,1756,Sección de Sanciones y Requerimientos
-2015,17560,Sección de Sanciones y Requerimientos
-2015,176,Servicio de Riqueza Territorial
-2015,1760,Servicio de Riqueza Territorial
-2015,17600,Servicio de Riqueza Territorial
-2015,1761,Sección de Registro de la Riqueza Territorial
-2015,17610,Sección de Registro de la Riqueza Territorial
-2015,1762,Sección de Tasación
-2015,17620,Sección de Tasación
-2015,177,Servicio de Inspección Tributaria
-2015,1770,Servicio de Inspección Tributaria
-2015,17700,Servicio de Inspección Tributaria
-2015,17701,Negociado de Gestión Administrativa y Documentación
-2015,17702,Unidad Administrativa de Coordinación de Actuaciones Inspectoras 1
-2015,17703,Unidad Administrativa de Coordinación de Actuaciones Inspectoras 2
-2015,17704,Unidad Administrativa de Coordinación de Actuaciones Inspectoras 3
-2015,17706,Unidad Administrativa de Planificación e Investigación
-2015,1771,Sección de Oficina Técnica
-2015,17710,Sección de Oficina Técnica
-2015,178,Servicio de Recaudación
-2015,1780,Servicio de Recaudación
-2015,17800,Servicio de Recaudación
-2015,1781,Sección de Gestión de Aplazamientos
-2015,17810,Sección de Gestión de Aplazamientos
-2015,17811,Negociado de Aplazamientos
-2015,1782,Sección de Recaudación Ejecutiva
-2015,17820,Sección de Recaudación Ejecutiva
-2015,17821,Negociado de Gestión Ejecutiva
-2015,17822,Negociado de Gestión Administrativa
-2015,1783,Sección de Procedimientos Especiales
-2015,17830,Sección de Procedimientos Especiales
-2015,179,Servicio de Asistencia e Información al Contribuyente
-2015,1790,Servicio de Asistencia e Información al Contribuyente
-2015,17900,Servicio de Asistencia e Información al Contribuyente
-2015,17901,Unidad Administrativa de Organización Administrativa
-2015,17902,Negociado de Gestión de Notificaciones
-2015,1791,Sección de Asistencia al Contribuyente
-2015,17910,Sección de Asistencia al Contribuyente
-2015,17911,Negociado de Organización Administrativa
-2015,1792,Sección de Atención Técnica y Entidades Colaboradoras
-2015,17920,Sección de Atención Técnica y Entidades Colaboradoras
-2015,17921,Unidad Administrativa de Atención Técnica
-2015,17922,Unidad Administrativa de Entidades Colaboradoras
-2015,1793,Campaña de los Impuestos sobre la Renta de las Personas Físicas y sobre el Patrimonio
-2015,17930,Campaña de los Impuestos sobre la Renta de las Personas Físicas y sobre el Patrimonio
-2015,17931,Unidad Administrativa de Entidades Colaboradoras en la Campaña del Impuesto sobre la Renta de las Personas Físicas
-2015,17932,Unidad Administrativa de Gestión de la Información
-2015,17933,Unidad Administrativa de Coordinación de Campaña
-2015,1794,Sección de Información y Oficinas Territoriales
-2015,17940,Sección de Información y Oficinas Territoriales
-2015,17941,Negociado de Oficina Territorial de Tudela
-2015,18,"Dirección General de Industria, Energía e Innovación"
-2015,180,"Dirección General de Industria, Energía e Innovación"
-2015,1800,"Dirección General de Industria, Energía e Innovación"
-2015,18000,"Dirección General de Industria, Energía e Innovación"
-2015,182,Servicio de Innovación y Transferencia del Conocimiento
-2015,1820,Servicio de Innovación y Transferencia del Conocimiento
-2015,18200,Servicio de Innovación y Transferencia del Conocimiento
-2015,18201,Negociado de Gestión Administrativa
-2015,1821,Sección de Fomento de la Innovación
-2015,18210,Sección de Fomento de la Innovación
-2015,18211,Negociado de Gestión de Proyectos
-2015,1822,Sección de Tecnología y Transferencia del Conocimiento
-2015,18220,Sección de Tecnología y Transferencia del Conocimiento
-2015,183,"Servicio de Energía, Minas y Seguridad Industrial"
-2015,1830,"Servicio de Energía, Minas y Seguridad Industrial"
-2015,18300,"Servicio de Energía, Minas y Seguridad Industrial"
-2015,1831,Sección de Registro de Empresas
-2015,18310,Sección de Registro de Empresas
-2015,18311,Negociado de Empresas
-2015,18312,Negociado de Registro de Industrias Agroalimentarias y SAT
-2015,1832,Sección de Seguridad Industrial
-2015,18320,Sección de Seguridad Industrial
-2015,18321,Negociado de Inspección
-2015,1833,Sección de Energía y Minas
-2015,18330,Sección de Energía y Minas
-2015,18331,Negociado de Aplicaciones Energéticas
-2015,18332,Negociado de Infraestructuras
-2015,185,Servicio de Asistencia Jurídica y Administrativa
-2015,1850,Servicio de Asistencia Jurídica y Administrativa
-2015,18500,Servicio de Asistencia Jurídica y Administrativa
-2015,18501,Negociado de Control Presupuestario
-2015,18502,Negociado de Gestión Contable
-2015,18503,Negociado de Asistencia Técnica
-2015,1851,Sección de Asistencia Jurídica
-2015,18510,Sección de Asistencia Jurídica
-2015,1852,Sección de Apoyo a la Modernización
-2015,18520,Sección de Apoyo a la Modernización
-2015,18521,Negociado de Gestión Administrativa
-2015,19,Dirección General de Trabajo y Prevención de Riesgos
-2015,190,Dirección General de Trabajo y Prevención de Riesgos
-2015,1900,Dirección General de Trabajo y Prevención de Riesgos
-2015,19000,Dirección General de Trabajo y Prevención de Riesgos
-2015,191,Servicio de Trabajo
-2015,1910,Servicio de Trabajo
-2015,19100,Servicio de Trabajo
-2015,1911,Sección de Relaciones Laborales y Prevención de Riesgos
-2015,19110,Sección de Relaciones Laborales y Prevención de Riesgos
-2015,19111,Negociado de Autorizaciones y Sanciones
-2015,19112,Negociado de Gestión Administrativa
-2015,1912,"Sección de Economía Social, Trabajo Autónomo y Registros Públicos Laborales"
-2015,19120,"Sección de Economía Social, Trabajo Autónomo y Registros Públicos Laborales"
-2015,19121,Negociado de Tramitación Administrativa
-2015,19122,"Negociado de Registro de Convenios, Elecciones, Asociaciones y Empresas de Trabajo Temporal"
-2015,1913,Sección de Coordinación y Asistencia Técnica
-2015,19130,Sección de Coordinación y Asistencia Técnica
-2015,4,Departamento de Educación
-2015,40,Departamento de Educación
-2015,400,Departamento de Educación
-2015,4000,Departamento de Educación
-2015,40000,Departamento de Educación
-2015,40001,Consejo Escolar de Navarra-Junta Superior de Educación
-2015,401,Secretaría General Técnica
-2015,4010,Secretaría General Técnica
-2015,40100,Secretaría General Técnica
-2015,4011,Sección de Régimen Administrativo
-2015,40110,Sección de Régimen Administrativo
-2015,40112,Negociado de Registro
-2015,40113,Negociado de Información y Documentación
-2015,4012,Sección de Presupuestos y Gestión Económica
-2015,40120,Sección de Presupuestos y Gestión Económica
-2015,40122,Negociado de Gestión Económica
-2015,4013,Sección de Régimen Jurídico
-2015,40130,Sección de Régimen Jurídico
-2015,40132,Negociado de Asistencia Jurídica
-2015,4015,Sección de Modernización
-2015,40150,Sección de Modernización
-2015,40151,Negociado de Apoyo a la Modernización y Sistemas de Información
-2015,41,Dirección General de Recursos Educativos
-2015,410,Dirección General de Recursos Educativos
-2015,4100,Dirección General de Recursos Educativos
-2015,41000,Dirección General de Recursos Educativos
-2015,411,Servicio de Recursos Económicos
-2015,4110,Servicio de Recursos Económicos
-2015,41100,Servicio de Recursos Económicos
-2015,4111,Sección de Estudios Económicos
-2015,41110,Sección de Estudios Económicos
-2015,4112,Sección de Nóminas y Seguros Sociales
-2015,41120,Sección de Nóminas y Seguros Sociales
-2015,41121,Negociado de Nóminas de Personal Funcionario
-2015,41122,Negociado de Nóminas del Personal Laboral y Administración
-2015,41123,Negociado de Seguros Sociales
-2015,41124,Negociado de Nóminas de Centros Concertados y Subvencionados
-2015,4114,"Sección de Centros Escolares, Financiación y Ayudas al Estudio"
-2015,41140,"Sección de Centros Escolares, Financiación y Ayudas al Estudio"
-2015,41143,Negociado de Financiación de Centros
-2015,41144,Negociado de Becas
-2015,416,"Servicio de Participación Educativa, Atención al Profesorado y Tecnologías de Información y Comunicación"
-2015,4160,"Servicio de Participación Educativa, Atención al Profesorado y Tecnologías de Información y Comunicación"
-2015,41600,"Servicio de Participación Educativa, Atención al profesorado y Tecnologías de la Información y de la Comunicación"
-2015,4161,"Sección de Participación Educativa, Atención al Profesorado y Convivencia"
-2015,41610,"Sección de Participación Educativa, Atención al Profesorado y Convivencia"
-2015,41611,"Negociado de Atención al Profesorado, Convivencia e Igualdad"
+2015,17420,Tributuen eta Diru-bilketaren arloko Azterlanen Zerbitzua
+2015,17421,Zuzendaritzarako Informazioaren Unitate Administratiboa
+2015,1743,Zerga arloko Prestakuntza eta Heziketa Atala
+2015,17430,Zerga arloko Prestakuntza eta Heziketa Atala
+2015,175,Zerga Kudeaketako Zerbitzua
+2015,1750,Zerga Kudeaketako Zerbitzua
+2015,17500,Zerga Kudeaketako Zerbitzua
+2015,1751,Pertsona Fisikoen Errentaren eta Ondarearen gaineko Zergen Atal Tekniko eta Kontrolekoa
+2015,17510,Pertsona Fisikoen Errentaren eta Ondarearen gaineko Zergen Atal Tekniko eta Kontrolekoa
+2015,17511,Pertsona Fisikoen Errentaren Zergari buruzko Aholku Teknikorako Bulegoa
+2015,1752,"Ez-egoiliarren Errentaren, Sozietateen eta Saltoki Handien gaineko Zergen Atala"
+2015,17520,"Ez-egoiliarren Errentaren, Sozietateen eta Saltoki Handien gaineko Zergen Atala"
+2015,17521,Egoitza Kanpoan duten Entitateen Bulegoa
+2015,1753,"Oinordetzen eta Dohaintzen, Ondare Eskualdaketen eta Egintza Juridiko Dokumentatuen gaineko Zergen Atala"
+2015,17530,"Oinordetzen eta Dohaintzen, Ondare Eskualdaketen eta Egintza Juridiko Dokumentatuen gaineko Zergen Atala"
+2015,17531,Oinordetzen gaineko Zergaren Likidaziorako Bulegoa
+2015,1754,Balio Erantsiaren gaineko Zergaren Atala
+2015,17540,Balio Erantsiaren gaineko Zergaren Atala
+2015,17541,Balio Erantsiaren Gaineko Zergaren Urteko Itzulketen Bulegoa
+2015,17542,Aholkularitza eta Koordinazio Bulegoa
+2015,1755,Zerga Berezien eta Bestelako Tributuen Atala
+2015,17550,Zerga Berezien eta Bestelako Tributuen Atala
+2015,17551,"Zerga Bereziei, Aseguru-sarien Zergari eta Tasei buruzko Kontu-hartzearen Bulegoa"
+2015,1756,Zehapen eta Errekerimendu Atala
+2015,17560,Zehapen eta Errekerimendu Atala
+2015,176,Lurraldearen Aberastasunaren Zerbitzua
+2015,1760,Lurraldearen Aberastasunaren Zerbitzua
+2015,17600,Lurraldearen Aberastasunaren Zerbitzua
+2015,1761,Lurralde Aberastasunaren Erregistroaren Atala
+2015,17610,Lurralde Aberastasunaren Erregistroaren Atala
+2015,1762,Tasazio Atala
+2015,17620,Tasazio Atala
+2015,177,Zerga Ikuskaritzako Zerbitzua
+2015,1770,Zerga Ikuskaritzako Zerbitzua
+2015,17700,Zerga Ikuskaritzako Zerbitzua
+2015,17701,Kudeaketa Administratibo eta Dokumentazioaren Bulegoa
+2015,17702,Ikuskapen Jarduketak Koordinatzeko 1. Unitate Administratiboa
+2015,17703,Ikuskapen Jarduketak Koordinatzeko 2. Unitate Administratiboa
+2015,17704,Ikuskapen Jarduketak Koordinatzeko 3. Unitate Administratiboa
+2015,17706,Plangintza eta Ikerketarako Unitate Administratiboa
+2015,1771,Bulego Teknikoaren Atala
+2015,17710,Bulego Teknikoaren Atala
+2015,178,Diru-bilketako Zerbitzua
+2015,1780,Diru-bilketako Zerbitzua
+2015,17800,Diru-bilketako Zerbitzua
+2015,1781,Gerorapenak Kudeatzeko Atala
+2015,17810,Gerorapenak Kudeatzeko Atala
+2015,17811,Gerorapen Bulegoa
+2015,1782,Derrigorrezko Diru-bilketaren Atala
+2015,17820,Derrigorrezko Diru-bilketaren Atala
+2015,17821,Derrigorrezko Diru-bilketa Kudeatzeko Bulegoa
+2015,17822,Kudeaketa Administratiboaren Bulegoa
+2015,1783,Prozedura Berezien Atala
+2015,17830,Prozedura Berezien Atala
+2015,179,Zergadunarentzako Laguntza eta Informazio Zerbitzua
+2015,1790,Zergadunarentzako Laguntza eta Informazio Zerbitzua
+2015,17900,Zergadunarentzako Laguntza eta Informazio Zerbitzua
+2015,17901,Antolaketa Administratiboko Unitate Administratiboa
+2015,17902,Jakinarazpenak Kudeatzeko Bulegoa
+2015,1791,Zergadunari Laguntza Emateko Atala
+2015,17910,Zergadunari Laguntza Emateko Atala
+2015,17911,Antolaketa Administratiboaren Bulegoa
+2015,1792,Laguntza Teknikoaren eta Entitate Laguntzaileen Atala
+2015,17920,Laguntza Teknikoaren eta Entitate Laguntzaileen Atala
+2015,17921,Laguntza Teknikoaren Unitate Administratiboa
+2015,17922,Entitate Laguntzaileen Unitate Administratiboa
+2015,1793,Pertsona Fisikoen Errentaren eta Ondarearen gaineko Zergetarako Kanpainaren Atala
+2015,17930,Pertsona Fisikoen Errentaren eta Ondarearen gaineko Zergetarako Kanpainaren Atala
+2015,17931,Pertsona Fisikoen Errentaren gaineko Zergako Kanpainako Entitate Laguntzaileen Unitate Administratiboa
+2015,17932,Informazioa Kudeatzeko Unitate Administratiboa
+2015,17933,Kanpainaren Koordinazioko Unitate Administratiboa
+2015,1794,Argibideetarako eta Eskualdeko Langelen Atala
+2015,17940,Argibideetarako eta Eskualdeko Langelen Atala
+2015,17941,Tuterako Lurralde Bulegoa
+2015,18,"Industriaren, Energiaren eta Berrikuntzaren Zuzendaritza Nagusia"
+2015,180,"Industriaren, Energiaren eta Berrikuntzaren Zuzendaritza Nagusia"
+2015,1800,"Industriaren, Energiaren eta Berrikuntzaren Zuzendaritza Nagusia"
+2015,18000,"Industriaren, Energiaren eta Berrikuntzaren Zuzendaritza Nagusia"
+2015,182,Berrikuntzarako eta Jakintzaren Transferentziarako Zerbitzua
+2015,1820,Berrikuntzarako eta Jakintzaren Transferentziarako Zerbitzua
+2015,18200,Berrikuntzarako eta Jakintzaren Transferentziarako Zerbitzua
+2015,18201,Kudeaketa Administratiboaren Bulegoa
+2015,1821,Berrikuntza Sustatzeko Atala
+2015,18210,Berrikuntza Sustatzeko Atala
+2015,18211,Proiektuak Kudeatzeko Bulegoa
+2015,1822,Teknologiaren eta Ezagutzaren Transferentziaren Atala
+2015,18220,Teknologiaren eta Ezagutzaren Transferentziaren Atala
+2015,183,"Energiaren, Meategien eta Segurtasun Industrialeko Zerbitzua"
+2015,1830,"Energiaren, Meategien eta Segurtasun Industrialeko Zerbitzua"
+2015,18300,"Energiaren, Meategien eta Segurtasun Industrialeko Zerbitzua"
+2015,1831,Enpresen Erregistroaren Atala
+2015,18310,Enpresen Erregistroaren Atala
+2015,18311,Enpresen Bulegoa
+2015,18312,Nekazaritzako Elikagai Industrien eta Eraldakuntzako Nekazaritza Sozietateen Erregistro Bulegoa
+2015,1832,Industria Segurtasunaren Atala
+2015,18320,Industria Segurtasunaren Atala
+2015,18321,Ikuskaritza Bulegoa
+2015,1833,Energiaren eta Meategien Atala
+2015,18330,Energiaren eta Meategien Atala
+2015,18331,Energia Aplikazioen Bulegoa
+2015,18332,Azpiegituren Bulegoa
+2015,185,Laguntza Juridiko eta Administratiboko Zerbitzua
+2015,1850,Laguntza Juridiko eta Administratiboko Zerbitzua
+2015,18500,Laguntza Juridiko eta Administratiboko Zerbitzua
+2015,18501,Aurrekontuen Kontrolerako Bulegoa
+2015,18502,Kontabilitatearen Kudeaketarako Bulegoa
+2015,18503,Laguntza Teknikorako Bulegoa
+2015,1851,Laguntza Juridikoaren Atala
+2015,18510,Laguntza Juridikoaren Atala
+2015,1852,Modernizazioa Bultzatzeko Atala
+2015,18520,Modernizazioa Bultzatzeko Atala
+2015,18521,Kudeaketa Administratiboaren Bulegoa
+2015,19,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2015,190,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2015,1900,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2015,19000,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2015,191,Lan Zerbitzua
+2015,1910,Lan Zerbitzua
+2015,19100,Lan Zerbitzua
+2015,1911,Lan Harremanen eta Arriskuen Prebentzioaren Atala
+2015,19110,Lan Harremanen eta Arriskuen Prebentzioaren Atala
+2015,19111,Baimen eta Zehapenen Bulegoa
+2015,19112,Kudeaketa Administratiboaren Bulegoa
+2015,1912,"Ekonomia Sozialaren, Lan Autonomoaren eta Lan Erregistro Publikoen Atala"
+2015,19120,"Ekonomia Sozialaren, Lan Autonomoaren eta Lan Erregistro Publikoen Atala"
+2015,19121,Izapide Administratiboen Bulegoa
+2015,19122,"Aldi baterako Laneko Enpresen, Elkarteen, Hauteskundeen eta Hitzarmenen Erregistrorako Bulegoa"
+2015,1913,Koordinazioaren eta Laguntza Teknikoaren Atala
+2015,19130,Koordinazioaren eta Laguntza Teknikoaren Atala
+2015,4,Hezkuntza Departamentua
+2015,40,Hezkuntza Departamentua
+2015,400,Hezkuntza Departamentua
+2015,4000,Hezkuntza Departamentua
+2015,40000,Hezkuntza Departamentua
+2015,40001,Nafarroako Eskola Kontseilua - Hezkuntzako Batzorde Nagusia
+2015,401,Idazkaritza Tekniko Orokorra
+2015,4010,Idazkaritza Tekniko Orokorra
+2015,40100,Idazkaritza Tekniko Orokorra
+2015,4011,Administrazio Araubidearen Atala
+2015,40110,Administrazio Araubidearen Atala
+2015,40112,Erregistro Bulegoa
+2015,40113,Argibide eta Agiri Bulegoa
+2015,4012,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2015,40120,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2015,40122,Kudeaketa Ekonomikorako Bulegoa
+2015,4013,Araubide Juridikoaren Atala
+2015,40130,Araubide Juridikoaren Atala
+2015,40132,Laguntza Juridikoko Bulegoa
+2015,4015,Modernizazio Atala
+2015,40150,Modernizazio Atala
+2015,40151,Informazio Sistemen Modernizazioa Bultzatzeko Bulegoa
+2015,41,Hezkuntza Baliabideen Zuzendaritza Nagusia
+2015,410,Hezkuntza Baliabideen Zuzendaritza Nagusia
+2015,4100,Hezkuntza Baliabideen Zuzendaritza Nagusia
+2015,41000,Hezkuntza Baliabideen Zuzendaritza Nagusia
+2015,411,Baliabide Ekonomikoen Zerbitzua
+2015,4110,Baliabide Ekonomikoen Zerbitzua
+2015,41100,Baliabide Ekonomikoen Zerbitzua
+2015,4111, Azterlan Ekonomikoen Atala
+2015,41110, Azterlan Ekonomikoen Atala
+2015,4112,Nominen eta Gizarte Aseguruen Atala
+2015,41120,Nominen eta Gizarte Aseguruen Atala
+2015,41121,Langile Funtzionarioen Nominen Bulegoa
+2015,41122,Lan eta Administrazio kontratudunen Nominen Bulegoa
+2015,41123,Gizarte Aseguruen Bulegoa
+2015,41124,Itunpeko eta Diruz Lagundutako Ikastetxeetako Nominen Bulegoa
+2015,4114,"Ikastetxeen, Finantzaketaren eta Ikasketetarako Laguntzen Atala"
+2015,41140,"Ikastetxeen, Finantzaketaren eta Ikasketetarako Laguntzen Atala"
+2015,41143,Ikastetxeak Finantzatzeko Bulegoa
+2015,41144,Beka Bulegoa
+2015,416,"Hezkuntzako Parte-hartzeko, Irakasleei Arreta Emateko eta Informazio eta Komunikazio Teknologietako Zerbitzua"
+2015,4160,"Hezkuntzako Parte-hartzeko, Irakasleei Arreta Emateko eta Informazio eta Komunikazio Teknologietako Zerbitzua"
+2015,41600,"Hezkuntzako Parte-hartzeko, Irakasleei Arreta Emateko eta Informazio eta Komunikazio Teknologietako Zerbitzua"
+2015,4161,"Hezkuntzako Parte-hartzearen, Irakasleentzako Arretaren eta Bizikidetzaren Atala"
+2015,41610,"Hezkuntzako Parte-hartzearen, Irakasleentzako Arretaren eta Bizikidetzaren Atala"
+2015,41611,"Irakasleentzako Arretaren, Bizikidetzaren eta Berdintasunaren Bulegoa"
 2015,4162,Sección de Tecnologías de la Información y la Comunicación y Proyectos
-2015,41620,Sección de Tecnologías de la Información y de la Comunicación y Proyectos
-2015,41621,Negociado de Gestión Curricular de las Tecnologías de la Inforamción yde la Comunicación
-2015,41622,Negociado de la Gestión de la Información Escolar
-2015,41623,Negociado de Sistemas y Redes Educativas
-2015,417,Servicio de Recursos Humanos
-2015,4170,Servicio de Recursos Humanos
-2015,41700,Servicio de Recursos Humanos
-2015,4171,Sección de Régimen Jurídico de Personal
-2015,41710,Sección de Régimen Jurídico de Personal
-2015,41711,Negociado de Control Administrativo y Régimen de Personal
-2015,4172,Sección de Convocatorias
-2015,41720,Sección de Convocatorias
-2015,41725,Negociado de Plantilla de Personal
-2015,4175,Sección de Planificación
-2015,41750,Sección de Planificación
-2015,41751,Negociado Técnico Administrativo de Personal
+2015,41620,Informazioaren eta Komunikazioaren Teknologien eta Proiektuen Atala
+2015,41621,Informazioaren eta Komunikazioaren Teknologien Curriculumeko Kudeaketaren Bulegoa
+2015,41622,Ikastetxeetako Informazioa Kudeatzeko Bulegoa
+2015,41623,Hezkuntzako Sistema eta Sareen Bulegoa
+2015,417,Giza Baliabideen Zerbitzua
+2015,4170,Giza Baliabideen Zerbitzua
+2015,41700,Giza Baliabideen Zerbitzua
+2015,4171,Langileriaren Araubide Juridikoaren Atala
+2015,41710,Langileriaren Araubide Juridikoaren Atala
+2015,41711,Kontrol Administratiboaren eta Langileriaren Araubidearen Bulegoa
+2015,4172,Deialdien Atala
+2015,41720,Deialdien Atala
+2015,41725,Langileriaren Plantillaren Bulegoa
+2015,4175,Plangintza Atala
+2015,41750,Plangintza Atala
+2015,41751,Langileen Afera Tekniko Administratiboen Bulegoa
 2015,4176,Sección de Contratación del Personal
-2015,41760,Sección de Contratación de Personal
-2015,4177,Sección de Prevención de Riesgos Laborales
-2015,41770,Sección de Prevención de Riesgos Laborales
-2015,418,Servicio de Infraestructuras Educativas
-2015,4180,Servicio de Infraestructuras Educativas
-2015,41800,Servicio de Infraestructuras Educativas
-2015,4181,Sección de Obras
-2015,41810,Sección de Obras
-2015,41811,Negociado de Construcciones
-2015,4182,Sección de Mantenimiento de Centros y Dependencias del Departamento de Educación
-2015,41820,Sección de Mantenimiento de Centros y Dependencias del Departamento de Educación
-2015,41821,Negociado de Mantenimiento
-2015,4183,"Sección de Contratación, Servicios Complementarios y Coordinación Administrativa"
-2015,41830,"Sección de Contratación, Servicios Complementarios y Coordinación Administrativa"
-2015,41831,Negociado de Servicios Complementarios
-2015,41832,Negociado de Adquisiciones
-2015,41833,Negociado de Contratación
-2015,42,"Dirección General de Educación, Formación Profesional y Universidades"
-2015,420,"Dirección General de Educación, Formación Profesional y Universidades"
-2015,4200,"Dirección General de Educación, Formación Profesional y Universidades"
-2015,42000,"Dirección General de Educación, Formación Profesional y Universidades"
-2015,4201,Sección de 0 a 3 y Escuelas Rurales
-2015,42010,Sección de 0 a 3 y Escuelas Rurales
-2015,42011,Negociado de 0 a 3
-2015,421,Servicio de Ordenación e Igualdad de Oportunidades
-2015,4210,Servicio de Ordenación e Igualdad de Oportunidades
-2015,42100,Servicio de Ordenación e Igualdad de Oportunidades
-2015,4211,Sección de Ordenación Académica
-2015,42110,Sección de Ordenación Académica
-2015,42111,Negociado de Ordenación
-2015,42112,Negociado de Títulos y Convalidaciones
-2015,42113,Negociado de Formación Permanente
-2015,4219,Sección de Atención a la Diversidad y Necesidades Educativas Especiales
-2015,42190,Sección de Atención a la Diversidad y Necesidades Educativas Especiales
-2015,42191,Negociado de Necesidades Educativas Especiales
-2015,42192,Negociado de Orientación
-2015,42193,Negociado de Proyectos de Inclusión
-2015,424,Servicio de Idiomas y Enseñanzas Artísticas
-2015,4240,Servicio de Idiomas y Enseñanzas Artísticas
-2015,42400,Servicio de Idiomas y Enseñanzas Artísticas
-2015,4241,Sección de Lengua Vasca
-2015,42410,Sección de Lengua Vasca
-2015,42411,Negociado de Promoción y Didáctica de la Lengua Vasca
-2015,42412,Negociado de EGA
-2015,4242,Sección de Inglés y Otras Lenguas Extranjeras
-2015,42420,Sección de Inglés y Otras Lenguas Extranjeras
-2015,42421,Negociado de Escuelas de Idiomas y Acreditación
-2015,42422,Negociado de Programas de Aprendizaje en Lenguas Extranjeras
-2015,4244,Sección de Enseñanzas Artísticas y de Gestión de la Ciudad de la Música
-2015,42440,Sección de Enseñanzas Artísticas y de Gestión de la Ciudad de la Música
-2015,42441,Negociado de Coordinación de la Ciudad de la Música
-2015,4245,Sección de Lengua Castellana y Cooperación Territorial
-2015,42450,Sección de Lengua Castellana y Cooperación Territorial
-2015,426,Servicio de Formación Profesional
-2015,4260,Servicio de Formación Profesional
-2015,42600,Servicio de Formación Profesional
-2015,4261,"Sección de Planificación, Ordenación y Desarrollo de Formación Profesional"
-2015,42610,"Sección de Planificación, Ordenación y Desarrollo de Formación Profesional"
-2015,42611,Negociado de Ordenación de la Formación Profesional y de Programas de Iniciación Profesional y Formación
-2015,42612,Negociado de Formación Profesional-Instituto Navarro de las Cualificaciones
-2015,4262,"Sección de Innovación, Empresa e Internacionalización de la Formación Profesional"
-2015,42620,"Sección de Innovación, Empresa e Internacionalización de la Formación Profesional"
-2015,42621,Negociado de Innovación de la Formación Profesional
-2015,42622,Negociado de formación de Centros de Trabajo y de Formación Continua
-2015,42623,Negociado de Internacionalización de la Formación Profesional
-2015,427,"Servicio de Universidades, Calidad y Formación"
-2015,4270,"Servicio de Universidades, Calidad y Formación"
-2015,42700,"Servicio de Universidades, Calidad y Formación"
-2015,4273,Sección de Formación y Calidad
-2015,42730,Sección de Formación y Calidad
-2015,42731,Negociado de Calidad e Innovación
-2015,42732,Negociado de Programas Formativos
-2015,42733,Negociado de Centros de Apoyo al Profesorado y Proyectos de Innovación
-2015,4274,Sección de Universidades
-2015,42740,Sección de Universidades
-2015,42741,Negociado de Enseñanza Superior
-2015,42742,Negociado de Ayudas a la Investigación e Internacionalización
-2015,428,Servicio de Inspección Educativa
-2015,4280,Servicio de Inspección Educativa
-2015,42800,Servicio de Inspección Educativa
-2015,42801,Negociado de Control Administrativo y Archivo
-2015,42802,Negociado de Escolarización
-2015,4281,Sección de Evaluación
-2015,42810,Sección de Evaluación
-2015,44,Euskarabidea/Instituto Navarro del Vascuence
-2015,440,Euskarabidea/Instituto Navarro del Vascuence
+2015,41760,Langileen Kontrataziorako Atala
+2015,4177,Laneko Arriskuen Prebentziorako Atala
+2015,41770,Laneko Arriskuen Prebentziorako Atala
+2015,418,Hezkuntzako Azpiegituren Zerbitzua
+2015,4180,Hezkuntzako Azpiegituren Zerbitzua
+2015,41800,Hezkuntzako Azpiegituren Zerbitzua
+2015,4181,Obren Atala
+2015,41810,Obren Atala
+2015,41811,Eraikuntza Bulegoa
+2015,4182,Hezkuntza Departamentuko Egoitzen eta Ikastetxeen Mantentze Lanetarako Atala
+2015,41820,Hezkuntza Departamentuko Egoitzen eta Ikastetxeen Mantentze Lanetarako Atala
+2015,41821,Mantentze Lanen Bulegoa
+2015,4183,"Kontratazioaren, Zerbitzu Osagarrien eta Koordinazio Administratiboaren Atala"
+2015,41830,"Kontratazioaren, Zerbitzu Osagarrien eta Koordinazio Administratiboaren Atala"
+2015,41831,Zerbitzu Osagarrien Bulegoa
+2015,41832,Eskuratzeen Bulegoa
+2015,41833,Kontratazio Bulegoa
+2015,42,"Hezkuntzaren, Lanbide Heziketaren eta Unibertsitateen Zuzendaritza Nagusia"
+2015,420,"Hezkuntzaren, Lanbide Heziketaren eta Unibertsitateen Zuzendaritza Nagusia"
+2015,4200,"Hezkuntzaren, Lanbide Heziketaren eta Unibertsitateen Zuzendaritza Nagusia"
+2015,42000,"Hezkuntzaren, Lanbide Heziketaren eta Unibertsitateen Zuzendaritza Nagusia"
+2015,4201,0-3 urteko Haurren eta Landa Eskolen Atala
+2015,42010,0-3 urteko Haurren eta Landa Eskolen Atala
+2015,42011,0-3 urteko Haurren Bulegoa
+2015,421,Antolamenduko eta Aukera Berdintasuneko Zerbitzua
+2015,4210,Antolamenduko eta Aukera Berdintasuneko Zerbitzua
+2015,42100,Antolamenduko eta Aukera Berdintasuneko Zerbitzua
+2015,4211,Ikasketak Antolatzeko Atala
+2015,42110,Ikasketak Antolatzeko Atala
+2015,42111,Antolamendu Bulegoa
+2015,42112,Titulu eta Baliozkotze Bulegoa
+2015,42113,Etengabeko Prestakuntzaren Bulegoa
+2015,4219,Aniztasunarekiko Arretaren eta Hezkuntza Premia Berezien Atala
+2015,42190,Aniztasunarekiko Arretaren eta Hezkuntza Premia Berezien Atala
+2015,42191,Hezkuntza Premia Berezien Bulegoa
+2015,42192,Orientazio Bulegoa
+2015,42193,Inklusio Proiektuetarako Bulegoa
+2015,424,Hizkuntzen eta Irakaskuntza Artistikoen Zerbitzua
+2015,4240,Hizkuntzen eta Irakaskuntza Artistikoen Zerbitzua
+2015,42400,Hizkuntzen eta Irakaskuntza Artistikoen Zerbitzua
+2015,4241,Euskara Atala
+2015,42410,Euskara Atala
+2015,42411,Euskararen Sustapenaren eta Didaktikaren Bulegoa
+2015,42412,EGAren Bulegoa
+2015,4242,Ingelesaren eta Atzerriko Beste Hizkuntza Batzuen Atala
+2015,42420,Ingelesaren eta Atzerriko Beste Hizkuntza Batzuen Atala
+2015,42421,Hizkuntza Eskolen eta Egiaztapenen Bulegoa
+2015,42422,Atzerriko Hizkuntzak Ikasteko Programen Bulegoa
+2015,4244,Arte Ikasketetarako eta Musikaren Hiria Kudeatzeko Atala
+2015,42440,Arte Ikasketetarako eta Musikaren Hiria Kudeatzeko Atala
+2015,42441,Musikaren Hiria Koordinatzeko Bulegoa
+2015,4245,Gaztelaniaren eta Lurralde arteko Lankidetzaren Atala
+2015,42450,Gaztelaniaren eta Lurralde arteko Lankidetzaren Atala
+2015,426,Lanbide Heziketako Zerbitzua
+2015,4260,Lanbide Heziketako Zerbitzua
+2015,42600,Lanbide Heziketako Zerbitzua
+2015,4261,"Lanbide Heziketaren Plangintza, Antolamendu eta Garapenerako Atala"
+2015,42610,"Lanbide Heziketaren Plangintza, Antolamendu eta Garapenerako Atala"
+2015,42611,Lanbide Heziketaren Antolamendurako eta Laneratzeko eta Prestakuntzako Programetarako Bulegoa
+2015,42612,Lanbide Heziketaren Bulegoa - Nafarroako Lanbide Kualifikazioen Institutua
+2015,4262,"Berrikuntzaren, Enpresaren eta Lanbide Heziketa Nazioartekotzearen Atala"
+2015,42620,"Berrikuntzaren, Enpresaren eta Lanbide Heziketa Nazioartekotzearen Atala"
+2015,42621,Lanbide Heziketa Berriztatzeko Bulegoa
+2015,42622,Lan Zentroetako Prestakuntzako eta Etengabeko Prestakuntzako Bulegoa
+2015,42623,Lanbide Heziketa Nazioartekotzeko Bulegoa
+2015,427,"Unibertsitateen, Kalitatearen eta Prestakuntzaren Zerbitzua"
+2015,4270,"Unibertsitateen, Kalitatearen eta Prestakuntzaren Zerbitzua"
+2015,42700,"Unibertsitateen, Kalitatearen eta Prestakuntzaren Zerbitzua"
+2015,4273,Prestakuntzaren eta Kalitatearen Atala
+2015,42730,Prestakuntzaren eta Kalitatearen Atala
+2015,42731,Kalitate eta Berrikuntza Bulegoa
+2015,42732,Prestakuntza Programen Bulegoa
+2015,42733,Irakasleentzako Laguntza Zentroen eta Berriztapen Proiektuen Bulegoa
+2015,4274,Unibertsitateen Atala
+2015,42740,Unibertsitateen Atala
+2015,42741,Goi mailako Irakaskuntzaren Bulegoa
+2015,42742,Ikerketarako eta Nazioarteratzeko Laguntzen Bulegoa
+2015,428,Hezkuntza Ikuskaritzako Zerbitzua
+2015,4280,Hezkuntza Ikuskaritzako Zerbitzua
+2015,42800,Hezkuntza Ikuskaritzako Zerbitzua
+2015,42801,Kontrol Administratiboaren eta Artxiboaren Bulegoa
+2015,42802,Eskolatze Bulegoa
+2015,4281,Ebaluazio Atala
+2015,42810,Ebaluazio Atala
+2015,44,Euskarabidea - Euskararen Nafar Institutua
+2015,440,Euskarabidea - Euskararen Nafar Institutua
 2015,4400,Euskarabidea/Instituto Navarro Vascuence
-2015,44000,Euskarabidea/Instituto Navarro del Vascuence
-2015,44001,Negociado de Programas
-2015,4401,Sección de Asesoramiento y Comunicación
-2015,44010,Sección de Asesoramiento y Comunicación
-2015,442,Servicio de Formación y Fomento del Vascuence
-2015,4420,Servicio de Formación y Fomento del Vascuence
-2015,44200,Servicio de Formación y Fomento del Vascuence
-2015,4423,Sección de Didáctica del Vascuence
-2015,44230,Sección de Didáctica del Vascuence
-2015,4424,Sección de Fomento del Vascuence
-2015,44240,Sección de Fomento del Vascuence
-2015,5,Departamento de Salud
-2015,50,Departamento de Salud
-2015,500,Departamento de Salud
-2015,5000,Departamento de Salud
-2015,50000,Departamento de Salud
-2015,501,Secretaría General Técnica
-2015,5010,Secretaría General Técnica
-2015,50100,Secretaría General Técnica
-2015,5012,Sección de Régimen Jurídico
-2015,50120,Sección de Régimen Jurídico
-2015,50121,Negociado de Apoyo Jurídico
-2015,50122,Negociado de Tramitación de Expedientes
-2015,5013,Sección de Régimen Interior
-2015,50130,Sección de Régimen Interior
-2015,50132,Negociado de Registro y Archivo
-2015,50133,Negociado de Contabilidad
-2015,5014,Sección de Asistencia Jurídica al Servicio Navarro de Salud-Osasunbidea
-2015,50140,Sección de Asistencia Jurídica al Servicio Navarro de Salud-Osasunbidea
-2015,5015,Sección de Organización
-2015,50150,Sección de Organización
-2015,50151,Negociado de Gestión de Resoluciones
-2015,51,Dirección General de Salud
-2015,510,Dirección General de Salud
-2015,5100,Dirección General de Salud
-2015,51000,Dirección General de Salud
-2015,511,Servicio de Ordenación e Inspección Sanitaria
-2015,5110,Servicio de Ordenación e Inspección Sanitaria
-2015,51100,Servicio de Ordenación e Inspección Sanitaria
-2015,51101,Negociado de Asuntos Administrativos
-2015,5111,Sección de Inspección de Actividades Sanitarias y Aseguramiento
-2015,51110,Sección de Inspección de Actividades Sanitarias y Aseguramiento
-2015,5113,Sección de Inspección Farmacéutica
-2015,51130,Sección de Inspección Farmacéutica
-2015,512,Instituto de Salud Pública y Laboral de Navarra
-2015,5120,Instituto de Salud Pública y Laboral de Navarra
-2015,51200,Instituto de Salud Pública y Laboral de Navarra
-2015,5121,Servicio de Seguridad e Higiene en el Trabajo y Formación
-2015,51210,Servicio de Seguridad e Higiene en el Trabajo y Formación
-2015,51211,Sección Técnica de Prevención de Riesgos Laborales
-2015,51212,Sección de Formación y Psicosociología Laboral
-2015,5122,Servicio de Salud Laboral e Investigación
-2015,51220,Servicio de Salud Laboral e Investigación
-2015,51221,Sección de Valoración Clínico-Laboral e Incapacidades
-2015,51222,"Sección de Epidemiología Laboral, Investigación y Evaluación Sanitaria"
-2015,5123,"Servicio de Epidemiología, Prevención y Promoción de la Salud"
-2015,51230,"Servicio de Epidemiología, Prevención y Promoción de la Salud"
-2015,51231,Sección de Vigilancia de Enfermedades Transmisibles
-2015,51232,Sección de Epidemiología de Enfermedades no Transmisibles
-2015,51233,Sección de Detección Precoz
-2015,51234,Sección de Promoción de la Salud
-2015,5124,Servicio de Seguridad Alimentaria y Sanidad Ambiental
-2015,51240,Servicio de Seguridad Alimentaria y Sanidad Ambiental
-2015,51241,Sección de Laboratorio de Salud Pública
-2015,51242,Sección de Seguridad Alimentaria
-2015,51243,Sección de Sanidad Ambiental
-2015,5125,Servicio de Recursos Humanos y Gestión Económica
-2015,51250,Servicio de Recursos Humanos y Gestión Económica
-2015,51251,Sección de Administración y Servicios Generales
-2015,513,"Servicio de Investigación, Innovación y Formación Sanitaria"
-2015,5130,"Servicio de Investigación, Innovación y Formación Sanitaria"
-2015,51300,"Servicio de Investigación, Innovación y Formación Sanitaria"
-2015,51301,Negociado de Gestión Administrativa
-2015,51302,Negociado de Asuntos Económicos y Régimen Interior
-2015,5131,Sección de Formación y Desarrollo Profesional
-2015,51310,Sección de Formación y Desarrollo Profesional
-2015,51311,Negociado de Gestión de la Formación
-2015,5133,Sección de Innovación y Evaluación
-2015,51330,Sección de Innovación y Evaluación
-2015,51331,Negociado de Evaluación Estratégica
-2015,51332,Negociado de Planificación Estratégica
-2015,5135,Sección de Investigación y Gestión del Conocimiento
-2015,51350,Sección de Investigación y Gestión del Conocimiento
-2015,51351,Negociado de Gestión del Conocimiento
-2015,51352,Negociado de Gestión de la Investigación
-2015,514,Servicio de Sistemas de la Información Sanitaria
-2015,5140,Servicio de Sistemas de la Información Sanitaria
-2015,51400,Servicio de Sistemas de la Información Sanitaria
-2015,5141,Sección de Soporte y Gestión de la Información
-2015,51410,Sección de Soporte y Gestión de la Información
-2015,51411,Negociado de Soporte de Atención Primaria
-2015,51412,Negociado de Soporte del Complejo Hospitalario de Navarra
-2015,51413,Negociado de Soporte de Tudela
-2015,51414,Negociado de Soporte de otros recursos
-2015,51415,Negociado de Soporte funcional
-2015,5142,Sección de Evolución de Sistemas de Información Sanitaria
-2015,51420,Sección de Evolución de Sistemas de Información Sanitaria
-2015,5143,Sección de Medidas de Seguridad
-2015,51430,Sección de Medidas de Seguridad
-2015,52,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
-2015,520,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
-2015,5200,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
-2015,52000,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
-2015,521,Dirección de Administración y Servicios Generales
-2015,5210,Dirección de Administración y Servicios Generales
-2015,52100,Dirección de Administración y Servicios Generales
-2015,5211,Subdirección de Gestión del Gasto
-2015,52110,Subdirección de Gestión del Gasto
-2015,52111,Servicio de Aprovisionamiento y Servicios Generales
-2015,52112,"Servicio de Obras, Equipamiento y Mantenimiento"
-2015,52117,Servicio de Administración y Servicios Generales en Atención Primaria
-2015,52118,Servicio de Administración y Servicios Generales en el Complejo Hospitalario de Navarra
-2015,52119,Servicio de Administración y Servicios Generales en el Hospital Reina Sofía
-2015,5211A,Servicio de Administración y Servicios Generales en el Hospital García Orcoyen
-2015,5212,Subdirección de Presupuestos y Control del Gasto
-2015,52120,Subdirección de Presupuestos y Control del Gasto
-2015,52121,Servicio de Presupuestos y Contabilidad
-2015,52122,Servicio de Control y Análisis del Gasto
-2015,522,Dirección del Complejo Hospitalario de Navarra
-2015,5220,Dirección del Complejo Hospitalario de Navarra
-2015,52200,Dirección del Complejo Hospitalario de Navarra
-2015,52201,Subdirección de Continuidad Asistencial y Calidad
-2015,5221,Dirección Médico-Asistencial del Complejo Hospitalario de Navarra
-2015,52210,Dirección Médico-Asistencial del Complejo Hospitalario de Navarra
-2015,52211,Subdirección de Servicios Médicos
-2015,52212,Subdirección de Servicios Quirúrgicos
-2015,52213,Subdirección de Servicios Centrales Médicos
-2015,52214,Banco de Sangre y Tejidos de Navarra
-2015,5222,Dirección de Enfermería del Complejo Hospitalario de Navarra
-2015,52220,Dirección de Enfermería del Complejo Hospitalario de Navarra
-2015,52221,Subdirección de Bloque Quirúrgico y Hospitalización Médico-Quirúrgica
-2015,52222,"Subdirección de Servicios Centrales, Ambulatorios y Asistencia Extrahospitalaria e Intrahospitalaria, y Recursos Materiales"
-2015,523,Dirección de Atención Primaria
-2015,5230,Dirección de Atención Primaria
-2015,52300,Dirección de Atención Primaria
-2015,5231,Subdirección de Atención Primaria de Navarra Norte
-2015,52310,Subdirección de Atención Primaria de Navarra Norte
-2015,5232,Subdirección de Atención Primaria de Navarra Este
-2015,52320,Subdirección de Atención Primaria de Navarra Este
-2015,5233,Servicio de Planificación y Gestión Clínica
-2015,52330,Servicio de Planificación y Gestión Clínica
-2015,5236,Servicio de Enfermería
-2015,52360,Servicio de Enfermería
-2015,5237,Servicio de Prestaciones Farmacéuticas
-2015,52370,Servicio de Prestaciones Farmacéuticas
-2015,52371,Sección de Información y Asesoría del Medicamento
-2015,5239,Subdirección de Atención Primaria de Navarra Sur y Oeste
-2015,52390,Subdirección de Atención Primaria de Navarra Sur y Oeste
-2015,52391,Subdirección de Atención Primaria de Navarra Sur y Oeste Tudela
-2015,52392,Subdirección de Atención Primaria de Navarra Sur y Oeste Estella
-2015,523A,Subdirección de Urgencias de Atención Primaria
-2015,523A0,Subdirección de Urgencias de Atención Primaria
-2015,524,Hospital Reina Sofía
-2015,5240,Hospital Reina Sofía
-2015,52400,Hospital Reina Sofía
-2015,5241,Dirección Médico-Asistencial
-2015,52410,Dirección Médico-Asistencial
-2015,5245,Servicio de Enfermería
-2015,52450,Servicio de Enfermería
-2015,525,Hospital García Orcoyen
-2015,5250,Hospital García Orcoyen
-2015,52500,Hospital García Orcoyen
-2015,5251,Dirección Médico-Asistencial
-2015,52510,Dirección Médico-Asistencial
-2015,5255,Servicio de Enfermería
-2015,52550,Servicio de Enfermería
-2015,526,Dirección de Recursos Humanos
-2015,5260,Dirección de Recursos Humanos
-2015,52600,Dirección de Recursos Humanos
-2015,5261,Subdirección de Planificación y Control de Gasto de Personal
-2015,52610,Subdirección de Planificación y Control de Gasto de Personal
-2015,52611,Servicio de Gestión de Contratación
-2015,52612,Servicio de Gestión de Retribuciones y Prestaciones
-2015,52614,Servicio de Personal en Atención Primaria
-2015,52615,Dirección de Personal en el Complejo Hospitalario de Navarra
-2015,52616,Servicio de Personal en el Hospital Reina Sofía
-2015,52617,Servicio de Personal en el Hospital García Orcoyen
-2015,5262,Subdirección de Gestión y Desarrollo de Personal
-2015,52620,Subdirección de Gestión y Desarrollo de Personal
-2015,52621,Servicio de Gestión y Desarrollo Profesional
-2015,52622,Servicio de Prevención de Riesgos Laborales
-2015,527,Dirección de Salud Mental
-2015,5270,Dirección de Salud Mental
-2015,52700,Dirección de Salud Mental
-2015,52701,Sección de Farmacia y Dietética
-2015,52702,Coordinador Plan de Acción Sociosanitaria
-2015,5271,Servicio de Área de Hospitalización
-2015,52710,Servicio de Área de Hospitalización
-2015,5272,Servicio de Área de Atención Comunitaria y Centros de Salud Mental
-2015,52720,Servicio de Área de Atención Comunitaria y Centros de Salud Mental
-2015,5273,Servicio de Área de Recursos Intermedios
-2015,52730,Servicio de Área de Recursos Intermedios
-2015,5274,Servicio Técnico Asistencial y de Enfermería
-2015,52740,Servicio Técnico Asistencial y de Enfermería
-2015,52741,Área de Programas
-2015,52742,Área de Enfermería
-2015,5275,Servicio de Gestión
-2015,52750,Servicio de Gestión
-2015,52751,Sección de Administración
-2015,52752,Sección de Servicios Generales
-2015,52753,Sección de Personal
-2015,528,Dirección de Atención al Paciente y Calidad
-2015,5280,Dirección de Atención al Paciente y Calidad
-2015,52800,Dirección de Atención al Paciente y Calidad
-2015,52801,Sección de la Tarjeta Individual Sanitaria
-2015,5281,Servicio de Relación con el Paciente
-2015,52810,Servicio de Relación con el Paciente
-2015,5284,Servicio de Prestaciones y Conciertos
-2015,52840,Servicio de Prestaciones y Conciertos
-2015,52841,Sección de Conciertos
-2015,5285,"Servicio de Coordinación, Calidad y Control Asistencial"
-2015,52850,"Servicio de Coordinación, Calidad y Control Asistencial"
-2015,5286,Servicio de Innovación
-2015,52860,Servicio de Innovación
-2015,6,Departamento de Fomento
-2015,60,Departamento de Fomento
-2015,600,Departamento de Fomento
-2015,6000,Departamento de Fomento
-2015,60000,Departamento de Fomento
-2015,601,Secretaría General Técnica
-2015,6010,Secretaría General Técnica
-2015,60100,Secretaría General Técnica
-2015,6011,Sección de Régimen Jurídico
-2015,60110,Sección de Régimen Jurídico
-2015,6012,Sección de Régimen Interior y Asistencia Administrativa
-2015,60120,Sección de Régimen Interior y Asistencia Administrativa
-2015,602,Servicio de Gestión Económico Presupuestaria y Control del Gasto
-2015,6020,Servicio de Gestión Económico Presupuestaria y Control del Gasto
-2015,60200,Servicio de Gestión Económico Presupuestaria y Control del Gasto
-2015,60201,Negociado de Gestión Económica
-2015,6021,Sección de Gestión Económico Presupuestaria
-2015,60210,Sección de Gestión Económico Presupuestaria
-2015,6022,Sección de Gestión Económica de Obras en Concesión y Control del Gasto
-2015,60220,Sección de Gestión Económica de Obras en Concesión y Control del Gasto
-2015,61,Dirección General de Obras Públicas
-2015,610,Dirección General de Obras Públicas
-2015,6100,Dirección General de Obras Públicas
-2015,61000,Dirección General de Obras Públicas
-2015,611,Servicio de Construcción
-2015,6110,Servicio de Construcción
-2015,61100,Servicio de Construcción
-2015,61101,Negociado de Asuntos Administrativos
-2015,6113,Sección de Obras I
-2015,61130,Sección de Obras I
-2015,61132,Negociado de Gestión de Obras I
-2015,61133,Negociado de Ejecución de Obras I
-2015,6114,Sección de Obras II
-2015,61140,Sección de Obras II
-2015,61141,Negociado de Gestión de Obras II
-2015,61142,Negociado de Ejecución de Obras II
-2015,6115,Sección de Obras III
-2015,61150,Sección de Obras III
-2015,61151,Negociado de Gestión de Obras III
-2015,61152,Negociado de Ejecución de Obras III
-2015,612,Servicio de Conservación
-2015,6120,Servicio de Conservación
-2015,61200,Servicio de Conservación
-2015,61201,Negociado de Tramitación Administrativa
-2015,6121,Sección de Conservación
-2015,61210,Sección de Conservación
-2015,61212,Negociado de Conservación Navarra Centro-Norte
-2015,61213,Negociado de Conservación Navarra Oeste
-2015,61214,Negociado de Conservación Navarra Sur
-2015,61216,Negociado de Conservación Navarra Suroeste
-2015,6122,Sección de Explotación
-2015,61220,Sección de Explotación
-2015,61223,Negociado de Gestión Administrativa y Jurídica
-2015,61224,Negociado de Gestión Técnica
-2015,6123,Sección de Seguridad Vial y Centro de Control
-2015,61230,Sección de Seguridad Vial y Centro de Control
-2015,61231,Negociado de Seguridad Vial
-2015,61232,Negociado de Ejecución de Obras en Concesión
-2015,61233,Negociado de Aforos y Documentación
-2015,613,Servicio de Estudios y Proyectos
-2015,6130,Servicio de Estudios y Proyectos
-2015,61300,Servicio de Estudios y Proyectos
-2015,6131,Sección de Proyectos
-2015,61310,Sección de Proyectos
-2015,61311,Negociado de Normalización y Proyectos
-2015,61312,Negociado de Dirección y Ejecución de Proyectos I
-2015,61313,Negociado de Dirección y Ejecución de Proyectos II
-2015,6133,Sección de Seguridad en la Construcción y Control de Calidad
-2015,61330,Sección de Seguridad en la Construcción y Control de Calidad
-2015,61331,Negociado de Seguridad en la Construcción
-2015,61332,Negociado de Control de Calidad
-2015,61333,Negociado de Ensayos y Laboratorio
-2015,6134,Sección de Expropiaciones
-2015,61340,Sección de Expropiaciones
-2015,61341,Negociado de Afecciones y Valoraciones
-2015,61342,Negociado de Gestión de Expedientes y Pagos
-2015,6135,Sección de Cartografía
-2015,61350,Sección de Cartografía
-2015,6136,Sección de Protección Ambiental
-2015,61360,Sección de Protección Ambiental
-2015,61361,Negociado de Proyectos Ambientales
-2015,61362,Negociado de Gestión Ambiental de Obras y Conservación
-2015,6137,Sección de Administración y Control de Expedientes
-2015,61370,Sección de Administración y Control de Expedientes
-2015,61371,Negociado de Control Administrativo
-2015,63,"Dirección General de Ordenación del Territorio, Movilidad y Vivienda"
-2015,630,"Dirección General de Ordenación del Territorio, Movilidad y Vivienda"
-2015,6300,"Dirección General de Ordenación del Territorio, Movilidad y Vivienda"
-2015,63000,"Dirección General de Ordenación del Territorio, Movilidad y Vivienda"
-2015,6301,Sección de Sistemas de Información
-2015,63010,Sección de Sistemas de Información
-2015,631,Servicio de Ordenación del Territorio y Urbanismo
-2015,6310,Servicio de Ordenación del Territorio y Urbanismo
-2015,63100,Servicio de Ordenación del Territorio y Urbanismo
-2015,63101,Negociado de Administración
-2015,6311,Sección de Ordenación del Territorio
-2015,63110,Sección de Ordenación del Territorio
-2015,63111,Negociado de Suelo No Urbanizable
-2015,6312,Sección de Urbanismo
-2015,63120,Sección de Urbanismo
-2015,6313,"Sección de Gestión, Coordinación y Cooperación"
-2015,63130,"Sección de Gestión, Coordinación y Cooperación"
-2015,632,Servicio de Vivienda
-2015,6320,Servicio de Vivienda
-2015,63200,Servicio de Vivienda
-2015,6321,Sección de Edificación
-2015,63210,Sección de Edificación
-2015,63211,Negociado de Tramitación de Expedientes en Materia de Edificación
-2015,6322,Sección de Gestión Económica y Planificación
-2015,63220,Sección de Gestión Económica y Planificación
-2015,63221,Negociado de Financiación de Viviendas
-2015,633,Servicio Jurídico
-2015,6330,Servicio Jurídico
-2015,63300,Servicio Jurídico
-2015,63301,Negociado de Gestión Administrativa
-2015,63303,Negoc. de Disciplina y Control Jurídico
-2015,6331,Sección de Régimen Jurídico de Ordenación del Territorio y Urbanismo
-2015,63310,Sección de Régimen Jurídico de Ordenación del Territorio y Urbanismo
-2015,6332,Sección de Régimen Jurídico de Vivienda
-2015,63320,Sección de Régimen Jurídico de Vivienda
-2015,6333,Sección de Régimen Jurídico del Transporte
-2015,63330,Sección de Régimen Jurídico del Transporte
-2015,63331,Negociado de Control Jurídico de Transportes
-2015,634,Servicio de Transportes
-2015,6340,Servicio de Transportes
-2015,63400,Servicio de Transportes
-2015,63403,Negociado de Asistencia Administrativa
-2015,6341,Sección de Planificación y Modernización
-2015,63410,Sección de Planificación y Modernización
-2015,63411,Negociado de Análisis y Estudios Económicos del Transporte
-2015,6342,Sección de Explotación de Transportes
-2015,63420,Sección de Explotación de Transportes
-2015,63421,Negociado de autorizaciones de transportes de mercancías
-2015,63422,Negociado de gestión del transporte de viajeros y Operadores terrestres
-2015,63423,Negociado de Convocatorias
-2015,6343,Sección de Inspección y Junta Arbitral del Transporte
-2015,63430,Sección de Inspección y Junta Arbitral del Transporte
-2015,63431,Negociado de Inspección de Transportes
-2015,63433,Negociado de sanciones de transportes
-2015,7,"Departamento de Desarrollo Rural, Medio Ambiente y Administración Local"
-2015,70,"Departamento de Desarrollo Rural, Medio Ambiente y Administración Local"
-2015,700,"Departamento de Desarrollo Rural, Medio Ambiente y Administración Local"
-2015,7000,"Departamento de Desarrollo Rural, Medio Ambiente y Administración Local"
-2015,70000,"Departamento de Desarrollo Rural, Medio Ambiente y Administración Local"
-2015,701,Secretaría General Técnica
-2015,7010,Secretaría General Técnica
-2015,70100,Secretaría General Técnica
-2015,7011,Sección de Personal y Atención al Ciudadano
-2015,70110,Sección de Personal y Atención al Ciudadano
-2015,70111,Negociado de Personal
-2015,70112,Negociado de Atención al Ciudadano
-2015,7012,Sección de Régimen Jurídico de Desarrollo Rural y Agrario
-2015,70120,Sección de Régimen Jurídico de Desarrollo Rural y Agrario
-2015,7013,Sección de Régimen Jurídico de Medio Ambiente y Agua
-2015,70130,Sección de Régimen Jurídico de Medio Ambiente y Agua
-2015,7015,Sección de Gestión Presupuestaria
-2015,70150,Sección de Gestión Presupuestaria
-2015,70151,Negociado de Control Presupuestario
-2015,70153,Negociado de Asuntos Económicos
-2015,7017,Sección de Gestión de la Información
-2015,70170,Sección de Gestión de la Información
-2015,70171,Negociado de Tecnología de la Información
-2015,70172,Negociado de Gestión Informática de ayudas del FEAGA y del FEADER
-2015,70173,Negociado de Asistencia Microinformática
-2015,70174,Negociado de Apoyo a la Seguridad de la Información
-2015,7018,Sección de Asistencia Técnica
-2015,70180,Sección de Asistencia Técnica
-2015,70181,Negociado de Servicios Generales
-2015,70182,Negociado de Estadística Agraria
-2015,71,Dirección General de Agricultura y Ganadería
-2015,710,Dirección General de Agricultura y Ganadería
-2015,7100,Dirección General de Agricultura y Ganadería
-2015,71000,Dirección General de Agricultura y Ganadería
-2015,7101,Sección de Auditoría Interna
-2015,71010,Sección de Auditoría Interna
-2015,712,Servicio de Agricultura
-2015,7120,Servicio de Agricultura
-2015,71200,Servicio de Agricultura
-2015,71201,"Negociado de Coordinación de Investigación, Desarrollo e Innovación Agraria"
-2015,7121,Sección de Producción y Sanidad Vegetal
-2015,71210,Sección de Producción y Sanidad Vegetal
-2015,71211,Negociados de Medios de Producción Agrícola y Sostenibilidad
-2015,71212,Negociado de Sanidad Vegetal y Material de Reproducción
-2015,71213,Negociado de Viticultura
-2015,7122,Sección de Regulación de Mercados
-2015,71220,Sección de Regulación de Mercados
-2015,71226,Negociado de Ayudas específicas y Regulación de Mercados
-2015,7123,Sección de Ayudas a las Rentas
-2015,71230,Sección de Ayudas a las Rentas
-2015,71233,Negociado de Ayudas Directas por Superficie
-2015,71234,Negociado de Ayudas Agroambientales y Mejora del Entorno Rural
-2015,71235,Negociado de Ayudas a la Ganadería
-2015,713,Servicio de Ganadería
-2015,7130,Servicio de Ganadería
-2015,71300,Servicio de Ganadería
-2015,7131,Sección de Producción Animal
-2015,71310,Sección de Producción Animal
-2015,71312,Negociado de Desarrollo Ganadero
-2015,7132,Sección de Sanidad Animal
-2015,71320,Sección de Sanidad Animal
-2015,71322,Negociado de Epizootiología
-2015,7133,Sección de Seguridad Alimentaria y Oficinas Pecuarias
-2015,71330,Sección de Seguridad Alimentaria y Oficinas Pecuarias
-2015,71331,Negociado de Seguridad Alimentaria
-2015,7134,Sección de Laboratorio Agroalimentario
-2015,71340,Sección de Laboratorio Agroalimentario
-2015,71341,Negociado de Biología Vegetal
-2015,71342,Negociado de Laboratorio Enológico
-2015,714,Servicio de Coordinación del Organismo Pagador
-2015,7140,Servicio de Coordinación del Organismo Pagador
-2015,71400,Servicio de Coordinación del Organismo Pagador
-2015,71401,Negociado de Ejecución de Pagos del FEAGA y del FEADER
-2015,7144,Sección de Coordinación
-2015,71440,Sección de Coordinación
-2015,7145,Sección de Inspecciones
-2015,71450,Sección de Inspecciones
-2015,71451,Negociado de Inspecciones incluidas en el SIGC
-2015,71452,Negociado de Inspecciones no incluidas en el SIGC y Condicionalidad
-2015,7146,Sección de Registros Agrarios
-2015,71460,Sección de Registros Agrarios
-2015,71461,Negociado de Sistemas de Información Agrarios
-2015,72,Dirección General de Desarrollo Rural
-2015,720,Dirección General de Desarrollo Rural
-2015,7200,Dirección General de Desarrollo Rural
-2015,72000,Dirección General de Desarrollo Rural
-2015,721,Servicio de Infraestructuras Agrarias
-2015,7210,Servicio de Infraestructuras Agrarias
-2015,72100,Servicio de Infraestructuras Agrarias
-2015,72102,Negociado de Control Ambiental
-2015,7213,Sección de Regadíos y Concentración Parcelaria
-2015,72130,Sección de Regadíos y Concentración Parcelaria
-2015,72131,Negociado de Concentración Parcelaria
-2015,72132,Negociado de Obras
-2015,7214,Sección de Comunales
-2015,72140,Sección de Comunales
-2015,72141,Negociado de Ayudas a Infraestructuras Ganaderas
-2015,722,Servicio de Explotaciones Agrarias y Fomento Agroalimentario
-2015,7220,Servicio de Explotaciones Agrarias y Fomento Agroalimentario
-2015,72200,Servicio de Explotaciones Agrarias y Fomento Agroalimentario
-2015,7222,Sección de Calidad y Promoción Agroalimentaria
-2015,72220,Sección de Calidad y Promoción Agroalimentaria
-2015,72221,Negociado de Promoción de Productos Agroalimentarios de Calidad
-2015,72222,Negociado de Control de Calidad y Productos Agroalimentarios
-2015,7223,Sección de Fomento de Explotaciones Agrarias y Asociacionismo Agrario
-2015,72230,Sección de Fomento de Explotaciones Agrarias y Asociacionismo Agrario
-2015,72231,Negociado de Ayudas a la Inversión de Explotaciones Agrarias
-2015,7224,Sección de Fomento Vinícola
-2015,72240,Sección de Fomento Vinícola
-2015,723,Servicio de Diversificación y Desarrollo Rural
-2015,7230,Servicio de Diversificación y Desarrollo Rural
-2015,72300,Servicio de Diversificación y Desarrollo Rural
-2015,7231,Sección de Planes y Programas
-2015,72310,Sección de Planes y Programas
-2015,72311,Negociado de Seguimiento de Programas Comunitarios
-2015,7232,Sección de Diversificación Rural
-2015,72320,Sección de Diversificación Rural
-2015,74,Dirección General de Medio Ambiente y Agua
-2015,740,Dirección General de Medio Ambiente y Agua
-2015,7400,Dirección General de Medio Ambiente y Agua
-2015,74000,Dirección General de Medio Ambiente y Agua
-2015,741,Servicio de Calidad Ambiental
-2015,7410,Servicio de Calidad Ambiental
-2015,74100,Servicio de Calidad Ambiental
-2015,74101,Negociado de Asistencia a la Integración Ambiental
-2015,7411,Sección de Prevención de la Contaminación
-2015,74110,Sección de Prevención de la Contaminación
-2015,74111,Negociado de Asistencia al Control Ambiental
-2015,74113,Negociado de Autorizaciones
-2015,7412,"Sección de Inspección, Calidad del Aire y Cambio Climático"
-2015,74120,"Sección de Inspección, Calidad del Aire y Cambio Climático"
-2015,74121,Negociado de Control
-2015,7413,Sección de Evaluación Ambiental
-2015,74130,Sección de Evaluación Ambiental
-2015,74131,Negociado de Asistencia a la Evaluación Ambiental
-2015,74133,Negociado de Impacto Ambiental
-2015,7415,Sección de Residuos
-2015,74150,Sección de Residuos
-2015,74151,Negociado de Residuos Industriales y Suelos Contaminados
-2015,742,Servicio de Conservación de la Biodiversidad
-2015,7420,Servicio de Conservación de la Biodiversidad
-2015,74200,Servicio de Conservación de la Biodiversidad
-2015,74202,Negociado de Gestión y Cooperación en Biodiversidad
-2015,7421,Sección de Hábitats
-2015,74210,Sección de Hábitats
-2015,74211,Negociado de Espacios para la Conservación
-2015,7425,Sección de Caza y Pesca
-2015,74250,Sección de Caza y Pesca
-2015,74251,Negociado de Gestión Piscícola y Protección Animal
-2015,74252,Negociado de Gestión Cinegética
-2015,74253,Negociado de Asistencia Cinegética y Piscícola
-2015,743,Servicio del Agua
-2015,7430,Servicio del Agua
-2015,74300,Servicio de Agua
-2015,7431,Sección de Recursos Hídricos
-2015,74310,Sección de Recursos Hídricos
-2015,74312,Negociado de Suelos y Clamatología
-2015,7432,Sección de Restauración de Riberas y Obras Hidráulicas
-2015,74320,Sección de Restauración de Riberas y Obras Hidráulicas
-2015,74321,Negociado de Obras Fluviales
-2015,7434,Sección de Información y Educación Ambiental
-2015,74340,Sección de Información y Educación Ambiental
-2015,744,Servicio de Montes
-2015,7440,Servicio de Montes
-2015,74400,Servicio de Montes
-2015,7441,Sección de Gestión Forestal
-2015,74410,Sección de Gestión Forestal
-2015,74411,Negociado de la Comarca Pirenaica
-2015,74412,Negociado de la Comarca Cantábrica
-2015,74413,Negociado de Zona Media y  Ribera
-2015,74415,Negociado de Planificación Forestal
-2015,7442,Sección de Guarderío
-2015,74420,Sección de Guarderío
-2015,74421,Negociado de Asistencia y Gestión de Medios
-2015,78,Dirección General de Administración Local
-2015,780,Dirección General de Administración Local
-2015,7800,Dirección General de Administración Local
-2015,78000,Dirección General de Administración Local
-2015,781,Servicio de Gestión y Cooperación Jurídica
-2015,7810,Servicio de Gestión y Cooperación Jurídica
-2015,78100,Servicio de Gestión y Cooperación Jurídica
-2015,7811,Sección de Asesoramiento y Cooperación con las Entidades Locales
-2015,78110,Sección de Asesoramiento y Cooperación con las Entidades Locales
-2015,7812,Sección de Régimen Local
-2015,78120,Sección de Régimen Local
-2015,7813,Sección de Gestión Administrativa General
-2015,78130,Sección de Gestión Administrativa General
-2015,782,Servicio de Gestión y Cooperación Económica
-2015,7820,Servicio Gestión y Cooperación Económica
-2015,78200,Servicio Gestión y Cooperación Económica
-2015,7821,Sección de Planificación y Gestión
-2015,78210,Sección de Planificación y Gestión
-2015,7822,Sección de Asesoramiento y Cooperación Económica
-2015,78220,Sección de Asesoramiento y Cooperación Económica
-2015,7823,Sección de Estudios y Análisis Económico
-2015,78230,Sección de Estudios y Análisis Económico
+2015,44000,Euskarabidea - Euskararen Nafar Institutua
+2015,44001,Programen Bulegoa
+2015,4401,Aholkularitza eta Komunikaziorako Atala
+2015,44010,Aholkularitza eta Komunikaziorako Atala
+2015,442,Prestakuntzarako eta Euskara Sustatzeko Zerbitzua
+2015,4420,Prestakuntzarako eta Euskara Sustatzeko Zerbitzua
+2015,44200,Prestakuntzarako eta Euskara Sustatzeko Zerbitzua
+2015,4423,Euskararen Didaktikarako Atala
+2015,44230,Euskararen Didaktikarako Atala
+2015,4424,Euskararen Sustapenerako Atala
+2015,44240,Euskararen Sustapenerako Atala
+2015,5,Osasun Departamentua
+2015,50,Osasun Departamentua
+2015,500,Osasun Departamentua
+2015,5000,Osasun Departamentua
+2015,50000,Osasun Departamentua
+2015,501,Idazkaritza Tekniko Orokorra
+2015,5010,Idazkaritza Tekniko Orokorra
+2015,50100,Idazkaritza Tekniko Orokorra
+2015,5012,Araubide Juridikoaren Atala
+2015,50120,Araubide Juridikoaren Atala
+2015,50121,Sostengu Juridikoa Emateko Bulegoa
+2015,50122,Espedienteak Tramitatzeko Bulegoa
+2015,5013,Barne Araubideko Atala
+2015,50130,Barne Araubideko Atala
+2015,50132,Erregistro eta Agiritegi Bulegoa
+2015,50133,Kontabilitate Bulegoa
+2015,5014,Osasunbidea-Nafarroako Osasun Zerbitzuari Laguntza Juridikoa emateko Atala
+2015,50140,Osasunbidea-Nafarroako Osasun Zerbitzuari Laguntza Juridikoa emateko Atala
+2015,5015,Antolakuntza Atala
+2015,50150,Antolakuntza Atala
+2015,50151,Ebazpenak Kudeatzeko Bulegoa
+2015,51,Osasuneko Zuzendaritza Nagusia
+2015,510,Osasuneko Zuzendaritza Nagusia
+2015,5100,Osasuneko Zuzendaritza Nagusia
+2015,51000,Osasuneko Zuzendaritza Nagusia
+2015,511,Osasun Antolamendu eta Ikuskaritzako Zerbitzua
+2015,5110,Osasun Antolamendu eta Ikuskaritzako Zerbitzua
+2015,51100,Osasun Antolamendu eta Ikuskaritzako Zerbitzua
+2015,51101,Administrazio Aferetarako Bulegoa
+2015,5111,Osasun Jardueren Ikuskapenerako eta Aseguramendurako Atala
+2015,51110,Osasun Jardueren Ikuskapenerako eta Aseguramendurako Atala
+2015,5113,Farmazia Ikuskapenaren Atala
+2015,51130,Farmazia Ikuskapenaren Atala
+2015,512,Nafarroako Osasun Publikoaren eta Lan Osasunaren Institutua
+2015,5120,Nafarroako Osasun Publikoaren eta Lan Osasunaren Institutua
+2015,51200,Nafarroako Osasun Publikoaren eta Lan Osasunaren Institutua
+2015,5121,Laneko Segurtasun eta Higienerako eta Prestakuntzarako Zerbitzua
+2015,51210,Laneko Segurtasun eta Higienerako eta Prestakuntzarako Zerbitzua
+2015,51211,Laneko Arriskuen Prebentziorako Atal Teknikoa
+2015,51212,Laneko Prestakuntza eta Psikosoziologia Atala
+2015,5122,Laneko Osasun eta Ikerketarako Zerbitzua
+2015,51220,Laneko Osasun eta Ikerketarako Zerbitzua
+2015,51221,Lan arloko Balorazio Klinikoaren eta Ezintasunen Atala
+2015,51222,"Laneko Epidemiologia, Ikerketa eta Osasun Ebaluaziorako Atala"
+2015,5123,"Epidemiologiaren, Aurreneurrien eta Osasun Sustapenaren Zerbitzua"
+2015,51230,"Epidemiologiaren, Aurreneurrien eta Osasun Sustapenaren Zerbitzua"
+2015,51231,Eritasun Kutsakorrak Kontrolatzeko Atala
+2015,51232,Eritasun Ez Kutsakorren Epidemiologia Atala
+2015,51233,Detekzio Goiztiarraren Atala
+2015,51234,Osasuna Sustatzeko Atala
+2015,5124,Elikagaien Segurtasunaren eta Ingurumen Osasunaren Zerbitzua
+2015,51240,Elikagaien Segurtasunaren eta Ingurumen Osasunaren Zerbitzua
+2015,51241,Osasun Publikoaren Laborategiko Atala
+2015,51242,Elikagaien Segurtasunaren Atala
+2015,51243,Ingurumen osasunaren Atala
+2015,5125,Giza Baliabideen eta Kudeaketa Ekonomikoaren Zerbitzua
+2015,51250,Giza Baliabideen eta Kudeaketa Ekonomikoaren Zerbitzua
+2015,51251,Administrazioaren eta Zerbitzu Orokorren Atala
+2015,513,"Osasun Arloko Ikerkuntza, Berrikuntza eta Prestakuntzako Zerbitzua"
+2015,5130,"Osasun Arloko Ikerkuntza, Berrikuntza eta Prestakuntzako Zerbitzua"
+2015,51300,"Osasun Arloko Ikerkuntza, Berrikuntza eta Prestakuntzako Zerbitzua"
+2015,51301,Kudeaketa Administratiboaren Bulegoa
+2015,51302,Ekonomia Aferetarako eta Barne Araubideko Bulegoa
+2015,5131,Prestakuntza eta Lanbide Garapenerako Atala
+2015,51310,Prestakuntza eta Lanbide Garapenerako Atala
+2015,51311,Prestakuntzaren Kudeaketa Bulegoa
+2015,5133,Berrikuntza eta Ebaluazioaren Atala
+2015,51330,Berrikuntza eta Ebaluazioaren Atala
+2015,51331,Ebaluazio Estrategikoaren Bulegoa
+2015,51332,Plangintza Estrategikoaren Bulegoa
+2015,5135,Ikerketarako eta Ezagutza Kudeatzeko Atala
+2015,51350,Ikerketarako eta Ezagutza Kudeatzeko Atala
+2015,51351,Ezagutza Kudeatzeko Bulegoa
+2015,51352,Ikerketa Kudeatzeko Bulegoa
+2015,514,Osasun Informazioko Sistemen Zerbitzua
+2015,5140,Osasun Informazioko Sistemen Zerbitzua
+2015,51400,Osasun Informazioko Sistemen Zerbitzua
+2015,5141,Informazio Biltegiaren eta Kudeaketaren Atala
+2015,51410,Informazio Biltegiaren eta Kudeaketaren Atala
+2015,51411,Oinarrizko Osasun Laguntzako Euskarrien Bulegoa 
+2015,51412,Nafarroako Ospitaleguneko Euskarrien Bulegoa
+2015,51413,Tuterako Euskarrien Bulegoa
+2015,51414,Beste Baliabide Batzuetako Euskarrien Bulegoa
+2015,51415,Euskarri Funtzionalerako Bulegoa
+2015,5142,Osasuneko Informazio Sistemen Bilakaeraren Atala
+2015,51420,Osasuneko Informazio Sistemen Bilakaeraren Atala
+2015,5143,Segurtasun Neurrien Atala
+2015,51430,Segurtasun Neurrien Atala
+2015,52,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
+2015,520,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
+2015,5200,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
+2015,52000,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
+2015,521,Administrazioaren eta Zerbitzu Orokorren Zuzendaritza
+2015,5210,Administrazioaren eta Zerbitzu Orokorren Zuzendaritza
+2015,52100,Administrazioaren eta Zerbitzu Orokorren Zuzendaritza
+2015,5211,Gastuaren Kudeaketarako Zuzendariordetza
+2015,52110,Gastuaren Kudeaketarako Zuzendariordetza
+2015,52111,Horniduraren eta Zerbitzu Orokorren Zerbitzua
+2015,52112,"Obren, Ekipamenduen eta Mantentze-lanen Zerbitzua"
+2015,52117,Oinarrizko Osasun Laguntzako Administrazioaren eta Zerbitzu Orokorren Zerbitzua
+2015,52118,Nafarroako Ospitaleguneko Administrazioaren eta Zerbitzu Orokorren Zerbitzua
+2015,52119,Reina Sofía Ospitaleko Administrazioaren eta Zerbitzu Orokorren Zerbitzua
+2015,5211A,García Orcoyen Ospitaleko Administrazioaren eta Zerbitzu Orokorren Zerbitzua
+2015,5212,Aurrekontuen eta Gastu-kontrolaren Zuzendariordetza
+2015,52120,Aurrekontuen eta Gastu-kontrolaren Zuzendariordetza
+2015,52121,Aurrekontuen eta Kontabilitatearen Zerbitzua
+2015,52122,Gastuaren Kontrol eta Analisirako Zerbitzua
+2015,522,Nafarroako Ospitaleguneko Zuzendaritza
+2015,5220,Nafarroako Ospitaleguneko Zuzendaritza
+2015,52200,Nafarroako Ospitaleguneko Zuzendaritza
+2015,52201,Laguntzaren Jarraitutasunerako eta Kalitaterako Zuzendariordetza
+2015,5221,Nafarroako Ospitaleguneko Zuzendaritza Mediko Asistentziala
+2015,52210,Nafarroako Ospitaleguneko Zuzendaritza Mediko Asistentziala
+2015,52211,Zerbitzu Medikoen Zuzendariordetza
+2015,52212,Zerbitzu Kirurgikoen Zuzendariordetza
+2015,52213,Zerbitzu Mediko Zentralen Zuzendariordetza
+2015,52214,Nafarroako Odol eta Ehun Bankua
+2015,5222,Nafarroako Ospitaleguneko Erizaintzako Zuzendaritza
+2015,52220,Nafarroako Ospitaleguneko Erizaintzako Zuzendaritza
+2015,52221,Bloke Kirurgikoaren eta Ospitaleratze Mediko-kirurgikoaren Zuzendariordetza
+2015,52222,"Zerbitzu Zentralen, Anbulatorioen, Ospitalez kanpoko eta barruko Laguntzaren eta Baliabideen Zuzendariordetza"
+2015,523,Lehen Mailako Arretako Zuzendaritza
+2015,5230,Lehen Mailako Arretako Zuzendaritza
+2015,52300,Lehen Mailako Arretako Zuzendaritza
+2015,5231,Nafarroako Iparraldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2015,52310,Nafarroako Iparraldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2015,5232,Nafarroako Ekialdeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2015,52320,Nafarroako Ekialdeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2015,5233,Plangintza eta Kudeaketa Klinikoaren Zerbitzua
+2015,52330,Plangintza eta Kudeaketa Klinikoaren Zerbitzua
+2015,5236,Erizaintza Zerbitzua
+2015,52360,Erizaintza Zerbitzua
+2015,5237,Farmazia Prestazioen Zerbitzua
+2015,52370,Farmazia Prestazioen Zerbitzua
+2015,52371,Botiketarako Argibide eta Aholkuen Atala
+2015,5239,Nafarroako Hego-Mendebaldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2015,52390,Nafarroako Hego-Mendebaldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2015,52391,Nafarroako Hego-Mendebaldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza (Tutera)
+2015,52392,Nafarroako Hego-Mendebaldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza (Lizarra)
+2015,523A,Oinarrizko Osasun Laguntzako Larrialdien Zuzendariordetza
+2015,523A0,Oinarrizko Osasun Laguntzako Larrialdien Zuzendariordetza
+2015,524,Reina Sofía Ospitalea
+2015,5240,Reina Sofía Ospitalea
+2015,52400,Reina Sofía Ospitalea
+2015,5241,Zuzendaritza Mediko Asistentziala
+2015,52410,Zuzendaritza Mediko Asistentziala
+2015,5245,Erizaintza Zerbitzua
+2015,52450,Erizaintza Zerbitzua
+2015,525,García Orcoyen Ospitalea
+2015,5250,García Orcoyen Ospitalea
+2015,52500,García Orcoyen Ospitalea
+2015,5251,Zuzendaritza Mediko Asistentziala
+2015,52510,Zuzendaritza Mediko Asistentziala
+2015,5255,Erizaintza Zerbitzua
+2015,52550,Erizaintza Zerbitzua
+2015,526,Giza Baliabideen Zuzendaritza
+2015,5260,Giza Baliabideen Zuzendaritza
+2015,52600,Giza Baliabideen Zuzendaritza
+2015,5261,Langileriaren Gastuaren Plangintza eta Kontrolerako Zuzendariordetza
+2015,52610,Langileriaren Gastuaren Plangintza eta Kontrolerako Zuzendariordetza
+2015,52611,Kontratazioa Kudeatzeko Zerbitzua
+2015,52612,Ordainsariak eta Prestazioak Kudeatzeko Zerbitzua
+2015,52614,Oinarrizko Osasun Laguntzako Langileria Zerbitzua
+2015,52615,Nafarroako Ospitaleguneko Langileriaren Zuzendaritza
+2015,52616,Reina Sofía Ospitaleko Langileria Zerbitzua
+2015,52617,García Orcoyen Ospitaleko Langileria Zerbitzua
+2015,5262,Langileriaren Kudeaketa eta Garapenerako Zuzendariordetza
+2015,52620,Langileriaren Kudeaketa eta Garapenerako Zuzendariordetza
+2015,52621,Lanbidearen Kudeaketa eta Garapenerako Zerbitzua
+2015,52622,Laneko Arriskuei Aurrea hartzeko Zerbitzua
+2015,527,Osasun Mentaleko Zuzendaritza
+2015,5270,Osasun Mentaleko Zuzendaritza
+2015,52700,Osasun Mentaleko Zuzendaritza
+2015,52701,Farmazia eta Dietetika Atala
+2015,52702,Ekintza Soziosanitarioko Planaren Koordinatzailea
+2015,5271,Ospitaleratzearen Arloko Zerbitzua
+2015,52710,Ospitaleratzearen Arloko Zerbitzua
+2015,5272,Erkidego-laguntzaren Arloko Zerbitzua eta Osasun Mentaleko Zentroak
+2015,52720,Erkidego-laguntzaren Arloko Zerbitzua eta Osasun Mentaleko Zentroak
+2015,5273,Osasun Mentaleko Tarteko Baliabideen Arloko Zerbitzua
+2015,52730,Osasun Mentaleko Tarteko Baliabideen Arloko Zerbitzua
+2015,5274,Laguntzako eta Erizaintzako Zerbitzu Teknikoa
+2015,52740,Laguntzako eta Erizaintzako Zerbitzu Teknikoa
+2015,52741,Programen Arloa
+2015,52742,Erizaintzako Arloa
+2015,5275,Kudeaketako Arloa
+2015,52750,Kudeaketako Arloa
+2015,52751,Administrazio Atala
+2015,52752,Zerbitzu Orokorren Atala
+2015,52753,Langileriaren Atala
+2015,528,Pazientearen Arretaren eta Kalitatearen Zerbitzua
+2015,5280,Pazientearen Arretaren eta Kalitatearen Zerbitzua
+2015,52800,Pazientearen Arretaren eta Kalitatearen Zerbitzua
+2015,52801,Norbanakoen Osasun Txartelaren Atala
+2015,5281,Eriarekiko Harremanetarako Zerbitzua
+2015,52810,Eriarekiko Harremanetarako Zerbitzua
+2015,5284,Prestazio eta Itun Zerbitzua
+2015,52840,Prestazio eta Itun Zerbitzua
+2015,52841,Itunen Atala
+2015,5285,"Osasun Laguntzaren Koordinazio, Kalitate eta Kontrolerako Zerbitzua"
+2015,52850,"Osasun Laguntzaren Koordinazio, Kalitate eta Kontrolerako Zerbitzua"
+2015,5286,Berrikuntza Zerbitzua
+2015,52860,Berrikuntza Zerbitzua
+2015,6,Sustapen Departamentua
+2015,60,Sustapen Departamentua
+2015,600,Sustapen Departamentua
+2015,6000,Sustapen Departamentua
+2015,60000,Sustapen Departamentua
+2015,601,Idazkaritza Tekniko Orokorra
+2015,6010,Idazkaritza Tekniko Orokorra
+2015,60100,Idazkaritza Tekniko Orokorra
+2015,6011,Araubide Juridikoaren Atala
+2015,60110,Araubide Juridikoaren Atala
+2015,6012,Barne Araubidearen eta Administrazio Laguntzaren Atala
+2015,60120,Barne Araubidearen eta Administrazio Laguntzaren Atala
+2015,602,Ekonomiaren eta Aurrekontuen Kudeaketako eta Gastuaren Kontroleko Zerbitzua
+2015,6020,Ekonomiaren eta Aurrekontuen Kudeaketako eta Gastuaren Kontroleko Zerbitzua
+2015,60200,Ekonomiaren eta Aurrekontuen Kudeaketako eta Gastuaren Kontroleko Zerbitzua
+2015,60201,Kudeaketa Ekonomikorako Bulegoa
+2015,6021,Ekonomia eta Aurrekontu Kudeaketarako Atala
+2015,60210,Ekonomia eta Aurrekontu Kudeaketarako Atala
+2015,6022,Kontzesio Obren Kudeaketa Ekonomikorako eta Gastuaren Kontrolerako Atalar
+2015,60220,Kontzesio Obren Kudeaketa Ekonomikorako eta Gastuaren Kontrolerako Atalar
+2015,61,Herri Lanen Zuzendaritza Nagusia
+2015,610,Herri Lanen Zuzendaritza Nagusia
+2015,6100,Herri Lanen Zuzendaritza Nagusia
+2015,61000,Herri Lanen Zuzendaritza Nagusia
+2015,611,Eraikuntza Zerbitzua
+2015,6110,Eraikuntza Zerbitzua
+2015,61100,Eraikuntza Zerbitzua
+2015,61101,Administrazio Aferetarako Bulegoa
+2015,6113,Obren I. Atala
+2015,61130,Obren I. Atala
+2015,61132,Obrak Kudeatzeko I. Bulegoa
+2015,61133,Obrak Burutzeko I. Bulegoa
+2015,6114,Obren II. Atala
+2015,61140,Obren II. Atala
+2015,61141,Obrak Kudeatzeko II. Bulegoa
+2015,61142,Obrak Burutzeko II. Bulegoa
+2015,6115,Obren III. Atala
+2015,61150,Obren III. Atala
+2015,61151,Obrak Kudeatzeko III. Bulegoa
+2015,61152,Obrak Burutzeko III. Bulegoa
+2015,612,Kontserbazio Zerbitzua
+2015,6120,Kontserbazio Zerbitzua
+2015,61200,Kontserbazio Zerbitzua
+2015,61201,Izapide Administratiboen Bulegoa
+2015,6121,Zainketa Atala
+2015,61210,Zainketa Atala
+2015,61212,Nafarroako Erdialdeko eta Iparraldeko Zainketa Bulegoa
+2015,61213,Nafarroako Mendebaldeko Zainketa Bulegoa
+2015,61214,Nafarroako Hegoaldeko Zainketa Bulegoa
+2015,61216,Nafarroako Hego Mendebaldeko Zainketa Bulegoa
+2015,6122,Ustiapen Atala
+2015,61220,Ustiapen Atala
+2015,61223,Kudeaketa Administratibo eta Juridikoaren Bulegoa
+2015,61224,Kudeaketa Teknikoaren Bulegoa
+2015,6123,Bide Segurtasunaren eta Kontrol Zentroaren Atala
+2015,61230,Bide Segurtasunaren eta Kontrol Zentroaren Atala
+2015,61231,Bide Segurtasunaren Bulegoa
+2015,61232,Kontzesio Obrak Burutzeko Bulegoa
+2015,61233,Neurketa eta Agirien Bulegoa
+2015,613,Azterlan eta Proiektuen Zerbitzua
+2015,6130,Azterlan eta Proiektuen Zerbitzua
+2015,61300,Azterlan eta Proiektuen Zerbitzua
+2015,6131,Proiektu Atala
+2015,61310,Proiektu Atala
+2015,61311,Normalizazioaren eta Proiektuen Bulegoa
+2015,61312,Proiektuak Zuzendu eta Burutzeko I. Bulegoa
+2015,61313,Proiektuak Zuzendu eta Burutzeko II. Bulegoa
+2015,6133,Eraikuntzako Segurtasunerako eta Kalitate Kontrolerako Atala
+2015,61330,Eraikuntzako Segurtasunerako eta Kalitate Kontrolerako Atala
+2015,61331,Eraikuntzako Segurtasunerako Bulegoa
+2015,61332,Kalitatearen Kontrolerako Bulegoa
+2015,61333,Entseguen eta Laborategiaren Bulegoa
+2015,6134,Desjabetzapen Atala
+2015,61340,Desjabetzapen Atala
+2015,61341,Afekzioen eta Balorazioen Bulegoa
+2015,61342,Espedienteak eta Ordainketak Kudeatzeko Bulegoa
+2015,6135,Kartografia Atala
+2015,61350,Kartografia Atala
+2015,6136,Ingurumena Zaintzeko Atala
+2015,61360,Ingurumena Zaintzeko Atala
+2015,61361,Ingurumen arloko Proiektuen Bulegoa
+2015,61362,Obren Ingurumen Kudeaketa eta Zainketa Bulegoa
+2015,6137,Espedienteen Administraziorako eta Kontrolerako Atala
+2015,61370,Espedienteen Administraziorako eta Kontrolerako Atala
+2015,61371,Kontrol Administratiboaren Bulegoa
+2015,63,"Lurraldearen Antolamenduaren, Mugikortasunaren eta Etxebizitzaren Zuzendaritza Nagusia"
+2015,630,"Lurraldearen Antolamenduaren, Mugikortasunaren eta Etxebizitzaren Zuzendaritza Nagusia"
+2015,6300,"Lurraldearen Antolamenduaren, Mugikortasunaren eta Etxebizitzaren Zuzendaritza Nagusia"
+2015,63000,"Lurraldearen Antolamenduaren, Mugikortasunaren eta Etxebizitzaren Zuzendaritza Nagusia"
+2015,6301,Informazio Sistemen Atala
+2015,63010,Informazio Sistemen Atala
+2015,631,Lurralde  Antolamenduko eta Hirigintzako Zerbitzua
+2015,6310,Lurralde  Antolamenduko eta Hirigintzako Zerbitzua
+2015,63100,Lurralde  Antolamenduko eta Hirigintzako Zerbitzua
+2015,63101,Administrazio Bulegoa
+2015,6311,Lurraldearen Antolamenduaren Atala
+2015,63110,Lurraldearen Antolamenduaren Atala
+2015,63111, Lurzoru Urbanizaezinaren Bulegoa
+2015,6312,Hirigintza Atala
+2015,63120,Hirigintza Atala
+2015,6313,"Kudeaketa, Koordinazio eta Lankidetza Atala"
+2015,63130,"Kudeaketa, Koordinazio eta Lankidetza Atala"
+2015,632,Etxebizitza Zerbitzua
+2015,6320,Etxebizitza Zerbitzua
+2015,63200,Etxebizitza Zerbitzua
+2015,6321,Eraikuntza Atala
+2015,63210,Eraikuntza Atala
+2015,63211,Eraikuntza arloko Espedienteak Tramitatzeko Bulegoa
+2015,6322,Kudeaketa Ekonomiko eta Plangintzarako Atala
+2015,63220,Kudeaketa Ekonomiko eta Plangintzarako Atala
+2015,63221,Etxebizitzak Finantzatzeko Bulegoa
+2015,633,Zerbitzu Juridikoa
+2015,6330,Zerbitzu Juridikoa
+2015,63300,Zerbitzu Juridikoa
+2015,63301,Kudeaketa Administratiboaren Bulegoa
+2015,63303,Diziplinaren eta Kontrol Juridikoaren Bulegoa
+2015,6331,Lurralde Antolamenduaren eta Hirigintzaren Araubide Juridikoaren Atalaren eginkizunak
+2015,63310,Lurralde Antolamenduaren eta Hirigintzaren Araubide Juridikoaren Atalaren eginkizunak
+2015,6332,Etxebizitzaren Araubide Juridikoaren Atala
+2015,63320,Etxebizitzaren Araubide Juridikoaren Atala
+2015,6333,Garraioaren Araubide Juridikoaren Atala
+2015,63330,Garraioaren Araubide Juridikoaren Atala
+2015,63331,Garraioen Kontrol Juridikoaren Bulegoa
+2015,634,Garraio Zerbitzua
+2015,6340,Garraio Zerbitzua
+2015,63400,Garraio Zerbitzua
+2015,63403,Administrazio Laguntzako Bulegoa
+2015,6341,Plangintza eta Modernizazio Atala
+2015,63410,Plangintza eta Modernizazio Atala
+2015,63411,Garraioaren Analisi eta Azterlan Ekonomikoen Bulegoa
+2015,6342,Garraioen Ustiapenerako Atala
+2015,63420,Garraioen Ustiapenerako Atala
+2015,63421,Salgaien Garraiorako Baimenen Bulegoa
+2015,63422,Bidaiarien Garraioa eta Lurreko Operadoreak Kudeatzeko Bulegoa
+2015,63423,Deialdien Bulegoa
+2015,6343,Garraioen Ikuskapenaren eta Arbitraje Batzordearen Atala
+2015,63430,Garraioen Ikuskapenaren eta Arbitraje Batzordearen Atala
+2015,63431,Garraio Ikuskapenaren Bulegoa
+2015,63433,Garraio Zehapenen Bulegoa
+2015,7,"Landa Garapeneko, Ingurumeneko eta Toki Administrazioko Departamentua"
+2015,70,"Landa Garapeneko, Ingurumeneko eta Toki Administrazioko Departamentua"
+2015,700,"Landa Garapeneko, Ingurumeneko eta Toki Administrazioko Departamentua"
+2015,7000,"Landa Garapeneko, Ingurumeneko eta Toki Administrazioko Departamentua"
+2015,70000,"Landa Garapeneko, Ingurumeneko eta Toki Administrazioko Departamentua"
+2015,701,Idazkaritza Tekniko Orokorra
+2015,7010,Idazkaritza Tekniko Orokorra
+2015,70100,Idazkaritza Tekniko Orokorra
+2015,7011,Langileriarako eta Herritarren Arretarako Atala
+2015,70110,Langileriarako eta Herritarren Arretarako Atala
+2015,70111,Langileria Bulegoa
+2015,70112,Herritarren Arretarako Bulegoa
+2015,7012,Nekazaritzako eta Landa Garapeneko Araubide Juridikoaren Atala
+2015,70120,Nekazaritzako eta Landa Garapeneko Araubide Juridikoaren Atala
+2015,7013,Ingurumenaren eta Uraren Araubide Juridikoaren Atala
+2015,70130,Ingurumenaren eta Uraren Araubide Juridikoaren Atala
+2015,7015, Aurrekontuen Kudeaketarako Atala
+2015,70150, Aurrekontuen Kudeaketarako Atala
+2015,70151,Aurrekontuen Kontrolerako Bulegoa
+2015,70153,Gai Ekonomikoen Bulegoa
+2015,7017,Informazioa Kudeatzeko Atala
+2015,70170,Informazioa Kudeatzeko Atala
+2015,70171,Informazioaren Teknologiaren Bulegoa
+2015,70172,NBEUFren eta LGENFren Laguntzen Kudeaketa Informatikorako Bulegoa
+2015,70173,Laguntza Mikroinformatikoaren Bulegoa
+2015,70174,Informazioaren Segurtasunari laguntzeko Bulegoa
+2015,7018,Laguntza Teknikoaren Atala
+2015,70180,Laguntza Teknikoaren Atala
+2015,70181,Zerbitzu Orokorren Bulegoa
+2015,70182,Nekazaritzako Estatistikaren Bulegoa
+2015,71,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2015,710,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2015,7100,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2015,71000,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2015,7101,Barne Auditoretzako Atala
+2015,71010,Barne Auditoretzako Atala
+2015,712,Nekazaritza Zerbitzua
+2015,7120,Nekazaritza Zerbitzua
+2015,71200,Nekazaritza Zerbitzua
+2015,71201,"Nekazaritzako Ikerketaren, Garapenaren eta Berrikuntzaren Koordinazio Bulegoa"
+2015,7121,Landareen Ekoizpen eta Osasun Atala
+2015,71210,Landareen Ekoizpen eta Osasun Atala
+2015,71211,Nekazaritzako Ekoizpen Baliabideen eta Jasangarritasunaren Bulegoa
+2015,71212,Landare Osasuneko eta Ugalketarako Materialeko Bulegoa
+2015,71213,Mahastizaintzako Bulegoa
+2015,7122,Merkatuen Erregulazio Atala
+2015,71220,Merkatuen Erregulazio Atala
+2015,71226,Merkatuen Erregulazioaren eta Berariazko Laguntzen Bulegoa
+2015,7123,Etekinetarako Laguntzen Atala
+2015,71230,Etekinetarako Laguntzen Atala
+2015,71233,Azaleraren araberako Zuzeneko Laguntzen Bulegoa
+2015,71234,Nekazaritzako Ingurumen arloko eta Landa Ingurunea Hobetzeko Laguntzen Bulegoa
+2015,71235,Abeltzaintzarako Laguntzen Bulegoa
+2015,713,Abeltzaintza Zerbitzua
+2015,7130,Abeltzaintza Zerbitzua
+2015,71300,Abeltzaintza Zerbitzua
+2015,7131,Abere Ekoizpenaren Atala
+2015,71310,Abere Ekoizpenaren Atala
+2015,71312,Abeltzaintzaren Garapenerako Bulegoa
+2015,7132,Abere Osasuneko Atala
+2015,71320,Abere Osasuneko Atala
+2015,71322,Epizootiologia Bulegoa
+2015,7133,Elikagaien Segurtasunaren eta Abeltzaintzako Langelen Atala
+2015,71330,Elikagaien Segurtasunaren eta Abeltzaintzako Langelen Atala
+2015,71331,Elikagaien Segurtasuneko Bulegoa
+2015,7134,Nekazaritzako Elikagaien Laborategiaren Atala
+2015,71340,Nekazaritzako Elikagaien Laborategiaren Atala
+2015,71341,Landare Biologiaren Bulegoa
+2015,71342,Laborategi Enologikoaren Bulegoa
+2015,714,Erakunde Ordaintzailearekin Koordinatzeko Zerbitzua
+2015,7140,Erakunde Ordaintzailearekin Koordinatzeko Zerbitzua
+2015,71400,Erakunde Ordaintzailearekin Koordinatzeko Zerbitzua
+2015,71401,NBEUFren eta LGENFren Funtsen Ordainketak Burutzeko Bulegoa
+2015,7144,Koordinazio Atala
+2015,71440,Koordinazio Atala
+2015,7145,Ikuskapenen Atala
+2015,71450,Ikuskapenen Atala
+2015,71451,Kudeaketa eta Kontrol Sistema Integratuko Ikuskapen Bulegoa
+2015,71452,Baldintzen eta Kudeaketa eta Kontrol Sistema Integratutik kanpoko Ikuskapenen Bulegoa
+2015,7146,Nekazaritzako Erregistroen Atalari atxikita
+2015,71460,Nekazaritzako Erregistroen Atalari atxikita
+2015,71461,Nekazaritzako Informazio Sistemen Bulegoa
+2015,72,Landa Garapenaren Zuzendaritza Nagusia
+2015,720,Landa Garapenaren Zuzendaritza Nagusia
+2015,7200,Landa Garapenaren Zuzendaritza Nagusia
+2015,72000,Landa Garapenaren Zuzendaritza Nagusia
+2015,721,Nekazaritzako Azpiegituren Zerbitzua
+2015,7210,Nekazaritzako Azpiegituren Zerbitzua
+2015,72100,Nekazaritzako Azpiegituren Zerbitzua
+2015,72102,Ingurumenaren Kontroleko Bulegoa
+2015,7213,Ureztalurren eta Lurzati Berrantolamenduaren Atala
+2015,72130,Ureztalurren eta Lurzati Berrantolamenduaren Atala
+2015,72131,Lurzati Berrantolamenduaren Bulegoa
+2015,72132,Obra Bulegoa
+2015,7214,Herrilurren Atala
+2015,72140,Herrilurren Atala
+2015,72141,Abeltzaintzarako Azpiegiturei Laguntzeko Bulegoa
+2015,722,Nekazaritzako Ustiategien eta Elikagaien Sustapenerako Zerbitzua
+2015,7220,Nekazaritzako Ustiategien eta Elikagaien Sustapenerako Zerbitzua
+2015,72200,Nekazaritzako Ustiategien eta Elikagaien Sustapenerako Zerbitzua
+2015,7222,Nekazaritzako Elikagaien Kalitatearen eta Sustapenaren Atala
+2015,72220,Nekazaritzako Elikagaien Kalitatearen eta Sustapenaren Atala
+2015,72221,Nekazaritzako Kalitateko Elikagaien Sustapenaren Bulegoa
+2015,72222,Nekazaritzako Elikagaien Kalitate Kontrolaren Bulegoa
+2015,7223,Nekazaritzako Ustiategiak eta Nekazarien Elkarteak Sustatzeko Atala
+2015,72230,Nekazaritzako Ustiategiak eta Nekazarien Elkarteak Sustatzeko Atala
+2015,72231,Nekazaritzako Ustiategietan Inbertitzeko Laguntzen Bulegoa
+2015,7224,Ardogintza Sustatzeko Atala
+2015,72240,Ardogintza Sustatzeko Atala
+2015,723,Landa Aniztasunerako eta Garapenerako Zerbitzua
+2015,7230,Landa Aniztasunerako eta Garapenerako Zerbitzua
+2015,72300,Landa Aniztasunerako eta Garapenerako Zerbitzua
+2015,7231,Plan eta Programen Atala
+2015,72310,Plan eta Programen Atala
+2015,72311,Europar Batasuneko Programen Jarraipen Bulegoa
+2015,7232,Landa Aniztasunerako Atala
+2015,72320,Landa Aniztasunerako Atala
+2015,74,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2015,740,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2015,7400,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2015,74000,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2015,741,Ingurumen Kalitatearen Zerbitzua
+2015,7410,Ingurumen Kalitatearen Zerbitzua
+2015,74100,Ingurumen Kalitatearen Zerbitzua
+2015,74101,Ingurumenaren Integrazioari Laguntzeko Bulegoa
+2015,7411,Kutsaduraren aurkako Aurreneurrien Atala
+2015,74110,Kutsaduraren aurkako Aurreneurrien Atala
+2015,74111,Ingurumenaren Kontrolari Laguntzeko Bulegoa
+2015,74113,Baimenen Bulegoa
+2015,7412,"Ikuskapen, Airearen Kalitate eta Klima Aldaketaren Atala"
+2015,74120,"Ikuskapen, Airearen Kalitate eta Klima Aldaketaren Atala"
+2015,74121,Kontrol Bulegoa
+2015,7413,Ingurumenaren gaineko Eragina Aztertzeko Atala
+2015,74130,Ingurumenaren gaineko Eragina Aztertzeko Atala
+2015,74131,Ingurumenaren Ebaluazioari Laguntzeko Bulegoa
+2015,74133,Ingurumenaren gaineko Eraginaren Bulegoa
+2015,7415,Hondakinen Atala
+2015,74150,Hondakinen Atala
+2015,74151,Industria Hondakinen eta Lurzoru Kutsatuen Bulegoa
+2015,742,Biodibertsitatea Kontserbatzeko Zerbitzua
+2015,7420,Biodibertsitatea Kontserbatzeko Zerbitzua
+2015,74200,Biodibertsitatea Kontserbatzeko Zerbitzua
+2015,74202,Biodibertsitatearen arloko Lankidetza eta Kudeaketa Bulegoa
+2015,7421,Habitaten Atala
+2015,74210,Habitaten Atala
+2015,74211,Kontserbaziorako Guneen Bulegoa
+2015,7425,Ehiza eta Arrantza Atala
+2015,74250,Ehiza eta Arrantza Atala
+2015,74251,Arrantza Kudeatu eta Animaliak Babesteko Bulegoa
+2015,74252,Ehiza Kudeatzeko Bulegoa
+2015,74253,Ehiza eta Arrantzaren Laguntzako Bulegoa
+2015,743,Uraren Zerbitzua
+2015,7430,Uraren Zerbitzua
+2015,74300,Ur Zerbitzua
+2015,7431,Ur Baliabideen Atala
+2015,74310,Ur Baliabideen Atala
+2015,74312,Lurzoru eta Klimatologia Bulegoa
+2015,7432,Ibaiertzak Lehengoratzeko eta Obra Hidraulikoetarako Atala
+2015,74320,Ibaiertzak Lehengoratzeko eta Obra Hidraulikoetarako Atala
+2015,74321,Ibaietako Obren Bulegoa
+2015,7434,Ingurumenari buruzko Informazio eta Hezkuntzaren Atala
+2015,74340,Ingurumenari buruzko Informazio eta Hezkuntzaren Atala
+2015,744,Mendi Zerbitzua
+2015,7440,Mendi Zerbitzua
+2015,74400,Mendi Zerbitzua
+2015,7441,Oihanak Kudeatzeko Atala
+2015,74410,Oihanak Kudeatzeko Atala
+2015,74411,Pirinioetako Eskualdeko Bulegoa
+2015,74412,Kantaurialdeko Bulegoa
+2015,74413,Erdialdeko eta Erriberako Bulegoa
+2015,74415,Oihan Plangintzarako Bulegoa
+2015,7442,Ingurumena Zaintzeko Atala
+2015,74420,Ingurumena Zaintzeko Atala
+2015,74421,Baliabideen Kudeaketarako eta Laguntzarako Bulegoa
+2015,78,Toki Administrazioko Zuzendaritza Nagusia
+2015,780,Toki Administrazioko Zuzendaritza Nagusia
+2015,7800,Toki Administrazioko Zuzendaritza Nagusia
+2015,78000,Toki Administrazioko Zuzendaritza Nagusia
+2015,781,Kudeaketa eta Lankidetza Juridikorako Zerbitzua
+2015,7810,Kudeaketa eta Lankidetza Juridikorako Zerbitzua
+2015,78100,Kudeaketa eta Lankidetza Juridikorako Zerbitzua
+2015,7811,Toki Entitateentzako Koordinazio eta Lankidetza Atala
+2015,78110,Toki Entitateentzako Koordinazio eta Lankidetza Atala
+2015,7812,Toki Araubidearen Atala
+2015,78120,Toki Araubidearen Atala
+2015,7813,Kudeaketa Administratibo Orokorraren Atala
+2015,78130,Kudeaketa Administratibo Orokorraren Atala
+2015,782,Kudeaketa eta Lankidetza Ekonomikorako Zerbitzua
+2015,7820,Kudeaketa eta Lankidetza Ekonomikorako Zerbitzua
+2015,78200,Kudeaketa eta Lankidetza Ekonomikorako Zerbitzua
+2015,7821,Kudeaketa eta Plangintza Atala
+2015,78210,Kudeaketa eta Plangintza Atala
+2015,7822,Aholkularitza eta Lankidetza Ekonomikoaren Atala
+2015,78220,Aholkularitza eta Lankidetza Ekonomikoaren Atala
+2015,7823,Azterlan eta Analisi Ekonomikoen Atala
+2015,78230,Azterlan eta Analisi Ekonomikoen Atala
 2015,7824,Sección de Gestión de Asuntos Económicos de las Entidades Locales
-2015,78240,Sección de Gestión de asuntos económicos de las Entidades Locales
-2015,783,Servicio de Infraestructuras Locales
-2015,7830,Servicio de Infraestructuras Locales
-2015,78300,Servicio de Infraestructuras Locales
-2015,78301,Negociado de Infraestructuras Hidráulico-Sanitarias
-2015,78302,Negociado de Obras Urbanas
-2015,7831,"Sección de Gestión, Planificación y Estudios"
-2015,78310,"Sección de Gestión, Planificación y Estudios"
-2015,78311,Negociado de Estudios y Proyectos
-2015,7832,Sección de Cooperación Técnica de Infraestructuras
-2015,78320,Sección de Cooperación Técnica de Infraestructuras
-2015,78321,Negociado de Infraestruturas Locales
-2015,784,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
-2015,7840,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
-2015,78400,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
+2015,78240,Toki Entitateen Afera Ekonomikoak Kudeatzeko Atala
+2015,783,Tokiko Azpiegituren Zerbitzua
+2015,7830,Tokiko Azpiegituren Zerbitzua
+2015,78300,Tokiko Azpiegituren Zerbitzua
+2015,78301,Azpiegitura Hidrauliko Sanitarioen Bulegoa
+2015,78302,Hiriko Obren Bulegoa
+2015,7831,"Kudeaketa, Plangintza eta Azterlan Atala"
+2015,78310,"Kudeaketa, Plangintza eta Azterlan Atala"
+2015,78311,Azterlan eta Proiektu Bulegoa
+2015,7832,Azpiegituren arloko Lankidetza Teknikorako Atala
+2015,78320,Azpiegituren arloko Lankidetza Teknikorako Atala
+2015,78321,Toki Azpiegituren Bulegoa
+2015,784,Udal Zerbitzuak eta Tokiko Funtzio Publikoa Antolatzeko Zerbitzua
+2015,7840,Udal Zerbitzuak eta Tokiko Funtzio Publikoa Antolatzeko Zerbitzua
+2015,78400,Udal Zerbitzuak eta Tokiko Funtzio Publikoa Antolatzeko Zerbitzua
 2015,7841,Sección de ordenación y apoyo a los Servicios municipales y a la Función Pública Local
-2015,78410,Sección de ordenación y apoyo a los Servicios municipales y a la Función pública local
-2015,9,Departamento de Políticas Sociales
-2015,90,Departamento de Políticas Sociales
-2015,900,Departamento de Políticas Sociales
-2015,9000,Departamento de Políticas Sociales
-2015,90000,Departamento de Políticas Sociales
-2015,902,Secretaría General Técnica
-2015,9020,Secretaría General Técnica
-2015,90200,Secretaría General Técnica
-2015,90201,Negociado de Gestión de Personal
-2015,9021,Sección de Gestión Económica y Presupuestaria
-2015,90210,Sección de Gestión Económica y Presupuestaria
-2015,90211,Negociado de Contabilidad y Gestión Presupuestaria
-2015,9022,"Sección de Régimen Jurídico y Administrativo de Igualdad y Familia, Deporte, Juventud y Consumo"
-2015,90220,"Sección de Régimen Jurídico y Administrativo de Igualdad y Familia, Deporte, Juventud y Consumo"
-2015,9023,Sección de Gestión de Sistemas
-2015,90230,Sección de Gestión de Sistemas
-2015,9024,Sección de Régimen Jurídico y Administrativo de Política Social
-2015,90240,Sección de Régimen Jurídico y Administrativo de Política Social
-2015,90241,Negociado de Asuntos Administrativos
-2015,9025,Sección de Información y Modernización
-2015,90250,Sección de Información y Modernización
-2015,90251,"Negociado de Información, Registro y Archivo"
-2015,91,Dirección General de Política Social y Consumo
-2015,910,Dirección General de Política Social y Consumo
-2015,9100,Dirección General de Política Social y Consumo
-2015,91000,Dirección General de Política Social y Consumo
-2015,913,Servicio de Consumo y Arbitraje
-2015,9130,Servicio de Consumo y Arbitraje
-2015,91300,Servicio de Consumo y Arbitraje
-2015,9131,"Sección de Control de Mercado, Promoción y Defensa de la Competencia"
-2015,91310,"Sección de Control de Mercado, Promoción y Defensa de la Competencia"
-2015,91311,"Negociado de Inspección, Promoción y Defensa de la Competencia"
-2015,9132,Sección de Defensa de los Consumidores y Arbitraje de Consumo
-2015,91320,Sección de Defensa de los Consumidores y Arbitraje de Consumo
-2015,914,"Servicio de Planificación, Calidad e Inspección"
-2015,9140,"Servicio de Planificación, Calidad e Inspección"
-2015,91400,"Servicio de Planificación, Calidad e Inspección"
-2015,91401,Negociado de Producción y Difusión de Documentos de Planificación de Servicios Sociales
-2015,9141,Sección de Planificación e Investigación
-2015,91410,Sección de Planificación e Investigación
-2015,91411,Negociado de Coordinación de Planes Generales
-2015,9143,Sección de Calidad y Protectorado de Fundaciones
-2015,91430,Sección de Calidad y Protectorado de Fundaciones
-2015,9144,Sección de Inspección
-2015,91440,Sección de Inspección
-2015,916,Servicio de Atención al Desarrollo e Inclusión de las Personas
-2015,9160,Servicio de Atención al Desarrollo e Inclusión de las Personas
-2015,91600,Servicio de Atención al Desarrollo e Inclusión de las Personas
-2015,9161,Sección de Inclusión Social
-2015,91610,Sección de Inclusión Social
-2015,91612,Negociado de Pensiones
-2015,9162,Sección de Atención Primaria
-2015,91620,Sección de Atención Primaria
-2015,9163,Sección de Programas de Desarrollo y Acción Humanitaria
-2015,91630,Sección de Programas de Desarrollo y Acción Humanitaria
-2015,9164,Sección de Atención a la Inmigración
-2015,91640,Sección de Atención a la Inmigración
-2015,918,Agencia Navarra para la Autonomía de las Personas
-2015,9180,Agencia Navarra para la Autonomía de las Personas
-2015,91800,Agencia Navarra para la Autonomía de las Personas
-2015,9182,Subdirección de Gestión y Recursos para la Dependencia
-2015,91820,Subdirección de Gestión y Recursos para la Dependencia
-2015,91823,Sección de Personal
-2015,91824,"Sección de Inversiones, Obras y Suministros"
-2015,91825,Sección de Valoración
-2015,91827,Centro de Atención Temprana
-2015,9183,Subdirección de Servicios para la Dependencia
-2015,91830,Subdirección de Servicios para la Dependencia
-2015,91831,Sección de Servicios para Personas Mayores
-2015,91832,Sección de Servicios para Personas con Discapacidad
-2015,91834,Sección de Coordinación Administrativa de Prestaciones
-2015,91835,Sección de Concertación para la Dependencia
-2015,94,Instituto Navarro para la Familia e Igualdad
-2015,940,Instituto Navarro para la Familia e Igualdad
-2015,9400,Instituto Navarro para la Familia e Igualdad
-2015,94000,Instituto Navarro para la Familia e Igualdad
-2015,941,Subdirección de Políticas de Igualdad de Género
-2015,9410,Subdirección de Políticas de Igualdad de Género
-2015,94100,Subdirección de Políticas de Igualdad de Género
-2015,9411,Sección de Proyectos y Programas
-2015,94110,Sección de Proyectos y Programas
-2015,9413,Sección de Información y Violencia contra las Mujeres
-2015,94130,Sección de Información y Violencia contra las Mujeres
-2015,942,Subdirección de Familia y Atención a la Infancia y Adolescencia
-2015,9420,Subdirección de Familia y Atención a la Infancia y Adolescencia
-2015,94200,Subdirección de Familia y Atención a la Infancia y Adolescencia
-2015,9421,Sección de Familias
-2015,94210,Sección de Familias
-2015,94211,Negociado de Familia
-2015,9422,Sección de Protección y Promoción del Menor
-2015,94220,Sección de Protección y Promoción del Menor
-2015,94221,Negociado de Atención a Menores en Dificultad Social
-2015,94222,Negociado de Atención a Menores en Conflicto Social y Reforma
-2015,9423,Sección de Adopción y Acogimiento Familiar
-2015,94230,Sección de Adopción y Acogimiento Familiar
-2015,94231,Negociado de Acogimiento Familiar
-2015,94232,Negociado de Adopción
-2015,95,Instituto Navarro de Deporte y Juventud
-2015,950,Instituto Navarro de Deporte y Juventud
-2015,9500,Instituto Navarro de Deporte y Juventud
-2015,95000,Instituto Navarro de Deporte y Juventud
-2015,9501,Sección de Administración y Gestión
-2015,95010,Sección de Administración y Gestión
-2015,95011,Negociado de Gestión Económico-Administrativa y Procedimental
-2015,95012,"Negociado de Gestión Interna, Logística y de Personal"
-2015,951,Subdirección General de Deporte
-2015,9510,Subdirección General de Deporte
-2015,95100,Subdirección General de Deporte
-2015,95101,"Centro de Tecnificación Deportiva ""Estadio Larrabide"""
-2015,9511,Sección de Promoción Deportiva
-2015,95110,Sección de Promoción Deportiva
-2015,95111,Negociado de Fomento Deportivo
-2015,95113,Negociado de Juegos Deportivos
-2015,9512,Sección de Entidades y Rendimiento Deportivo
-2015,95120,Sección de Entidades y Rendimiento Deportivo
-2015,95121,Negociado de Federaciones Deportivas
-2015,95123,Negociado de Tecnificación Deportiva
-2015,95124,Negociado de Clubes y Rendimiento Deportivo
-2015,9513,"Centro de Estudios, Investigación y Medicina del Deporte"
-2015,95130,"Centro de Estudios, Investigación y Medicina del Deporte"
-2015,95131,Unidad Técnica de Asistencia
-2015,95132,Unidad Técnica de Investigación
-2015,95133,Unidad Técnica de Formación
-2015,952,Subdirección General de Juventud
-2015,9520,Subdirección General de Juventud
-2015,95200,Subdirección General de Juventud
-2015,95201,Negociado de Centros de Juventud
-2015,9521,Sección de Planificación y Observatorio Joven
-2015,95210,Sección de Planificación y Observatorio Joven
-2015,95211,Negociado de Información y Formación
-2015,9522,Sección de Programas para Jóvenes y de Relaciones con Entidades
-2015,95220,Sección de Programas para Jóvenes y de Relaciones con Entidades
-2015,95221,Negociado de Movilidad Juvenil
-2015,95222,Negociado de Creatividad Juvenil y Otros Servicios
-2015,95223,Negociado de Entidades Locales y Asociaciones Juveniles
-2015,954,Subdirección de Infraestructuras
-2015,9540,Subdirección de Infraestructuras
-2015,95400,Subdirección de Infraestructuras
-2015,9541,Sección de Gestión de Infraestructuras
-2015,95410,Sección de Gestión de Infraestructuras
-2015,A,"Departamento de Cultura, Turismo y Relaciones Institucionales"
-2015,A0,"Departamento de Cultura, Turismo y Relaciones Institucionales"
-2015,A00,"Departamento de Cultura, Turismo y Relaciones Institucionales"
-2015,A000,"Departamento de Cultura, Turismo y Relaciones Institucionales"
-2015,A0001,Presidenta del Gobierno
-2015,A0002,"Departamento de Cultura, Turismo y Relaciones Institucionales"
-2015,A01,Secretaría General Técnica
-2015,A010,Secretaría General Técnica
-2015,A0100,Secretaría General Técnica
-2015,A011,Sección de Régimen Jurídico
-2015,A0110,Sección de Régimen Jurídico
-2015,A012,Sección de Gestión Administrativa
-2015,A0120,Sección de Gestión Administrativa
-2015,A0121,Negociado de Asuntos Administrativos
-2015,A013,Sección de Presupuestos y Gestión Económica
-2015,A0130,Sección de Presupuestos y Gestión Económica
-2015,A0131,Negociado de Gestión Económica
-2015,A1,Dirección General de Turismo y Comercio
-2015,A10,Dirección General de Turismo y Comercio
-2015,A100,Dirección General de Turismo y Comercio
-2015,A1000,Dirección General de Turismo y Comercio
-2015,A11,Servicio de Ordenación y Fomento del Turismo y del Comercio
-2015,A110,Servicio de Ordenación y Fomento del Turismo y del Comercio
-2015,A1100,Servicio de Ordenación y Fomento del Turismo y del Comercio
-2015,A111,Sección de Ordenación del Turismo y del Comercio
-2015,A1110,Sección de Ordenación del Turismo y del Comercio
-2015,A1111,Negociado de Inspección
-2015,A113,Sección de Fomento del Turismo
-2015,A1130,Sección de Fomento del Turismo
-2015,A1131,Negociado de Iniciativas y Ayudas
-2015,A114,Sección de Fomento del Comercio
-2015,A1140,Sección de Fomento del Comercio
-2015,A12,Servicio de Marketing y Desarrollo de Productos Turísticos
-2015,A120,Servicio de Marketing y Desarrollo de Productos Turísticos
-2015,A1200,Servicio de Marketing y Desarrollo de Productos Turísticos
-2015,A121,Sección de Marketing Turístico
-2015,A1210,Sección de Marketing Turístico
-2015,A1212,Negociado de Soportes para la Promoción Turística
-2015,A123,Sección de Desarrollo de Productos Turísticos
-2015,A1230,Sección de Desarrollo de Productos Turísticos
-2015,A2,Dirección General de Cultura-Institución Príncipe de Viana
-2015,A20,Dirección General de Cultura-Institución Príncipe de Viana
-2015,A200,Dirección General de Cultura-Institución Príncipe de Viana
-2015,A2000,Dirección General de Cultura-Institución Príncipe de Viana
-2015,A201,"Sección de Promoción, Estudios y Desarrollo Estratégico"
-2015,A2010,"Sección de Promoción, Estudios y Desarrollo Estratégico"
-2015,A2011,Negociado de Publicaciones
-2015,A21,Servicio de Patrimonio Histórico
-2015,A210,Servicio de Patrimonio Histórico
-2015,A2100,Servicio de Patrimonio Histórico
-2015,A211,Sección de Patrimonio Arquitectónico
-2015,A2110,Sección de Patrimonio Arquitectónico
-2015,A2111,Negociado de Conservación del Patrimonio Arquitectónico
-2015,A2112,Negociado de Protección del Patrimonio
-2015,A212,Sección de Arqueología
-2015,A2120,Sección de Arqueología
-2015,A213,Sección de Bienes Muebles y Registro del Patrimonio
-2015,A2130,Sección de Bienes Muebles y Registro del Patrimonio
-2015,A22,Servicio de Archivos y Patrimonio Documental
-2015,A220,Servicio de Archivos y Patrimonio Documental
-2015,A2200,Servicio de Archivos y Patrimonio Documental
-2015,A221,Sección de Archivo Real y General de Navarra
-2015,A2210,Sección de Archivo Real y General de Navarra
-2015,A222,Sección de Gestión del Patrimonio Documental
-2015,A2220,Sección de Gestión del Patrimonio Documental
-2015,A2221,Negociado de Administración y Servicios
-2015,A23,Servicio de Museos
-2015,A230,Servicio de Museos
-2015,A2300,Servicio de Museos
-2015,A231,Sección de Museos
-2015,A2310,Sección de Museos
-2015,A232,Sección de Museo de Navarra
-2015,A2320,Sección de Museo de Navarra
-2015,A2321,Negociado de Vigilancia y Organización del Museo de Navarra
-2015,A24,Servicio de Bibliotecas
-2015,A240,Servicio de Bibliotecas
-2015,A2400,Servicio de Bibliotecas
-2015,A241,Sección de Biblioteca de Navarra
-2015,A2410,Sección de Biblioteca de Navarra
-2015,A2412,Negociado de Patrimonio Bibliográfico
-2015,A2413,Negociado de Atención al Usuario
-2015,A242,Sección de Red de Bibliotecas
-2015,A2420,Sección de Red de Bibliotecas
-2015,A2422,Negociado de Gestión y Recursos Bibliotecarios
-2015,A2423,Negociado de Gestión del Fondo Documental
-2015,A25,Servicio de Acción Cultural
-2015,A250,Servicio de Acción Cultural
-2015,A2500,Servicio de Acción Cultural
-2015,A251,Sección de Difusión Artística
-2015,A2510,Sección de Difusión Artística
-2015,A252,"Sección de Creación, Producción y Servicios Artísticos"
-2015,A2520,"Sección de Creación, Producción y Servicios Artísticos"
-2015,A2522,Negociado de Infraestructuras Culturales
-2015,A3,Dirección General de Relaciones Institucionales
-2015,A30,Dirección General de Relaciones Institucionales
-2015,A300,Dirección General de Relaciones Institucionales
-2015,A3000,Dirección General de Relaciones Institucionales
-2015,A31,Servicio de Relaciones con el Parlamento de Navarra y otras Instituciones
-2015,A310,Servicio de Relaciones con el Parlamento de Navarra y otras Instituciones
-2015,A3100,Servicio de Relaciones con el Parlamento de Navarra y otras Instituciones
-2015,A311,Sección de Relaciones con Instituciones Forales y Registro de Convenios
-2015,A3110,Sección de Relaciones con Instituciones Forales y Registro de Convenios
-2015,A312,Sección de Relaciones Interregionales
-2015,A3120,Sección de Relaciones Interregionales
-2015,A313,Sección de Relaciones con Instituciones Europeas e Internacionales
-2015,A3130,Sección de Relaciones con Instituciones Europeas e Internacionales
-2015,A32,Servicio de Proyección Institucional
-2015,A320,Servicio de Proyección Institucional
-2015,A3200,Servicio de Proyección Institucional
-2015,A321,Sección de Protocolo
-2015,A3210,Sección de Protocolo
-2015,A323,Sección de Publicaciones
-2015,A3230,Sección de Publicaciones
-2015,A3231,Negociado de Producción y Diseño Gráfico de Publicaciones
-2015,A3232,Negociado de Promoción y Difusión de Publicaciones
-2015,A3233,Negociado de Almacén de Publicaciones
-2015,A4,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2015,A40,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2015,A400,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2015,A4000,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2015,A41,Servicio de Comunicación
-2015,A410,Servicio de Comunicación
-2015,A4100,Servicio de Comunicación
-2015,A4101,Negociado de Secretaría
-2015,A411,Sección de Gabinete de Prensa
-2015,A4110,Sección de Gabinete de Prensa
-2015,A412,Sección de Promoción
-2015,A4120,Sección de Promoción
-2015,A413,Sección de Portal navarra.es
-2015,A4130,Sección de Portal navarra.es
-2015,A414,Sección de Atención Ciudadana
-2015,A4140,Sección de Atención Ciudadana
+2015,78410,Udal Zerbitzuak eta Tokian Tokiko Funtzio Publikoa Antolatu eta Laguntzeko Atala
+2015,9,Gizarte Politikako Departamentua
+2015,90,Gizarte Politikako Departamentua
+2015,900,Gizarte Politikako Departamentua
+2015,9000,Gizarte Politikako Departamentua
+2015,90000,Gizarte Politikako Departamentua
+2015,902,Idazkaritza Tekniko Orokorra
+2015,9020,Idazkaritza Tekniko Orokorra
+2015,90200,Idazkaritza Tekniko Orokorra
+2015,90201,Langileriaren Kudeaketarako Bulego
+2015,9021,Ekonomia eta Aurrekontuak Kudeatzeko Atala
+2015,90210,Ekonomia eta Aurrekontuak Kudeatzeko Atala
+2015,90211,Aurrekontuen Kudeaketa eta Kontabilitateko Bulegoa
+2015,9022,"Berdintasun, Familia, Kirol, Gazteria eta Kontsumoko Araubide Juridiko-administratiboaren Atala"
+2015,90220,"Berdintasun, Familia, Kirol, Gazteria eta Kontsumoko Araubide Juridiko-administratiboaren Atala"
+2015,9023,Sistemen Kudeaketarako Atala
+2015,90230,Sistemen Kudeaketarako Atala
+2015,9024,Gizarte Politikako Araubide Juridiko-administratiboaren Atala
+2015,90240,Gizarte Politikako Araubide Juridiko-administratiboaren Atala
+2015,90241,Administrazio Aferetarako Bulegoa
+2015,9025,Informazio eta Modernizazio Atala
+2015,90250,Informazio eta Modernizazio Atala
+2015,90251,"Argibide, Erregistro eta Agiritegi Bulegoa"
+2015,91,Gizarte Politikako eta Kontsumoko Zuzendaritza Nagusia
+2015,910,Gizarte Politikako eta Kontsumoko Zuzendaritza Nagusia
+2015,9100,Gizarte Politikako eta Kontsumoko Zuzendaritza Nagusia
+2015,91000,Gizarte Politikako eta Kontsumoko Zuzendaritza Nagusia
+2015,913,Kontsumo eta Arbitraje Zerbitzua
+2015,9130,Kontsumo eta Arbitraje Zerbitzua
+2015,91300,Kontsumo eta Arbitraje Zerbitzua
+2015,9131,Merkatua Kontrolatzeko eta Lehia Sustatu eta Babesteko Atala
+2015,91310,Merkatua Kontrolatzeko eta Lehia Sustatu eta Babesteko Atala
+2015,91311,"Ikuskapen, Sustapen eta Lehiaren Defentsako Bulegoa"
+2015,9132,Kontsumitzaileen Babeserako eta Kontsumoko Arbitrajerako Atala
+2015,91320,Kontsumitzaileen Babeserako eta Kontsumoko Arbitrajerako Atala
+2015,914,"Plangintza, Kalitate eta Ikuskaritza Zerbitzua"
+2015,9140,"Plangintza, Kalitate eta Ikuskaritza Zerbitzua"
+2015,91400,"Plangintza, Kalitate eta Ikuskaritza Zerbitzua"
+2015,91401,Gizarte Zerbitzuen Plangintzari buruzko Dokumentuak Sortu eta Zabaltzeko Bulegoa
+2015,9141,Plangintza eta Ikerketa Atala
+2015,91410,Plangintza eta Ikerketa Atala
+2015,91411,Plan Orokorrak Koordinatzeko Bulegoa
+2015,9143,Kalitatearen eta Fundazioen Babesletzaren Atala
+2015,91430,Kalitatearen eta Fundazioen Babesletzaren Atala
+2015,9144,Ikuskapen Atala
+2015,91440,Ikuskapen Atala
+2015,916,Garapenaren Arretako eta Pertsonen Inklusiorako Zerbitzua
+2015,9160,Garapenaren Arretako eta Pertsonen Inklusiorako Zerbitzua
+2015,91600,Garapenaren Arretako eta Pertsonen Inklusiorako Zerbitzua
+2015,9161,Gizarteratze Zuzendaritza
+2015,91610,Gizarteratze Zuzendaritza
+2015,91612,Pentsioen Bulegoa
+2015,9162,Oinarrizko Laguntzaren Atala
+2015,91620,Oinarrizko Laguntzaren Atala
+2015,9163,Garapen Programen eta Ekintza Humanitarioaren Atala
+2015,91630,Garapen Programen eta Ekintza Humanitarioaren Atala
+2015,9164, Immigraziorako Atala
+2015,91640, Immigraziorako Atala
+2015,918,Pertsonen Autonomiarako Nafarroako Agentzia
+2015,9180,Pertsonen Autonomiarako Nafarroako Agentzia
+2015,91800,Pertsonen Autonomiarako Nafarroako Agentzia
+2015,9182,Mendekotasunerako Baliabideen eta Kudeaketaren Zuzendariordetza
+2015,91820,Mendekotasunerako Baliabideen eta Kudeaketaren Zuzendariordetza
+2015,91823,Langileriaren Atala
+2015,91824,"Inbertsio, Obra eta Hornidura Atala"
+2015,91825,Balorazio Atala
+2015,91827,Arreta Goiztiarreko Zentroa
+2015,9183,Mendekotasunerako Zerbitzuen Zuzendariordetza
+2015,91830,Mendekotasunerako Zerbitzuen Zuzendariordetza
+2015,91831,Adinekoentzako Zerbitzuen Atala
+2015,91832,Desgaitasuna duten Pertsonentzako Zerbitzuen Atala
+2015,91834,Prestazioen Koordinazio Administratiboaren Atala
+2015,91835,Mendekotasunerako Itunen Atala
+2015,94,Nafarroako Berdintasunerako Institutua
+2015,940,Nafarroako Berdintasunerako Institutua
+2015,9400,Nafarroako Berdintasunerako Institutua
+2015,94000,Nafarroako Berdintasunerako Institutua
+2015,941,Genero Berdintasuneko Politiken Zuzendariordetza
+2015,9410,Genero Berdintasuneko Politiken Zuzendariordetza
+2015,94100,Genero Berdintasuneko Politiken Zuzendariordetza
+2015,9411,Proiektu eta Programa Atala
+2015,94110,Proiektu eta Programa Atala
+2015,9413,Emakumeen aurkako Indarkeriaren eta Informazioaren Atala
+2015,94130,Emakumeen aurkako Indarkeriaren eta Informazioaren Atala
+2015,942,Familiako eta Haur eta Nerabeentzako Arretako Zuzendariordetza
+2015,9420,Familiako eta Haur eta Nerabeentzako Arretako Zuzendariordetza
+2015,94200,Familiako eta Haur eta Nerabeentzako Arretako Zuzendariordetza
+2015,9421,Familien Atala
+2015,94210,Familien Atala
+2015,94211,Familia Bulegoa
+2015,9422,Adingabearen Babes eta Sustapenerako Atala
+2015,94220,Adingabearen Babes eta Sustapenerako Atala
+2015,94221,Arazo Sozialak dituzten Adingabeei Laguntza Emateko Bulegoa
+2015,94222,Gizartearekin Gatazkan eta Zentzatzeko bidean dauden Adingabeei Laguntza Emateko Bulegoa
+2015,9423,Adopzioaren eta Familia-harreraren Atala
+2015,94230,Adopzioaren eta Familia-harreraren Atala
+2015,94231,Familia Harreraren Bulegoa
+2015,94232,Adopzio Bulegoa
+2015,95,Nafarroako Kirolaren eta Gazteriaren Institutua
+2015,950,Nafarroako Kirolaren eta Gazteriaren Institutua
+2015,9500,Nafarroako Kirolaren eta Gazteriaren Institutua
+2015,95000,Nafarroako Kirolaren eta Gazteriaren Institutua
+2015,9501,Administrazio eta Kudeaketa Atala
+2015,95010,Administrazio eta Kudeaketa Atala
+2015,95011,Gai Ekonomiko-Administratiboak eta Prozedurak Kudeatzeko Bulegoa
+2015,95012,"Barne Kudeaketaren, Logistikaren eta Langileriaren Bulegoa"
+2015,951,Kirol Zuzendariordetza Nagusia
+2015,9510,Kirol Zuzendariordetza Nagusia
+2015,95100,Kirol Zuzendariordetza Nagusia
+2015,95101,«Larrabide Estadioa» Kirol Teknifikazioaren Zentroa
+2015,9511,Kirola Sustatzeko Atala
+2015,95110,Kirola Sustatzeko Atala
+2015,95111,Kirola Sustatzeko Bulegoa
+2015,95113,Kirol Jokoen Bulegoa
+2015,9512,Entitateen eta Kirol-errendimenduaren Atala
+2015,95120,Entitateen eta Kirol-errendimenduaren Atala
+2015,95121,Kirol Federazioen Bulegoa
+2015,95123,Kirol Teknifikazioaren Bulegoa
+2015,95124,Kluben eta Kirol-errendimenduaren Bulegoa
+2015,9513,"Kirolaren Azterlan, Ikerketa eta Medikuntzako Zentroa"
+2015,95130,"Kirolaren Azterlan, Ikerketa eta Medikuntzako Zentroa"
+2015,95131,Laguntzako Unitate Teknikoa
+2015,95132,Ikerkuntzako Unitate Teknikoa
+2015,95133,Prestakuntzako Unitate Teknikoa
+2015,952,Gaztediaren Zuzendariordetza Nagusia
+2015,9520,Gaztediaren Zuzendariordetza Nagusia
+2015,95200,Gaztediaren Zuzendariordetza Nagusia
+2015,95201,Gazteriaren Etxeen Bulegoa
+2015,9521,Plangintzaren eta Gazteriaren Behatokiaren Atala
+2015,95210,Plangintzaren eta Gazteriaren Behatokiaren Atala
+2015,95211,Argibide eta Prestakuntza Bulegoa
+2015,9522,Gazteentzako Programen eta Entitateekiko Harremanen Atala
+2015,95220,Gazteentzako Programen eta Entitateekiko Harremanen Atala
+2015,95221,Gazte Mugikortasunerako Bulegoa
+2015,95222,Gazteen Sormenaren eta Beste Zerbitzu Batzuen Bulegoa
+2015,95223,Toki Entitateen eta Gazte Elkarteen Bulegoa
+2015,954,Azpiegituren Zuzendariordetza
+2015,9540,Azpiegituren Zuzendariordetza
+2015,95400,Azpiegituren Zuzendariordetza
+2015,9541,Azpiegiturak Kudeatzeko Atala
+2015,95410,Azpiegiturak Kudeatzeko Atala
+2015,A,"Kultura, Turismo eta Erakundeekiko Harremanetako Departamentua"
+2015,A0,"Kultura, Turismo eta Erakundeekiko Harremanetako Departamentua"
+2015,A00,"Kultura, Turismo eta Erakundeekiko Harremanetako Departamentua"
+2015,A000,"Kultura, Turismo eta Erakundeekiko Harremanetako Departamentua"
+2015,A0001,Gobernuko Lehendakaria
+2015,A0002,"Kultura, Turismo eta Erakundeekiko Harremanetako Departamentua"
+2015,A01,Idazkaritza Tekniko Orokorra
+2015,A010,Idazkaritza Tekniko Orokorra
+2015,A0100,Idazkaritza Tekniko Orokorra
+2015,A011,Araubide Juridikoaren Atala
+2015,A0110,Araubide Juridikoaren Atala
+2015,A012,Kudeaketa Administratiboaren Atala
+2015,A0120,Kudeaketa Administratiboaren Atala
+2015,A0121,Administrazio Aferetarako Bulegoa
+2015,A013,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2015,A0130,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2015,A0131,Kudeaketa Ekonomikorako Bulegoa
+2015,A1,Turismo eta Merkataritza Zuzendaritza Nagusia
+2015,A10,Turismo eta Merkataritza Zuzendaritza Nagusia
+2015,A100,Turismo eta Merkataritza Zuzendaritza Nagusia
+2015,A1000,Turismo eta Merkataritza Zuzendaritza Nagusia
+2015,A11,Turismoa eta Merkataritza Antolatu eta Sustatzeko Zerbitzua
+2015,A110,Turismoa eta Merkataritza Antolatu eta Sustatzeko Zerbitzua
+2015,A1100,Turismoa eta Merkataritza Antolatu eta Sustatzeko Zerbitzua
+2015,A111,Turismoa eta Merkataritza Antolatzeko Atala
+2015,A1110,Turismoa eta Merkataritza Antolatzeko Atala
+2015,A1111,Ikuskaritza Bulegoa
+2015,A113,Turismoa Sustatzeko Atala
+2015,A1130,Turismoa Sustatzeko Atala
+2015,A1131,Ekimen eta Laguntza Bulegoa
+2015,A114,Merkataritza Sustatzeko Atala
+2015,A1140,Merkataritza Sustatzeko Atala
+2015,A12,Produktu Turistikoen Marketin eta Garapeneko Zerbitzua
+2015,A120,Produktu Turistikoen Marketin eta Garapeneko Zerbitzua
+2015,A1200,Produktu Turistikoen Marketin eta Garapeneko Zerbitzua
+2015,A121,Turismoko Marketinaren Atala
+2015,A1210,Turismoko Marketinaren Atala
+2015,A1212,Turismoa Sustatzeko Euskarrien Bulegoa
+2015,A123,Turismo Produktuen Garapenerako Atala
+2015,A1230,Turismo Produktuen Garapenerako Atala
+2015,A2,Vianako Printzea Erakundea-Kultura Zuzendaritza Nagusia
+2015,A20,Vianako Printzea Erakundea-Kultura Zuzendaritza Nagusia
+2015,A200,Vianako Printzea Erakundea-Kultura Zuzendaritza Nagusia
+2015,A2000,Vianako Printzea Erakundea-Kultura Zuzendaritza Nagusia
+2015,A201,"Sustapenaren, Azterlanen eta Garapen Estrategikoaren Atala"
+2015,A2010,"Sustapenaren, Azterlanen eta Garapen Estrategikoaren Atala"
+2015,A2011,Argitalpen Bulegoa
+2015,A21,Historia Ondarearen Zerbitzua
+2015,A210,Historia Ondarearen Zerbitzua
+2015,A2100,Historia Ondarearen Zerbitzua
+2015,A211,Ondare Arkitektonikoaren Atala
+2015,A2110,Ondare Arkitektonikoaren Atala
+2015,A2111,Ondare Arkitektonikoa Zaintzeko Bulegoa
+2015,A2112,Ondarea Babesteko Bulegoa
+2015,A212,Arkeologia Atala
+2015,A2120,Arkeologia Atala
+2015,A213,Ondasun Higigarrien eta Ondarearen Erregistroaren Atala
+2015,A2130,Ondasun Higigarrien eta Ondarearen Erregistroaren Atala
+2015,A22,Artxiboen eta Ondare Dokumentalaren Zerbitzua
+2015,A220,Artxiboen eta Ondare Dokumentalaren Zerbitzua
+2015,A2200,Artxiboen eta Ondare Dokumentalaren Zerbitzua
+2015,A221,Nafarroako Errege Artxibo Nagusiaren Atala
+2015,A2210,Nafarroako Errege Artxibo Nagusiaren Atala
+2015,A222,Dokumentu Ondarea Kudeatzeko Atala
+2015,A2220,Dokumentu Ondarea Kudeatzeko Atala
+2015,A2221,Administrazio eta Zerbitzuen Bulegoa
+2015,A23,Museo Zerbitzua
+2015,A230,Museo Zerbitzua
+2015,A2300,Museo Zerbitzua
+2015,A231,Museoen Atala
+2015,A2310,Museoen Atala
+2015,A232,Nafarroako Museoaren Atala
+2015,A2320,Nafarroako Museoaren Atala
+2015,A2321,Nafarroako Museoaren Barne Antolaketa eta Zainketako Bulegoa
+2015,A24,Liburutegien Zerbitzua
+2015,A240,Liburutegien Zerbitzua
+2015,A2400,Liburutegien Zerbitzua
+2015,A241,Nafarroako Liburutegiaren Atala
+2015,A2410,Nafarroako Liburutegiaren Atala
+2015,A2412,Ondare Bibliografikoaren Bulegoa
+2015,A2413,Erabiltzaileari Erantzuteko Bulegoa
+2015,A242,Liburutegi Sarearen Atala
+2015,A2420,Liburutegi Sarearen Atala
+2015,A2422,Kudeaketaren eta Liburutegietako Baliabideen Bulegoa
+2015,A2423,Fondo Dokumentala Kudeatzeko Bulegoa
+2015,A25,Kultur Ekintzako Zerbitzua
+2015,A250,Kultur Ekintzako Zerbitzua
+2015,A2500,Kultur Ekintzako Zerbitzua
+2015,A251,Artearen Hedapenaren Atala
+2015,A2510,Artearen Hedapenaren Atala
+2015,A252,"Arte Sorkuntzaren, Ekoizpenaren eta Zerbitzuen Atala"
+2015,A2520,"Arte Sorkuntzaren, Ekoizpenaren eta Zerbitzuen Atala"
+2015,A2522,Kultur Azpiegituren Bulegoa
+2015,A3,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2015,A30,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2015,A300,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2015,A3000,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2015,A31,Nafarroako Parlamentuarekiko eta beste Erakundeekiko Harremanetako Zerbitzua
+2015,A310,Nafarroako Parlamentuarekiko eta beste Erakundeekiko Harremanetako Zerbitzua
+2015,A3100,Nafarroako Parlamentuarekiko eta beste Erakundeekiko Harremanetako Zerbitzua
+2015,A311,Foru Erakunde Harremanetako eta Hitzarmenen Erregistrorako Atala
+2015,A3110,Foru Erakunde Harremanetako eta Hitzarmenen Erregistrorako Atala
+2015,A312,Eskualdeen arteko Harremanetarako Atala
+2015,A3120,Eskualdeen arteko Harremanetarako Atala
+2015,A313,Europako eta Nazioarteko Erakundeekiko Harremanetarako Atala
+2015,A3130,Europako eta Nazioarteko Erakundeekiko Harremanetarako Atala
+2015,A32,Proiekzio Instituzionalaren Zerbitzua
+2015,A320,Proiekzio Instituzionalaren Zerbitzua
+2015,A3200,Proiekzio Instituzionalaren Zerbitzua
+2015,A321,Protokolo Atala
+2015,A3210,Protokolo Atala
+2015,A323,Argitalpen Atala
+2015,A3230,Argitalpen Atala
+2015,A3231,Argitalpenen Ekoizpen eta Diseinu Grafikorako Bulego
+2015,A3232,Argitalpenen Sustapen eta Hedapen Bulegoa
+2015,A3233,Argitalpenen Biltegiaren Bulegoa
+2015,A4,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2015,A40,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2015,A400,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2015,A4000,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2015,A41,Komunikazio Zerbitzua
+2015,A410,Komunikazio Zerbitzua
+2015,A4100,Komunikazio Zerbitzua
+2015,A4101,Idazkaritza Bulegoa
+2015,A411,Prentsa Bulegoaren Atala
+2015,A4110,Prentsa Bulegoaren Atala
+2015,A412,Sustapen Atala
+2015,A4120,Sustapen Atala
+2015,A413,Navarra.es Atariaren Atala
+2015,A4130,Navarra.es Atariaren Atala
+2015,A414,Herritarren Arretarako Atala
+2015,A4140,Herritarren Arretarako Atala
 2015,B,Departamento de Relaciones Ciuudadanas e Institucionales
-2015,B0,Departamento de Relaciones Ciudadanas e Institucionales
-2015,B00,Departamento de Relaciones Ciudadanas e Institucionales
-2015,B000,Departamento de Relaciones Ciudadanas e Institucionales
-2015,B0000,Presidenta del Gobierno
-2015,B0001,Departamento de Relaciones Ciudadanas e Institucionales
-2015,B01,Secretaría General Técnica
-2015,B010,Secretaría General Técnica
-2015,B0100,Secretaría General Técnica
-2015,B011,Sección de Régimen Jurídico
-2015,B0110,Sección de Régimen Jurídico
-2015,B012,"Sección de Gestión Administrativa, Económica y Cooperación"
-2015,B0120,"Sección de Gestión Administrativa, Económica y Cooperación"
-2015,B013,Sección de Gestión de Procedimientos con Instituciones Forales
-2015,B0130,Sección de Gestión de Procedimientos con Instituciones Forales
-2015,B014,Sección de Asistencia Técnica de Procedimientos con Instituciones Europeas
-2015,B0140,Sección de Asistencia Técnica de Procedimientos con Instituciones Europeas
-2015,B1,Dirección General de Comunicación y Relaciones Institucionales
-2015,B10,Dirección General de Comunicación y Relaciones Institucionales
-2015,B100,Dirección General de Comunicación y Relaciones Institucionales
-2015,B1000,Dirección General de Comunicación y Relaciones Institucionales
-2015,B11,Servicio de Comunicación
-2015,B110,Servicio de Comunicación
-2015,B1100,Servicio de Comunicación
-2015,B1101,Negociado de Secretaría
+2015,B0,Herritarrekiko eta Erakundeekiko Harremanetako Zuzendaritza
+2015,B00,Herritarrekiko eta Erakundeekiko Harremanetako Zuzendaritza
+2015,B000,Herritarrekiko eta Erakundeekiko Harremanetako Zuzendaritza
+2015,B0000,Gobernuko Lehendakaria
+2015,B0001,Herritarrekiko eta Erakundeekiko Harremanetako Zuzendaritza
+2015,B01,Idazkaritza Tekniko Orokorra
+2015,B010,Idazkaritza Tekniko Orokorra
+2015,B0100,Idazkaritza Tekniko Orokorra
+2015,B011,Araubide Juridikoaren Atala
+2015,B0110,Araubide Juridikoaren Atala
+2015,B012,Kudeaketa Administratibo eta Ekonomikorako eta Lankidetzarako Atala
+2015,B0120,Kudeaketa Administratibo eta Ekonomikorako eta Lankidetzarako Atala
+2015,B013,Foru Erakundeekiko Prozeduren Kudeaketarako Atala
+2015,B0130,Foru Erakundeekiko Prozeduren Kudeaketarako Atala
+2015,B014,Europar Erakundeekiko Prozeduretarako Laguntza Teknikoaren Atala
+2015,B0140,Europar Erakundeekiko Prozeduretarako Laguntza Teknikoaren Atala
+2015,B1,Komunikaziorako eta erakunde harremanetarako zuzendaritza orokorra
+2015,B10,Komunikaziorako eta erakunde harremanetarako zuzendaritza orokorra
+2015,B100,Komunikaziorako eta erakunde harremanetarako zuzendaritza orokorra
+2015,B1000,Komunikaziorako eta erakunde harremanetarako zuzendaritza orokorra
+2015,B11,Komunikazio Zerbitzua
+2015,B110,Komunikazio Zerbitzua
+2015,B1100,Komunikazio Zerbitzua
+2015,B1101,Idazkaritza Bulegoa
 2015,B111,Sección de Gabinete de Prensa - Oficina de la Portavocía
-2015,B1110,Sección de Gabinete de Prensa - Oficina de la Portavoz
-2015,B112,Sección de Portal navarra.es
-2015,B1120,Sección de Portal navarra.es
-2015,B12,Servicio de Proyección Institucional
-2015,B120,Servicio de Proyección Institucional
-2015,B1200,Servicio de Proyección Institucional
-2015,B121,Sección de Protocolo
-2015,B1210,Sección de Protocolo
-2015,B122,Sección de Publicaciones
-2015,B1220,Sección de Publicaciones
-2015,B1221,Negociado de Producción y Diseño Gráfico de Publicaciones
-2015,B1222,Negociado de Promoción y Difusión de Publicaciones
-2015,B1223,Negociado de Almacén de Publicaciones
-2015,B13,Servicio de Atención y Participación Ciudadana
-2015,B130,Servicio de Atención y Participación Ciudadana
-2015,B1300,Servicio de Atención y Participación Ciudadana
-2015,B131,Sección de Atención Ciudadana
-2015,B1310,Sección de Atención Ciudadana
-2015,B132,Sección de Participación Ciudadana
-2015,B1320,Sección de Participación Ciudadana
-2015,B2,"Dirección General de Paz, Convivencia y Derechos Humanos"
-2015,B20,"Dirección General de Paz, Convivencia y Derechos Humanos"
-2015,B200,"Dirección General de Paz, Convivencia y Derechos Humanos"
-2015,B2000,"Dirección General de Paz, Convivencia y Derechos Humanos"
-2015,B21,Servicio de Memoria y Convivencia
-2015,B210,Servicio de Memoria y Convivencia
-2015,B2100,Servicio de Memoria y Convivencia
-2015,B211,Oficina de Atención a las Víctimas
-2015,B2110,Oficina de Atención a las Víctimas
-2015,B212,Sección de Memoria Histórica
-2015,B2120,Sección de Memoria Histórica
-2015,B213,Sección de Convivencia
-2015,B2130,Sección de Convivencia
-2015,B3,Euskarabidea / Instituto Navarro del Euskera
-2015,B30,Euskarabidea / Instituto Navarro del Euskera
-2015,B300,Euskarabidea / Instituto Navarro del Euskera
-2015,B3000,Euskarabidea / Instituto Navarro del Euskera
-2015,B31,Servicio de Recursos Lingüísticos
-2015,B310,Servicio de Recursos Lingüísticos
-2015,B3100,Servicio de Recursos Lingüísticos
-2015,B311,Sección de Formación y Acreditación del Euskera
-2015,B3110,Sección de Formación y Acreditación del Euskera
-2015,B312,Sección de Traducción
-2015,B3120,Sección de Traducción
-2015,B32,Servicio de Planificación y Promoción del Euskera
-2015,B320,Servicio de Planificación y Promoción del Euskera
-2015,B3200,Servicio de Planificación y Promoción del Euskera
-2015,B321,Sección de Estudios y Planificación
-2015,B3210,Sección de Estudios y Planificación
-2015,B322,Sección de Promoción del Euskera
-2015,B3220,Sección de Promoción del Euskera
-2015,B4,Instituto Navarro para la Igualdad
-2015,B40,Instituto Navarro para la Igualdad
-2015,B400,Instituto Navarro para la Igualdad
-2015,B4000,Instituto Navarro para la Igualdad
-2015,B41,Subdirección de Planificación y Programas
-2015,B410,Subdirección de Planificación y Programas
-2015,B4100,Subdirección de Planificación y Programas
-2015,B411,Sección de Programas y Transversalidad de Género
-2015,B4110,Sección de Programas y Transversalidad de Género
-2015,B412,Sección Violencia contra las Mujeres
-2015,B4120,Sección Violencia contra las Mujeres
-2015,B42,Subdirección de Promoción y Gestión
-2015,B420,Subdirección de Promoción y Gestión
-2015,B4200,Subdirección de Promoción y Gestión
-2015,B421,"Sección de Información, Sensibilización y Participación Social"
-2015,B4210,"Sección de Información, Sensibilización y Participación Social"
-2015,B422,Sección de Gestión y Recursos
-2015,B4220,Sección de Gestión y Recursos
-2015,B5,Delegación del Gobierno de Navarra en Bruselas
-2015,B50,Delegación del Gobierno de Navarra en Bruselas
-2015,B500,Delegación del Gobierno de Navarra en Bruselas
-2015,B5000,Delegación del Gobierno de Navarra en Bruselas
-2015,C,Consejo de Navarra
-2015,C0,Consejo de Navarra
-2015,C00,Consejo de Navarra
-2015,C000,Consejo de Navarra
-2015,C0000,Consejo de Navarra
+2015,B1110,Prentsa Bulegoaren Atalak - Gobernuaren Eledunaren Bulegoa
+2015,B112,Navarra.es Atariaren Atala
+2015,B1120,Navarra.es Atariaren Atala
+2015,B12,Proiekzio Instituzionalaren Zerbitzua
+2015,B120,Proiekzio Instituzionalaren Zerbitzua
+2015,B1200,Proiekzio Instituzionalaren Zerbitzua
+2015,B121,Protokolo Atala
+2015,B1210,Protokolo Atala
+2015,B122,Argitalpen Atala
+2015,B1220,Argitalpen Atala
+2015,B1221,Argitalpenen Ekoizpen eta Diseinu Grafikorako Bulego
+2015,B1222,Argitalpenen Sustapen eta Hedapen Bulegoa
+2015,B1223,Argitalpenen Biltegiaren Bulegoa
+2015,B13,Herritarrentzako Arreta eta Parte-hartze Zerbitzua
+2015,B130,Herritarrentzako Arreta eta Parte-hartze Zerbitzua
+2015,B1300,Herritarrentzako Arreta eta Parte-hartze Zerbitzua
+2015,B131,Herritarren Arretarako Atala
+2015,B1310,Herritarren Arretarako Atala
+2015,B132,Herritarren Partaidetzarako Atala
+2015,B1320,Herritarren Partaidetzarako Atala
+2015,B2,"Bakearen, Bizikidetzaren eta Giza Eskubideen Zuzendaritza Nagusia"
+2015,B20,"Bakearen, Bizikidetzaren eta Giza Eskubideen Zuzendaritza Nagusia"
+2015,B200,"Bakearen, Bizikidetzaren eta Giza Eskubideen Zuzendaritza Nagusia"
+2015,B2000,"Bakearen, Bizikidetzaren eta Giza Eskubideen Zuzendaritza Nagusia"
+2015,B21,Memoriaren eta Bizikidetzaren Zerbitzua
+2015,B210,Memoriaren eta Bizikidetzaren Zerbitzua
+2015,B2100,Memoriaren eta Bizikidetzaren Zerbitzua
+2015,B211,Biktimen Arretarako Bulegoa
+2015,B2110,Biktimen Arretarako Bulegoa
+2015,B212,Memoria Historikoaren Atala
+2015,B2120,Memoria Historikoaren Atala
+2015,B213,Bizikidetza Atala
+2015,B2130,Bizikidetza Atala
+2015,B3,Euskarabidea - Euskararen Nafar Institutua
+2015,B30,Euskarabidea - Euskararen Nafar Institutua
+2015,B300,Euskarabidea - Euskararen Nafar Institutua
+2015,B3000,Euskarabidea - Euskararen Nafar Institutua
+2015,B31,Hizkuntza Baliabideen Zerbitzua
+2015,B310,Hizkuntza Baliabideen Zerbitzua
+2015,B3100,Hizkuntza Baliabideen Zerbitzua
+2015,B311,Euskararen Egiaztapenen eta Prestakuntzaren Atala
+2015,B3110,Euskararen Egiaztapenen eta Prestakuntzaren Atala
+2015,B312,Itzulpenen Atala
+2015,B3120,Itzulpenen Atala
+2015,B32,Euskara Planifikatzeko eta Sustatzeko Zerbitzua
+2015,B320,Euskara Planifikatzeko eta Sustatzeko Zerbitzua
+2015,B3200,Euskara Planifikatzeko eta Sustatzeko Zerbitzua
+2015,B321,Azterlan eta Plangintza Atala
+2015,B3210,Azterlan eta Plangintza Atala
+2015,B322,Euskara Sustatzeko Atala
+2015,B3220,Euskara Sustatzeko Atala
+2015,B4,Nafarroako Berdintasunerako Institutua
+2015,B40,Nafarroako Berdintasunerako Institutua
+2015,B400,Nafarroako Berdintasunerako Institutua
+2015,B4000,Nafarroako Berdintasunerako Institutua
+2015,B41,Plangintza eta Programen Zuzendariordetza
+2015,B410,Plangintza eta Programen Zuzendariordetza
+2015,B4100,Plangintza eta Programen Zuzendariordetza
+2015,B411,Programen eta Genero Zeharkakotasunaren Atala
+2015,B4110,Programen eta Genero Zeharkakotasunaren Atala
+2015,B412,Emakumeen aurkako Indarkeriaren Atala
+2015,B4120,Emakumeen aurkako Indarkeriaren Atala
+2015,B42,Sustapen eta Kudeaketaren Zuzendariordetza
+2015,B420,Sustapen eta Kudeaketaren Zuzendariordetza
+2015,B4200,Sustapen eta Kudeaketaren Zuzendariordetza
+2015,B421,"Informazioaren, Sentsibilizazioaren eta Partaidetza Sozialaren Atala"
+2015,B4210,"Informazioaren, Sentsibilizazioaren eta Partaidetza Sozialaren Atala"
+2015,B422,Kudeaketaren eta Baliabideen Atala
+2015,B4220,Kudeaketaren eta Baliabideen Atala
+2015,B5,Nafarroako Gobernuaren Bruselako Ordezkaritza
+2015,B50,Nafarroako Gobernuaren Bruselako Ordezkaritza
+2015,B500,Nafarroako Gobernuaren Bruselako Ordezkaritza
+2015,B5000,Nafarroako Gobernuaren Bruselako Ordezkaritza
+2015,C,Nafarroako Kontseilua
+2015,C0,Nafarroako Kontseilua
+2015,C00,Nafarroako Kontseilua
+2015,C000,Nafarroako Kontseilua
+2015,C0000,Nafarroako Kontseilua
 2015,CFNA,Comunidad Foral de Navarra
-2015,D,Consejo Audiovisual de Navarra
-2015,D0,Consejo Audiovisual de Navarra
-2015,D00,Consejo Audiovisual de Navarra
-2015,D000,Consejo Audiovisual de Navarra
-2015,D0000,Consejo Audiovisual de Navarra
-2015,ONV,Ceges no válidos
+2015,D,Nafarroako Ikus-entzunezkoen Batzordea
+2015,D0,Nafarroako Ikus-entzunezkoen Batzordea
+2015,D00,Nafarroako Ikus-entzunezkoen Batzordea
+2015,D000,Nafarroako Ikus-entzunezkoen Batzordea
+2015,D0000,Nafarroako Ikus-entzunezkoen Batzordea
+2015,ONV,Kudeaketa-zentro ez baliagarriak
 2015,P,Parlamento de Navarra
-2015,P0,Cámara Legislativa
-2015,P00,Cámara Legislativa
-2015,P000,Cámara Legislativa
-2015,P0000,Cámara Legislativa
-2015,P1,Cámara de Comptos
-2015,P10,Cámara de Comptos
-2015,P100,Cámara de Comptos
-2015,P1000,Cámara de Comptos
-2015,P2,Defensor del Pueblo
-2015,P20,Defensor del Pueblo
-2015,P200,Defensor del Pueblo
-2015,P2000,Defensor del Pueblo
+2015,P0,Ganbara Legegilea
+2015,P00,Ganbara Legegilea
+2015,P000,Ganbara Legegilea
+2015,P0000,Ganbara Legegilea
+2015,P1,Nafarroako Kontuen Ganbera
+2015,P10,Nafarroako Kontuen Ganbera
+2015,P100,Nafarroako Kontuen Ganbera
+2015,P1000,Nafarroako Kontuen Ganbera
+2015,P2,Arartekoa
+2015,P20,Arartekoa
+2015,P200,Arartekoa
+2015,P2000,Arartekoa

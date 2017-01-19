@@ -4,46 +4,46 @@
 2011,0000,"Departamento de Presidencia, Justicia e Interior"
 2011,00000,Presidente del Gobierno
 2011,00001,"Departamento de Presidencia, Justicia e Interior"
-2011,001,Secretaría General Técnica
-2011,0010,Secretaría General Técnica
-2011,00100,Secretaría General Técnica
-2011,0011,Sección de Régimen Jurídico
-2011,00110,Sección de Régimen Jurídico
-2011,0012,Sección de Régimen Interior
-2011,00120,Sección de Régimen Interior
+2011,001,Idazkaritza Tekniko Orokorra
+2011,0010,Idazkaritza Tekniko Orokorra
+2011,00100,Idazkaritza Tekniko Orokorra
+2011,0011,Araubide Juridikoaren Atala
+2011,00110,Araubide Juridikoaren Atala
+2011,0012,Barne Araubideko Atala
+2011,00120,Barne Araubideko Atala
 2011,00121,Negociado de Gestión Administrativa y de Personal
-2011,0013,Sección Económica
-2011,00130,Sección Económica
-2011,00131,Negociado de Gestión Económica y Contable
-2011,00132,Negociado de Gestión Económica y Contable de Interior
-2011,00133,Negociado de Gestión Económica y Contable de Justicia
-2011,0014,Sección de Asistencia Administrativa
-2011,00140,Sección de Asistencia Administrativa
+2011,0013,Ekonomia Atala
+2011,00130,Ekonomia Atala
+2011,00131,Ekonomiaren eta Kontabilitatearen Kudeaketa Bulegoa
+2011,00132,Barne Zuzendaritza Nagusiko Ekonomiaren eta Kontabilitatearen Kudeaketa Bulegoa
+2011,00133,Justizia Zuzendaritza Nagusiko Ekonomiaren eta Kontabilitatearen Kudeaketa Bulegoa
+2011,0014,Administrazio Laguntzako Atala
+2011,00140,Administrazio Laguntzako Atala
 2011,00141,Negociado de Régimen Administrativo
 2011,01,Dirección General de Presidencia
 2011,010,Dirección General de Presidencia
 2011,0100,Dirección General de Presidencia
 2011,01000,Dirección General de Presidencia
-2011,011,Servicio de Asesoría Jurídica
-2011,0110,Servicio de Asesoría Jurídica
-2011,01100,Servicio de Asesoría Jurídica
-2011,0111,Sección de Gestión Administrativa
-2011,01110,Sección de Gestión Administrativa
-2011,0112,Sección de Asuntos Civiles
-2011,01120,Sección de Asuntos Civiles
-2011,0113,Sección de lo Contencioso-Administrativo
+2011,011,Aholkularitza Juridikoaren Zerbitzua
+2011,0110,Aholkularitza Juridikoaren Zerbitzua
+2011,01100,Aholkularitza Juridikoaren Zerbitzua
+2011,0111,Kudeaketa Administratiboaren Atala
+2011,01110,Kudeaketa Administratiboaren Atala
+2011,0112,Gai Zibilen Atala
+2011,01120,Gai Zibilen Atala
+2011,0113,Administrazioarekiko Auzien Atala
 2011,01130,Sección de lo Contencioso Administrativo
-2011,0114,Sección de Asuntos Laborales
-2011,01140,Sección de Asuntos Laborales
-2011,0116,Sección de Asuntos Penales
-2011,01160,Sección de Asuntos Penales
-2011,0117,Sección de Asuntos Tributarios
-2011,01170,Sección de Asuntos Tributarios
+2011,0114,Afera Zibilen Atala
+2011,01140,Afera Zibilen Atala
+2011,0116,Afera Penalen Atala
+2011,01160,Afera Penalen Atala
+2011,0117,Zerga Aferen Atala
+2011,01170,Zerga Aferen Atala
 2011,012,Servicio de Acción Legislativa y Coordinación
 2011,0120,Servicio de Acción Legislativa y Coordinación
 2011,01200,Servicio de Acción Legislativa y Coordinación
-2011,0121,Sección de Desarrollo Legislativo y Coordinación
-2011,01210,Sección de Desarrollo Legislativo y Coordinación
+2011,0121,Legeen Garapenerako eta Koordinaziorako Atala
+2011,01210,Legeen Garapenerako eta Koordinaziorako Atala
 2011,01211,"Negociado de Asociaciones, Fundaciones y Colegios Profesionales"
 2011,013,Servicio de Secretariado del Gobierno
 2011,0130,Servicio de Secretariado del Gobierno
@@ -51,29 +51,29 @@
 2011,01301,Negociado de Gestión Administrativa del Secretariado de Gobierno
 2011,01302,Negociado de Información al Público y Registro
 2011,01303,Negociado de Cartería
-2011,015,Servicio del Boletín Oficial de Navarra
-2011,0150,Servicio del Boletín Oficial de Navarra
-2011,01500,Servicio del Boletín Oficial de Navarra
-2011,0151,Sección de Gestión del Boletín Oficial de Navarra
-2011,01510,Sección de Gestión del Boletín Oficial de Navarra
-2011,01511,Negociado de Gestión Económica
+2011,015,Nafarroako Aldizkari Ofizialaren Atala
+2011,0150,Nafarroako Aldizkari Ofizialaren Atala
+2011,01500,Nafarroako Aldizkari Ofizialaren Atala
+2011,0151,Nafarroako Aldizkari Ofizialaren Zerbitzua
+2011,01510,Nafarroako Aldizkari Ofizialaren Zerbitzua
+2011,01511,Kudeaketa Ekonomikorako Bulegoa
 2011,01512,Negociado de Calidad y Control
-2011,0152,Sección de Traducción
-2011,01520,Sección de Traducción
+2011,0152,Itzulpenen Atala
+2011,01520,Itzulpenen Atala
 2011,0153,Sección de Producción y Distribución
 2011,01530,Sección de Producción y Distribución
 2011,017,Servicio de Oficina de tramitación de actividades económicas para la  puesta en marcha de actividades empresariales o profesionales
 2011,0170,Servicio de Oficina de tramitación de actividades económicas para la  puesta en marcha de actividades empresariales o profesionales
 2011,01700,Servicio de Oficina de tramitación de actividades económicas para la  puesta en marcha de actividades empresariales o profesionales
-2011,02,Dirección General de Interior
-2011,020,Dirección General de Interior
-2011,0200,Dirección General de Interior
-2011,02000,Dirección General de Interior
-2011,021,Cuerpo de Policía Foral
-2011,0210,Cuerpo de Policía Foral
-2011,02100,Cuerpo de Policía Foral
-2011,0212,Area de Inspección General
-2011,02120,Area de Inspección General
+2011,02,Barne Zuzendaritza Nagusia
+2011,020,Barne Zuzendaritza Nagusia
+2011,0200,Barne Zuzendaritza Nagusia
+2011,02000,Barne Zuzendaritza Nagusia
+2011,021,Foruzaingoa
+2011,0210,Foruzaingoa
+2011,02100,Foruzaingoa
+2011,0212,Ikuskapen Orokorraren Arloa
+2011,02120,Ikuskapen Orokorraren Arloa
 2011,02121,División General Técnica
 2011,02122,División de Régimen Interno
 2011,02123,Comisaría de Tudela
@@ -83,44 +83,44 @@
 2011,02127,Comisaría de Elizondo
 2011,02128,Comisaría de Estella
 2011,02129,Comisaría de Altsasu/Alsasua
-2011,0212A,División de Comunicación y Enlace Operativo
-2011,0213,Area de Tráfico y Seguridad Vial
-2011,02130,Area de Tráfico y Seguridad Vial
+2011,0212A,Komunikazioaren eta Bitartekaritza Operatiboaren Saila
+2011,0213,Zirkulazioaren eta Bide Segurtasunaren Arloa
+2011,02130,Zirkulazioaren eta Bide Segurtasunaren Arloa
 2011,02131,División de Seguridad Vial
 2011,02132,División de Atestados e Investigación
 2011,0217,Area de Seguridad Interior y Policía Administrativa
 2011,02170,Area de Seguridad Interior y Policía Administrativa
 2011,02174,División de Seguridad Interior
 2011,02175,División de Policía Administrativa
-2011,0218,Area de Seguridad Ciudadana
-2011,02180,Area de Seguridad Ciudadana
+2011,0218,Herri Segurtasunaren Arloa
+2011,02180,Herri Segurtasunaren Arloa
 2011,02181,División de Prevención y Atención Ciudadana
 2011,02182,División de Protección de Autoridades
 2011,02183,División de Intervención
-2011,0219,Area de Investigación Criminal
-2011,02190,Area de Investigación Criminal
+2011,0219,Krimen Ikerketen Arloa
+2011,02190,Krimen Ikerketen Arloa
 2011,02191,División de Policía Judicial
 2011,02192,División de Policía Científica
 2011,02193,División de Información
-2011,024,Servicio de Régimen Jurídico y de Personal
-2011,0240,Servicio de Régimen Jurídico y de Personal
-2011,02400,Servicio de Régimen Jurídico y de Personal
-2011,0241,Sección de Régimen Jurídico
-2011,02411,Sección de Régimen Jurídico
-2011,0245,Sección de Recursos Humanos
-2011,02450,Sección de Recursos Humanos
-2011,027,Agencia Navarra de Emergencias
-2011,0270,Agencia Navarra de Emergencias
-2011,02700,Agencia Navarra de Emergencias
-2011,0271,Dirección de Protección Civil
-2011,02710,Dirección de Protección Civil
+2011,024,Araubide Juridikoaren eta Langileriaren Zerbitzua
+2011,0240,Araubide Juridikoaren eta Langileriaren Zerbitzua
+2011,02400,Araubide Juridikoaren eta Langileriaren Zerbitzua
+2011,0241,Araubide Juridikoaren Atala
+2011,02411,Araubide Juridikoaren Atala
+2011,0245,Giza baliabideen Atala
+2011,02450,Giza baliabideen Atala
+2011,027,Larrialdien Nafarroako Agentzia
+2011,0270,Larrialdien Nafarroako Agentzia
+2011,02700,Larrialdien Nafarroako Agentzia
+2011,0271,Babes Zibileko Zuzendaritza
+2011,02710,Babes Zibileko Zuzendaritza
 2011,02711,Área de Planificación
 2011,02712,Área de SOS Navarra
 2011,02713,Área de Coordinación y Dirección de Emergencias
 2011,02714,"Área Técnica de Prevención, Información y Formación de Emergencias"
 2011,02715,Área Técnica de Apoyo
-2011,0272,"Dirección de Prevención, Extinción de Incendios y Salvamento"
-2011,02720,"Dirección de Prevención, Extinción de Incendios y Salvamento"
+2011,0272,"Prebentziorako, Suteak Itzaltzeko eta Salbamendurako Zuzendaritza"
+2011,02720,"Prebentziorako, Suteak Itzaltzeko eta Salbamendurako Zuzendaritza"
 2011,02721,Área de Intervención Operativa y de Parques
 2011,02722,"Área de Campañas, Grupos de Rescate y Especiales"
 2011,02723,Área de Mando y Apoyo
@@ -135,24 +135,24 @@
 2011,02820,Sección de Coordinación de Policías Locales y Sistemas de seguridad
 2011,0283,"Sección de Sistemas, Dotaciones e Infraestructuras"
 2011,02830,"Sección de Sistemas, Dotaciones e Infraestructuras"
-2011,029,Servicio de Desarrollo de las Políticas de Seguridad
-2011,0290,Servicio de Desarrollo de las Políticas de Seguridad
-2011,02900,Servicio de Desarrollo de las Políticas de Seguridad
+2011,029, Segurtasun Politikak Garatzeko Zerbitzua
+2011,0290, Segurtasun Politikak Garatzeko Zerbitzua
+2011,02900, Segurtasun Politikak Garatzeko Zerbitzua
 2011,0291,"Sección de Juego, Espectáculos Públicos y Actividades Recreativas"
 2011,02910,"Sección de Juego, Espectáculos Públicos y Actividades Recreativas"
-2011,0292,Sección de Tráfico y Seguridad Vial
-2011,02920,Sección de Tráfico y Seguridad Vial
+2011,0292,Zirkulazioaren eta Bide Segurtasunaren Atala
+2011,02920,Zirkulazioaren eta Bide Segurtasunaren Atala
 2011,0293,Sección de Parque Móvil
 2011,02930,Sección de Parque Móvil
-2011,03,Instituto Navarro de Administración Pública
-2011,030,Instituto Navarro de Administración Pública
-2011,0300,Instituto Navarro de Administración Pública
-2011,03000,Instituto Navarro de Administración Pública
+2011,03,Nafarroako Administrazio Publikoaren Institutua
+2011,030,Nafarroako Administrazio Publikoaren Institutua
+2011,0300,Nafarroako Administrazio Publikoaren Institutua
+2011,03000,Nafarroako Administrazio Publikoaren Institutua
 2011,03001,Negociado de Gestión
 2011,03002,Negociado de Servicios Auxiliares
-2011,031,Servicio de Formación
-2011,0310,Servicio de Formación
-2011,03100,Servicio de Formación
+2011,031,Prestakuntza Zerbitzua
+2011,0310,Prestakuntza Zerbitzua
+2011,03100,Prestakuntza Zerbitzua
 2011,03101,Negociado de Cooperación y Relaciones con la Unión Europea
 2011,0311,Sección de Desarrollo y Perfeccionamiento
 2011,03110,Sección de Desarrollo y Perfeccionamiento
@@ -168,8 +168,8 @@
 2011,033,Escuela de Seguridad de Navarra
 2011,0330,Escuela de Seguridad de Navarra
 2011,03300,Escuela de Seguridad de Navarra
-2011,0331,"Sección de Planificación, Desarrollo y Coordinación"
-2011,03310,"Sección de Planificación, Desarrollo y Coordinación"
+2011,0331,"Plangintzaren, Garapenaren eta Koordinazioaren Atala"
+2011,03310,"Plangintzaren, Garapenaren eta Koordinazioaren Atala"
 2011,0332,Sección de Asistencia Jurídica y Administrativa
 2011,03320,Sección de Asistencia Jurídica y Administrativa
 2011,034,Servicio de Vascuence e Idiomas Comunitarios
@@ -192,41 +192,41 @@
 2011,03600,Secretaría General
 2011,0361,Sección de Gestión y Régimen Jurídico
 2011,03610,Sección de Gestión y Régimen Jurídico
-2011,04,Dirección General de Función Pública
-2011,040,Dirección General de Función Pública
-2011,0400,Dirección General de Función Pública
-2011,04000,Dirección General de Función Pública
-2011,041,Servicio de Control de Gasto de Personal y Nóminas
-2011,0410,Servicio de Control de Gasto de Personal y Nóminas
-2011,04100,Servicio de Control de Gasto de Personal y Nóminas
-2011,0412,Sección de Gestión y Control Presupuestario
-2011,04120,Sección de Gestión y Control Presupuestario
-2011,0414,Sección de Nóminas y Seguridad Social
-2011,04140,Sección de Nóminas y Seguridad Social
+2011,04,Funtzio Publikoko Zuzendaritza Nagusia
+2011,040,Funtzio Publikoko Zuzendaritza Nagusia
+2011,0400,Funtzio Publikoko Zuzendaritza Nagusia
+2011,04000,Funtzio Publikoko Zuzendaritza Nagusia
+2011,041,Langileriaren Gastuaren Kontrolaren eta Nominen Zerbitzua
+2011,0410,Langileriaren Gastuaren Kontrolaren eta Nominen Zerbitzua
+2011,04100,Langileriaren Gastuaren Kontrolaren eta Nominen Zerbitzua
+2011,0412,Kudeaketaren eta Aurrekontuaren Kontrolaren Atala
+2011,04120,Kudeaketaren eta Aurrekontuaren Kontrolaren Atala
+2011,0414,Nominen eta Gizarte Segurantzaren Atala
+2011,04140,Nominen eta Gizarte Segurantzaren Atala
 2011,04141,Negociado de Seguridad Social
-2011,0415,Sección de Registro Central de Personal
-2011,04150,Sección de Registro Central de Personal
-2011,042,Servicio de Ordenación y Relaciones Laborales
-2011,0420,Servicio de Ordenación y Relaciones Laborales
-2011,04200,Servicio de Ordenación y Relaciones Laborales
-2011,0421,Sección de Régimen Jurídico
-2011,04210,Sección de Régimen Jurídico
-2011,0422,Sección de Inspección General y Asuntos Sindicales
-2011,04220,Sección de Inspección General y Asuntos Sindicales
-2011,043,Servicio de Prestaciones Sociales
-2011,0430,Servicio de Prestaciones Sociales
-2011,04300,Servicio de Prestaciones Sociales
-2011,0431,Sección de Gestión de Montepíos y Beneficios Sociales
-2011,04310,Sección de Gestión de Montepíos y Beneficios Sociales
+2011,0415,Langileen Erregistro Nagusiaren Atala
+2011,04150,Langileen Erregistro Nagusiaren Atala
+2011,042,Antolamenduko eta Lan Harremanetarako Zerbitzua
+2011,0420,Antolamenduko eta Lan Harremanetarako Zerbitzua
+2011,04200,Antolamenduko eta Lan Harremanetarako Zerbitzua
+2011,0421,Araubide Juridikoaren Atala
+2011,04210,Araubide Juridikoaren Atala
+2011,0422,Ikuskaritza Orokorreko eta Sindikatuen Gaietako Atala
+2011,04220,Ikuskaritza Orokorreko eta Sindikatuen Gaietako Atala
+2011,043,Gizarte Prestazioen Zerbitzua
+2011,0430,Gizarte Prestazioen Zerbitzua
+2011,04300,Gizarte Prestazioen Zerbitzua
+2011,0431,Montepioen eta Mozkin Sozialen Kudeaketako Atala
+2011,04310,Montepioen eta Mozkin Sozialen Kudeaketako Atala
 2011,04311,Negociado de Clases Pasivas
-2011,0432,Sección de Prevención de Riesgos Laborales
-2011,0433,Sección de Asistencia Sanitaria
-2011,04330,Sección de Asistencia Sanitaria
-2011,044,Servicio de Gestión de Personal
-2011,0440,Servicio de Gestión de Personal
-2011,04400,Servicio de Gestión de Personal
-2011,0441,Sección de Promoción y Contratación Temporal
-2011,04410,Sección de Promoción y Contratación Temporal
+2011,0432,Laneko Arriskuen Prebentziorako Atala
+2011,0433,Osasun Laguntzako Atala
+2011,04330,Osasun Laguntzako Atala
+2011,044,Langileriaren Kudeaketako Zerbitzua
+2011,0440,Langileriaren Kudeaketako Zerbitzua
+2011,04400,Langileriaren Kudeaketako Zerbitzua
+2011,0441,Sustapeneko eta Aldi Baterako Kontratazioko Atala
+2011,04410,Sustapeneko eta Aldi Baterako Kontratazioko Atala
 2011,0442,Sección de Provisión y Régimen de Personal
 2011,04420,Sección de Provisión y Régimen de Personal
 2011,05,Dirección General de Modernización y Administración Electrónica
@@ -238,24 +238,24 @@
 2011,051,"Servicio de organización, modernización y de participación y atención ciudadana"
 2011,0510,"Servicio de organización, modernización y de participación y atención ciudadana"
 2011,05100,Servicio de organización y modernización y de atención y participación ciudadana
-2011,0511,Sección de Organización
-2011,05110,Sección de Organización
-2011,0512,Sección de Modernización
-2011,05120,Sección de Modernización
-2011,052,Servicio de Sistemas de Información Corporativos
-2011,0520,Servicio de Sistemas de Información Corporativos
-2011,05200,Servicio de Sistemas de Información Corporativos
-2011,0521,Sección de Procedimientos Electrónicos
-2011,05210,Sección de Procedimientos Electrónicos
+2011,0511,Antolakuntza Atala
+2011,05110,Antolakuntza Atala
+2011,0512,Modernizazio Atala
+2011,05120,Modernizazio Atala
+2011,052,Informazio Sistema Korporatiboen Zerbitzua
+2011,0520,Informazio Sistema Korporatiboen Zerbitzua
+2011,05200,Informazio Sistema Korporatiboen Zerbitzua
+2011,0521,Prozedura Elektronikoen Atala
+2011,05210,Prozedura Elektronikoen Atala
 2011,0522,Sección de Extranet e Intranet
 2011,05220,Sección de Extranet e Intranet
 2011,0523,Sección de Proyectos Corporativos
 2011,05230,Sección de Proyectos Corporativos
 2011,05231,Negociado de Sistemas de Información Territorial
 2011,05232,Negociado de Sistemas de Información para la Dirección
-2011,053,Servicio de Sistemas de Información Departamentales
-2011,0530,Servicio de Sistemas de Información Departamentales
-2011,05300,Servicio de Sistemas de Información Departamentales
+2011,053,Departamentuetako Informazio Sistemen Zerbitzua
+2011,0530,Departamentuetako Informazio Sistemen Zerbitzua
+2011,05300,Departamentuetako Informazio Sistemen Zerbitzua
 2011,0532,Sección de Proyectos Área de Educación
 2011,05320,Sección de Proyectos Área de Educación
 2011,0533,Sección de Proyectos Área I
@@ -265,27 +265,27 @@
 2011,054,Servicio de Seguridad de los Sistemas de Información
 2011,0540,Servicio de Seguridad de los Sistemas de Información
 2011,05400,Servicio de Seguridad de los Sistemas de Información
-2011,055,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
-2011,0550,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
-2011,05500,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
-2011,0551,Sección de Infraestructuras Tecnológicas
-2011,05510,Sección de Infraestructuras Tecnológicas
+2011,055,Azpiegitura Teknologikoen eta Euskarri Zentroaren Zerbitzua
+2011,0550,Azpiegitura Teknologikoen eta Euskarri Zentroaren Zerbitzua
+2011,05500,Azpiegitura Teknologikoen eta Euskarri Zentroaren Zerbitzua
+2011,0551,Azpiegitura Teknologikoen Atala
+2011,05510,Azpiegitura Teknologikoen Atala
 2011,05511,Negociado de sistemas
 2011,0552,Sección de Sistemas Telecomunicaciones
-2011,05520,Sección de Sistemas de Telecomunicaciones
-2011,0553,Sección de Producción
-2011,05530,Sección de Producción
+2011,05520,Telekomunikazio Sistemen Atala
+2011,0553,Ekoizpen Atala
+2011,05530,Ekoizpen Atala
 2011,05531,Negociado de Producción
-2011,056,Servicio de Sistemas de Información del Área Sanitaria
-2011,0560,Servicio de Sistemas de Información del Área Sanitaria
-2011,05600,Servicio de Sistemas de Información del Área Sanitaria
+2011,056,Osasun Arloko Informazio Sistemen Zerbitzua
+2011,0560,Osasun Arloko Informazio Sistemen Zerbitzua
+2011,05600,Osasun Arloko Informazio Sistemen Zerbitzua
 2011,05601,Negociado de Atención a Centros Hospitalarios
-2011,0561,Sección de Ordenación Sanitaria
-2011,05610,Sección de Ordenación Sanitaria
-2011,0562,Sección de Historia de Salud Electrónica
-2011,05620,Sección de Historia de Salud Electrónica
-2011,0563,Sección de Sistemas de Información Administrativos de Especializada
-2011,05630,Sección de Sistemas de Información Administrativos de Especializada
+2011,0561,Osasun Antolamenduaren Atala
+2011,05610,Osasun Antolamenduaren Atala
+2011,0562,Osasun Elektronikoaren Historiaren Atala
+2011,05620,Osasun Elektronikoaren Historiaren Atala
+2011,0563,Arreta Espezializatuko Informazio Sistema Administratiboen Atala
+2011,05630,Arreta Espezializatuko Informazio Sistema Administratiboen Atala
 2011,06,Dirección General de Justicia
 2011,060,Dirección General de Justicia
 2011,0600,Dirección General de Justicia
@@ -293,36 +293,36 @@
 2011,061,Servicio Jurídico Administrativo de Justicia
 2011,0610,Servicio Jurídico Administrativo de Justicia
 2011,06100,Servicio Jurídico Administrativo de Justicia
-2011,0612,Sección de Régimen Jurídico y de Personal
-2011,06120,Sección de Régimen Jurídico y de Personal
+2011,0612,Araubide Juridikoaren eta Langileriaren Atala
+2011,06120,Araubide Juridikoaren eta Langileriaren Atala
 2011,06121,Negociado de Personal de Justicia
 2011,062,Servicio de Modernización de la Administración de Justicia
 2011,0620,Servicio de Modernización de la Administración de Justicia
 2011,06200,Servicio de Modernización de la Administración de Justicia
 2011,06201,Negociado de Aprovisionamiento
-2011,0621,Sección de Calidad
-2011,06210,Sección de Calidad
-2011,0622,Sección de Bienes
-2011,06220,Sección de Bienes
+2011,0621,Kalitatearen Atala
+2011,06210,Kalitatearen Atala
+2011,0622,Ondasun Atala
+2011,06220,Ondasun Atala
 2011,06222,Negociado de Servicios Generales de la Administración de Justicia
-2011,063,Servicio Social de Justicia
-2011,0630,Servicio Social de Justicia
-2011,06300,Servicio Social de Justicia
+2011,063,Justiziako Gizarte Zerbitzua
+2011,0630,Justiziako Gizarte Zerbitzua
+2011,06300,Justiziako Gizarte Zerbitzua
 2011,06302,Negociado de Asistencia y Gestión Administrativa
 2011,0631,Sección de Asistencia a las Víctimas del Delito de Navarra
 2011,06310,Sección de Asistencia a las Víctimas del Delito de Navarra
 2011,0632,Sección de Cooperación y Apoyo Técnico a los Órganos Judiciales
 2011,06320,Sección de Cooperación y Apoyo Técnico a los Órganos Judiciales
 2011,06321,Negociado de Apoyo a la Reinserción Social
-2011,064,Tribunal Administrativo de Navarra
-2011,0640,Tribunal Administrativo de Navarra
-2011,06400,Tribunal Administrativo de Navarra
-2011,0641,Sección 1ª
-2011,06410,Sección 1ª
-2011,0642,Sección 2ª
-2011,06420,Sección 2ª
-2011,0643,Sección 3ª
-2011,06430,Sección 3ª
+2011,064,Nafarroako Administrazio Auzitegia
+2011,0640,Nafarroako Administrazio Auzitegia
+2011,06400,Nafarroako Administrazio Auzitegia
+2011,0641,1. atala
+2011,06410,1. atala
+2011,0642,2. atala
+2011,06420,2. atala
+2011,0643,3. atala
+2011,06430,3. atala
 2011,0644,Sección de Secretaría del Tribunal Administrativo de Navarra
 2011,06440,Sección de Secretaría del Tribunal Administrativo de Navarra
 2011,06441,Negociado de Registro y Tramitación
@@ -332,50 +332,50 @@
 2011,100,Departamento de Economía y Hacienda
 2011,1000,Departamento de Economía y Hacienda
 2011,10000,Departamento de Economía y Hacienda
-2011,101,Secretaría General Técnica
-2011,1010,Secretaría General Técnica
-2011,10100,Secretaría General Técnica
-2011,1012,Sección de Régimen Administrativo
-2011,10120,Sección de Régimen Administrativo
-2011,1013,Sección de Régimen Jurídico
-2011,10130,Sección de Régimen Jurídico
-2011,10131,Negociado de Mantenimiento
-2011,102,Tribunal Económico Administrativo Foral de Navarra
-2011,1020,Tribunal Económico Administrativo Foral de Navarra
-2011,10200,Tribunal Económico Administrativo Foral de Navarra
+2011,101,Idazkaritza Tekniko Orokorra
+2011,1010,Idazkaritza Tekniko Orokorra
+2011,10100,Idazkaritza Tekniko Orokorra
+2011,1012,Administrazio Araubidearen Atala
+2011,10120,Administrazio Araubidearen Atala
+2011,1013,Araubide Juridikoaren Atala
+2011,10130,Araubide Juridikoaren Atala
+2011,10131,Mantentze Lanen Bulegoa
+2011,102,Nafarroako Foru Auzitegi Ekonomiko Administratiboa
+2011,1020,Nafarroako Foru Auzitegi Ekonomiko Administratiboa
+2011,10200,Nafarroako Foru Auzitegi Ekonomiko Administratiboa
 2011,11,Dirección General de Presupuestos e Intervención
 2011,110,Dirección General de Presupuestos e Intervención
 2011,1100,Dirección General de Presupuestos e Intervención
 2011,11000,Dirección General de Presupuestos e Intervención
-2011,112,Servicio de Intervención General
-2011,1120,Servicio de Intervención General
-2011,11200,Servicio de Intervención General
-2011,1121,Sección de Intervención
-2011,11210,Sección de Intervención
+2011,112,Esku-hartze Orokorreko Zerbitzua
+2011,1120,Esku-hartze Orokorreko Zerbitzua
+2011,11200,Esku-hartze Orokorreko Zerbitzua
+2011,1121,Interbentzio Atala
+2011,11210,Interbentzio Atala
 2011,1122,Sección de Contabilidad
 2011,11220,Sección de Contabilidad
-2011,11221,Negociado de Centro Contable
-2011,11222,Negociado de Producción de Información Contable
+2011,11221,Kontabilitate Zentroko Bulegoa
+2011,11222,Kontabilitateko Informazioa Sortzeko Bulegoa
 2011,11223,Negociado de Difusión de Información Contable
-2011,11224,Negociado de Procedimientos Especiales de Contabilización
-2011,1123,Sección de Auditoría
-2011,11230,Sección de Auditoría
-2011,1124,Sección de Control Financiero de Fondos Estructurales
-2011,11240,Sección de Control Financiero de Fondos Estructurales
-2011,1125,Sección de Control Financiero de las Ayudas del FEAGA-FEADER
-2011,11250,Sección de Control Financiero de las Ayudas del FEAGA-FEADER
-2011,1126,Sección de Sistemas de Gestión y Control
-2011,11260,Sección de Sistemas de Gestión y Control
-2011,114,Servicio de Presupuestos y Política Financiera
-2011,1140,Servicio de Presupuestos y Política Financiera
-2011,11400,Servicio de Presupuestos y Política Financiera
-2011,1141,Sección de Presupuestos
-2011,11410,Sección de Presupuestos
-2011,1142,Sección de Tesorería
-2011,11420,Sección de Tesorería
-2011,11421,Negociado de Cobros y Pagos
-2011,1143,Sección de Política Financiera
-2011,11430,Sección de Política Financiera
+2011,11224,Kontabilizazioko Prozedura Berezien Bulegoa
+2011,1123,Auditoretza Atala
+2011,11230,Auditoretza Atala
+2011,1124,Egitura Funtsen Finantza Kontroleko Atala
+2011,11240,Egitura Funtsen Finantza Kontroleko Atala
+2011,1125,FEAGA-LGENF  Laguntze Finantza Kontroleko Atala
+2011,11250,FEAGA-LGENF  Laguntze Finantza Kontroleko Atala
+2011,1126,Kudeaketa eta Kontroleko Sistemen Atala
+2011,11260,Kudeaketa eta Kontroleko Sistemen Atala
+2011,114,Aurrekontuen eta Finantza Politikaren Zerbitzua
+2011,1140,Aurrekontuen eta Finantza Politikaren Zerbitzua
+2011,11400,Aurrekontuen eta Finantza Politikaren Zerbitzua
+2011,1141,Aurrekontuen Atala
+2011,11410,Aurrekontuen Atala
+2011,1142,Diruzaintza Atala
+2011,11420,Diruzaintza Atala
+2011,11421,Kobrantza eta Ordainketen Bulegoa
+2011,1143,Finantza Politikako Atala
+2011,11430,Finantza Politikako Atala
 2011,13,Dirección General de Desarrollo Internacional
 2011,130,Dirección General de Desarrollo Internacional
 2011,1300,Dirección General de Desarrollo Internacional
@@ -385,7 +385,7 @@
 2011,13100,Servicio de Acción Europea
 2011,1311,Sección de Programas
 2011,13110,Sección de Programas
-2011,13111,Negociado de Control de Fondos
+2011,13111,Funts Kontrolen Bulegoa
 2011,1312,Sección de Procedimientos y Convocatorias
 2011,13120,Sección de Procedimientos y Convocatorias
 2011,1313,Sección de Información y Documentación
@@ -399,25 +399,25 @@
 2011,150,Dirección General de Patrimonio
 2011,1500,Dirección General de Patrimonio
 2011,15000,Dirección General de Patrimonio
-2011,151,Servicio de Patrimonio
-2011,1510,Servicio de Patrimonio
-2011,15100,Servicio de Patrimonio
+2011,151,Ondare Zerbitzua
+2011,1510,Ondare Zerbitzua
+2011,15100,Ondare Zerbitzua
 2011,1511,Sección de Gestión del Patrimonio
 2011,15110,Sección de Gestión del Patrimonio
-2011,15112,Negociado de Inventario General
+2011,15112,Inbentario Orokorreko Bulegoa
 2011,15114,Negociado de Gestión Técnica del Patrimonio
-2011,15115,Negociado de Planeamiento y Valoraciones
+2011,15115,Plangintza eta Balorazioen Bulegoa
 2011,1512,Sección de Contratación
 2011,15120,Sección de Contratación
-2011,15121,Negociado de Adquisiciones
+2011,15121,Eskuratzeen Bulegoa
 2011,15122,Negociado de Aprovisionamiento
-2011,15124,Negociado de Registros y Seguros
+2011,15124,Erregistro eta Aseguruen Bulegoa
 2011,1513,Sección de Asuntos Económicos
 2011,15130,Sección de Asuntos Económicos
-2011,15132,Negociado de Asuntos Económicos
+2011,15132,Gai Ekonomikoen Bulegoa
 2011,1514,Sección de Obras e Infraestructuras
 2011,15140,Sección de Obras e Infraestructuras
-2011,15144,Negociado de Infraestructuras
+2011,15144,Azpiegituren Bulegoa
 2011,16,Dirección General de Política y Promoción Económica
 2011,160,Dirección General de Política y Promoción Económica
 2011,1600,Dirección General de Política y Promoción Económica
@@ -429,30 +429,30 @@
 2011,16110,Sección de Análisis y Coyuntura Económica
 2011,1612,Sección de Programación Económica
 2011,16120,Sección de Programación Económica
-2011,162,Instituto de Estadística de Navarra
-2011,1620,Instituto de Estadística de Navarra
-2011,16200,Instituto de Estadística de Navarra
-2011,1621,Sección de Producción Estadística
-2011,16210,Sección de Producción Estadística
-2011,1622,Sección de Coordinación y Difusión Estadística
-2011,16220,Sección de Coordinación y Difusión Estadística
+2011,162,Nafarroako Estatistika Institutua
+2011,1620,Nafarroako Estatistika Institutua
+2011,16200,Nafarroako Estatistika Institutua
+2011,1621,Ekoizpen Estatistikoaren Atala
+2011,16210,Ekoizpen Estatistikoaren Atala
+2011,1622,Estatistiken Koordinazio eta Hedapenerako Atala
+2011,16220,Estatistiken Koordinazio eta Hedapenerako Atala
 2011,16222,Negociado de Difusión Estadística
-2011,16223,Negociado de Comunicación
-2011,16224,Negociado de Coordinación del Plan de Estadística de Navarra
-2011,1623,Sección de Infraestructura Estadística
-2011,16230,Sección de Infraestructura Estadística
+2011,16223,Komunikazio Bulegoa
+2011,16224,Nafarroako Estatistika Plana Kudeatzeko Bulegoa
+2011,1623,Azpiegitura Estatistikoaren Atala
+2011,16230,Azpiegitura Estatistikoaren Atala
 2011,17,"Organismo Autónomo ""Hacienda Tributaria de Navarra"""
 2011,170,"Organismo Autónomo ""Hacienda Tributaria de Navarra"""
 2011,1700,"Organismo Autónomo ""Hacienda Tributaria de Navarra"""
 2011,17000,"Organismo Autónomo ""Hacienda Tributaria de Navarra"""
-2011,17001,Sección de Administración
+2011,17001,Administrazio Atala
 2011,17002,Sección de Análisis Financiero y Tributario
-2011,1703,Servicio de Sistemas de Información Tributaria
-2011,17030,Servicio de Sistemas de Información Tributaria
-2011,17031,Sección de Coordinación Informática
+2011,1703,Zerga Informazioko Sistemen Zerbitzua
+2011,17030,Zerga Informazioko Sistemen Zerbitzua
+2011,17031,Koordinazio Informatikoaren Atala
 2011,17032,Sección de Análisis de la Información
-2011,17033,Sección de Identificación y Modelos Informativos
-2011,17034,Sección de Seguridad e Innovación
+2011,17033,Identifikazioaren eta Eredu Informatiboen Atala
+2011,17034,Segurtasun eta Berrikuntza Atala
 2011,1704,Servicio de Desarrollo Normativo y Fiscalidad
 2011,17040,Servicio de Desarrollo Normativo y Fiscalidad
 2011,17041,Sección de Fiscalidad
@@ -465,56 +465,56 @@
 2011,1711,"Servicio de Tributos Directos, Sanciones y Requerimientos"
 2011,17110,"Servicio de Tributos Directos, Sanciones y Requerimientos"
 2011,17112,Sección de Impuestos sobre Sociedades y sobre la Renta de No Residentes
-2011,17113,Sección de Sanciones y Requerimientos
+2011,17113,Zehapen eta Errekerimendu Atala
 2011,17114,Sección de Oficina Técnica y Planificación
 2011,17115,"Sección de Impuestos sobre Sucesiones y Donaciones, Transmisiones Patrimoniales y Actos Jurídicos Documentados"
 2011,1712,Servicio de Tributos Indirectos y Grandes Empresas
 2011,17120,Servicio de Tributos Indirectos y Grandes Empresas
 2011,17121,Sección de Grandes Empresas
-2011,17122,Sección de Impuesto sobre el Valor Añadido
+2011,17122,Balio Erantsiaren gaineko Zergaren Atala
 2011,17123,"Sección de Impuestos Especiales, Impuestos sobre las Primas de Seguros y Tasas"
-2011,1713,Servicio de Inspección Tributaria
-2011,17130,Servicio de Inspección Tributaria
-2011,17131,Sección de Oficina Técnica
-2011,1714,Servicio de Recaudación
-2011,17140,Servicio de Recaudación
+2011,1713,Zerga Ikuskaritzako Zerbitzua
+2011,17130,Zerga Ikuskaritzako Zerbitzua
+2011,17131,Bulego Teknikoaren Atala
+2011,1714,Diru-bilketako Zerbitzua
+2011,17140,Diru-bilketako Zerbitzua
 2011,17141,Sección de Aplicación y Control de Recaudación
-2011,17142,Sección de Gestión de Aplazamientos
-2011,17143,Sección de Recaudación Ejecutiva
-2011,17144,Sección de Procedimientos Especiales
+2011,17142,Gerorapenak Kudeatzeko Atala
+2011,17143,Derrigorrezko Diru-bilketaren Atala
+2011,17144,Prozedura Berezien Atala
 2011,172,Dirección de Atención y Servicios al Contibuyente
 2011,1720,Dirección de Atención y Servicios al Contribuyente
 2011,17200,Dirección de Atención y Servicios al Contribuyente
 2011,1721,Servicio de Gestión del Impuesto sobre la Renta de las Personas Físicas
 2011,17210,Servicio de Gestión del Impuesto sobre la Renta de las Personas Físicas
 2011,17218,Sección de Campaña del Impuesto sobre la Renta de las Personas Físicas
-2011,1722,Servicio de Riqueza Territorial
-2011,17220,Servicio de Riqueza Territorial
-2011,17221,Sección de Registro de la Riqueza Territorial
-2011,17222,Sección de Tasación
-2011,1723,Servicio de Asistencia e Información al Contribuyente
-2011,17230,Servicio de Asistencia e Información al Contribuyente
-2011,17231,Sección de Asistencia al Contribuyente
-2011,17232,Sección de Información y Oficinas Territoriales
-2011,17233,Sección de Atención Técnica y Entidades Colaboradoras
+2011,1722,Lurraldearen Aberastasunaren Zerbitzua
+2011,17220,Lurraldearen Aberastasunaren Zerbitzua
+2011,17221,Lurralde Aberastasunaren Erregistroaren Atala
+2011,17222,Tasazio Atala
+2011,1723,Zergadunarentzako Laguntza eta Informazio Zerbitzua
+2011,17230,Zergadunarentzako Laguntza eta Informazio Zerbitzua
+2011,17231,Zergadunari Laguntza Emateko Atala
+2011,17232,Argibideetarako eta Eskualdeko Langelen Atala
+2011,17233,Laguntza Teknikoaren eta Entitate Laguntzaileen Atala
 2011,2,Departamento de Administración Local
 2011,20,Departamento de Administración Local
 2011,200,Departamento de Administración Local
 2011,2000,Departamento de Administración Local
 2011,20000,Departamento de Administración Local
-2011,201,Secretaría General Técnica
-2011,2010,Secretaría General Técnica
-2011,20100,Secretaría General Técnica
-2011,2011,Sección de Régimen Jurídico
-2011,20110,Sección de Régimen Jurídico
-2011,20111,Negociado de Asistencia Jurídica
-2011,2012,Sección de Gestión Administrativa General
-2011,20120,Sección de Gestión Administrativa General
-2011,20121,Negociado de Secretaría y Documentación
+2011,201,Idazkaritza Tekniko Orokorra
+2011,2010,Idazkaritza Tekniko Orokorra
+2011,20100,Idazkaritza Tekniko Orokorra
+2011,2011,Araubide Juridikoaren Atala
+2011,20110,Araubide Juridikoaren Atala
+2011,20111,Laguntza Juridikoko Bulegoa
+2011,2012,Kudeaketa Administratibo Orokorraren Atala
+2011,20120,Kudeaketa Administratibo Orokorraren Atala
+2011,20121,Idazkaritza eta Dokumentazio Bulegoa
 2011,21,Dirección General Administración Local
-2011,210,Dirección General de Administración Local
-2011,2100,Dirección General de Administración Local
-2011,21000,Dirección General de Administración Local
+2011,210,Toki Administrazioko Zuzendaritza Nagusia
+2011,2100,Toki Administrazioko Zuzendaritza Nagusia
+2011,21000,Toki Administrazioko Zuzendaritza Nagusia
 2011,211,Servicio de Asesoramiento y Cooperación con las entidades locales
 2011,2110,Servicio de Asesoramiento y Cooperación con las entidades locales
 2011,21100,Servicio de Asesoramiento y Cooperación con las entidades locales
@@ -522,34 +522,34 @@
 2011,21110,Sección de Cooperación Local
 2011,2113,Sección de Asesoramiento
 2011,21130,Sección de Asesoramiento
-2011,212,Servicio de Gestión y Cooperación Económica
-2011,2120,Servicio de Gestión y Cooperación Económica
-2011,21200,Servicio de Gestión y Cooperación Económica
-2011,2121,Sección de Gestión Económica y Presupuestaria
-2011,21210,Sección de Gestión Económica y Presupuestaria
+2011,212,Kudeaketa eta Lankidetza Ekonomikorako Zerbitzua
+2011,2120,Kudeaketa eta Lankidetza Ekonomikorako Zerbitzua
+2011,21200,Kudeaketa eta Lankidetza Ekonomikorako Zerbitzua
+2011,2121,Ekonomia eta Aurrekontuak Kudeatzeko Atala
+2011,21210,Ekonomia eta Aurrekontuak Kudeatzeko Atala
 2011,21211,Negociado de Régimen Económico
-2011,2122,Sección de Asesoramiento y Cooperación Económica
-2011,21220,Sección de Asesoramiento y Cooperación Económica
-2011,2123,Sección de Estudios y Análisis Económico
-2011,21230,Sección de Estudios y Análisis Económico
+2011,2122,Aholkularitza eta Lankidetza Ekonomikoaren Atala
+2011,21220,Aholkularitza eta Lankidetza Ekonomikoaren Atala
+2011,2123,Azterlan eta Analisi Ekonomikoen Atala
+2011,21230,Azterlan eta Analisi Ekonomikoen Atala
 2011,2124,Sección de Gestión de Asuntos Económicos de las Entidades Locales
 2011,21240,Sección de Gestión de Asuntos Económicos de las Entidades Locales
-2011,213,Servicio de Infraestructuras Locales
-2011,2130,Servicio de Infraestructuras Locales
-2011,21300,Servicio de Infraestructuras Locales
+2011,213,Tokiko Azpiegituren Zerbitzua
+2011,2130,Tokiko Azpiegituren Zerbitzua
+2011,21300,Tokiko Azpiegituren Zerbitzua
 2011,2131,Sección de Planificación y Estudios
 2011,21310,Sección de Planificación y Estudios
-2011,21311,Negociado de Estudios y Proyectos
+2011,21311,Azterlan eta Proiektu Bulegoa
 2011,2132,Sección de Gestión de Infraestructuras Locales
 2011,21320,Sección de Gestión de Infraestructuras Locales
-2011,21321,Negociado de Infraestructuras Hidráulico-Sanitarias
-2011,21323,Negociado de Obras Urbanas
-2011,2133,Sección de Cooperación Técnica de Infraestructuras
-2011,21330,Sección de Cooperación Técnica de Infraestructuras
+2011,21321,Azpiegitura Hidrauliko Sanitarioen Bulegoa
+2011,21323,Hiriko Obren Bulegoa
+2011,2133,Azpiegituren arloko Lankidetza Teknikorako Atala
+2011,21330,Azpiegituren arloko Lankidetza Teknikorako Atala
 2011,21331,Negociado de Infraestructuras Locales
-2011,214,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
-2011,2140,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
-2011,21400,Servicio de Ordenación de los Servicios Municipales y de la Función Pública Local
+2011,214,Udal Zerbitzuak eta Tokiko Funtzio Publikoa Antolatzeko Zerbitzua
+2011,2140,Udal Zerbitzuak eta Tokiko Funtzio Publikoa Antolatzeko Zerbitzua
+2011,21400,Udal Zerbitzuak eta Tokiko Funtzio Publikoa Antolatzeko Zerbitzua
 2011,2141,Sección de Ordenación de los Servicios Municipales
 2011,21410,Sección de Ordenación de los Servicios Municipales
 2011,2142,Sección de Ordenación y Apoyo a la Función Pública Local
@@ -568,24 +568,24 @@
 2011,300,Departamento de Vivienda y Ordenación del Territorio
 2011,3000,Departamento de Vivienda y Ordenación del Territorio
 2011,30000,Departamento de Vivienda y Ordenación del Territorio
-2011,301,Secretaría General Técnica
-2011,3010,Secretaría General Técnica
-2011,30100,Secretaría General Técnica
-2011,30103,Negociado de Gestión Administrativa
+2011,301,Idazkaritza Tekniko Orokorra
+2011,3010,Idazkaritza Tekniko Orokorra
+2011,30100,Idazkaritza Tekniko Orokorra
+2011,30103,Kudeaketa Administratiboaren Bulegoa
 2011,3012,Sección de Control Económico-Administrativo
 2011,30120,Sección de Control Económico-Administrativo
 2011,30121,Negociado de Archivos y Registro
-2011,3013,Sección de Régimen Jurídico de Vivienda
-2011,30130,Sección de Régimen Jurídico de Vivienda
+2011,3013,Etxebizitzaren Araubide Juridikoaren Atala
+2011,30130,Etxebizitzaren Araubide Juridikoaren Atala
 2011,3014,Sección de Régimen Jurídico de Urbanismo
 2011,30140,Sección de Régimen Jurídico de Urbanismo
 2011,32,Dirección General de Vivienda y Ordenación del Territorio
 2011,320,Dirección General de Vivienda y Ordenación del Territorio
 2011,3200,Dirección General de Vivienda y Ordenación del Territorio
 2011,32000,Dirección General de Vivienda y Ordenación del Territorio
-2011,321,Servicio de Ordenación del Territorio y Urbanismo
-2011,3210,Servicio de Ordenación del Territorio y Urbanismo
-2011,32100,Servicio de Ordenación del Territorio y Urbanismo
+2011,321,Lurralde  Antolamenduko eta Hirigintzako Zerbitzua
+2011,3210,Lurralde  Antolamenduko eta Hirigintzako Zerbitzua
+2011,32100,Lurralde  Antolamenduko eta Hirigintzako Zerbitzua
 2011,3211,Sección de Análisis y Planificación Territorial
 2011,32110,Sección de Análisis y Planificación Territorial
 2011,3212,Sección de Planeamiento Urbanístico Municipal
@@ -600,36 +600,36 @@
 2011,3215,Sección de Planificación Estratégica Municipal
 2011,32150,Sección de Planificación Estratégica Municipal
 2011,32151,Negociado de Asistencia Administrativa a la Planificación Territorial
-2011,322,Servicio de Vivienda
-2011,3220,Servicio de Vivienda
-2011,32200,Servicio de Vivienda
-2011,3221,Sección de Edificación
-2011,32210,Sección de Edificación
+2011,322,Etxebizitza Zerbitzua
+2011,3220,Etxebizitza Zerbitzua
+2011,32200,Etxebizitza Zerbitzua
+2011,3221,Eraikuntza Atala
+2011,32210,Eraikuntza Atala
 2011,32212,Negociado de Tramitación de Expedientes en materia de edificación
-2011,3222,Sección de Gestión Económica y Planificación
-2011,32220,Sección de Gestión Económica y Planificación
-2011,32221,Negociado de Financiación de Viviendas
+2011,3222,Kudeaketa Ekonomiko eta Plangintzarako Atala
+2011,32220,Kudeaketa Ekonomiko eta Plangintzarako Atala
+2011,32221,Etxebizitzak Finantzatzeko Bulegoa
 2011,3223,Sección de Suelo Residencial
 2011,32230,Sección de Suelo Residencial
-2011,4,Departamento de Educación
-2011,40,Departamento de Educación
-2011,400,Departamento de Educación
-2011,4000,Departamento de Educación
-2011,40000,Departamento de Educación
-2011,40001,Consejo Escolar de Navarra-Junta Superior de Educación
-2011,401,Secretaría General Técnica
-2011,4010,Secretaría General Técnica
-2011,40100,Secretaría General Técnica
-2011,40101,Negociado de Asuntos Administrativos
-2011,4011,Sección de Régimen Administrativo
-2011,40110,Sección de Régimen Administrativo
-2011,40112,Negociado de Registro
-2011,40113,Negociado de Información y Documentación
-2011,4012,Sección de Presupuestos y Gestión Económica
-2011,40120,Sección de Presupuestos y Gestión Económica
-2011,40122,Negociado de Gestión Económica
-2011,4013,Sección de Régimen Jurídico
-2011,40130,Sección de Régimen Jurídico
+2011,4,Hezkuntza Departamentua
+2011,40,Hezkuntza Departamentua
+2011,400,Hezkuntza Departamentua
+2011,4000,Hezkuntza Departamentua
+2011,40000,Hezkuntza Departamentua
+2011,40001,Nafarroako Eskola Kontseilua - Hezkuntzako Batzorde Nagusia
+2011,401,Idazkaritza Tekniko Orokorra
+2011,4010,Idazkaritza Tekniko Orokorra
+2011,40100,Idazkaritza Tekniko Orokorra
+2011,40101,Administrazio Aferetarako Bulegoa
+2011,4011,Administrazio Araubidearen Atala
+2011,40110,Administrazio Araubidearen Atala
+2011,40112,Erregistro Bulegoa
+2011,40113,Argibide eta Agiri Bulegoa
+2011,4012,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2011,40120,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2011,40122,Kudeaketa Ekonomikorako Bulegoa
+2011,4013,Araubide Juridikoaren Atala
+2011,40130,Araubide Juridikoaren Atala
 2011,4014,Sección de Gestión Jurídico-Administrativa
 2011,40140,Sección de Gestión Jurídico-Administrativa
 2011,4015,Sección de Coordinación y Gestión del Cambio
@@ -638,8 +638,8 @@
 2011,410,Dirección General de Inspección y Servicios
 2011,4100,Dirección General de Inspección y Servicios
 2011,41000,Dirección General de Inspección y Servicios
-2011,4101,Sección de Prevención de Riesgos Laborales
-2011,41010,Sección de Prevención de Riesgos Laborales
+2011,4101,Laneko Arriskuen Prebentziorako Atala
+2011,41010,Laneko Arriskuen Prebentziorako Atala
 2011,411,Servicio de Centros y Ayudas al Estudio
 2011,4110,Servicio de Centros y Ayudas al Estudio
 2011,41100,Servicio de Centros y Ayudas al Estudio
@@ -648,52 +648,52 @@
 2011,41143,Negociado de Financiación de Centros Públicos
 2011,4115,Sección de Ayudas al Estudio
 2011,41150,Sección de Ayudas al Estudio
-2011,41151,Negociado de Becas
-2011,41152,Negociado de Servicios Complementarios
-2011,413,Servicio de Inspección Educativa
-2011,4130,Servicio de Inspección Educativa
-2011,41300,Servicio de Inspección Educativa
-2011,41301,Negociado de Control Administrativo y Archivo
-2011,41303,Negociado de Escolarización
-2011,4131,Sección de Evaluación
-2011,41310,Sección de Evaluación
-2011,417,Servicio de Recursos Humanos
-2011,4170,Servicio de Recursos Humanos
-2011,41700,Servicio de Recursos Humanos
-2011,4171,Sección de Régimen Jurídico de Personal
-2011,41710,Sección de Régimen Jurídico de Personal
-2011,41711,Negociado de Control Administrativo
+2011,41151,Beka Bulegoa
+2011,41152,Zerbitzu Osagarrien Bulegoa
+2011,413,Hezkuntza Ikuskaritzako Zerbitzua
+2011,4130,Hezkuntza Ikuskaritzako Zerbitzua
+2011,41300,Hezkuntza Ikuskaritzako Zerbitzua
+2011,41301,Kontrol Administratiboaren eta Artxiboaren Bulegoa
+2011,41303,Eskolatze Bulegoa
+2011,4131,Ebaluazio Atala
+2011,41310,Ebaluazio Atala
+2011,417,Giza Baliabideen Zerbitzua
+2011,4170,Giza Baliabideen Zerbitzua
+2011,41700,Giza Baliabideen Zerbitzua
+2011,4171,Langileriaren Araubide Juridikoaren Atala
+2011,41710,Langileriaren Araubide Juridikoaren Atala
+2011,41711,Kontrol Administratiboaren Bulegoa
 2011,4172,Sección de Gestión de Personal
 2011,41720,Sección de Gestión de Personal
 2011,41721,Negociado de Profesorado de Educación Infantil y Primaria
 2011,41722,Negociado de Profesorado de Educación Secundaria
 2011,41723,Negociado de Contratación Temporal y Personal No Docente
-2011,41724,Negociado Técnico Administrativo de Personal
+2011,41724,Langileen Afera Tekniko Administratiboen Bulegoa
 2011,41725,Negociado de Control Presupuestario y de Plantilla de Personal
-2011,4175,Sección de Planificación
-2011,41750,Sección de Planificación
+2011,4175,Plangintza Atala
+2011,41750,Plangintza Atala
 2011,418,Servicio de Obras y Mantenimiento
 2011,4180,Servicio de Obras y Mantenimiento
 2011,41800,Servicio de Obras y Mantenimiento
-2011,41801,Negociado de Contratación
+2011,41801,Kontratazio Bulegoa
 2011,41802,Negociado de Gestión Administrativa y Económica
-2011,4181,Sección de Obras
-2011,41810,Sección de Obras
-2011,4182,Sección de Mantenimiento de Centros y Dependencias del Departamento de Educación
-2011,41820,Sección de Mantenimiento de Centros y Dependencias del Departamento de Educación
-2011,41821,Negociado de Mantenimiento
-2011,41822,Negociado de Adquisiciones
+2011,4181,Obren Atala
+2011,41810,Obren Atala
+2011,4182,Hezkuntza Departamentuko Egoitzen eta Ikastetxeen Mantentze Lanetarako Atala
+2011,41820,Hezkuntza Departamentuko Egoitzen eta Ikastetxeen Mantentze Lanetarako Atala
+2011,41821,Mantentze Lanen Bulegoa
+2011,41822,Eskuratzeen Bulegoa
 2011,419,Servicio de Nóminas y Control Presupuestario
 2011,4190,Servicio de Nóminas y Control Presupuestario
 2011,41900,Servicio de Nóminas y Control Presupuestario
-2011,4191,Sección de Estudios Económicos
-2011,41910,Sección de Estudios Económicos
-2011,4192,Sección de Nóminas y Seguros Sociales
-2011,41920,Sección de Nóminas y Seguros Sociales
+2011,4191, Azterlan Ekonomikoen Atala
+2011,41910, Azterlan Ekonomikoen Atala
+2011,4192,Nominen eta Gizarte Aseguruen Atala
+2011,41920,Nominen eta Gizarte Aseguruen Atala
 2011,41921,Negociado de Nóminas de Personal Docente Funcionario
 2011,41922,Negociado de Nóminas de Personal Laboral y de Administración
-2011,41923,Negociado de Seguros Sociales
-2011,41924,Negociado de Nóminas de Centros Concertados y Subvencionados
+2011,41923,Gizarte Aseguruen Bulegoa
+2011,41924,Itunpeko eta Diruz Lagundutako Ikastetxeetako Nominen Bulegoa
 2011,42,"Dirección General de Ordenacion, Calidad e Innovación"
 2011,420,"Dirección General de Ordenación, Calidad e Innovación"
 2011,4200,"Dirección General de Ordenación, Calidad e Innovación"
@@ -703,8 +703,8 @@
 2011,42100,Servicio de Ordenación Académica
 2011,4211,Sección de Ordenación y Títulos
 2011,42110,Sección de Ordenación y Títulos
-2011,42111,Negociado de Ordenación
-2011,42112,Negociado de Títulos y Convalidaciones
+2011,42111,Antolamendu Bulegoa
+2011,42112,Titulu eta Baliozkotze Bulegoa
 2011,4213,Sección de Educación de Personas Adultas
 2011,42130,Sección de Educación de Personas Adultas
 2011,4214,Sección de Primer Ciclo de Educación Infantil
@@ -715,8 +715,8 @@
 2011,4221,Sección de Necesidades Educativas Especiales
 2011,42210,Sección de Necesidades Educativas Especiales
 2011,42211,Negociado de Programas Específicos
-2011,4222,Sección de Orientación
-2011,42220,Sección de Orientación
+2011,4222,Orientazio Atala
+2011,42220,Orientazio Atala
 2011,4223,Sección de Multiculturalidad
 2011,42230,Sección de Multiculturalidad
 2011,42231,"Negociado de Multiculturalidad, e Integración Socioeducativa"
@@ -731,7 +731,7 @@
 2011,42340,Sección de Tecnologías de la Información y la Comunicación
 2011,42341,Negociado de Integración Curricular de las Tecnologías de la Información y la Comunicación
 2011,42342,Negociado de Gestión de la Información Escolar
-2011,42343,Negociado de Sistemas y Redes Educativas
+2011,42343,Hezkuntzako Sistema eta Sareen Bulegoa
 2011,4235,Sección de Innovación Educativa
 2011,42350,Sección de Innovación Educativa
 2011,42351,Negociado de Programas de Innovación
@@ -745,7 +745,7 @@
 2011,4241,Sección de Vascuence
 2011,42410,Sección de Vascuence
 2011,42411,Negociado de Didáctica de la Lengua Vasca
-2011,42412,Negociado de EGA
+2011,42412,EGAren Bulegoa
 2011,42413,Negociado de Promoción de la Lengua Vasca
 2011,4242,Sección de Lenguas Extranjeras
 2011,42420,Sección de Lenguas Extranjeras
@@ -767,15 +767,15 @@
 2011,43100,Servicio de Enseñanza y Extensión Universitarias e Investigación
 2011,4311,Sección de Enseñanza Superior
 2011,43110,Sección de Enseñanza Superior
-2011,43111,Negociado de Enseñanza Superior
+2011,43111,Goi mailako Irakaskuntzaren Bulegoa
 2011,4312,Sección de Extensión Universitaria
 2011,43120,Sección de Extensión Universitaria
 2011,4313,Sección de Promoción y Fomento de la Ciencia
 2011,43130,Sección de Promoción y Fomento de la Ciencia
-2011,43131,Negociado de Ayudas a la Investigación e Internacionalización
-2011,433,Servicio de Formación Profesional
-2011,4330,Servicio de Formación Profesional
-2011,43300,Servicio de Formación Profesional
+2011,43131,Ikerketarako eta Nazioarteratzeko Laguntzen Bulegoa
+2011,433,Lanbide Heziketako Zerbitzua
+2011,4330,Lanbide Heziketako Zerbitzua
+2011,43300,Lanbide Heziketako Zerbitzua
 2011,4331,Sección de Planificación y Desarrollo de Centros
 2011,43310,Sección de Planificación y Desarrollo de Centros
 2011,43311,Negociado de Programas de Iniciación Profesional
@@ -783,24 +783,24 @@
 2011,43315,Negociado de Formación del Profesorado de Formación Profesional
 2011,4332,Sección de Innovación Tecnológica y Formación Profesional
 2011,43320,Sección de Innovación Tecnológica y Formación Profesional
-2011,43321,Negociado de Innovación de la Formación Profesional
+2011,43321,Lanbide Heziketa Berriztatzeko Bulegoa
 2011,4333,Sección de Formación Profesional y Empresa
 2011,43330,Sección de Formación Profesional y Empresa
 2011,43331,Negociado de Formación en Centros de Trabajo
 2011,43332,Negociado de Formación Continua
-2011,43333,Negociado de Internacionalización de la Formación Profesional
+2011,43333,Lanbide Heziketa Nazioartekotzeko Bulegoa
 2011,4334,Sección de Cualificaciones Profesionales- Instituto Navarro de las Cualificaciones
 2011,43340,Sección de Cualificaciones Profesionales- Instituto Navarro de las Cualificaciones
-2011,44,Euskarabidea/Instituto Navarro del Vascuence
-2011,440,Euskarabidea/Instituto Navarro del Vascuence
-2011,4400,Euskarabidea/Instituto Navarro del Vascuence
-2011,44000,Euskarabidea/Instituto Navarro del Vascuence
-2011,44001,Negociado de Programas
+2011,44,Euskarabidea - Euskararen Nafar Institutua
+2011,440,Euskarabidea - Euskararen Nafar Institutua
+2011,4400,Euskarabidea - Euskararen Nafar Institutua
+2011,44000,Euskarabidea - Euskararen Nafar Institutua
+2011,44001,Programen Bulegoa
 2011,441,Servicio de Desarrollo del Vascuence
 2011,4410,Servicio de Desarrollo del Vascuence
 2011,44100,Servicio de Desarrollo del Vascuence
-2011,4411,Sección de Fomento del Vascuence
-2011,44110,Sección de Fomento del Vascuence
+2011,4411,Euskararen Sustapenerako Atala
+2011,44110,Euskararen Sustapenerako Atala
 2011,442,Servicio de Asesoramiento y Formación del Vascuence
 2011,4420,Servicio de Asesoramiento y Formación del Vascuence
 2011,44200,Servicio de Asesoramiento y Formación del Vascuence
@@ -809,35 +809,35 @@
 2011,44211,Negociado de Traducción
 2011,4423,Sección de Formación del Vascuence
 2011,44230,Sección de Formación del Vascuence
-2011,5,Departamento de Salud
-2011,50,Departamento de Salud
-2011,500,Departamento de Salud
-2011,5000,Departamento de Salud
-2011,50000,Departamento de Salud
-2011,501,Secretaría General Técnica
-2011,5010,Secretaría General Técnica
-2011,50100,Secretaría General Técnica
-2011,5011,Sección de Gestión Económica
-2011,50110,Sección de Gestión Económica
-2011,50111,Negociado de Contabilidad
+2011,5,Osasun Departamentua
+2011,50,Osasun Departamentua
+2011,500,Osasun Departamentua
+2011,5000,Osasun Departamentua
+2011,50000,Osasun Departamentua
+2011,501,Idazkaritza Tekniko Orokorra
+2011,5010,Idazkaritza Tekniko Orokorra
+2011,50100,Idazkaritza Tekniko Orokorra
+2011,5011,Kudeaketa Ekonomikoaren Atala
+2011,50110,Kudeaketa Ekonomikoaren Atala
+2011,50111,Kontabilitate Bulegoa
 2011,5012,Sección de Régimen Jurídico e Inspección
 2011,50120,Sección de Régimen Jurídico e Inspección
-2011,50121,Negociado de Inspección
-2011,50122,Negociado de Asuntos Administrativos
-2011,5013,Sección de Régimen Interior
-2011,50130,Sección de Régimen Interior
-2011,50131,Negociado de Gestión Administrativa
+2011,50121,Ikuskaritza Bulegoa
+2011,50122,Administrazio Aferetarako Bulegoa
+2011,5013,Barne Araubideko Atala
+2011,50130,Barne Araubideko Atala
+2011,50131,Kudeaketa Administratiboaren Bulegoa
 2011,50132,Negociado de Tramitación de Resoluciones y Archivos
-2011,51,Dirección General de Salud
-2011,510,Dirección General de Salud
-2011,5100,Dirección General de Salud
-2011,51000,Dirección General de Salud
+2011,51,Osasuneko Zuzendaritza Nagusia
+2011,510,Osasuneko Zuzendaritza Nagusia
+2011,5100,Osasuneko Zuzendaritza Nagusia
+2011,51000,Osasuneko Zuzendaritza Nagusia
 2011,5101,Sección de Promoción y Difusión
 2011,51010,Sección de Promoción y Difusión
 2011,511,Servicio de Asistencia Sanitaria
 2011,5110,Servicio de Asistencia Sanitaria
 2011,51100,Servicio de Asistencia Sanitaria
-2011,51101,Negociado de Asuntos Administrativos
+2011,51101,Administrazio Aferetarako Bulegoa
 2011,5111,"Sección de Ordenación e Inspección de Centros, Actividades y Prestaciones Sanitarias"
 2011,51110,"Sección de Ordenación e Inspección de Centros, Actividades y Prestaciones Sanitarias"
 2011,5112,Sección de Coordinación de Asociaciones y de Trasplantes de Órganos
@@ -850,11 +850,11 @@
 2011,513,Servicio de Docencia y Desarrollo Sanitarios
 2011,5130,Servicio de Docencia y Desarrollo Sanitarios
 2011,51300,Servicio de Docencia y Desarrollo Sanitarios
-2011,51301,Negociado de Asuntos Administrativos
-2011,51302,Negociado de Asuntos Económicos
+2011,51301,Administrazio Aferetarako Bulegoa
+2011,51302,Gai Ekonomikoen Bulegoa
 2011,5131,Sección de Docencia
 2011,51310,Sección de Docencia
-2011,51311,Negociado de Gestión Administrativa
+2011,51311,Kudeaketa Administratiboaren Bulegoa
 2011,5133,Sección de Planificación y Evaluación
 2011,51330,Sección de Planificación y Evaluación
 2011,51332,Negociado de Planificación
@@ -865,10 +865,10 @@
 2011,514,Agencia Navarra de Salud
 2011,5140,Agencia Navarra de Salud
 2011,51400,Agencia Navarra de Salud
-2011,52,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
-2011,520,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
-2011,5200,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
-2011,52000,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
+2011,52,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
+2011,520,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
+2011,5200,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
+2011,52000,Osasunbidea-Nafarroako Osasun Zerbitzuaren Zuzendaritza Kudeatzailetza
 2011,52001,Servicio de Régimen Jurídico
 2011,521,Dirección de Administración y Organización
 2011,5210,Dirección de Administración y Organización
@@ -884,8 +884,8 @@
 2011,52200,Dirección de Asistencia Especializada
 2011,52201,Dirección de Gestión
 2011,52203,Subdirección de Salud Mental
-2011,52204,Banco de Sangre y Tejidos de Navarra
-2011,52205,Servicio de Prestaciones y Conciertos
+2011,52204,Nafarroako Odol eta Ehun Bankua
+2011,52205,Prestazio eta Itun Zerbitzua
 2011,52206,Centro de Investigación Biomédica
 2011,5221,Subdirección de Asistencia Especializada
 2011,52210,Subdirección de Asistencia Especializada
@@ -899,42 +899,42 @@
 2011,52270,Hospital Reina Sofía de Tudela
 2011,5228,Instituto de Salud Pública
 2011,52280,Instituto de Salud Pública
-2011,52282,Servicio de Seguridad Alimentaria y Sanidad Ambiental
-2011,52283,"Servicio de Epidemiología, Prevención y Promoción de la Salud"
+2011,52282,Elikagaien Segurtasunaren eta Ingurumen Osasunaren Zerbitzua
+2011,52283,"Epidemiologiaren, Aurreneurrien eta Osasun Sustapenaren Zerbitzua"
 2011,5229,Complejo Hospitalario de Navarra
 2011,52290,Gerencia del Complejo Hospitalario de Navarra
 2011,52291,Dirección Médica
 2011,52292,Dirección de Enfermería
-2011,52293,Dirección de Administración y Servicios Generales
+2011,52293,Administrazioaren eta Zerbitzu Orokorren Zuzendaritza
 2011,52294,Dirección de Personal
-2011,523,Dirección de Atención Primaria
-2011,5230,Dirección de Atención Primaria
-2011,52300,Dirección de Atención Primaria
-2011,5231,Subdirección de Atención Primaria de Navarra Norte
-2011,52310,Subdirección de Atención Primaria de Navarra Norte
+2011,523,Lehen Mailako Arretako Zuzendaritza
+2011,5230,Lehen Mailako Arretako Zuzendaritza
+2011,52300,Lehen Mailako Arretako Zuzendaritza
+2011,5231,Nafarroako Iparraldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2011,52310,Nafarroako Iparraldeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
 2011,52311,Servicio de Urgencias Extrahospitalarias
-2011,5232,Subdirección de Atención Primaria de Navarra Este
-2011,52320,Subdirección de Atención Primaria de Navarra Este
+2011,5232,Nafarroako Ekialdeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
+2011,52320,Nafarroako Ekialdeko Oinarrizko Osasun Laguntzaren Zuzendariordetza
 2011,52321,Sección de Salud Bucodental
 2011,5233,Servicio de Gestión Clínica y Sistemas de Información
 2011,52330,Servicio de Gestión Clínica y Sistemas de Información
-2011,52331,Sección de la Tarjeta Individual Sanitaria
-2011,52332,Sección de Sistemas de Información
+2011,52331,Norbanakoen Osasun Txartelaren Atala
+2011,52332,Informazio Sistemen Atala
 2011,52333,Sección de Evaluación y Calidad Asistencial
 2011,5234,Servicio de Administración y Servicios Generales
 2011,52340,Servicio de Administración y Servicios Generales
 2011,52341,Sección de Presupuestos y Contabilidad
 2011,52342,Sección de Aprovisionamientos
-2011,52343,Sección de Servicios Generales
+2011,52343,Zerbitzu Orokorren Atala
 2011,5235,Servicio de Personal
 2011,52350,Servicio de Personal
 2011,52351,Sección de Administración de Personal
 2011,52352,Sección de Gestión de Personal
-2011,5236,Servicio de Enfermería
-2011,52360,Servicio de Enfermería
-2011,5237,Servicio de Prestaciones Farmacéuticas
-2011,52370,Servicio de Prestaciones Farmacéuticas
-2011,52371,Sección de Información y Asesoría del Medicamento
+2011,5236,Erizaintza Zerbitzua
+2011,52360,Erizaintza Zerbitzua
+2011,5237,Farmazia Prestazioen Zerbitzua
+2011,52370,Farmazia Prestazioen Zerbitzua
+2011,52371,Botiketarako Argibide eta Aholkuen Atala
 2011,5238,Plan de Atención Socio-Sanitario
 2011,52380,Plan de Atención Socio-Sanitario
 2011,524,Dirección del Área de Salud de Tudela
@@ -975,49 +975,49 @@
 2011,52541,Sección de Gestión y Administración Personal
 2011,5255,Servicio de Enfermería del Área de Estella
 2011,52550,Servicio de Enfermería del Área de Estella
-2011,526,Dirección de Recursos Humanos
-2011,5260,Dirección de Recursos Humanos
-2011,52600,Dirección de Recursos Humanos
+2011,526,Giza Baliabideen Zuzendaritza
+2011,5260,Giza Baliabideen Zuzendaritza
+2011,52600,Giza Baliabideen Zuzendaritza
 2011,5261,Subdirección de Personal y Relaciones Laborales
 2011,52610,Subdirección de Personal y Relaciones Laborales
 2011,52611,"Servicio de Gestión de Personal, Ingreso y Promoción"
 2011,52612,Servicio de Nóminas y Control del Gasto
-2011,52613,Servicio de Prevención de Riesgos Laborales
-2011,527,Dirección de Salud Mental
-2011,5270,Dirección de Salud Mental
-2011,52700,Dirección de Salud Mental
-2011,52701,Sección de Farmacia y Dietética
+2011,52613,Laneko Arriskuei Aurrea hartzeko Zerbitzua
+2011,527,Osasun Mentaleko Zuzendaritza
+2011,5270,Osasun Mentaleko Zuzendaritza
+2011,52700,Osasun Mentaleko Zuzendaritza
+2011,52701,Farmazia eta Dietetika Atala
 2011,5271,Servicio de área de hospitalización
-2011,52710,Servicio de Área de Hospitalización
+2011,52710,Ospitaleratzearen Arloko Zerbitzua
 2011,5272,Servicio de área de atención comunitaria y centros de salud mental
-2011,52720,Servicio de Área de Atención Comunitaria y Centros de Salud Mental
+2011,52720,Erkidego-laguntzaren Arloko Zerbitzua eta Osasun Mentaleko Zentroak
 2011,5273,Servicio de recursos intermedios
-2011,52730,Servicio de Área de Recursos Intermedios
+2011,52730,Osasun Mentaleko Tarteko Baliabideen Arloko Zerbitzua
 2011,5274,Servicio técnico asistencial y de enfermería
-2011,52740,Servicio Técnico Asistencial y de Enfermería
+2011,52740,Laguntzako eta Erizaintzako Zerbitzu Teknikoa
 2011,5275,Servicio de gestión
-2011,52750,Servicio de Gestión
-2011,52751,Sección de Administración
-2011,52752,Sección de Servicios Generales
-2011,52753,Sección de Personal
+2011,52750,Kudeaketako Arloa
+2011,52751,Administrazio Atala
+2011,52752,Zerbitzu Orokorren Atala
+2011,52753,Langileriaren Atala
 2011,53,Instituto Navarro de Salud Laboral
 2011,530,Instituto Navarro de Salud Laboral
 2011,5300,Instituto Navarro de Salud Laboral
 2011,53000,Instituto Navarro de Salud Laboral
-2011,5301,Sección de Administración
-2011,53010,Sección de Administración
+2011,5301,Administrazio Atala
+2011,53010,Administrazio Atala
 2011,53011,Unidad de Gestión Económica y Registro
-2011,531,Servicio de Seguridad e Higiene en el Trabajo y Formación
-2011,5310,Servicio de Seguridad e Higiene en el Trabajo y Formación
-2011,53100,Servicio de Seguridad e Higiene en el Trabajo y Formación
-2011,5311,Sección Técnica de Prevención de Riesgos Laborales
-2011,53110,Sección Técnica de Prevención de Riesgos Laborales
+2011,531,Laneko Segurtasun eta Higienerako eta Prestakuntzarako Zerbitzua
+2011,5310,Laneko Segurtasun eta Higienerako eta Prestakuntzarako Zerbitzua
+2011,53100,Laneko Segurtasun eta Higienerako eta Prestakuntzarako Zerbitzua
+2011,5311,Laneko Arriskuen Prebentziorako Atal Teknikoa
+2011,53110,Laneko Arriskuen Prebentziorako Atal Teknikoa
 2011,53112,Unidad de Prevención en el Sector Agropecuario
-2011,5312,Sección de Formación y Psicosociología Laboral
-2011,53120,Sección de Formación y Psicosociología Laboral
-2011,532,Servicio de Salud Laboral e Investigación
-2011,5320,Servicio de Salud Laboral e Investigación
-2011,53200,Servicio de Salud Laboral e Investigación
+2011,5312,Laneko Prestakuntza eta Psikosoziologia Atala
+2011,53120,Laneko Prestakuntza eta Psikosoziologia Atala
+2011,532,Laneko Osasun eta Ikerketarako Zerbitzua
+2011,5320,Laneko Osasun eta Ikerketarako Zerbitzua
+2011,53200,Laneko Osasun eta Ikerketarako Zerbitzua
 2011,5321,Sección de Incapacidades Laborales y Evaluación Sanitaria
 2011,53210,Sección de Incapacidades Laborales y Evaluación Sanitaria
 2011,53211,Unidad Administrativa de Incapacidad Temporal
@@ -1029,142 +1029,142 @@
 2011,600,"Departamento de Obras Públicas, Transportes y Comunicaciones"
 2011,6000,"Departamento de Obras Públicas, Transportes y Comunicaciones"
 2011,60000,"Departamento de Obras Públicas, Transportes y Comunicaciones"
-2011,601,Secretaría General Técnica
-2011,6010,Secretaría General Técnica
-2011,60100,Secretaría General Técnica
-2011,60101,Negociado de Gestión Económica
-2011,6011,Sección de Régimen Jurídico
-2011,60110,Sección de Régimen Jurídico
-2011,6012,Sección de Régimen Interior y Asistencia Administrativa
-2011,60120,Sección de Régimen Interior y Asistencia Administrativa
-2011,61,Dirección General de Obras Públicas
-2011,610,Dirección General de Obras Públicas
-2011,6100,Dirección General de Obras Públicas
-2011,61000,Dirección General de Obras Públicas
+2011,601,Idazkaritza Tekniko Orokorra
+2011,6010,Idazkaritza Tekniko Orokorra
+2011,60100,Idazkaritza Tekniko Orokorra
+2011,60101,Kudeaketa Ekonomikorako Bulegoa
+2011,6011,Araubide Juridikoaren Atala
+2011,60110,Araubide Juridikoaren Atala
+2011,6012,Barne Araubidearen eta Administrazio Laguntzaren Atala
+2011,60120,Barne Araubidearen eta Administrazio Laguntzaren Atala
+2011,61,Herri Lanen Zuzendaritza Nagusia
+2011,610,Herri Lanen Zuzendaritza Nagusia
+2011,6100,Herri Lanen Zuzendaritza Nagusia
+2011,61000,Herri Lanen Zuzendaritza Nagusia
 2011,611,Servicio de Caminos y Construcción
 2011,6110,Servicio de Caminos y Construcción
 2011,61100,Servicio de Caminos y Construcción
-2011,61101,Negociado de Asuntos Administrativos
-2011,6111,Sección de Seguridad en la Construcción y Control de Calidad
-2011,61110,Sección de Seguridad en la Construcción y Control de Calidad
-2011,61111,Negociado de Seguridad en la Construcción
-2011,61112,Negociado de Control de Calidad
-2011,61113,Negociado de Ensayos y Laboratorio
+2011,61101,Administrazio Aferetarako Bulegoa
+2011,6111,Eraikuntzako Segurtasunerako eta Kalitate Kontrolerako Atala
+2011,61110,Eraikuntzako Segurtasunerako eta Kalitate Kontrolerako Atala
+2011,61111,Eraikuntzako Segurtasunerako Bulegoa
+2011,61112,Kalitatearen Kontrolerako Bulegoa
+2011,61113,Entseguen eta Laborategiaren Bulegoa
 2011,61114,Negociado de Administración del Laboratorio
-2011,6113,Sección de Obras I
-2011,61130,Sección de Obras I
-2011,61132,Negociado de Gestión de Obras I
-2011,61133,Negociado de Ejecución de Obras I
-2011,6114,Sección de Obras II
-2011,61140,Sección de Obras II
-2011,61141,Negociado de Gestión de Obras II
-2011,61142,Negociado de Ejecución de Obras II
-2011,6115,Sección de Obras III
-2011,61150,Sección de Obras III
-2011,61151,Negociado de Gestión de Obras III
-2011,61152,Negociado de Ejecución de Obras III
+2011,6113,Obren I. Atala
+2011,61130,Obren I. Atala
+2011,61132,Obrak Kudeatzeko I. Bulegoa
+2011,61133,Obrak Burutzeko I. Bulegoa
+2011,6114,Obren II. Atala
+2011,61140,Obren II. Atala
+2011,61141,Obrak Kudeatzeko II. Bulegoa
+2011,61142,Obrak Burutzeko II. Bulegoa
+2011,6115,Obren III. Atala
+2011,61150,Obren III. Atala
+2011,61151,Obrak Kudeatzeko III. Bulegoa
+2011,61152,Obrak Burutzeko III. Bulegoa
 2011,6117,Sección de Obras en Concesión
 2011,61170,Sección de Obras en Concesión
 2011,61171,Negociado de Ejecución de Obras Concesión
 2011,6118,Sección de Inspección de Obras
 2011,61180,Sección de Inspección de Obras
-2011,612,Servicio de Conservación
-2011,6120,Servicio de Conservación
-2011,61200,Servicio de Conservación
-2011,61201,Negociado de Tramitación Administrativa
-2011,6121,Sección de Conservación
-2011,61210,Sección de Conservación
-2011,61212,Negociado de Conservación Navarra Centro-Norte
-2011,61213,Negociado de Conservación Navarra Oeste
-2011,61214,Negociado de Conservación Navarra Sur
-2011,61216,Negociado de Conservación Navarra Suroeste
-2011,6122,Sección de Explotación
-2011,61220,Sección de Explotación
-2011,61223,Negociado de Gestión Administrativa y Jurídica
-2011,61224,Negociado de Gestión Técnica
-2011,6123,Sección de Seguridad Vial y Centro de Control
-2011,61230,Sección de Seguridad Vial y Centro de Control
-2011,61231,Negociado de Seguridad Vial
-2011,61233,Negociado de Aforos y Documentación
+2011,612,Kontserbazio Zerbitzua
+2011,6120,Kontserbazio Zerbitzua
+2011,61200,Kontserbazio Zerbitzua
+2011,61201,Izapide Administratiboen Bulegoa
+2011,6121,Zainketa Atala
+2011,61210,Zainketa Atala
+2011,61212,Nafarroako Erdialdeko eta Iparraldeko Zainketa Bulegoa
+2011,61213,Nafarroako Mendebaldeko Zainketa Bulegoa
+2011,61214,Nafarroako Hegoaldeko Zainketa Bulegoa
+2011,61216,Nafarroako Hego Mendebaldeko Zainketa Bulegoa
+2011,6122,Ustiapen Atala
+2011,61220,Ustiapen Atala
+2011,61223,Kudeaketa Administratibo eta Juridikoaren Bulegoa
+2011,61224,Kudeaketa Teknikoaren Bulegoa
+2011,6123,Bide Segurtasunaren eta Kontrol Zentroaren Atala
+2011,61230,Bide Segurtasunaren eta Kontrol Zentroaren Atala
+2011,61231,Bide Segurtasunaren Bulegoa
+2011,61233,Neurketa eta Agirien Bulegoa
 2011,613,"Servicio de Proyectos, Ferrocarriles y Obras Hidráulicas"
 2011,6130,"Servicio de Proyectos, Ferrocarriles y Obras Hidráulicas"
 2011,61300,"Servicio de Proyectos, Ferrocarriles y Obras Hidráulicas"
-2011,6131,Sección de Proyectos
-2011,61310,Sección de Proyectos
-2011,61311,Negociado de Normalización y Proyectos
-2011,61312,Negociado de Dirección y Ejecución de Proyectos I
-2011,61313,Negociado de Dirección y Ejecución de Proyectos II
+2011,6131,Proiektu Atala
+2011,61310,Proiektu Atala
+2011,61311,Normalizazioaren eta Proiektuen Bulegoa
+2011,61312,Proiektuak Zuzendu eta Burutzeko I. Bulegoa
+2011,61313,Proiektuak Zuzendu eta Burutzeko II. Bulegoa
 2011,6132,Sección de Geología y Geotecnia
 2011,61320,Sección de Geología y Geotecnia
-2011,6133,Sección de Cartografía
-2011,61330,Sección de Cartografía
+2011,6133,Kartografia Atala
+2011,61330,Kartografia Atala
 2011,61332,"Negociado de Producción, Control y Registro Cartográfico"
-2011,6134,Sección de Expropiaciones
-2011,61340,Sección de Expropiaciones
-2011,61341,Negociado de Afecciones y Valoraciones
-2011,61342,Negociado de Gestión de Expedientes y Pagos
+2011,6134,Desjabetzapen Atala
+2011,61340,Desjabetzapen Atala
+2011,61341,Afekzioen eta Balorazioen Bulegoa
+2011,61342,Espedienteak eta Ordainketak Kudeatzeko Bulegoa
 2011,6135,Sección de Gestión de Infraestructuras del Transporte
 2011,61350,Sección de Gestión de Infraestructuras del Transporte
-2011,6136,Sección de Protección Ambiental
-2011,61360,Sección de Protección Ambiental
-2011,61361,Negociado de Proyectos Ambientales
-2011,61362,Negociado de Gestión Ambiental de Obras y Conservación
-2011,6137,Sección de Administración y Control de Expedientes
-2011,61370,Sección de Administración y Control de Expedientes
-2011,61371,Negociado de Control Administrativo
+2011,6136,Ingurumena Zaintzeko Atala
+2011,61360,Ingurumena Zaintzeko Atala
+2011,61361,Ingurumen arloko Proiektuen Bulegoa
+2011,61362,Obren Ingurumen Kudeaketa eta Zainketa Bulegoa
+2011,6137,Espedienteen Administraziorako eta Kontrolerako Atala
+2011,61370,Espedienteen Administraziorako eta Kontrolerako Atala
+2011,61371,Kontrol Administratiboaren Bulegoa
 2011,62,Dirección General de Transportes
 2011,620,Dirección General de Transportes
 2011,6200,Dirección General de Transportes
 2011,62000,Dirección General de Transportes
-2011,62001,Negociado de Análisis y Estudios Económicos del Transporte
+2011,62001,Garraioaren Analisi eta Azterlan Ekonomikoen Bulegoa
 2011,621,Servicio de Planificación y Régimen Jurídico de Transportes
 2011,6210,Servicio de Planificación y Régimen Jurídico de Transportes
 2011,62100,Servicio de Planificación y Régimen Jurídico de Transportes
-2011,62101,Negociado de Gestión Administrativa
+2011,62101,Kudeaketa Administratiboaren Bulegoa
 2011,6211,Sección de Planificación y Proyectos de Transportes
 2011,62110,Sección de Planificación y Proyectos de Transportes
 2011,6213,Sección de Régimen Jurídico de Transportes
 2011,62130,Sección de Régimen Jurídico de Transportes
-2011,62132,Negociado de Control Jurídico de Transportes
+2011,62132,Garraioen Kontrol Juridikoaren Bulegoa
 2011,623,Servicio de Ordenación y Gestión de Transportes
 2011,6230,Servicio de Ordenación y Gestión de Transportes
 2011,62300,Servicio de Ordenación y Gestión de Transportes
 2011,62301,Negociado de Régimen Administrativo
-2011,6231,Sección de Explotación de Transportes
-2011,62310,Sección de Explotación de Transportes
+2011,6231,Garraioen Ustiapenerako Atala
+2011,62310,Garraioen Ustiapenerako Atala
 2011,62311,Negociado de Autorizaciones de Transporte de Mercancías
 2011,62312,Negociado de Gestión del Transporte de Viajeros y Operadores de Transporte
 2011,6232,Sección de Inspección y Junta Arbitral de Transportes
 2011,62320,Sección de Inspección y Junta Arbitral de Transportes
-2011,62321,Negociado de Inspección de Transportes
+2011,62321,Garraio Ikuskapenaren Bulegoa
 2011,62322,Negociado de Sanciones de Transportes
 2011,7,Departamento de Desarrollo Rural y Medio Ambiente
 2011,70,Departamento de Desarrollo Rural y Medio Ambiente
 2011,700,Departamento de Desarrollo Rural y Medio Ambiente
 2011,7000,Departamento de Desarrollo Rural y Medio Ambiente
 2011,70000,Departamento de Desarrollo Rural y Medio Ambiente
-2011,701,Secretaría General Técnica
-2011,7010,Secretaría General Técnica
-2011,70100,Secretaría General Técnica
+2011,701,Idazkaritza Tekniko Orokorra
+2011,7010,Idazkaritza Tekniko Orokorra
+2011,70100,Idazkaritza Tekniko Orokorra
 2011,7011,Sección de Gestión y Modernización Administrativa
 2011,70110,Sección de Gestión y Modernización Administrativa
-2011,70111,Negociado de Personal
-2011,70112,Negociado de Servicios Generales
-2011,7012,Sección de Régimen Jurídico de Desarrollo Rural y Agrario
-2011,70120,Sección de Régimen Jurídico de Desarrollo Rural y Agrario
-2011,7013,Sección de Régimen Jurídico de Medio Ambiente y Agua
-2011,70130,Sección de Régimen Jurídico de Medio Ambiente y Agua
-2011,71,Dirección General de Agricultura y Ganadería
-2011,710,Dirección General de Agricultura y Ganadería
-2011,7100,Dirección General de Agricultura y Ganadería
-2011,71000,Dirección General de Agricultura y Ganadería
-2011,7101,Sección de Auditoría Interna
-2011,71010,Sección de Auditoría Interna
-2011,712,Servicio de Agricultura
-2011,7120,Servicio de Agricultura
-2011,71200,Servicio de Agricultura
-2011,7121,Sección de Producción y Sanidad Vegetal
-2011,71210,Sección de Producción y Sanidad Vegetal
+2011,70111,Langileria Bulegoa
+2011,70112,Zerbitzu Orokorren Bulegoa
+2011,7012,Nekazaritzako eta Landa Garapeneko Araubide Juridikoaren Atala
+2011,70120,Nekazaritzako eta Landa Garapeneko Araubide Juridikoaren Atala
+2011,7013,Ingurumenaren eta Uraren Araubide Juridikoaren Atala
+2011,70130,Ingurumenaren eta Uraren Araubide Juridikoaren Atala
+2011,71,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2011,710,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2011,7100,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2011,71000,Nekazaritzako eta Abeltzaintzako Zuzendaritza Nagusia
+2011,7101,Barne Auditoretzako Atala
+2011,71010,Barne Auditoretzako Atala
+2011,712,Nekazaritza Zerbitzua
+2011,7120,Nekazaritza Zerbitzua
+2011,71200,Nekazaritza Zerbitzua
+2011,7121,Landareen Ekoizpen eta Osasun Atala
+2011,71210,Landareen Ekoizpen eta Osasun Atala
 2011,71211,Negociado de Producción Vegetal
 2011,71212,Negociado de Sanidad Vegetal
 2011,7122,Sección de Regulación e Intervención en Mercados Agrarios
@@ -1173,85 +1173,85 @@
 2011,71226,Negociado de Ayudas OPFH
 2011,7123,Sección de Ayudas a Rentas
 2011,71230,Sección de Ayudas a Rentas
-2011,71233,Negociado de Ayudas Directas por Superficie
-2011,71234,Negociado de Ayudas Agroambientales y Mejora del Entorno Rural
-2011,71235,Negociado de Ayudas a la Ganadería
-2011,7124,Sección de Inspecciones
-2011,71240,Sección de Inspecciones
+2011,71233,Azaleraren araberako Zuzeneko Laguntzen Bulegoa
+2011,71234,Nekazaritzako Ingurumen arloko eta Landa Ingurunea Hobetzeko Laguntzen Bulegoa
+2011,71235,Abeltzaintzarako Laguntzen Bulegoa
+2011,7124,Ikuskapenen Atala
+2011,71240,Ikuskapenen Atala
 2011,71244,Negociado de Inspecciones
 2011,71245,Negociado de Sistemas Horizontales y Condicionalidad
-2011,713,Servicio de Ganadería
-2011,7130,Servicio de Ganadería
-2011,71300,Servicio de Ganadería
-2011,7131,Sección de Producción Animal
-2011,71310,Sección de Producción Animal
-2011,71312,Negociado de Desarrollo Ganadero
-2011,7132,Sección de Sanidad Animal
-2011,71320,Sección de Sanidad Animal
-2011,71322,Negociado de Epizootiología
-2011,7133,Sección de Seguridad Alimentaria y Oficinas Pecuarias
-2011,71330,Sección de Seguridad Alimentaria y Oficinas Pecuarias
-2011,71331,Negociado de Seguridad Alimentaria
+2011,713,Abeltzaintza Zerbitzua
+2011,7130,Abeltzaintza Zerbitzua
+2011,71300,Abeltzaintza Zerbitzua
+2011,7131,Abere Ekoizpenaren Atala
+2011,71310,Abere Ekoizpenaren Atala
+2011,71312,Abeltzaintzaren Garapenerako Bulegoa
+2011,7132,Abere Osasuneko Atala
+2011,71320,Abere Osasuneko Atala
+2011,71322,Epizootiologia Bulegoa
+2011,7133,Elikagaien Segurtasunaren eta Abeltzaintzako Langelen Atala
+2011,71330,Elikagaien Segurtasunaren eta Abeltzaintzako Langelen Atala
+2011,71331,Elikagaien Segurtasuneko Bulegoa
 2011,714,Servicio de Información y Gestión Económica
 2011,7140,Servicio de Información y Gestión Económica
 2011,71400,Servicio de Información y Gestión Económica
-2011,7141,Sección de Gestión Económica
-2011,71410,Sección de Gestión Económica
-2011,71411,Negociado de Asuntos Económicos
+2011,7141,Kudeaketa Ekonomikoaren Atala
+2011,71410,Kudeaketa Ekonomikoaren Atala
+2011,71411,Gai Ekonomikoen Bulegoa
 2011,71413,Negociado de Ejecución de pagos del FEAGA y del FEADER
-2011,7142,Sección de Gestión de la Información
-2011,71420,Sección de Gestión de la Información
-2011,71422,Negociado de Tecnología de la Información
+2011,7142,Informazioa Kudeatzeko Atala
+2011,71420,Informazioa Kudeatzeko Atala
+2011,71422,Informazioaren Teknologiaren Bulegoa
 2011,71423,Negociado de Gestión Informática de Ayudas del FEAGA y del FEADER
-2011,71424,Negociado de Asistencia Microinformática
-2011,71425,Negociado de Apoyo a la Seguridad de la Información
+2011,71424,Laguntza Mikroinformatikoaren Bulegoa
+2011,71425,Informazioaren Segurtasunari laguntzeko Bulegoa
 2011,7143,Sección de Evaluación de Recursos Agrarios
 2011,71430,Sección de Evaluación de Recursos Agrarios
 2011,71431,Negociado de Estadística Agraria y Estudios Agrarios
 2011,71434,Negociado de Suelos y Climatología
-2011,71435,Negociado de Sistemas de Información Agrarios
-2011,7144,Sección de Coordinación
-2011,71440,Sección de Coordinación
-2011,72,Dirección General de Desarrollo Rural
-2011,720,Dirección General de Desarrollo Rural
-2011,7200,Dirección General de Desarrollo Rural
-2011,72000,Dirección General de Desarrollo Rural
-2011,721,Servicio de Infraestructuras Agrarias
-2011,7210,Servicio de Infraestructuras Agrarias
-2011,72100,Servicio de Infraestructuras Agrarias
-2011,72102,Negociado de Control Ambiental
+2011,71435,Nekazaritzako Informazio Sistemen Bulegoa
+2011,7144,Koordinazio Atala
+2011,71440,Koordinazio Atala
+2011,72,Landa Garapenaren Zuzendaritza Nagusia
+2011,720,Landa Garapenaren Zuzendaritza Nagusia
+2011,7200,Landa Garapenaren Zuzendaritza Nagusia
+2011,72000,Landa Garapenaren Zuzendaritza Nagusia
+2011,721,Nekazaritzako Azpiegituren Zerbitzua
+2011,7210,Nekazaritzako Azpiegituren Zerbitzua
+2011,72100,Nekazaritzako Azpiegituren Zerbitzua
+2011,72102,Ingurumenaren Kontroleko Bulegoa
 2011,7212,Sección de Reforma de Infraestructuras Agrarias
 2011,72120,Sección de Reforma de Infraestructuras Agrarias
-2011,72121,Negociado de Concentración Parcelaria
-2011,72123,Negociado de Obras
-2011,72127,Negociado de Ayudas a Infraestructuras Ganaderas
+2011,72121,Lurzati Berrantolamenduaren Bulegoa
+2011,72123,Obra Bulegoa
+2011,72127,Abeltzaintzarako Azpiegiturei Laguntzeko Bulegoa
 2011,7213,Sección de Regadíos
 2011,72130,Sección de Regadíos
-2011,7214,Sección de Comunales
-2011,72140,Sección de Comunales
+2011,7214,Herrilurren Atala
+2011,72140,Herrilurren Atala
 2011,722,Servicio de Industrias Agroalimentarias y Explotaciones Agrarias
 2011,7220,Servicio de Industrias Agroalimentarias y Explotaciones Agrarias
 2011,72200,Servicio de Industrias Agroalimentarias y Explotaciones Agrarias
 2011,7221,Sección de Fomento de Industrias Agroalimentarias
 2011,72210,Sección de Fomento de Industrias Agroalimentarias
-2011,72211,Negociado de Industrias Agrarias y Alimentarias
+2011,72211,Nekazaritza eta Elikagaigintza Industrien Bulegoa
 2011,72212,Negociado de Comercialización Agraria
-2011,72213,Negociado de Registro de Industrias Agroalimentarias y SAT
+2011,72213,Nekazaritzako Elikagai Industrien eta Eraldakuntzako Nekazaritza Sozietateen Erregistro Bulegoa
 2011,7222,Sección de Calidad Agroalimentaria
 2011,72220,Sección de Calidad Agroalimentaria
 2011,72222,Negociado de Control y Fraudes
-2011,72223,Negociado de Biología Vegetal
+2011,72223,Landare Biologiaren Bulegoa
 2011,72224,Negociado de Laboratorio Pecuario
 2011,7223,Sección de Fomento de Explotaciones Agrarias
 2011,72230,Sección de Fomento de Explotaciones Agrarias
-2011,72231,Negociado de Ayudas a la Inversión de Explotaciones Agrarias
-2011,723,Servicio de Diversificación y Desarrollo Rural
-2011,7230,Servicio de Diversificación y Desarrollo Rural
-2011,72300,Servicio de Diversificación y Desarrollo Rural
-2011,7231,Sección de Planes y Programas
-2011,72310,Sección de Planes y Programas
-2011,7232,Sección de Diversificación Rural
-2011,72320,Sección de Diversificación Rural
+2011,72231,Nekazaritzako Ustiategietan Inbertitzeko Laguntzen Bulegoa
+2011,723,Landa Aniztasunerako eta Garapenerako Zerbitzua
+2011,7230,Landa Aniztasunerako eta Garapenerako Zerbitzua
+2011,72300,Landa Aniztasunerako eta Garapenerako Zerbitzua
+2011,7231,Plan eta Programen Atala
+2011,72310,Plan eta Programen Atala
+2011,7232,Landa Aniztasunerako Atala
+2011,72320,Landa Aniztasunerako Atala
 2011,72321,Negociado de Gestión LEADER
 2011,724,Estación de Viticultura y Enología de Navarra
 2011,7240,Estación de Viticultura y Enología de Navarra
@@ -1260,84 +1260,84 @@
 2011,72410,Sección de Viticultura
 2011,7242,Sección de Enología
 2011,72420,Sección de Enología
-2011,7243,Sección de Gestión Administrativa
-2011,72430,Sección de Gestión Administrativa
-2011,74,Dirección General de Medio Ambiente y Agua
-2011,740,Dirección General de Medio Ambiente y Agua
-2011,7400,Dirección General de Medio Ambiente y Agua
-2011,74000,Dirección General de Medio Ambiente y Agua
-2011,741,Servicio de Calidad Ambiental
-2011,7410,Servicio de Calidad Ambiental
-2011,74100,Servicio de Calidad Ambiental
-2011,74101,Negociado de Asistencia a la Integración Ambiental
-2011,7411,Sección de Prevención de la Contaminación
-2011,74110,Sección de Prevención de la Contaminación
-2011,74111,Negociado de Asistencia al Control Ambiental
+2011,7243,Kudeaketa Administratiboaren Atala
+2011,72430,Kudeaketa Administratiboaren Atala
+2011,74,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2011,740,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2011,7400,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2011,74000,Ingurumenaren eta Uraren Zuzendaritza Nagusia
+2011,741,Ingurumen Kalitatearen Zerbitzua
+2011,7410,Ingurumen Kalitatearen Zerbitzua
+2011,74100,Ingurumen Kalitatearen Zerbitzua
+2011,74101,Ingurumenaren Integrazioari Laguntzeko Bulegoa
+2011,7411,Kutsaduraren aurkako Aurreneurrien Atala
+2011,74110,Kutsaduraren aurkako Aurreneurrien Atala
+2011,74111,Ingurumenaren Kontrolari Laguntzeko Bulegoa
 2011,74112,Negociado de Gestión de Residuos
-2011,74113,Negociado de Autorizaciones
-2011,7412,"Sección de Inspección, Calidad del Aire y Cambio Climático"
-2011,74120,"Sección de Inspección, Calidad del Aire y Cambio Climático"
-2011,74121,Negociado de Control
-2011,7413,Sección de Evaluación Ambiental
-2011,74130,Sección de Evaluación Ambiental
-2011,74131,Negociado de Asistencia a la Evaluación Ambiental
-2011,74133,Negociado de Impacto Ambiental
-2011,7415,Sección de Residuos
-2011,74150,Sección de Residuos
-2011,74151,Negociado de Residuos Industriales y Suelos Contaminados
+2011,74113,Baimenen Bulegoa
+2011,7412,"Ikuskapen, Airearen Kalitate eta Klima Aldaketaren Atala"
+2011,74120,"Ikuskapen, Airearen Kalitate eta Klima Aldaketaren Atala"
+2011,74121,Kontrol Bulegoa
+2011,7413,Ingurumenaren gaineko Eragina Aztertzeko Atala
+2011,74130,Ingurumenaren gaineko Eragina Aztertzeko Atala
+2011,74131,Ingurumenaren Ebaluazioari Laguntzeko Bulegoa
+2011,74133,Ingurumenaren gaineko Eraginaren Bulegoa
+2011,7415,Hondakinen Atala
+2011,74150,Hondakinen Atala
+2011,74151,Industria Hondakinen eta Lurzoru Kutsatuen Bulegoa
 2011,7416,Sección de Medio Ambiente Urbano
 2011,74160,Sección de Medio Ambiente Urbano
-2011,742,Servicio de Conservación de la Biodiversidad
-2011,7420,Servicio de Conservación de la Biodiversidad
-2011,74200,Servicio de Conservación de la Biodiversidad
-2011,7421,Sección de Hábitats
-2011,74210,Sección de Hábitats
-2011,74211,Negociado de Espacios para la Conservación
-2011,7422,Sección de Información y Educación Ambiental
-2011,74220,Sección de Información y Educación Ambiental
-2011,7423,Sección de Gestión Forestal
-2011,74230,Sección de Gestión Forestal
+2011,742,Biodibertsitatea Kontserbatzeko Zerbitzua
+2011,7420,Biodibertsitatea Kontserbatzeko Zerbitzua
+2011,74200,Biodibertsitatea Kontserbatzeko Zerbitzua
+2011,7421,Habitaten Atala
+2011,74210,Habitaten Atala
+2011,74211,Kontserbaziorako Guneen Bulegoa
+2011,7422,Ingurumenari buruzko Informazio eta Hezkuntzaren Atala
+2011,74220,Ingurumenari buruzko Informazio eta Hezkuntzaren Atala
+2011,7423,Oihanak Kudeatzeko Atala
+2011,74230,Oihanak Kudeatzeko Atala
 2011,74231,Negociado de la Comarca Pirenáica
-2011,74232,Negociado de la Comarca Cantábrica
+2011,74232,Kantaurialdeko Bulegoa
 2011,74233,Negociado de la Zona Media y Cuenca de Pamplona
 2011,74234,Negociado de la Ribera
-2011,74235,Negociado de Planificación Forestal
+2011,74235,Oihan Plangintzarako Bulegoa
 2011,7424,Sección de Planificación y Ayudas
 2011,74240,Sección de Planificación y Ayudas
 2011,74244,Negociado de Gestión de Ayudas
-2011,7425,Sección de Caza y Pesca
-2011,74250,Sección de Caza y Pesca
-2011,74251,Negociado de Gestión Piscícola y Protección Animal
-2011,74252,Negociado de Gestión Cinegética
-2011,74253,Negociado de Asistencia Cinegética y Piscícola
-2011,7426,Sección de Guarderío
-2011,74260,Sección de Guarderío
-2011,743,Servicio de Agua
-2011,7430,Servicio de Agua
-2011,74300,Servicio de Agua
-2011,7431,Sección de Recursos Hídricos
-2011,74310,Sección de Recursos Hídricos
-2011,7432,Sección de Restauración de Riberas y Obras Hidráulicas
-2011,74320,Sección de Restauración de Riberas y Obras Hidráulicas
-2011,74321,Negociado de Obras Fluviales
+2011,7425,Ehiza eta Arrantza Atala
+2011,74250,Ehiza eta Arrantza Atala
+2011,74251,Arrantza Kudeatu eta Animaliak Babesteko Bulegoa
+2011,74252,Ehiza Kudeatzeko Bulegoa
+2011,74253,Ehiza eta Arrantzaren Laguntzako Bulegoa
+2011,7426,Ingurumena Zaintzeko Atala
+2011,74260,Ingurumena Zaintzeko Atala
+2011,743,Ur Zerbitzua
+2011,7430,Ur Zerbitzua
+2011,74300,Ur Zerbitzua
+2011,7431,Ur Baliabideen Atala
+2011,74310,Ur Baliabideen Atala
+2011,7432,Ibaiertzak Lehengoratzeko eta Obra Hidraulikoetarako Atala
+2011,74320,Ibaiertzak Lehengoratzeko eta Obra Hidraulikoetarako Atala
+2011,74321,Ibaietako Obren Bulegoa
 2011,8,"Departamento de Innovación, Empresa y Empleo"
 2011,80,"Departamento de Innovación, Empresa y Empleo"
 2011,800,"Departamento de Innovación, Empresa y Empleo"
 2011,8000,"Departamento de Innovación, Empresa y Empleo"
 2011,80000,"Departamento de Innovación, Empresa y Empleo"
-2011,801,Secretaría General Técnica
-2011,8010,Secretaría General Técnica
-2011,80100,Secretaría General Técnica
-2011,80101,Negociado de Asistencia Técnica
-2011,8011,Sección de Asistencia Jurídica
-2011,80110,Sección de Asistencia Jurídica
-2011,8012,Sección de Gestión Económica
-2011,80120,Sección de Gestión Económica
-2011,80122,Negociado de Control Presupuestario
-2011,80123,Negociado de Gestión Contable
-2011,8013,Sección de Apoyo a la Modernización
-2011,80130,Sección de Apoyo a la Modernización
-2011,80131,Negociado de Gestión Administrativa
+2011,801,Idazkaritza Tekniko Orokorra
+2011,8010,Idazkaritza Tekniko Orokorra
+2011,80100,Idazkaritza Tekniko Orokorra
+2011,80101,Laguntza Teknikorako Bulegoa
+2011,8011,Laguntza Juridikoaren Atala
+2011,80110,Laguntza Juridikoaren Atala
+2011,8012,Kudeaketa Ekonomikoaren Atala
+2011,80120,Kudeaketa Ekonomikoaren Atala
+2011,80122,Aurrekontuen Kontrolerako Bulegoa
+2011,80123,Kontabilitatearen Kudeaketarako Bulegoa
+2011,8013,Modernizazioa Bultzatzeko Atala
+2011,80130,Modernizazioa Bultzatzeko Atala
+2011,80131,Kudeaketa Administratiboaren Bulegoa
 2011,8014,Sección de Asistencia e Información a Ciudadanos y Empresas
 2011,80140,Sección de Asistencia e Información a Ciudadanos y Empresas
 2011,81,Dirección General de Empresa
@@ -1346,25 +1346,25 @@
 2011,81000,Dirección General de Empresa
 2011,8101,Sección de Coordinación de Políticas de Empresa
 2011,81010,Sección de Coordinación de Políticas de Empresa
-2011,811,Servicio de Fomento Empresarial
-2011,8110,Servicio de Fomento Empresarial
-2011,81100,Servicio de Fomento Empresarial
-2011,81101,Negociado de Gestión de Expedientes
-2011,8112,Sección de Fomento de la Inversión
-2011,81120,Sección de Fomento de la Inversión
-2011,81122,Negociado de Gestión de Ayudas a las Pequeñas y Medianas Empresas
+2011,811,Enpresa Sustapeneko Zerbitzua
+2011,8110,Enpresa Sustapeneko Zerbitzua
+2011,81100,Enpresa Sustapeneko Zerbitzua
+2011,81101,Espedienteen Kudeaketako Bulegoa
+2011,8112,Inbertsioa Sustatzeko Atala
+2011,81120,Inbertsioa Sustatzeko Atala
+2011,81122,Enpresa Txiki eta Ertainentzako Laguntzak Kudeatzeko Bulegoa
 2011,8114,Sección de Eficiencia y Energías Renovables
 2011,81140,Sección de Eficiencia y Energías Renovables
-2011,81141,Negociado de Aplicaciones Energéticas
+2011,81141,Energia Aplikazioen Bulegoa
 2011,8115,Sección de Competitividad y Reordenación Empresarial
 2011,81150,Sección de Competitividad y Reordenación Empresarial
 2011,812,Servicio de Innovación y Sociedad de la Información
 2011,8120,Servicio de Innovación y Sociedad de la Información
 2011,81200,Servicio de Innovación y Sociedad de la Información
-2011,81201,Negociado de Gestión Administrativa
-2011,8121,Sección de Fomento de la Innovación
-2011,81210,Sección de Fomento de la Innovación
-2011,81212,Negociado de Gestión de Proyectos
+2011,81201,Kudeaketa Administratiboaren Bulegoa
+2011,8121,Berrikuntza Sustatzeko Atala
+2011,81210,Berrikuntza Sustatzeko Atala
+2011,81212,Proiektuak Kudeatzeko Bulegoa
 2011,8122,Sección de Promoción de la Sociedad de la Información
 2011,81220,Sección de Promoción de la Sociedad de la Información
 2011,813,"Servicio de Energía, Minas, Telecomunicaciones y Seguridad Industrial"
@@ -1372,13 +1372,13 @@
 2011,81300,"Servicio de Energía, Minas, Telecomunicaciones y Seguridad Industrial"
 2011,8131,Sección de Registro Industrial
 2011,81310,Sección de Registro Industrial
-2011,81311,Negociado de Empresas
-2011,8133,Sección de Seguridad Industrial
-2011,81330,Sección de Seguridad Industrial
-2011,81334,Negociado de Inspección
+2011,81311,Enpresen Bulegoa
+2011,8133,Industria Segurtasunaren Atala
+2011,81330,Industria Segurtasunaren Atala
+2011,81334,Ikuskaritza Bulegoa
 2011,8134,"Sección de Energía, Minas y Telecomunicaciones"
 2011,81340,"Sección de Energía, Minas y Telecomunicaciones"
-2011,81341,Negociado de Infraestructuras
+2011,81341,Azpiegituren Bulegoa
 2011,814,Servicio de Comercio e Internacionalización
 2011,8140,Servicio de Comercio e Internacionalización
 2011,81400,Servicio de Comercio e Internacionalización
@@ -1386,68 +1386,68 @@
 2011,81410,Sección de Servicios al Comercio
 2011,8142,Sección de Internacionalización
 2011,81420,Sección de Internacionalización
-2011,83,Dirección General de Trabajo y Prevención de Riesgos
-2011,830,Dirección General de Trabajo y Prevención de Riesgos
-2011,8300,Dirección General de Trabajo y Prevención de Riesgos
-2011,83000,Dirección General de Trabajo y Prevención de Riesgos
-2011,831,Servicio de Trabajo
-2011,8310,Servicio de Trabajo
-2011,83100,Servicio de Trabajo
-2011,8311,Sección de Relaciones Laborales y Prevención de Riesgos
-2011,83110,Sección de Relaciones Laborales y Prevención de Riesgos
+2011,83,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2011,830,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2011,8300,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2011,83000,Lanaren eta Arriskuen Prebentzioaren Zuzendaritza
+2011,831,Lan Zerbitzua
+2011,8310,Lan Zerbitzua
+2011,83100,Lan Zerbitzua
+2011,8311,Lan Harremanen eta Arriskuen Prebentzioaren Atala
+2011,83110,Lan Harremanen eta Arriskuen Prebentzioaren Atala
 2011,83111,Negociado de autorizaciones y sanciones
-2011,83112,Negociado de Gestión Administrativa
-2011,8313,"Sección de Economía Social, Trabajo Autónomo y Registros Públicos Laborales"
-2011,83130,"Sección de Economía Social, Trabajo Autónomo y Registros Públicos Laborales"
+2011,83112,Kudeaketa Administratiboaren Bulegoa
+2011,8313,"Ekonomia Sozialaren, Lan Autonomoaren eta Lan Erregistro Publikoen Atala"
+2011,83130,"Ekonomia Sozialaren, Lan Autonomoaren eta Lan Erregistro Publikoen Atala"
 2011,83131,Negociado de tramitación administrativa
-2011,83132,"Negociado de Registro de Convenios, Elecciones, Asociaciones y Empresas de Trabajo Temporal"
-2011,8314,Sección de Coordinación y Asistencia Técnica
-2011,83140,Sección de Coordinación y Asistencia Técnica
-2011,84,Servicio Navarro de Empleo
-2011,840,Servicio Navarro de Empleo
-2011,8400,Servicio Navarro de Empleo
-2011,84000,Servicio Navarro de Empleo
-2011,84001,Negociado de Secretaría de Dirección
-2011,841,Servicio de Promoción de Empleo e Igualdad de Oportunidades
-2011,8410,Servicio de Promoción de Empleo e Igualdad de Oportunidades
-2011,84100,Servicio de Promoción de Empleo e Igualdad de Oportunidades
+2011,83132,"Aldi baterako Laneko Enpresen, Elkarteen, Hauteskundeen eta Hitzarmenen Erregistrorako Bulegoa"
+2011,8314,Koordinazioaren eta Laguntza Teknikoaren Atala
+2011,83140,Koordinazioaren eta Laguntza Teknikoaren Atala
+2011,84,Nafar Lasarea
+2011,840,Nafar Lasarea
+2011,8400,Nafar Lasarea
+2011,84000,Nafar Lasarea
+2011,84001,Zuzendaritzako Idazkaritzaren Bulegoa
+2011,841,Enplegua eta Aukera Berdintasuna Sustatzeko Zerbitzua
+2011,8410,Enplegua eta Aukera Berdintasuna Sustatzeko Zerbitzua
+2011,84100,Enplegua eta Aukera Berdintasuna Sustatzeko Zerbitzua
 2011,8411,Sección de Ayudas al Empleo
 2011,84110,Sección de Ayudas al Empleo
-2011,84111,Negociado de Programas Propios
-2011,84112,Negociado de Integración Laboral de Discapacitados
-2011,84113,Negociado de Promoción de la Economía Social
+2011,84111,Programa Propioen Bulegoa
+2011,84112,Desgaituak Laneratzeko Bulegoa
+2011,84113,Ekonomia Soziala Bultzatzeko Bulegoa
 2011,84114,Negociado de Iniciativas Comunitarias
 2011,8412,Sección de Inserción Laboral e Igualdad de Oportunidades
 2011,84120,Sección de Inserción Laboral e Igualdad de Oportunidades
 2011,84122,Negociado de Igualdad de Oportunidades y Ayudas a la Inserción
 2011,84123,Negociado de Ayudas a Entidades Locales
 2011,84124,Negociado de Escuelas Taller
-2011,842,Servicio de Formación
-2011,8420,Servicio de Formación
-2011,84200,Servicio de Formación
-2011,8421,Sección de Programas y Seguimiento de la Calidad de la Formación Profesional para el Empleo
-2011,84210,Sección de Programas y Seguimiento de la Calidad de la Formación Profesional para el Empleo
+2011,842,Prestakuntza Zerbitzua
+2011,8420,Prestakuntza Zerbitzua
+2011,84200,Prestakuntza Zerbitzua
+2011,8421,Enplegurako Lanbide Heziketako Programen eta Kalitatearen Jarraipenaren Atala
+2011,84210,Enplegurako Lanbide Heziketako Programen eta Kalitatearen Jarraipenaren Atala
 2011,84213,Negociado de Programación
-2011,8422,Sección de Gestión de la Formación Profesional para el Empleo
-2011,84220,Sección de Gestión de la Formación Profesional para el Empleo
-2011,84223,Negociado de Formación en la Empresa y Programas Específicos
-2011,84224,Negociado de Formación Externa a la Empresa
-2011,8423,Sección de Desarrollo de la Formación para el Empleo
-2011,84230,Sección de Desarrollo de la Formación para el Empleo
-2011,84233,Negociado de Metodología de la Formación
+2011,8422,Enplegurako Lanbide Heziketaren Kudeaketarako Bulegoa
+2011,84220,Enplegurako Lanbide Heziketaren Kudeaketarako Bulegoa
+2011,84223,Enpresako Prestakuntzaren eta Programa Espezifikoen Bulegoa
+2011,84224,Enpresa Kanpoko Prestakuntzaren Bulegoa
+2011,8423,Enplegurako Lanbide Heziketaren Garapenerako Bulegoa
+2011,84230,Enplegurako Lanbide Heziketaren Garapenerako Bulegoa
+2011,84233,Prestakuntzaren Metodologiaren Bulegoa
 2011,842A,Centro de Formación Iturrondo
 2011,842A0,Centro de Formación Iturrondo
 2011,842B,Centro Referencia Nacional de Energías Renovables y Eficiencia Energética-Área de formación para el empleo
 2011,842B0,Centro Referencia Nacional de Energías Renovables y Eficiencia Energética-Área de formación para el empleo
-2011,844,Servicio de Asistencia Técnica y Administrativa
-2011,8440,Servicio de Asistencia Técnica y Administrativa
-2011,84400,Servicio de Asistencia Técnica y Administrativa
-2011,8441,Sección de Gestión Económica
-2011,84410,Sección de Gestión Económica
-2011,84411,Negociado de Centro Contable
-2011,8442,Sección de Gestión Administrativa
-2011,84420,Sección de Gestión Administrativa
-2011,84421,Negociado de Registro y Personal
+2011,844,Laguntza Tekniko eta Administratiboko Zerbitzua
+2011,8440,Laguntza Tekniko eta Administratiboko Zerbitzua
+2011,84400,Laguntza Tekniko eta Administratiboko Zerbitzua
+2011,8441,Kudeaketa Ekonomikoaren Atala
+2011,84410,Kudeaketa Ekonomikoaren Atala
+2011,84411,Kontabilitate Zentroko Bulegoa
+2011,8442,Kudeaketa Administratiboaren Atala
+2011,84420,Kudeaketa Administratiboaren Atala
+2011,84421,Erregistroaren eta Langileen Bulegoa
 2011,845,Servicio de Intermediación y Observatorio
 2011,8450,Servicio de Intermediación y Observatorio
 2011,84500,Servicio de Intermediación y Observatorio
@@ -1459,40 +1459,40 @@
 2011,84507,Agencia de Empleo Aoiz
 2011,8452,Sección de Observatorio
 2011,84520,Sección de Observatorio
-2011,8453,Sección de Orientación
-2011,84530,Sección de Orientación
-2011,84531,Negociado de Gestión y Seguimiento de Proyectos y Acciones
-2011,8454,Sección de Intermediación
-2011,84540,Sección de Intermediación
-2011,84541,Negociado de Ofertas Externas
+2011,8453,Orientazio Atala
+2011,84530,Orientazio Atala
+2011,84531,Proiektu eta Ekintzen Kudeaketa eta Jarraipenerako Bulegoa
+2011,8454,Bitartekaritza Atala
+2011,84540,Bitartekaritza Atala
+2011,84541,Kanpoko Eskaintzen Bulegoa
 2011,8455,Agencia de Empleo Pamplona 1
 2011,84550,Agencia de Empleo Pamplona 1
 2011,8456,Agencia de Empleo Pamplona 2
 2011,84560,Agencia de Empleo Pamplona 2
 2011,8457,Agencia de Empleo Pamplona 3
 2011,84570,Agencia de Empleo Pamplona 3
-2011,8458,Agencia de Empleo de Tudela
-2011,84580,Agencia de Empleo de Tudela
+2011,8458,Tuterako Enplegu Bulegoa
+2011,84580,Tuterako Enplegu Bulegoa
 2011,9,"Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
 2011,90,"Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
 2011,900,"Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
 2011,9000,"Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
 2011,90000,"Departamento de Asuntos Sociales, Familia, Juventud y Deporte"
-2011,902,Secretaría General Técnica
-2011,9020,Secretaría General Técnica
-2011,90200,Secretaría General Técnica
+2011,902,Idazkaritza Tekniko Orokorra
+2011,9020,Idazkaritza Tekniko Orokorra
+2011,90200,Idazkaritza Tekniko Orokorra
 2011,90201,Negociado de Igualdad y Gestión de Personal
-2011,9021,Sección de Gestión Presupuestaria
-2011,90210,Sección de Gestión Presupuestaria
-2011,90211,Negociado de Contabilidad y Gestión Presupuestaria
+2011,9021, Aurrekontuen Kudeaketarako Atala
+2011,90210, Aurrekontuen Kudeaketarako Atala
+2011,90211,Aurrekontuen Kudeaketa eta Kontabilitateko Bulegoa
 2011,9022,"Sección de Régimen Jurídico-Administrativo de Familia, Juventud, Deporte e Igualdad"
 2011,90220,"Sección de Régimen Jurídico-Administrativo de Familia, Juventud, Deporte e Igualdad"
-2011,9023,Sección de Gestión de la Información
-2011,90230,Sección de Gestión de la Información
+2011,9023,Informazioa Kudeatzeko Atala
+2011,90230,Informazioa Kudeatzeko Atala
 2011,9024,Sección de Régimen Jurídico-Administrativo de Asuntos Sociales
 2011,90240,Sección de Régimen Jurídico-Administrativo de Asuntos Sociales
-2011,90241,Negociado de Asuntos Administrativos
-2011,90242,Negociado de Registro y Archivo
+2011,90241,Administrazio Aferetarako Bulegoa
+2011,90242,Erregistro eta Agiritegi Bulegoa
 2011,91,Dirección General de Asuntos Sociales y Cooperación al Desarrollo
 2011,910,Dirección General de Asuntos Sociales y Cooperación al Desarrollo
 2011,9100,Dirección General de Asuntos Sociales y Cooperación al Desarrollo
@@ -1511,46 +1511,46 @@
 2011,91401,Negociado de Producción y Difusión de Documentos de Planificación de  Servicios Sociales
 2011,9141,Sección de Planificación y Programación
 2011,91410,Sección de Planificación y Programación
-2011,91411,Negociado de Coordinación de Planes Generales
+2011,91411,Plan Orokorrak Koordinatzeko Bulegoa
 2011,9142,"Sección de Investigación, Análisis y Difusión"
 2011,91420,"Sección de Investigación, Análisis y Difusión"
 2011,915,Servicio de Calidad e Inspección
 2011,9150,Servicio de Calidad e Inspección
 2011,91500,Servicio de Calidad e Inspección
-2011,9151,Sección de Calidad
-2011,91510,Sección de Calidad
-2011,9152,Sección de Inspección
-2011,91520,Sección de Inspección
+2011,9151,Kalitatearen Atala
+2011,91510,Kalitatearen Atala
+2011,9152,Ikuskapen Atala
+2011,91520,Ikuskapen Atala
 2011,91522,Negociado de Gestión y Control de Deuda
 2011,916,Servicio de Incorporación Social
 2011,9160,Servicio de Incorporación Social
 2011,91600,Servicio de Incorporación Social
 2011,9161,Sección de Incorporación Social
 2011,91610,Sección de Incorporación Social
-2011,91612,Negociado de Pensiones
+2011,91612,Pentsioen Bulegoa
 2011,917,Servicio de Coordinación y Cooperación con las  Entidades Locales
 2011,9170,Servicio de Coordinación y Cooperación con las Entidades Locales
 2011,91700,Servicio de Coordinación y Cooperación con las Entidades Locales
-2011,9171,Sección de Atención Primaria
-2011,91710,Sección de Atención Primaria
+2011,9171,Oinarrizko Laguntzaren Atala
+2011,91710,Oinarrizko Laguntzaren Atala
 2011,918,Agencia Navarra para la Dependencia
 2011,9180,Agencia Navarra para la Dependencia
 2011,91800,Agencia Navarra para la Dependencia
-2011,91802,Sección de Coordinación Administrativa de Prestaciones
+2011,91802,Prestazioen Koordinazio Administratiboaren Atala
 2011,9181,Subdirección de Promoción de la Autonomía Personal y Prevención de la Dependencia
 2011,91810,Subdirección de Promoción de la Autonomía Personal y Prevención de la Dependencia
 2011,91811,Sección de Programas
-2011,91812,Sección de Valoración
+2011,91812,Balorazio Atala
 2011,9182,Subdirección de Gestión
 2011,91820,Subdirección de Gestión
 2011,91821,Sección de Contratos
 2011,91822,Sección de Inversiones y Obras
 2011,91824,Sección de Gestión de Obras y Suministros
-2011,9183,Subdirección de Servicios para la Dependencia
-2011,91830,Subdirección de Servicios para la Dependencia
-2011,91831,Sección de Servicios para Personas Mayores
-2011,91832,Sección de Servicios para Personas con Discapacidad
-2011,91833,Sección de Personal
+2011,9183,Mendekotasunerako Zerbitzuen Zuzendariordetza
+2011,91830,Mendekotasunerako Zerbitzuen Zuzendariordetza
+2011,91831,Adinekoentzako Zerbitzuen Atala
+2011,91832,Desgaitasuna duten Pertsonentzako Zerbitzuen Atala
+2011,91833,Langileriaren Atala
 2011,92,"Dirección General de Familia, Infancia y Consumo"
 2011,920,"Dirección General de Familia, Infancia y Consumo"
 2011,9200,"Dirección General de Familia, Infancia y Consumo"
@@ -1558,7 +1558,7 @@
 2011,922,Servicio de Promoción de la Familia
 2011,9220,Servicio de Promoción de la Familia
 2011,92200,Servicio de Promoción de la Familia
-2011,92201,Negociado de Familia
+2011,92201,Familia Bulegoa
 2011,9221,Sección de Familia
 2011,92210,Sección de Familia
 2011,923,"Servicio de Promoción, Atención y Protección a la Infancia y Adolescencia"
@@ -1566,8 +1566,8 @@
 2011,92300,"Servicio de Promoción, Atención y Protección a la Infancia y Adolescencia"
 2011,9231,Sección de Protección del Menor
 2011,92310,Sección de Protección del Menor
-2011,92311,Negociado de Atención a Menores en Dificultad Social
-2011,92312,Negociado de Atención a Menores en Conflicto Social y Reforma
+2011,92311,Arazo Sozialak dituzten Adingabeei Laguntza Emateko Bulegoa
+2011,92312,Gizartearekin Gatazkan eta Zentzatzeko bidean dauden Adingabeei Laguntza Emateko Bulegoa
 2011,92313,Negociado de Acogimiento Familiar y Adopción Nacional
 2011,92314,Negociado de Adopción Internacional
 2011,924,Servicio de Consumo
@@ -1578,10 +1578,10 @@
 2011,92411,Negociado de Inspección de Consumo
 2011,9242,Sección de Arbitraje de Consumo
 2011,92420,Sección de Arbitraje de Consumo
-2011,94,Instituto Navarro para la Igualdad
-2011,940,Instituto Navarro para la Igualdad
-2011,9400,Instituto Navarro para la Igualdad
-2011,94000,Instituto Navarro para la Igualdad
+2011,94,Nafarroako Berdintasunerako Institutua
+2011,940,Nafarroako Berdintasunerako Institutua
+2011,9400,Nafarroako Berdintasunerako Institutua
+2011,94000,Nafarroako Berdintasunerako Institutua
 2011,941,Subdirección de Planificación y Gestión de las Políticas de Igualdad
 2011,9410,Subdirección de Planificación y Gestión de las Políticas de Igualdad
 2011,94100,Subdirección de Planificación y Gestión de las Políticas de Igualdad
@@ -1598,25 +1598,25 @@
 2011,95100,Subdirección de Deporte
 2011,95101,Dirección del Estadio Larrabide
 2011,95102,Dirección del Centro Recreativo Guelbenzu
-2011,9511,Sección de Promoción Deportiva
-2011,95110,Sección de Promoción Deportiva
-2011,95111,Negociado de Fomento Deportivo
-2011,95113,Negociado de Juegos Deportivos
-2011,9512,Sección de Entidades y Rendimiento Deportivo
-2011,95120,Sección de Entidades y Rendimiento Deportivo
-2011,95121,Negociado de Federaciones Deportivas
-2011,95123,Negociado de Tecnificación Deportiva
-2011,95124,Negociado de Clubes y Rendimiento Deportivo
-2011,9513,"Centro de Estudios, Investigación y Medicina del Deporte"
-2011,95130,"Centro de Estudios, Investigación y Medicina del Deporte"
-2011,95131,Unidad Técnica de Asistencia
-2011,95132,Unidad Técnica de Investigación
-2011,95133,Unidad Técnica de Formación
+2011,9511,Kirola Sustatzeko Atala
+2011,95110,Kirola Sustatzeko Atala
+2011,95111,Kirola Sustatzeko Bulegoa
+2011,95113,Kirol Jokoen Bulegoa
+2011,9512,Entitateen eta Kirol-errendimenduaren Atala
+2011,95120,Entitateen eta Kirol-errendimenduaren Atala
+2011,95121,Kirol Federazioen Bulegoa
+2011,95123,Kirol Teknifikazioaren Bulegoa
+2011,95124,Kluben eta Kirol-errendimenduaren Bulegoa
+2011,9513,"Kirolaren Azterlan, Ikerketa eta Medikuntzako Zentroa"
+2011,95130,"Kirolaren Azterlan, Ikerketa eta Medikuntzako Zentroa"
+2011,95131,Laguntzako Unitate Teknikoa
+2011,95132,Ikerkuntzako Unitate Teknikoa
+2011,95133,Prestakuntzako Unitate Teknikoa
 2011,953,Servicio de Secretaría General y Organos Colegiados del Deporte
 2011,9530,Servicio de Secretaría General y Organos Colegiados del Deporte
 2011,95300,Servicio de Secretaría General y Organos Colegiados del Deporte
-2011,95302,Negociado de Gestión Económico-Administrativa y Procedimental
-2011,95303,"Negociado de Gestión Interna, Logística y de Personal"
+2011,95302,Gai Ekonomiko-Administratiboak eta Prozedurak Kudeatzeko Bulegoa
+2011,95303,"Barne Kudeaketaren, Logistikaren eta Langileriaren Bulegoa"
 2011,954,Servicio de Infraestructuras Deportivas
 2011,9540,Servicio de Infraestructuras Deportivas
 2011,95400,Servicio de Infraestructuras Deportivas
@@ -1626,18 +1626,18 @@
 2011,960,Instituto Navarro de la Juventud
 2011,9600,Instituto Navarro de la Juventud
 2011,96000,Instituto Navarro de la Juventud
-2011,9602,Sección de Planificación y Observatorio Joven
-2011,96020,Sección de Planificación y Observatorio Joven
-2011,96021,Negociado de Información y Formación
+2011,9602,Plangintzaren eta Gazteriaren Behatokiaren Atala
+2011,96020,Plangintzaren eta Gazteriaren Behatokiaren Atala
+2011,96021,Argibide eta Prestakuntza Bulegoa
 2011,96022,Negociado del Observatorio Joven
 2011,961,Subdirección de Juventud
 2011,9610,Subdirección de Juventud
 2011,96100,Subdirección de Juventud
-2011,9613,Sección de Programas para Jóvenes y de Relaciones con Entidades
-2011,96130,Sección de Programas para Jóvenes y de Relaciones con Entidades
-2011,96131,Negociado de Movilidad Juvenil
+2011,9613,Gazteentzako Programen eta Entitateekiko Harremanen Atala
+2011,96130,Gazteentzako Programen eta Entitateekiko Harremanen Atala
+2011,96131,Gazte Mugikortasunerako Bulegoa
 2011,96132,Negociado de Creatividad Juvenil y otros servicios
-2011,96133,Negociado de Entidades Locales y Asociaciones Juveniles
+2011,96133,Toki Entitateen eta Gazte Elkarteen Bulegoa
 2011,9614,Sección de Secretaría General e Infraestructuras
 2011,96140,Sección de Secretaría General e Infraestructuras
 2011,96141,Negociado de Asuntos Económicos y Administrativos
@@ -1647,17 +1647,17 @@
 2011,A00,Departamento de Cultura y Turismo-Institución Príncipe de Viana
 2011,A000,Departamento de Cultura y Turismo-Institución Príncipe de Viana
 2011,A0000,Departamento de Cultura y Turismo-Institución Príncipe de Viana
-2011,A01,Secretaría General Técnica
-2011,A010,Secretaría General Técnica
-2011,A0100,Secretaría General Técnica
-2011,A011,Sección de Régimen Jurídico
-2011,A0110,Sección de Régimen Jurídico
-2011,A012,Sección de Gestión Administrativa
-2011,A0120,Sección de Gestión Administrativa
-2011,A0121,Negociado de Asuntos Administrativos
-2011,A013,Sección de Presupuestos y Gestión Económica
-2011,A0130,Sección de Presupuestos y Gestión Económica
-2011,A0131,Negociado de Gestión Económica
+2011,A01,Idazkaritza Tekniko Orokorra
+2011,A010,Idazkaritza Tekniko Orokorra
+2011,A0100,Idazkaritza Tekniko Orokorra
+2011,A011,Araubide Juridikoaren Atala
+2011,A0110,Araubide Juridikoaren Atala
+2011,A012,Kudeaketa Administratiboaren Atala
+2011,A0120,Kudeaketa Administratiboaren Atala
+2011,A0121,Administrazio Aferetarako Bulegoa
+2011,A013,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2011,A0130,Aurrekontuen eta Kudeaketa Ekonomikoaren Atala
+2011,A0131,Kudeaketa Ekonomikorako Bulegoa
 2011,A1,Dirección General de Turismo
 2011,A10,Dirección General de Turismo
 2011,A100,Dirección General de Turismo
@@ -1667,7 +1667,7 @@
 2011,A1100,Servicio de Ordenación y Desarrollo de Productos Turísticos
 2011,A111,Sección de Ordenación
 2011,A1110,Sección de Ordenación
-2011,A1111,Negociado de Inspección
+2011,A1111,Ikuskaritza Bulegoa
 2011,A112,Sección de Desarrollo de Productos Turísticos y Calidad
 2011,A1120,Sección de Desarrollo de Productos Turísticos y Calidad
 2011,A1121,Negociado de Iniciativas y Fomento
@@ -1676,7 +1676,7 @@
 2011,A1200,Servicio de Marketing Turístico
 2011,A121,Sección de Medios Promocionales
 2011,A1210,Sección de Medios Promocionales
-2011,A1212,Negociado de Soportes para la Promoción Turística
+2011,A1212,Turismoa Sustatzeko Euskarrien Bulegoa
 2011,A122,Sección de Acciones Promocionales
 2011,A1220,Sección de Acciones Promocionales
 2011,A2,Dirección General de Cultura
@@ -1685,100 +1685,100 @@
 2011,A2000,Dirección General de Cultura
 2011,A201,"Sección de Promoción, Edición y Nuevas Tecnologías"
 2011,A2010,"Sección de Promoción, Edición y Nuevas Tecnologías"
-2011,A2011,Negociado de Publicaciones
-2011,A21,Servicio de Patrimonio Histórico
-2011,A210,Servicio de Patrimonio Histórico
-2011,A2100,Servicio de Patrimonio Histórico
-2011,A211,Sección de Patrimonio Arquitectónico
-2011,A2110,Sección de Patrimonio Arquitectónico
-2011,A2111,Negociado de Conservación del Patrimonio Arquitectónico
-2011,A2112,Negociado de Protección del Patrimonio
-2011,A212,Sección de Arqueología
-2011,A2120,Sección de Arqueología
-2011,A213,Sección de Bienes Muebles y Registro del Patrimonio
-2011,A2130,Sección de Bienes Muebles y Registro del Patrimonio
-2011,A22,Servicio de Archivos y Patrimonio Documental
-2011,A220,Servicio de Archivos y Patrimonio Documental
-2011,A2200,Servicio de Archivos y Patrimonio Documental
-2011,A221,Sección de Archivo Real y General de Navarra
-2011,A2210,Sección de Archivo Real y General de Navarra
-2011,A222,Sección de Gestión del Patrimonio Documental
-2011,A2220,Sección de Gestión del Patrimonio Documental
-2011,A2221,Negociado de Administración y Servicios
-2011,A23,Servicio de Museos
-2011,A230,Servicio de Museos
-2011,A2300,Servicio de Museos
-2011,A231,Sección de Museos
-2011,A2310,Sección de Museos
-2011,A232,Sección de Museo de Navarra
-2011,A2320,Sección de Museo de Navarra
-2011,A2321,Negociado de Vigilancia y Organización del Museo de Navarra
-2011,A24,Servicio de Bibliotecas
-2011,A240,Servicio de Bibliotecas
-2011,A2400,Servicio de Bibliotecas
+2011,A2011,Argitalpen Bulegoa
+2011,A21,Historia Ondarearen Zerbitzua
+2011,A210,Historia Ondarearen Zerbitzua
+2011,A2100,Historia Ondarearen Zerbitzua
+2011,A211,Ondare Arkitektonikoaren Atala
+2011,A2110,Ondare Arkitektonikoaren Atala
+2011,A2111,Ondare Arkitektonikoa Zaintzeko Bulegoa
+2011,A2112,Ondarea Babesteko Bulegoa
+2011,A212,Arkeologia Atala
+2011,A2120,Arkeologia Atala
+2011,A213,Ondasun Higigarrien eta Ondarearen Erregistroaren Atala
+2011,A2130,Ondasun Higigarrien eta Ondarearen Erregistroaren Atala
+2011,A22,Artxiboen eta Ondare Dokumentalaren Zerbitzua
+2011,A220,Artxiboen eta Ondare Dokumentalaren Zerbitzua
+2011,A2200,Artxiboen eta Ondare Dokumentalaren Zerbitzua
+2011,A221,Nafarroako Errege Artxibo Nagusiaren Atala
+2011,A2210,Nafarroako Errege Artxibo Nagusiaren Atala
+2011,A222,Dokumentu Ondarea Kudeatzeko Atala
+2011,A2220,Dokumentu Ondarea Kudeatzeko Atala
+2011,A2221,Administrazio eta Zerbitzuen Bulegoa
+2011,A23,Museo Zerbitzua
+2011,A230,Museo Zerbitzua
+2011,A2300,Museo Zerbitzua
+2011,A231,Museoen Atala
+2011,A2310,Museoen Atala
+2011,A232,Nafarroako Museoaren Atala
+2011,A2320,Nafarroako Museoaren Atala
+2011,A2321,Nafarroako Museoaren Barne Antolaketa eta Zainketako Bulegoa
+2011,A24,Liburutegien Zerbitzua
+2011,A240,Liburutegien Zerbitzua
+2011,A2400,Liburutegien Zerbitzua
 2011,A241,Sección de Biblioteca General de Navarra
 2011,A2410,Sección de Biblioteca General de Navarra
-2011,A2412,Negociado de Patrimonio Bibliográfico
-2011,A2413,Negociado de Atención al Usuario
-2011,A242,Sección de Red de Bibliotecas
-2011,A2420,Sección de Red de Bibliotecas
-2011,A2422,Negociado de Gestión y Recursos Bibliotecarios
-2011,A2423,Negociado de Gestión del Fondo Documental
-2011,A25,Servicio de Acción Cultural
-2011,A250,Servicio de Acción Cultural
-2011,A2500,Servicio de Acción Cultural
+2011,A2412,Ondare Bibliografikoaren Bulegoa
+2011,A2413,Erabiltzaileari Erantzuteko Bulegoa
+2011,A242,Liburutegi Sarearen Atala
+2011,A2420,Liburutegi Sarearen Atala
+2011,A2422,Kudeaketaren eta Liburutegietako Baliabideen Bulegoa
+2011,A2423,Fondo Dokumentala Kudeatzeko Bulegoa
+2011,A25,Kultur Ekintzako Zerbitzua
+2011,A250,Kultur Ekintzako Zerbitzua
+2011,A2500,Kultur Ekintzako Zerbitzua
 2011,A251,Sección de Programas Artísticos
 2011,A2510,Sección de Programas Artísticos
 2011,A252,Sección del Libro y Publicaciones
 2011,A2520,Sección del Libro y Publicaciones
 2011,A253,Sección de Convocatorias y Ayudas
 2011,A2530,Sección de Convocatorias y Ayudas
-2011,A2531,Negociado de Infraestructuras Culturales
+2011,A2531,Kultur Azpiegituren Bulegoa
 2011,B,Departamento de Relaciones Institucionales y Portavoz del Gobierno
 2011,B0,Departamento de Relaciones Institucionales y Portavoz del Gobierno
 2011,B00,Departamento de Relaciones Institucionales y Portavoz del Gobierno
 2011,B000,Departamento de Relaciones Institucionales y Portavoz del Gobierno
 2011,B0000,Departamento de Relaciones Institucionales y Portavoz del Gobierno
-2011,B01,Secretaría General Técnica
-2011,B010,Secretaría General Técnica
-2011,B0100,Secretaría General Técnica
-2011,B012,Sección de Gestión Administrativa
-2011,B0120,Sección de Gestión Administrativa
-2011,B013,Sección Económica
-2011,B0130,Sección Económica
+2011,B01,Idazkaritza Tekniko Orokorra
+2011,B010,Idazkaritza Tekniko Orokorra
+2011,B0100,Idazkaritza Tekniko Orokorra
+2011,B012,Kudeaketa Administratiboaren Atala
+2011,B0120,Kudeaketa Administratiboaren Atala
+2011,B013,Ekonomia Atala
+2011,B0130,Ekonomia Atala
 2011,B02,Oficina de Atención a la Inmigración
 2011,B020,Oficina de Atención a la Inmigración
 2011,B0200,Oficina de Atención a la Inmigración
 2011,B021,Sección de Gestión y Coordinación de Programas
 2011,B0210,Sección de Gestión y Coordinación de Programas
-2011,B1,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2011,B10,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2011,B100,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2011,B1000,Dirección General de Comunicación-Oficina del Portavoz del Gobierno de Navarra
-2011,B11,Servicio de Comunicación
-2011,B110,Servicio de Comunicación
-2011,B1100,Servicio de Comunicación
-2011,B1101,Negociado de Secretaría
-2011,B111,Sección de Gabinete de Prensa
-2011,B1110,Sección de Gabinete de Prensa
-2011,B112,Sección de Promoción
-2011,B1120,Sección de Promoción
+2011,B1,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2011,B10,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2011,B100,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2011,B1000,Komunikazioko Zuzendaritza Nagusia - Nafarroako Gobernuko Eledunaren Bulegoa
+2011,B11,Komunikazio Zerbitzua
+2011,B110,Komunikazio Zerbitzua
+2011,B1100,Komunikazio Zerbitzua
+2011,B1101,Idazkaritza Bulegoa
+2011,B111,Prentsa Bulegoaren Atala
+2011,B1110,Prentsa Bulegoaren Atala
+2011,B112,Sustapen Atala
+2011,B1120,Sustapen Atala
 2011,B113,Sección de Portal y Medios Audiovisuales
 2011,B1130,Sección de Portal y Medios Audiovisuales
-2011,B2,Dirección General de Relaciones Institucionales
-2011,B20,Dirección General de Relaciones Institucionales
-2011,B200,Dirección General de Relaciones Institucionales
-2011,B2000,Dirección General de Relaciones Institucionales
-2011,B21,Servicio de Relaciones con el Parlamento de Navarra y otras Instituciones
-2011,B210,Servicio de Relaciones con el Parlamento de Navarra y otras Instituciones
+2011,B2,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2011,B20,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2011,B200,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2011,B2000,Erakundeekiko Harremanetako Zuzendaritza Nagusia
+2011,B21,Nafarroako Parlamentuarekiko eta beste Erakundeekiko Harremanetako Zerbitzua
+2011,B210,Nafarroako Parlamentuarekiko eta beste Erakundeekiko Harremanetako Zerbitzua
 2011,B2100,Servicio de Relaciones con el Parlamento de Navarra y otras instituciones
 2011,B211,Sección de Relaciones con Instituciones forales
 2011,B2110,Sección de Relaciones con Instituciones forales
 2011,B2111,Negociado de Relaciones Institucionales y Gestión Administrativa
 2011,B212,Sección de Relaciones con Instituciones autonómicas y estatales
 2011,B2120,Sección de Relaciones con Instituciones autonómicas y estatales
-2011,B213,Sección de Relaciones con Instituciones Europeas e Internacionales
-2011,B2130,Sección de Relaciones con Instituciones Europeas e Internacionales
+2011,B213,Europako eta Nazioarteko Erakundeekiko Harremanetarako Atala
+2011,B2130,Europako eta Nazioarteko Erakundeekiko Harremanetarako Atala
 2011,B22,Servicio de Protocolo
 2011,B220,Servicio de Protocolo
 2011,B2200,Servicio de Protocolo
@@ -1791,38 +1791,38 @@
 2011,B2400,Servicio de Publicaciones y Proyección de Navarra
 2011,B241,Sección de gestión de publicaciones
 2011,B2410,Sección de gestión de publicaciones
-2011,B2411,Negociado de Producción y Diseño Gráfico de Publicaciones
-2011,B2412,Negociado de Promoción y Difusión de Publicaciones
-2011,B2413,Negociado de Almacén de Publicaciones
+2011,B2411,Argitalpenen Ekoizpen eta Diseinu Grafikorako Bulego
+2011,B2412,Argitalpenen Sustapen eta Hedapen Bulegoa
+2011,B2413,Argitalpenen Biltegiaren Bulegoa
 2011,B242,Sección de Proyección de Navarra
 2011,B2420,Sección de Proyección de Navarra
 2011,B3,Dirección General-Delegación del Gobierno de Navarra en Madrid
 2011,B30,Dirección General-Delegación del Gobierno de Navarra en Madrid
 2011,B300,Dirección General-Delegación del Gobierno de Navarra en Madrid
 2011,B3000,Dirección General-Delegación del Gobierno de Navarra en Madrid
-2011,C,Consejo de Navarra
-2011,C0,Consejo de Navarra
-2011,C00,Consejo de Navarra
-2011,C000,Consejo de Navarra
-2011,C0000,Consejo de Navarra
+2011,C,Nafarroako Kontseilua
+2011,C0,Nafarroako Kontseilua
+2011,C00,Nafarroako Kontseilua
+2011,C000,Nafarroako Kontseilua
+2011,C0000,Nafarroako Kontseilua
 2011,CFNA,Comunidad Foral de Navarra
-2011,D,Consejo Audiovisual de Navarra
-2011,D0,Consejo Audiovisual de Navarra
-2011,D00,Consejo Audiovisual de Navarra
-2011,D000,Consejo Audiovisual de Navarra
-2011,D0000,Consejo Audiovisual de Navarra
-2011,ONV,Ceges no válidos
+2011,D,Nafarroako Ikus-entzunezkoen Batzordea
+2011,D0,Nafarroako Ikus-entzunezkoen Batzordea
+2011,D00,Nafarroako Ikus-entzunezkoen Batzordea
+2011,D000,Nafarroako Ikus-entzunezkoen Batzordea
+2011,D0000,Nafarroako Ikus-entzunezkoen Batzordea
+2011,ONV,Kudeaketa-zentro ez baliagarriak
 2011,P,Parlamento de Navarra
-2011,P0,Cámara Legislativa
-2011,P00,Cámara Legislativa
-2011,P000,Cámara Legislativa
-2011,P0000,Cámara Legislativa
-2011,P1,Cámara de Comptos
-2011,P10,Cámara de Comptos
-2011,P100,Cámara de Comptos
-2011,P1000,Cámara de Comptos
-2011,P2,Defensor del Pueblo
-2011,P20,Defensor del Pueblo
-2011,P200,Defensor del Pueblo
-2011,P2000,Defensor del Pueblo
+2011,P0,Ganbara Legegilea
+2011,P00,Ganbara Legegilea
+2011,P000,Ganbara Legegilea
+2011,P0000,Ganbara Legegilea
+2011,P1,Nafarroako Kontuen Ganbera
+2011,P10,Nafarroako Kontuen Ganbera
+2011,P100,Nafarroako Kontuen Ganbera
+2011,P1000,Nafarroako Kontuen Ganbera
+2011,P2,Arartekoa
+2011,P20,Arartekoa
+2011,P200,Arartekoa
+2011,P2000,Arartekoa
 2011,17217,Sección de los Impuestos sobre la Renta de las Personas Físicas y sobre el Patrimonio
