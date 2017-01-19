@@ -32,7 +32,7 @@ class NavarraBudgetLoader(BudgetLoader):
         return categories
 
     def add_institutional_category(self, items, line):
-        description = line[2] if line[3] == "" else line[3]
+        description = line[2]
         description = self._escape_unicode(description)
 
         # Navarra has too many levels of institutional hierarchy. We're just going
