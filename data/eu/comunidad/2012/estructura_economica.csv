@@ -8,8 +8,8 @@
 2012,GASTO,9,,,,Finantza-pasiboak
 2012,GASTO,1,0,,,Goi-kargudunak
 2012,GASTO,1,1,,,Behin-behineko langileak
-2012,GASTO,1,2,,,
-2012,GASTO,1,4,,,
+2012,GASTO,1,2,,,Lanpostuaren ordainsariak
+2012,GASTO,1,4,,,Langileen ordainsariak
 2012,GASTO,1,6,,,"Kuotak, prestazioak eta gizarte-gastuak"
 2012,GASTO,1,7,,,Langileen ordainsari aldagarriak
 2012,GASTO,1,8,,,Langileen beste ordainsari batzuk
@@ -24,13 +24,13 @@
 2012,GASTO,3,4,,,Gordailuen eta fidantzen gastu finantzarioak
 2012,GASTO,3,5,,,Berandutze-interesak eta beste gastu finantzario batzuk
 2012,GASTO,4,0,,,Estatuko administrazioari egindako transferentzia arruntak
-2012,GASTO,4,3,,,
+2012,GASTO,4,3,,,Fundazioei egindako transferentzia arruntak
 2012,GASTO,4,4,,,Enpresa publikoei eta beste erakunde publiko batzuei egindako transferentzia arruntak
 2012,GASTO,4,6,,,Tokiko erakundeei egindako transferentzia arruntak
 2012,GASTO,4,7,,,Enpresa pribatuei egindako transferentzia arruntak
 2012,GASTO,4,8,,,Familiei eta irabazi-asmorik gabeko erakundeei egindako transferentzia arruntak
 2012,GASTO,6,0,,,Inbertsio errealak
-2012,GASTO,7,3,,,
+2012,GASTO,7,3,,,Fundazioei egindako kapital-transferentziak
 2012,GASTO,7,4,,,Enpresa publikoei eta beste erakunde publiko batzuei egindako kapital-transferentziak
 2012,GASTO,7,6,,,Tokiko erakundeei egindako kapital-transferentziak
 2012,GASTO,7,7,,,Enpresa pribatuei egindako kapital-transferentziak
@@ -49,7 +49,7 @@
 2012,GASTO,1,2,1,,Plantilla organikoko lanpostuetarako kontratatutako langileen ordainsariak
 2012,GASTO,1,2,2,,Kontratatutako langileen ordainsariak
 2012,GASTO,1,2,5,,Ordezkapenetarako kontratatutako langileen ordainsariak
-2012,GASTO,1,4,0,,
+2012,GASTO,1,4,0,,Langileen ordainsariak
 2012,GASTO,1,4,1,,Ibilbide profesionaleko ordainsariak
 2012,GASTO,1,6,0,,Gizarte-kuotak
 2012,GASTO,1,6,1,,Gizarte-prestazioak
@@ -92,7 +92,7 @@
 2012,GASTO,3,5,0,,Berandutze-interesak eta beste gastu finantzario batzuk
 2012,GASTO,4,0,0,,Hitzarmen Ekonomikoaren bidez Estatuari eginiko ekarpena
 2012,GASTO,4,0,9,,Estatuari edo bere erakunde autonomoei egindako bestelako ekarpenak
-2012,GASTO,4,3,0,,
+2012,GASTO,4,3,0,,Fundazioei egindako transferentzia arruntak
 2012,GASTO,4,4,0,,Enpresa publikoei egindako transferentzia arruntak
 2012,GASTO,4,4,5,,Beste erakunde publiko batzuei egindako transferentzia arruntak
 2012,GASTO,4,6,0,,Nafarroako tokiko erakundeei egindako transferentzia arruntak
@@ -108,7 +108,7 @@
 2012,GASTO,6,0,6,,Informazioa prozesatzeko ekipoak
 2012,GASTO,6,0,8,,Bestelako ibilgetu materiala
 2012,GASTO,6,0,9,,Ibilgetu immateriala
-2012,GASTO,7,3,0,,
+2012,GASTO,7,3,0,,Fundazioei egindako kapital-transferentziak
 2012,GASTO,7,4,0,,Enpresa publikoei egindako kapital-transferentziak
 2012,GASTO,7,4,5,,Beste erakunde publiko batzuei egindako kapital-transferentziak
 2012,GASTO,7,6,0,,Nafarroako tokiko erakundeei egindako kapital-transferentziak
@@ -123,7 +123,7 @@
 2012,GASTO,9,0,2,,Epe luzeko obligazioen eta bonuen amortizazioa
 2012,GASTO,9,1,2,,Epe luzeko maileguen eta aurrerakinen amortizazioa
 2012,GASTO,9,4,0,,"Gordailuak, fidantzak eta bestelakoak itzultzea"
-2012,GASTO,1,0,0,0,
+2012,GASTO,1,0,0,0,Goi-kargudunen lansariak
 2012,GASTO,1,0,0,1,Goi-kargudunen bestelako ordainsariak
 2012,GASTO,1,1,0,0,Behin-behineko langileen ordainsariak
 2012,GASTO,1,2,0,0,Langile finkoen ordainsariak
@@ -132,7 +132,7 @@
 2012,GASTO,1,2,2,0,Aldi baterako langileen ordainsariak
 2012,GASTO,1,2,2,1,Kanpainetarako kontratatutako aldi baterako langileen ordainsariak
 2012,GASTO,1,2,5,0,Ordezkapenetarako kontratatutako langileen ordainsariak
-2012,GASTO,1,4,0,0,
+2012,GASTO,1,4,0,0,Langileen ordainsariak
 2012,GASTO,1,4,1,0,Ibilbide profesionaleko ordainsariak
 2012,GASTO,1,6,0,0,Gizarte Segurantza
 2012,GASTO,1,6,0,9,Beste gizarte-kuota batzuk
@@ -201,7 +201,7 @@
 2012,GASTO,2,2,7,4,Segurtasun-zerbitzuak
 2012,GASTO,2,2,7,5,Hauteskunde-prozesuak eta herri-galdeketak
 2012,GASTO,2,2,7,6,Azterketa eta lan teknikoak
-2012,GASTO,2,2,7,7,
+2012,GASTO,2,2,7,7,Hondakinen kudeaketa
 2012,GASTO,2,2,7,8,Elikadura
 2012,GASTO,2,2,7,9,Hirugarrenek egindako bestelako lanak
 2012,GASTO,2,2,8,0,"Energia elektrikoa, ura eta gasa"
@@ -440,7 +440,7 @@
 2012,INGRESO,3,1,2,6,Gizarte-zerbitzuak ematearen ondoriozko diru-sarrerak
 2012,INGRESO,3,1,2,8,Erabilera bereziko osasun-arreta ematearen ondoriozko diru-sarrerak
 2012,INGRESO,3,1,2,9,Bestelako osasun- eta gizarte-zerbitzuak ematearen ondoriozko diru-sarrerak
-2012,INGRESO,3,1,3,0,
+2012,INGRESO,3,1,3,0,Garraio-zerbitzuak ematearen ondoriozko diru-sarrerak
 2012,INGRESO,3,1,9,1,Kartzelaldien ondoriozko diru-sarrerak
 2012,INGRESO,3,1,9,9,Bestelako zerbitzuak ematearen ondoriozko diru-sarrerak
 2012,INGRESO,3,3,0,2,Nekazaritza eta abeltzaintzako produktuen salmenta

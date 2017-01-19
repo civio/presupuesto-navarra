@@ -1,12 +1,12 @@
 2015,GASTO,1,,,,Langile-gastuak
 2015,GASTO,1,0,,,Goi-kargudunak
 2015,GASTO,1,0,0,,Goi-kargudunen lansariak eta bestelako ordainsariak
-2015,GASTO,1,0,0,0,
+2015,GASTO,1,0,0,0,Goi-kargudunen lansariak
 2015,GASTO,1,0,0,1,Goi-kargudunen bestelako ordainsariak
 2015,GASTO,1,1,,,Behin-behineko langileak
 2015,GASTO,1,1,0,,Behin-behineko langileen ordainsariak
 2015,GASTO,1,1,0,0,Behin-behineko langileen ordainsariak
-2015,GASTO,1,2,,,
+2015,GASTO,1,2,,,Lanpostuaren ordainsariak
 2015,GASTO,1,2,0,,Langile finkoen ordainsariak
 2015,GASTO,1,2,0,0,Langile finkoen ordainsariak
 2015,GASTO,1,2,1,,Plantilla organikoko lanpostuetarako kontratatutako langileen ordainsariak
@@ -17,9 +17,9 @@
 2015,GASTO,1,2,2,1,Kanpainetarako kontratatutako aldi baterako langileen ordainsariak
 2015,GASTO,1,2,5,,Ordezkapenetarako kontratatutako langileen ordainsariak
 2015,GASTO,1,2,5,0,Ordezkapenetarako kontratatutako langileen ordainsariak
-2015,GASTO,1,4,,,
-2015,GASTO,1,4,0,,
-2015,GASTO,1,4,0,0,
+2015,GASTO,1,4,,,Langileen ordainsariak
+2015,GASTO,1,4,0,,Langileen ordainsariak
+2015,GASTO,1,4,0,0,Langileen ordainsariak
 2015,GASTO,1,4,1,,Ibilbide profesionaleko ordainsariak
 2015,GASTO,1,4,1,0,Ibilbide profesionaleko ordainsariak
 2015,GASTO,1,6,,,"Kuotak, prestazioak eta gizarte-gastuak"
@@ -139,7 +139,7 @@
 2015,GASTO,2,2,7,4,Segurtasun-zerbitzuak
 2015,GASTO,2,2,7,5,Hauteskunde-prozesuak eta herri-galdeketak
 2015,GASTO,2,2,7,6,Azterketa eta lan teknikoak
-2015,GASTO,2,2,7,7,
+2015,GASTO,2,2,7,7,Hondakinen kudeaketa
 2015,GASTO,2,2,7,8,Elikadura
 2015,GASTO,2,2,7,9,Hirugarrenek egindako bestelako lanak
 2015,GASTO,2,2,8,,Hornidura osagarriak
@@ -216,8 +216,8 @@
 2015,GASTO,4,2,,,Gizarte Segurantzari egindako transferentzia arruntak
 2015,GASTO,4,2,0,,Gizarte Segurantzari egindako transferentzia arruntak
 2015,GASTO,4,2,0,0,Gizarte Segurantzari egindako transferentzia arruntak
-2015,GASTO,4,3,,,
-2015,GASTO,4,3,0,,
+2015,GASTO,4,3,,,Fundazioei egindako transferentzia arruntak
+2015,GASTO,4,3,0,,Fundazioei egindako transferentzia arruntak
 2015,GASTO,4,3,0,0,Foru-fundazioei egindako transferentzia arruntak
 2015,GASTO,4,3,0,9,Beste fundazio batzuei egindako transferentzia arruntak
 2015,GASTO,4,4,,,Enpresa publikoei eta beste erakunde publiko batzuei egindako transferentzia arruntak
@@ -317,8 +317,8 @@
 2015,GASTO,7,2,,,Gizarte Segurantzari egindako kapital-transferentziak
 2015,GASTO,7,2,0,,Gizarte Segurantzari egindako kapital-transferentziak
 2015,GASTO,7,2,0,0,Gizarte Segurantzari egindako kapital-transferentziak
-2015,GASTO,7,3,,,
-2015,GASTO,7,3,0,,
+2015,GASTO,7,3,,,Fundazioei egindako kapital-transferentziak
+2015,GASTO,7,3,0,,Fundazioei egindako kapital-transferentziak
 2015,GASTO,7,3,0,0,Foru-fundazioei egindako kapital-transferentziak
 2015,GASTO,7,3,0,9,Beste fundazio batzuei egindako kapital-transferentziak
 2015,GASTO,7,4,,,Enpresa publikoei eta beste erakunde publiko batzuei egindako kapital-transferentziak
@@ -521,7 +521,7 @@
 2015,INGRESO,3,1,2,8,Erabilera bereziko osasun-arreta ematearen ondoriozko diru-sarrerak
 2015,INGRESO,3,1,2,9,Bestelako osasun- eta gizarte-zerbitzuak ematearen ondoriozko diru-sarrerak
 2015,INGRESO,3,1,3,,Garraio-zerbitzuak ematea
-2015,INGRESO,3,1,3,0,
+2015,INGRESO,3,1,3,0,Garraio-zerbitzuak ematearen ondoriozko diru-sarrerak
 2015,INGRESO,3,1,9,,Bestelako zerbitzuak ematea
 2015,INGRESO,3,1,9,0,Informatika-zerbitzuak ematearen ondoriozko diru-sarrerak
 2015,INGRESO,3,1,9,1,Kartzelaldien ondoriozko diru-sarrerak
