@@ -28,7 +28,7 @@ $(document).ready(function(){
 // Calculate global budget indicators
 function calculateIndicators(chapterBreakdown, budgetStatuses, adjustInflationFn, uiState) {
   function format(amount) {
-    return formatAmount(adjustInflationFn(amount, uiState.year));
+    return Formatter.amount(adjustInflationFn(amount, uiState.year));
   }
 
   var gross_savings = getSum(chapterBreakdown, _.range(1, 6), 'income', uiState.year, budgetStatuses) -
