@@ -93,6 +93,10 @@ class NavarraBudgetLoader(BudgetLoader):
         raw_amount = line[8 if is_actual else 6]
         amount = self._read_english_number(raw_amount) if line[0]=='2011' else self._read_spanish_number(raw_amount)
 
+        # The final 2016 execution data for revenues is in negative, for unknown reasons
+        if not is_expense and line[0]=='2016':
+            amount = -amount
+
         # We need subheading+item_number to be consistent across departments,
         # since we're grouping all different items together using economic_uid().
         # That's not the case in Navarra, so we make sure each description
