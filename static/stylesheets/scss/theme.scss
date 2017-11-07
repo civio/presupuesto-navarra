@@ -345,6 +345,10 @@ table.table-grid tr td .toggle.collapse{
     margin-bottom: $grid-gutter-width/2;
   }
 
+  a{
+    color: $brand-terciary;
+  }
+
   .img-responsive {
     margin: 30px 0 30px;
   }
