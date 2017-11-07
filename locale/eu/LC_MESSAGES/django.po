@@ -121,3 +121,71 @@ msgstr "Gastu arrunten I. kapitulutik V.era bitartekoak – I., II. eta IV. kapi
 
 msgid "Ahorro bruto – capítulo IX de gastos (pasivos financieros)"
 msgstr "Aurrezki gordina – gastuen III. eta IX. kapituluak"
+
+# Visita guiada
+
+msgid "Visita guiada"
+msgstr "Bisita gidatu"
+
+msgid "De las grandes cifras al detalle"
+msgstr "Kopuru handietatik xehetasunetara"
+
+msgid "No solo lo presupuestado, también lo que gastamos"
+msgstr "Ez aurrekontuetan jasotakoa bakarrik, baita gastatzen duguna ere"
+
+msgid "Y, además, los ingresos"
+msgstr "Eta, gainera, diru-sarrerak"
+
+msgid "Ante la duda: usa el buscador"
+msgstr "Zalantzaren aurrean: bilatzailea erabili"
+
+msgid "La evolución desde 2011"
+msgstr "2011tik honako bilakaera"
+
+msgid "¿Quién lo gasta?"
+msgstr "Nork gastatzen du?"
+
+msgid "¿Y en qué se gasta?"
+msgstr "Zertan gastatzen da?"
+
+msgid "¿Cómo se distribuyen tus impuestos? / Lo que tú aportas"
+msgstr "Nola banatzen dira zure zergak? / Zure ekarpena"
+
+msgid "Ante cualquier duda, consulta ¿Qué significa...?"
+msgstr "Edozein zalantzaren aurrean, kontsultatu «Zer esan nahi du...?»"
+
+msgid "En la página de Presupuestos Generales de Navarra, cualquier ciudadano puede encontrar, a unos pocos clics, de forma visual y sin tener que pasar por páginas y páginas de tablas, cualquier línea de las cuentas de los últimos años. Si es la primera vez que consultas esta página y no sabes por dónde empezar, te acompañamos en esta sencilla visita guiada."
+msgstr "Nafarroako aurrekontu orokorrei buruzko orrian, edozein herritarrek azken urteetako kontuen edozein lerro aurki dezake, klik gutxi batzuk eginda, modu bisualean eta taulaz betetako orrialde pila bat pasatu behar izan gabe. Orri hori kontsultatzen duzun lehen aldia bada eta ez badakizu nondik hasi, bisita gidatu sinple honetan lagunduko dizugu."
+
+msgid "En la <a href=\"/es/\">portada</a>, lo primero que encontrarás es una <a href=\"/es/resumen\">visión global</a> que muestra el recorrido de tus impuestos, para que puedas tener una idea general de los ingresos y gastos de Navarra. También puedes acceder a la sección de <a href=\"/es/politicas#view=functional\">políticas</a>, donde verás, de un único vistazo, cómo se reparte el presupuesto y cuáles son los grandes bloques. Fíjate en los colores de la barra superior: estos bloques están agrupados por tipos básicos. Así, como comprobarás, el 46,3% de los presupuestos se destina a bienes públicos de carácter preferente: sanidad, educación y cultura."
+msgstr "<a href=\"/eu/\">Azalean</a>, lehenik eta behin, <a href=\"/eu/resumen\">ikuspegi globala</a> aurkituko duzu. Bertan, zure zergen ibilbidea agertzen da, Nafarroako diru-sarrerei eta gastuei buruzko ideia orokor bat izan dezazun. Horrez gain, <a href=\"/eu/politicas#view=functional\">politiken</a> atalera joan zaitezke. Bertan, begi-kolpe bakar batez, aurrekontua nola banatzen den eta bloke handiak zein diren ikusi ahal izango duzu. Begiratu goiko barrako koloreei: bloke horiek oinarrizko gaien arabera multzokatuta daude.  Hala, ikusiko duzun bezala, aurrekontuen % 46,3 lehentasunezko ondasun publikoetara bideratzen da: osasuna, hezkuntza eta kultura."
+
+msgid "Esas son las grandes cifras, pero puedes seguir explorando cada una de ellas en detalle hasta llegar a información mucho más precisa. Por ejemplo, desde <a href=\"/es/politicas/23/servicios-sociales-y-promocion-social#view=functional\">servicios sociales y promoción social</a> puedes pasar a <a href=\"/es/programas/231B/autonomia-personal-y-atencion-a-la-dependencia\">autonomía personal y atención a la dependencia</a> y consultar esta partida en detalle."
+msgstr "Horiek kopuru handiak dira, baina horietako bakoitza xeheki aztertzen jarraitu dezakezu, informazio askoz zehatzagora iritsi arte. Adibidez, <a href=\"/eu/politicas/23/servicios-sociales-y-promocion-social#view=functional\">gizarte-zerbitzuak eta gizarte-sustapena</a> ataletik, <a href=\"/eu/programas/231B/autonomia-personal-y-atencion-a-la-dependencia\">autonomia pertsonala eta mendetasunari arreta</a> ematea atalera pasatu zaitezke eta partida hori xeheki kontsultatu dezakezu."
+
+msgid "La web de los Presupuestos Generales de Navarra, además de informarte de forma visual sobre cómo se distribuyen los presupuestos, también refleja el estado de ejecución trimestral. ¿Qué significa esto? Que puedes conocer cuánto se ha gastado de cada partida hasta la fecha de actualización. De esta forma, lo gastado aparece junto a lo presupuestado en todas las tablas de la herramienta y, además, de forma gráfica, en las visualizaciones. ¿Ves las franjas rojas en el gráfico de <a href=\"/es/resumen\">visión global</a>? Pues muestran cuánto se ha gastado o ingresado, hasta el momento, sobre el total previsto en los presupuestos (que sería el área marcada en gris)."
+msgstr "Nafarroako aurrekontu orokorrei buruzko webgunean, aurrekontuak nola banatzen diren modu bisualean azaltzeaz gain, hiruhilekoko aurrekontu-gauzatzearen egoera ere islatzen da. Zer esan nahi du horrek? Eguneratze-datara arte partida bakoitzetik zenbat gastatu den jakin dezakezula. Horrela, gastatutakoa aurrekontuan jasotakoarekin batera agertzen da tresnako taula guztietan, eta gainera, modu grafikoan, bistaratzeetan. <a href=\"/eu/resumen\">Ikuspegi globala</a> atalean dagoen grafikoko banda gorriak ikusten dituzu? Bada dagokion unera arte zenbat diru gastatu edo bildu den erakusten dute, aurrekontuetan aurreikusitako kopuru osoaren gainean (grisez markatutako eremua izango litzateke)."
+
+msgid "También puedes consultar detalles sobre las partidas de ingresos. Este <a href=\"/es/politicas#view=income\">gráfico</a> muestra el reparto de los grandes bloques y cómo, por ejemplo, los impuestos directos sobre la renta son la mayor fuente de financiación del Gobierno de Navarra, seguidos por la recaudación del IVA y los impuestos sobre consumos específicos."
+msgstr "Halaber, diru-sarreren partidari buruzko xehetasunak kontsultatu ditzakezu. <a href=\"/eu/politicas#view=income\">Grafiko</a> honetan, bloke handien banaketa agertzen da, adibidez, errentaren gaineko zerga zuzenak, Nafarroako Gobernuaren finantzazio-iturri nagusia. Ondoren, berriz, BEZaren diru-bilketa eta kontsumo zehatzen gaineko zergak datoz."
+
+msgid "Si te interesa consultar una partida concreta, existe una opción más rápida y directa que navegar de arriba abajo. Puedes utilizar el buscador para explorar los presupuestos y encontrar aquello que necesites. Un ejemplo. Teclea la frase “violencia de género”. Obtendrás distintos resultados: desde un programa de gasto llamado <a href=\"/es/programas/2323/Actuaciones%20para%20la%20previsi%C3%B3n%20integral%20de%20la%20violencia%20de%20g%C3%A9nero#view=economic\">Actuaciones para la previsión integral de la violencia de género</a> a partidas de gasto en otros programas como los <a href=\"/es/programas/1321/seguridad-ciudadana#item=2017/2274/175\">servicios de seguridad para protección de víctimas</a>."
+msgstr "Partida zehatz bat kontsultatu nahi baduzu, goitik behera nabigatzea baino aukera azkarrago eta zuzenago bat dago. Bilatzailea erabil dezakezu aurrekontuak aztertzeko eta behar duzuna aurkitzeko. Jar dezagun adibide bat. Idatzi «genero-indarkeria» esaldia. Hainbat emaitza lortuko dituzu: <a href=\"/eu/programas/2323/Actuaciones%20para%20la%20previsi%C3%B3n%20integral%20de%20la%20violencia%20de%20g%C3%A9nero#view=economic\">Genero-indarkeria osotasunean prebenitzeko jarduketak</a> deitutako gastu-programa batetik hasita beste programa batzuetako gastu-partidetara –esaterako, <a href=\"/eu/programas/1321/seguridad-ciudadana#item=2017/2274/175\">Herritarrak babesteko segurtasun-zerbitzuak</a>–."
+
+msgid "Imagina que quieres comprobar cómo ha evolucionado un determinado gasto o ingreso en los últimos años. ¿Se destina más a esa partida o se ingresa más de un impuesto concreto ahora que hace unos años? La web de los Presupuestos Generales de Navarra contiene datos desde 2011 y te proporciona esa información. Así, por ejemplo, puedes saber cuánto se ha presupuestado, y gastado, en <a href=\"/es/programas/3322/Bibliotecas#view=economic\">bibliotecas</a> desde ese año."
+msgstr "Pentsa ezazu azken urteetan gastu edo diru-sarrera jakin batek zer bilakaera izan duen ikusi nahi duzula. Orain duela urte batzuk baino diru gehiago bideratzen da partida horretara edo zerga zehatz batek diru-sarrera gehiago dakartza? Nafarroako aurrekontu orokorrei buruzko webgunean 2011tik honako datuak daude eta informazio hori ematen dizu. Hala, adibidez, urte horretatik aurrera zenbateko aurrekontua izan den eta zenbat gastatu den jakin dezakezu, <a href=\"/eu/programas/3322/Bibliotecas#view=economic\">Liburutegiak</a> atalean"
+
+msgid "Lo que hemos repasado hasta ahora es lo que se denomina la clasificación funcional o por programas, es decir, a qué se destina el dinero. Pero, en muchos casos, es interesante saber qué organismo es el encargado de la gestión. Por ejemplo, en el programa de <a href=\"/es/politicas/31/sanidad#view=institutional\">Sanidad</a>, puedes ver, desglosada, la parte que gestiona la Gerencia del Servicio Navarro de Salud –Osasunbidea-."
+msgstr "Orain arte, sailkapen funtzionala edo programen araberakoa deitutakoa gainbegiratu dugu, hau da, dirua zertarako erabiltzen den. Baina, kasu askotan, zer erakundek kudeatzen duen jakitea interesgarria da. Adibidez, <a href=\"/eu/politicas/31/sanidad#view=institutional\">Osasuna</a> programan, Nafarroako Osasun Zerbitzuaren –Osasunbidea– kudeaketa sailak kudeatzen duen zatia ikus dezakezu, banakatuta."
+
+msgid "Por último, llegamos a la clasificación económica o, lo que es lo mismo, ¿en qué se gasta el dinero? Podemos ver si se trata de gastos de personal, gastos en bienes y servicios, inversiones o transferencias a otras entidades. Si volvemos a <a href=\"/es/programas/3322/Bibliotecas#view=economic\">bibliotecas</a>, comprobamos que la franja más destacada, en color azul, corresponde a los gastos de personal. Es decir, al pago de las nóminas. Y la tabla inferior confirma esta información: 3 de los 4,5 millones presupuestados para 2017 están destinados a los gastos de personal."
+msgstr "Azkenik, sailkapen ekonomikora iritsiko gara, edo beste hitz batzuetan esanda, dirua zertan gastatzen den ikustera. Langile-gastuak diren, ondasunen eta zerbitzuen gastuak, inbertsioak edo beste entitate batzuei egindako transferentziak. <a href=\"/eu/programas/3322/Bibliotecas#view=economic\">Liburutegiak</a> atalera itzuliz gero, gehien nabarmendutako barra, urdina, langile-gastuei dagokiela ikusiko dugu. Hau da, nominen ordainketari. Eta beheko taulak informazio hori baieztatzen du: 2017ko aurrekontuan jasotako 4,5 milioi euroetatik 3 milioi langile-gastuetara bideratuta daude."
+
+msgid "Otro ejemplo: en el programa de <a href=\"/es/programas/2315/proteccion-a-la-familia#view=economic\">protección a la familia</a> la franja más grande, siempre en azul, está destinada al pago de transferencias corrientes. En este caso, se trata del dinero que transfiere el Gobierno de Navarra a las familias, instituciones sin ánimo de lucro y a las entidades locales."
+msgstr "Beste adibide bat: <a href=\"/eu/programas/2315/proteccion-a-la-familia#view=economic\">Familientzako babesa</a> deituriko programan, barra handiena, urdinez betiere, transferentzia arruntak ordaintzera bideratuta dago. Kasu horretan, Nafarroako Gobernuak familiei, irabazi asmorik gabeko erakundeei eta toki-erakundeei transferitzen dien dirua da."
+
+msgid "Queremos que conozcas cómo se distribuye el dinero que aportas con tus impuestos. En la sección <a href=\"/es/recibo\">Lo que tú aportas</a> hemos incorporado una sencilla aplicación para que, indicando tus ingresos brutos anuales, puedas consultar de forma aproximada cómo se distribuye la carga fiscal que aportas como contribuyente. Por ejemplo, si tus ingresos brutos son de 25.000€ al año, calculamos que aportas un poco más de 7.100€ al Gobierno de Navarra vía IRPF, IVA e impuestos especiales, y te mostramos cómo se distribuyen en políticas como Sanidad (casi 2.000€) o Educación (unos 1.250€)."
+msgstr "Zure zergen bidez egiten duzun diru-ekarpena nola banatzen den jakitea nahi dugu. <a href=\"/eu/recibo\">Zure ekarpena</a> atalean, aplikazio sinple bat jarri dugu, zure urteko diru-sarrera gordinak adierazita, zergadun gisa egiten duzun diru-ekarpena gutxi gorabehera nola banatzen den kontsultatu ahal izan dezazun. Adibidez, urtean 25.000 euroko diru-sarrera gordinak baldin badituzu, PFEZaren, BEZaren eta zerga berezien bidez Nafarroako Gobernuari 7.100 € baino pixka bat gehiagoko ekarpena egiten diozula kalkulatzen dugu, eta politika zehatzetan nola banatzen den erakusten dizugu, adibidez: osasunean (ia 2.000 €) eta hezkuntzan (1.250 € inguru)."
+
+msgid "Conceptos como ahorro, tipos de clasificación del presupuesto (según queramos poner el foco en para qué se gasta, quién lo gasta o en qué se gasta) y definiciones de los principales impuestos están en el <a href=\"/es/glosario\">glosario</a> que encontrarás en ¿Qué significa...?. No te quedes con ninguna duda."
+msgstr "Hainbat kontzeptu –esaterako, aurrezpena, aurrekontuaren sailkapen motak (jakin nahi duguna zertarako gastatzen den, nork gastatzen duen edo zertan gastatzen den izatearen arabera)– eta zerga nagusien definizioak «Zer esan nahi du...?» atalean aurkituko duzun <a href=\"/eu/glosario\">glosarioan</a> daude. Kontsultatu zalantza guztiak."

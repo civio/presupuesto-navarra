@@ -138,6 +138,13 @@ h1, h2, h3, h4, h5, h6{
   }
 }
 
+// Fix menu options with guidedvisit
+@media (min-width: $screen-sm-min) {
+  .navbar-default .navbar-nav>li {
+      width: 20%;
+  }
+}
+
 // Makes sankey labels bigger
 @media (min-width: $screen-sm-min) {
   .sankey-container{
@@ -317,5 +324,49 @@ table.table-grid tr td .toggle.collapse{
     width: auto;
     vertical-align: middle;
     text-align: center;
+  }
+}
+
+// Guided Visit
+.guidedvisit-content{
+  padding-bottom: 2*$grid-gutter-width;
+
+  .lead{
+    font-size: 1.25em;
+    font-style: normal;
+  }
+
+  h3{
+    margin: $grid-gutter-width 0 2*$grid-gutter-width/3;
+  }
+
+  p{
+    font-size: 1.125em;
+    margin-bottom: $grid-gutter-width/2;
+  }
+
+  .img-responsive {
+    margin: 30px 0 30px;
+  }
+}
+
+.guidedvisit-menu{
+  padding: 0;
+  border-top: 1px solid mix( $brand-primary, white, 30% );
+
+  li{
+    list-style: none;
+    padding: 8px 0;
+    font-size: 1.125em;
+    border-bottom: 1px solid mix( $brand-primary, white, 30% );
+
+    a{
+      color: $text-color;
+
+      &:hover{
+        color: $brand-terciary;
+        text-decoration: none;
+      }
+    }
   }
 }

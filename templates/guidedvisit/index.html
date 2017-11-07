@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+{% block content %}
+
+{% load i18n %}
+
+<section class="guidedvisit" role="region">
+  
+  <!-- Politicas Header -->
+  <div class="guidedvisit-header section-header">
+    <div class="container">
+      <h2 class="page-title">{{ _('Visita guiada') }}</h2>
+    </div>
+  </div>
+
+  <!-- Policies Content -->
+  <div class="guidedvisit-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 hidden-xs hidden-sm">
+          <ul class="guidedvisit-menu">
+            <li><a href="#de-las-grandes-cifras-al-detalle">{{ _('De las grandes cifras al detalle') }}</a></li>
+            <li><a href="#no-solo-lo-presupuestado">{{ _('No solo lo presupuestado, también lo que gastamos') }}</a></li>
+            <li><a href="#ademas-los-ingresos">{{ _('Y, además, los ingresos') }}</a></li>
+            <li><a href="#usa-el-buscador">{{ _('Ante la duda: usa el buscador') }}</a></li>
+            <li><a href="#la-evolucion-desde-2011">{{ _('La evolución desde 2011') }}</a></li>
+            <li><a href="#quien-lo-gasta">{{ _('¿Quién lo gasta?') }}</a></li>
+            <li><a href="#en-que-se-gasta">{{ _('¿Y en qué se gasta?') }}</a></li>
+            <li><a href="#como-se-distribuyen-tus-impuestos">{{ _('¿Cómo se distribuyen tus impuestos? / Lo que tú aportas') }}</a></li>
+            <li><a href="#ante-cualquier-duda">{{ _('Ante cualquier duda, consulta ¿Qué significa...?') }}</a></li>
+          </ul>
+        </div>
+        <div class="col-md-9">
+          <p class="lead">{{ _('En la página de Presupuestos Generales de Navarra, cualquier ciudadano puede encontrar, a unos pocos clics, de forma visual y sin tener que pasar por páginas y páginas de tablas, cualquier línea de las cuentas de los últimos años. Si es la primera vez que consultas esta página y no sabes por dónde empezar, te acompañamos en esta sencilla visita guiada.') }}</p>
+
+          <h3 id="de-las-grandes-cifras-al-detalle">{{ _('De las grandes cifras al detalle') }}</h3>
+
+          <p>{{ _('En la <a href="/es/">portada</a>, lo primero que encontrarás es una <a href="/es/resumen">visión global</a> que muestra el recorrido de tus impuestos, para que puedas tener una idea general de los ingresos y gastos de Navarra. También puedes acceder a la sección de <a href="/es/politicas#view=functional">políticas</a>, donde verás, de un único vistazo, cómo se reparte el presupuesto y cuáles son los grandes bloques. Fíjate en los colores de la barra superior: estos bloques están agrupados por tipos básicos. Así, como comprobarás, el 46,3% de los presupuestos se destina a bienes públicos de carácter preferente: sanidad, educación y cultura.') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-1.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+
+          <p>{{ _('Esas son las grandes cifras, pero puedes seguir explorando cada una de ellas en detalle hasta llegar a información mucho más precisa. Por ejemplo, desde <a href="/es/politicas/23/servicios-sociales-y-promocion-social#view=functional">servicios sociales y promoción social</a> puedes pasar a <a href="/es/programas/231B/autonomia-personal-y-atencion-a-la-dependencia">autonomía personal y atención a la dependencia</a> y consultar esta partida en detalle.') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-2.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+
+          <h3 id="no-solo-lo-presupuestado">{{ _('No solo lo presupuestado, también lo que gastamos') }}</h3>
+
+          <p>{{ _('La web de los Presupuestos Generales de Navarra, además de informarte de forma visual sobre cómo se distribuyen los presupuestos, también refleja el estado de ejecución trimestral. ¿Qué significa esto? Que puedes conocer cuánto se ha gastado de cada partida hasta la fecha de actualización. De esta forma, lo gastado aparece junto a lo presupuestado en todas las tablas de la herramienta y, además, de forma gráfica, en las visualizaciones. ¿Ves las franjas rojas en el gráfico de <a href="/es/resumen">visión global</a>? Pues muestran cuánto se ha gastado o ingresado, hasta el momento, sobre el total previsto en los presupuestos (que sería el área marcada en gris).') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-3.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+
+          <h3 id="ademas-los-ingresos">{{ _('Y, además, los ingresos') }}</h3>
+
+          <p>{{ _('También puedes consultar detalles sobre las partidas de ingresos. Este <a href="/es/politicas#view=income">gráfico</a> muestra el reparto de los grandes bloques y cómo, por ejemplo, los impuestos directos sobre la renta son la mayor fuente de financiación del Gobierno de Navarra, seguidos por la recaudación del IVA y los impuestos sobre consumos específicos.') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-4.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+
+          <h3 id="usa-el-buscador">{{ _('Ante la duda: usa el buscador') }}</h3>
+
+          <p>{{ _('Si te interesa consultar una partida concreta, existe una opción más rápida y directa que navegar de arriba abajo. Puedes utilizar el buscador para explorar los presupuestos y encontrar aquello que necesites. Un ejemplo. Teclea la frase “violencia de género”. Obtendrás distintos resultados: desde un programa de gasto llamado <a href="/es/programas/2323/Actuaciones%20para%20la%20previsi%C3%B3n%20integral%20de%20la%20violencia%20de%20g%C3%A9nero#view=economic">Actuaciones para la previsión integral de la violencia de género</a> a partidas de gasto en otros programas como los <a href="/es/programas/1321/seguridad-ciudadana#item=2017/2274/175">servicios de seguridad para protección de víctimas</a>.') | safe }}</p>
+
+          <h3 id="la-evolucion-desde-2011">{{ _('La evolución desde 2011') }}</h3>
+
+          <p>{{ _('Imagina que quieres comprobar cómo ha evolucionado un determinado gasto o ingreso en los últimos años. ¿Se destina más a esa partida o se ingresa más de un impuesto concreto ahora que hace unos años? La web de los Presupuestos Generales de Navarra contiene datos desde 2011 y te proporciona esa información. Así, por ejemplo, puedes saber cuánto se ha presupuestado, y gastado, en <a href="/es/programas/3322/Bibliotecas#view=economic">bibliotecas</a> desde ese año.') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-5.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+
+          <h3 id="quien-lo-gasta">{{ _('¿Quién lo gasta?') }}</h3>
+
+          <p>{{ _('Lo que hemos repasado hasta ahora es lo que se denomina la clasificación funcional o por programas, es decir, a qué se destina el dinero. Pero, en muchos casos, es interesante saber qué organismo es el encargado de la gestión. Por ejemplo, en el programa de <a href="/es/politicas/31/sanidad#view=institutional">Sanidad</a>, puedes ver, desglosada, la parte que gestiona la Gerencia del Servicio Navarro de Salud –Osasunbidea-.') | safe }}</p>
+
+          <h3 id="en-que-se-gasta">{{ _('¿Y en qué se gasta?') }}</h3>
+
+          <p>{{ _('Por último, llegamos a la clasificación económica o, lo que es lo mismo, ¿en qué se gasta el dinero? Podemos ver si se trata de gastos de personal, gastos en bienes y servicios, inversiones o transferencias a otras entidades. Si volvemos a <a href="/es/programas/3322/Bibliotecas#view=economic">bibliotecas</a>, comprobamos que la franja más destacada, en color azul, corresponde a los gastos de personal. Es decir, al pago de las nóminas. Y la tabla inferior confirma esta información: 3 de los 4,5 millones presupuestados para 2017 están destinados a los gastos de personal.') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-6.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+
+          <p>{{ _('Otro ejemplo: en el programa de <a href="/es/programas/2315/proteccion-a-la-familia#view=economic">protección a la familia</a> la franja más grande, siempre en azul, está destinada al pago de transferencias corrientes. En este caso, se trata del dinero que transfiere el Gobierno de Navarra a las familias, instituciones sin ánimo de lucro y a las entidades locales.') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-7.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+        
+          <h3 id="como-se-distribuyen-tus-impuestos">{{ _('¿Cómo se distribuyen tus impuestos? / Lo que tú aportas') }}</h3>
+
+          <p>{{ _('Queremos que conozcas cómo se distribuye el dinero que aportas con tus impuestos. En la sección <a href="/es/recibo">Lo que tú aportas</a> hemos incorporado una sencilla aplicación para que, indicando tus ingresos brutos anuales, puedas consultar de forma aproximada cómo se distribuye la carga fiscal que aportas como contribuyente. Por ejemplo, si tus ingresos brutos son de 25.000€ al año, calculamos que aportas un poco más de 7.100€ al Gobierno de Navarra vía IRPF, IVA e impuestos especiales, y te mostramos cómo se distribuyen en políticas como Sanidad (casi 2.000€) o Educación (unos 1.250€).') | safe }}</p>
+
+          <img src="/static/assets/guidedvisit-8.{{ LANGUAGE_CODE }}.png" class="img-responsive" alt="" />
+        
+          <h3 id="ante-cualquier-duda">{{ _('Ante cualquier duda, consulta ¿Qué significa...?') }}</h3>
+
+          <p>{{ _('Conceptos como ahorro, tipos de clasificación del presupuesto (según queramos poner el foco en para qué se gasta, quién lo gasta o en qué se gasta) y definiciones de los principales impuestos están en el <a href="/es/glosario">glosario</a> que encontrarás en ¿Qué significa...?. No te quedes con ninguna duda.') | safe }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+{% endblock %}

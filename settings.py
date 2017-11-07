@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 from django.conf.urls import patterns, url
+from django.conf.urls.i18n import i18n_patterns
 
 MAIN_ENTITY_LEVEL = 'comunidad'
 MAIN_ENTITY_NAME = 'Navarra'
@@ -135,3 +136,9 @@ MAIN_ENTITY_LEGAL_URL   = 'http://www.navarra.es/home_es/Aviso/avisoLegal.htm'
 
 # Allow overriding of default treemap color scheme
 # COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
+
+# We can define additional URLs applicable only to the theme. These will get added
+# to the project URL patterns list.
+EXTRA_URLS = i18n_patterns('presupuesto-navarra.views',
+    url(r'^visita-guiada$', 'guidedvisit', name="guidedvisit"),
+)
