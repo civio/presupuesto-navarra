@@ -10,34 +10,35 @@
 2017,020002,04100,8311,000000,Reintegro de anticipos de sueldo,657.000,657.000,753.875
 2017,020002,04300,3128,000000,Asistencia sanitaria. Uso especial,408.000,408.000,0
 2017,020002,04310,8200,000000,Gestión del Montepío de funcionarios municipales,18.463.500,18.463.500,18.273.200
-2017,020003,04440,3070,000000,Tasas acadmicas y derechos de examen,17.000,17.000,55.203
+2017,020003,04440,3070,000000,Tasas académicas y derechos de examen,17.000,17.000,55.203
 2017,020003,04500,4000,000000,Cursos de formación continua (INAP estatal),482.900,542.740,594.830
 2017,030000,03000,3990,000000,Otros ingresos,10,10,25
 2017,030000,03000,4000,000000,Convenio con el Ministerio de Justicia,10,90.006,90.006
 2017,030001,03000,3990,000000,Ingresos derivados de actuaciones judiciales,1.200,14.782,93.226
 2017,050000,02000,3890,000000,Devolución de pagos,3.000,3.000,0
 2017,050000,02000,3990,000000,Otros ingresos,2.000,5.959,189.626
-2017,050000,02400,3010,000000,"Tasas por informes, certificados y dem s actuaciones administrativas",150.000,150.000,174.040
+2017,050000,02400,3010,000000,"Tasas por informes, certificados y demás actuaciones administrativas",150.000,150.000,174.040
 2017,050000,02400,3910,000000,Multas de juego,4.000,4.000,30
-2017,050000,02400,3910,000002,Multas de espect culos,70.000,70.000,67.810
+2017,050000,02400,3910,000002,Multas de espectáculos,70.000,70.000,67.810
 2017,050000,02400,3910,000003,Multas de seguridad ciudadana,200.000,200.000,1.018.098
 2017,050000,02400,3990,000002,Otros ingresos,10,10,0
 2017,050005,02930,3040,000000,Tasas por autorización de transportes especiales,575.000,575.000,622.346
 2017,050005,02930,3090,000000,Tasas por otras autorizaciones,400,400,987
-2017,051000,02100,3090,000000,"Tasas por informes, acompa¤amientos y otros",100.500,100.500,110.145
+2017,051000,02100,3090,000000,"Tasas por informes, acompañamientos y otros",100.500,100.500,110.145
 2017,051000,02100,3090,000002,Tasas por estancias de vehículos particulares en dependencias policiales,1.000,1.000,0
 2017,054000,02800,3090,000000,"Tasas por servicios de prevención, extinción de incendios y salvamento",20,20,0
 2017,054000,02800,3990,000000,Contribuciones especiales,2.400.000,2.681.000,2.681.122
-2017,054001,02500,3199,000000,Ingresos por traslado de cad veres por disposición judicial,10,10,0
+2017,054001,02500,3199,000000,Ingresos por traslado de cadáveres por disposición judicial,10,10,0
 2017,054002,02010,3010,000000,Tasas por servicios administrativos,700,700,739
-2017,054002,02010,3070,000000,Tasas acadmicas y derechos de examen,10,10,0
+2017,054002,02010,3070,000000,Tasas académicas y derechos de examen,10,10,0
 2017,054002,02010,3890,000000,Devolución de pagos,10,10,0
 2017,054002,02010,3990,000000,Otros ingresos,10,10,28
+2017,070005,05500,4909,000002,Ingresos POCTEFA proyecto Pyrenees,0,0,162.566
 2017,100000,10100,3010,000000,Tasas por servicios administrativos,1.500,1.500,807
 2017,110000,11100,8700,000000,Remanente de tesorería afecto,0,536.751,0
 2017,110001,11430,3010,000000,Tasas de la actividad mediadora en seguros privados,200,200,20
 2017,110001,11430,9000,000000,Emisiones de Deuda de Navarra,213.800.071,213.800.071,157.709.000
-2017,110001,11430,9110,000000,Prstamos en moneda nacional,203.928.289,221.293.289,338.000.000
+2017,110001,11430,9110,000000,Préstamos en moneda nacional,203.928.289,221.293.289,338.000.000
 2017,110003,11130,3800,000000,Reintegros,10,10,2.269.324
 2017,110003,11130,5200,000000,Intereses de cuentas corrientes,15.000,15.000,198.111
 2017,111000,11300,3910,000000,Penalizaciones por incumplimientos de contratos,10,10,0
@@ -54,23 +55,23 @@
 2017,111002,11300,5300,000000,"Dividendos, participaciones y beneficios",10,10,0
 2017,111002,11300,5400,000000,Rentas de inmuebles,309.250,309.250,404.227
 2017,111002,11300,5400,000002,Arrendamiento Petilla de Aragón,10,10,4.598
-2017,111002,11300,5500,000000,Concesión demanial garajes Gonz lez Tablas,29.660,29.660,49.594
+2017,111002,11300,5500,000000,Concesión demanial garajes González Tablas,29.660,29.660,49.594
 2017,111002,11300,6000,000000,Venta de terrenos,20.000,20.000,51.648
 2017,111002,11300,6000,000002,Reversión de terrenos,10,10,0
 2017,111002,11300,6100,000000,Venta de inmuebles,20.000,20.000,0
 2017,111002,11300,7400,000000,Ingresos de sociedades,10,10,0
-2017,111002,11300,7901,000000,Palacio Go¤i. Proyecto POCTEFA-Fondos FEDER,10,10,0
-2017,111002,11300,8212,000000,Reintegro prstamo concedido por la venta de bienes inmuebles a NASUVINSA,1.780.729,1.780.729,3.576.973
+2017,111002,11300,7901,000000,Palacio Goñi. Proyecto POCTEFA-Fondos FEDER,10,10,0
+2017,111002,11300,8212,000000,Reintegro préstamo concedido por la venta de bienes inmuebles a NASUVINSA,1.780.729,1.780.729,3.576.973
 2017,111002,11300,8600,000000,Enajenación de derechos de emisión de dióxido de carbono,0,0,6.753
 2017,150000,17000,3800,000000,Reintegros de ejercicios cerrados,10,10,0
 2017,152000,17500,3910,000000,Sanciones,10.700.000,10.700.000,17.293.751
-2017,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,239.811.531,239.811.531,298.164.526
+2017,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,239.811.531,239.811.531,303.944.721
 2017,152000,17520,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,5.991.000,5.991.000,5.761.249
-2017,152000,17520,1140,000000,Impuesto sobre depósitos en entidades de crdito,4.788.000,4.788.000,4.901.826
+2017,152000,17520,1140,000000,Impuesto sobre depósitos en entidades de crédito,4.788.000,4.788.000,4.901.826
 2017,152000,17520,1820,000000,Impuesto sobre grandes establecimientos comerciales,0,0,-4.697
 2017,152000,17520,1830,000000,Ingresos por gravamen premios de loterías,1.310.000,1.310.000,13.316.471
 2017,152000,17540,2100,000000,Ingresos por el IVA,415.209.077,415.209.077,417.725.777
-2017,152000,17550,1300,000000,Impuesto sobre la producción de la energía elctrica,23.470.000,23.470.000,30.335.860
+2017,152000,17550,1300,000000,Impuesto sobre la producción de la energía eléctrica,23.470.000,23.470.000,30.335.860
 2017,152000,17550,2200,000000,Ingresos por los impuestos especiales sobre el alcohol y bebidas derivadas,57.207.000,57.207.000,51.440.920
 2017,152000,17550,2201,000000,Ingresos por el Impuesto Especial sobre determinados medios de transporte,5.335.000,5.335.000,7.034.396
 2017,152000,17550,2202,000000,Ingresos por el Impuesto Especial sobre la cerveza,168.000,168.000,126.837
@@ -93,13 +94,13 @@
 2017,154003,17630,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,5.235.000,5.235.000,6.553.405
 2017,155002,17820,3890,000000,Ingresos por la compensación de costas en procedimientos de apremio,100.000,100.000,127.587
 2017,155002,17820,3912,000000,Recargos de apremio,5.500.000,5.500.000,10.657.548
-2017,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,886.000,886.000,411.435
+2017,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,886.000,886.000,430.413
 2017,155004,17810,3911,000000,Intereses de demora de deudas no aplazadas,10,10,5.844.738
-2017,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.000.000,4.000.000,8.469.292
+2017,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.000.000,4.000.000,8.433.317
 2017,156000,17900,3309,000000,Ingresos por venta de impresos,5.000,5.000,14.502
 2017,156000,17900,4600,000000,Convenio con Haciendas Locales de Navarra,65.000,65.000,0
-2017,157001,17A00,1005,000000,Ingresos por el IRPF,1.243.558.240,1.268.558.240,1.288.727.365
-2017,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros  fines de inters social",5.818.491,5.818.491,0
+2017,157001,17A00,1005,000000,Ingresos por el IRPF,1.243.558.240,1.268.558.240,1.282.947.169
+2017,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros  fines de interés social",5.818.491,5.818.491,0
 2017,157001,17A00,1100,000000,Ingresos por el Impuesto sobre el Patrimonio,47.855.000,47.855.000,39.037.444
 2017,160000,17100,2100,000002,Ajuste por el IVA,853.712.000,853.712.000,889.110.089
 2017,160000,17100,2200,000002,Ajuste fiscal I.E. Alcohol y bebidas derivadas,-41.619.000,-41.619.000,-37.957.881
@@ -116,10 +117,10 @@
 2017,400000,41000,3890,000000,Reintegros de la Seguridad Social,0,0,287.478
 2017,400000,41000,3911,000000,Intereses de demora,0,0,3.889
 2017,400000,41000,3990,000000,Ingresos varios,20.000,20.000,16.112
-2017,400000,41000,4000,000000,Implantación de nuevos ciclos de Formación Profesional B sica. Convenio MECD. FSE PO Plurirregional 2014/2020,1.138.643,1.138.643,1.626.191
-2017,400000,41000,4000,000002,"Implantación de nuevos itinerarios de ESO, 3§ y 4§. Convenio MECD. FSE PO Plurirregional 2014/2020",1.300.271,1.300.271,639.549
-2017,400000,41000,9110,000000,Implantación de nuevos ciclos de Formación Profesional B sica. Convenio MECD. FSE PO Plurirregional 2014/2020,1.138.643,1.138.643,1.626.191
-2017,400000,41000,9110,000002,"Implantación de nuevos itinerarios de ESO, 3§ y 4§. Convenio MECD. FSE PO Plurirregional 2014/2020",1.300.271,1.300.271,639.549
+2017,400000,41000,4000,000000,Implantación de nuevos ciclos de Formación Profesional Básica. Convenio MECD. FSE PO Plurirregional 2014/2020,1.138.643,1.138.643,1.626.191
+2017,400000,41000,4000,000002,"Implantación de nuevos itinerarios de ESO, 3º y 4º. Convenio MECD. FSE PO Plurirregional 2014/2020",1.300.271,1.300.271,639.549
+2017,400000,41000,9110,000000,Implantación de nuevos ciclos de Formación Profesional Básica. Convenio MECD. FSE PO Plurirregional 2014/2020,1.138.643,1.138.643,1.626.191
+2017,400000,41000,9110,000002,"Implantación de nuevos itinerarios de ESO, 3º y 4º. Convenio MECD. FSE PO Plurirregional 2014/2020",1.300.271,1.300.271,639.549
 2017,410001,41810,5400,000000,"Ingresos por arrendamiento de ""Casa Maxurrenea""",30.571,30.571,30.547
 2017,410002,41140,3800,000000,Devolución de becas,10,71.888,102.445
 2017,410002,41140,3800,000002,Devoluciones del programa de gratuidad,10,10,75.585
@@ -130,15 +131,15 @@
 2017,411001,41010,3911,000000,Intereses por devolución de ayudas,10,10,0
 2017,420000,42000,4000,000000,Desarrollo pruebas evaluación final,0,0,20.356
 2017,420001,42410,3070,000000,Tasas de expedición del título de aptitud en euskera,12.300,12.300,9.999
-2017,420001,42410,3100,000002,Derechos de ex menes para el título de aptitud en euskera,35.020,35.020,31.344
-2017,420001,42420,3100,000000,Derechos de ex menes para la prueba homologada de idiomas,10,10,0
-2017,420001,42440,3070,000000,Pruebas de acceso a los estudios superiores de dise¤o,1.020,1.020,429
-2017,420001,42440,5500,000000,"Concesión del servicio, Cafetería Ciudad de la M£sica",18.000,18.000,21.780
+2017,420001,42410,3100,000002,Derechos de exámenes para el título de aptitud en euskera,35.020,35.020,31.344
+2017,420001,42420,3100,000000,Derechos de exámenes para la prueba homologada de idiomas,10,10,0
+2017,420001,42440,3070,000000,Pruebas de acceso a los estudios superiores de diseño,1.020,1.020,429
+2017,420001,42440,5500,000000,"Concesión del servicio, Cafetería Ciudad de la Música",18.000,18.000,21.780
 2017,420002,42110,3070,000000,Tasas de expedición de títulos,295.000,295.000,324.382
 2017,420002,42110,3100,000000,Prestación de servicios educativos: Aulas Mentor,10,5.544,5.712
 2017,420003,42600,3070,000000,Pruebas de acceso grado medio y superior,15.000,15.000,10.377
 2017,420003,42600,3070,000002,Evaluación y acreditación de las competencias profesionales,5.000,5.000,105
-2017,420003,42600,3070,000003,Pruebas de acceso para ense¤anzas deportivas,10,10,3.920
+2017,420003,42600,3070,000003,Pruebas de acceso para enseñanzas deportivas,10,10,3.920
 2017,420003,42600,3070,000004,Pruebas libres modulares para la obtención de títulos de Formación Profesional,10,10,16.520
 2017,420003,42600,4000,000002,Desarrollo del Sistema Nacional de Cualificaciones y FP y mejora de la difusión de la FP,10,10,170.826
 2017,420003,42600,4000,000003,Ingresos para la formación permanente del profesorado,10,10,0
@@ -154,47 +155,47 @@
 2017,500000,51000,3890,000000,Devolución de pagos,3.000,3.000,24.101
 2017,500000,51000,3910,000000,Multas y sanciones,300.000,300.000,680.692
 2017,500000,51000,3911,000000,Intereses de demora,10,10,180
-2017,500000,51000,4000,000000,Devolución Subvención del Convenio con M§ de Ciencia e Innovación para instalación Imagen Mdica de Navarra,0,0,-300.000
+2017,500000,51000,4000,000000,Devolución Subvención del Convenio con Mº de Ciencia e Innovación para instalación Imagen Médica de Navarra,0,0,-300.000
 2017,511001,51110,3129,000000,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de farmacia),17.000,17.000,21.350
 2017,511001,51110,3129,000002,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de centros),35.000,35.000,50.536
 2017,511001,51110,3129,000003,Ingresos por prestaciones de otros servicios sanitarios (inspección y varios),3.000,3.000,8.290
 2017,511003,51110,4000,000000,Subvención en el programa de trasplantes,2.000,2.000,3.836
-2017,520000,51200,3090,000000,Tasas por an lisis de salud p£blica,20.000,20.000,2.921
+2017,520000,51200,3090,000000,Tasas por análisis de salud pública,20.000,20.000,2.921
 2017,520000,51200,3090,000001,Tasas de recogidas de perros,9.000,9.000,577
 2017,520000,51200,3090,000002,Otras tasas,200.000,200.000,167.998
 2017,520000,51200,3199,000000,Otros ingresos,10,10,0
 2017,520000,51200,3890,000000,Otros reintegros,10,10,15.902
 2017,520000,51200,3990,000000,Otros ingresos,10,10,0
 2017,520000,51200,4000,000000,"Transferencias del Ministerio de Sanidad, Servicios Sociales e Igualdad",118.000,118.000,118.000
-2017,520000,51200,4411,000000,Transferencias corrientes de entes p£blicos del Estado,26.866,26.866,0
+2017,520000,51200,4411,000000,Transferencias corrientes de entes públicos del Estado,26.866,26.866,0
 2017,520000,51200,4411,000002,Intensificación de la actividad investigadora,30.000,30.000,16.083
-2017,540000,52000,3070,000000,Tasas acadmicas y derechos de examen,0,0,328.682
+2017,540000,52000,3070,000000,Tasas académicas y derechos de examen,0,0,328.682
 2017,540000,52000,3129,000000,Otros ingresos,402.000,402.000,110.668
-2017,540000,52000,3800,000000,Reintegro de retribuciones abonadas indebidamente,10,10,720.239
+2017,540000,52000,3800,000000,Reintegro de retribuciones abonadas indebidamente,10,10,723.743
 2017,540000,52000,3990,000000,Otros ingresos,0,0,22.656
 2017,540002,52824,3129,000000,Otros ingresos,500,500,0
-2017,540005,52831,3303,000000,Venta de f rmacos extranjeros,15.000,15.000,10.201
+2017,540005,52831,3303,000000,Venta de fármacos extranjeros,15.000,15.000,10.201
 2017,540005,52831,4000,000000,Transferencia del Ministerio de Sanidad Uso Racional de los Medicamentos,0,339.511,339.511
 2017,541004,52700,3123,000000,Prestación de servicios,25.000,25.000,17.965
 2017,541004,52700,3890,000000,Otros reintegros,15.000,15.000,20.852
 2017,543000,52200,3123,000000,Prestación de servicios,6.150.000,6.150.000,5.104.049
 2017,543000,52200,3129,000000,Otros ingresos,125.000,125.000,664.923
 2017,543000,52200,3890,000000,Otros reintegros,72.000,72.000,65.283
-2017,543000,52200,3990,000000,Otros ingresos. F rmacos,10,613.396,614.371
+2017,543000,52200,3990,000000,Otros ingresos. Fármacos,10,613.396,614.371
 2017,543000,52200,4000,000000,Subvención para el programa de trasplantes,2.000,2.000,0
 2017,543000,52200,4410,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,0,108.000,125.000
 2017,543000,52200,4700,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,0,85.686,85.686
-2017,543004,52214,3309,000000,Suministros y productos hemoter picos,952.000,952.000,1.067.811
-2017,543004,52214,4000,000000,Transferencias del Ministerio de Sanidad. Plan Nacional de Donación de Mdula,0,0,461
+2017,543004,52214,3309,000000,Suministros y productos hemoterápicos,952.000,952.000,1.067.811
+2017,543004,52214,4000,000000,Transferencias del Ministerio de Sanidad. Plan Nacional de Donación de Médula,0,0,461
 2017,545000,52400,3123,000000,Prestación de servicios,1.240.000,1.240.000,1.329.870
 2017,545000,52400,3990,000000,Otros ingresos,38.000,38.000,43.023
-2017,545000,52400,3990,000002,Otros ingresos. F rmacos,10,10,0
+2017,545000,52400,3990,000002,Otros ingresos. Fármacos,10,10,0
 2017,545000,52400,4700,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,0,4.245,4.245
 2017,545001,52420,3123,000000,Prestación de servicios,48.000,48.000,80.250
 2017,545001,52420,4700,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,0,300,300
 2017,546000,52500,3123,000000,Prestación de servicios,465.000,465.000,621.021
 2017,546000,52500,3129,000000,Otros ingresos,12.000,12.000,10.410
-2017,546000,52500,3990,000000,Otros ingresos. F rmacos,10,17.158,17.148
+2017,546000,52500,3990,000000,Otros ingresos. Fármacos,10,17.158,17.148
 2017,546000,52500,4700,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,0,2.275,2.275
 2017,546001,52520,3123,000000,Prestación de servicios,60.000,60.000,141.773
 2017,546001,52520,4700,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,0,501,501
@@ -205,7 +206,7 @@
 2017,700000,70000,3090,000000,"Canon de ocupación ""Soto Berbel""",10,10,2.039
 2017,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,35.000,35.000,283.685
 2017,700000,70000,3890,000002,Ingresos por reintegros de subvenciones. PDR,200.000,200.000,180.767
-2017,700000,70000,3990,000000,Otros ingresos,25.000,25.000,51.093
+2017,700000,70000,3990,000000,Otros ingresos,25.000,25.000,51.194
 2017,710000,71210,3010,000000,Ingresos por tasas de certificación y registro,25.000,25.000,15.845
 2017,710000,71210,3910,000000,Sanciones,15.000,15.000,40.334
 2017,710000,71210,4903,000000,Actividades de demostración e información. PDR FEADER 2014-2020,195.000,195.000,652.581
@@ -223,11 +224,11 @@
 2017,710004,71320,7002,000000,Ingresos por sanidad animal. FEGA,400.000,400.000,346.158
 2017,720000,71500,3010,000000,Certificaciones,600,600,595
 2017,720000,71500,7600,000000,Inversiones para infraestructuras en regadío en comunales,0,223.424,753.809
-2017,720000,71510,5109,000000,Intereses de prstamos,4.035,4.035,4.956
+2017,720000,71510,5109,000000,Intereses de préstamos,4.035,4.035,4.956
 2017,720000,71510,7903,000000,Cofinanciación nuevos regadíos. PDR FEADER 2014-2020,119.644,119.644,0
 2017,720000,71510,7903,000003,Cofinanciación por concentración parcelaria. PDR FEADER 2014-2020,233.140,233.140,116.788
 2017,720000,71510,7903,000004,Cofinanciación infraestructuras locales ganaderas. PDR FEADER 2014-2020,128.099,128.099,0
-2017,720000,71510,8219,000000,Amortización de prstamos,46.790,46.790,42.786
+2017,720000,71510,8219,000000,Amortización de préstamos,46.790,46.790,42.786
 2017,720003,71620,3910,000000,Sanciones,60.000,60.000,28.158
 2017,720003,71620,4903,000000,Primeras incorporaciones Figuras Calidad PDR FEADER 2014-2020,930,930,0
 2017,720003,71620,4903,000002,Ayudas a figuras de calidad alimentaria. PDR FEADER 2014-2020,162.750,162.750,89.800
@@ -235,7 +236,7 @@
 2017,720004,71630,4903,000000,Cofinanciación del cese anticipado de la actividad agraria. PDR FEADER 2014-2020,46.500,46.500,92.684
 2017,720004,71630,7903,000000,Inversiones en explotaciones agrarias. PDR FEADER 2014-2020,4.873.514,4.873.514,1.290.522
 2017,720004,71630,7903,000002,Instalación de jóvenes agricultores. PDR FEADER 2014-2020,811.649,811.649,2.871.689
-2017,720006,71710,4903,000000,Cofinanciación por asistencia tcnica. PDR FEADER 2014-2020,83.700,83.700,33.164
+2017,720006,71710,4903,000000,Cofinanciación por asistencia técnica. PDR FEADER 2014-2020,83.700,83.700,33.164
 2017,720007,71720,7903,000002,Cofinanciación por estrategias de desarrollo local participativo. PDR FEADER 2014-2020,2.122.250,2.122.250,910.455
 2017,720007,71720,7903,000003,Cofinanciación por creación y desarrollo de empresas no agrarias en zonas rurales. PDR FEADER 2014-2020,96.100,96.100,0
 2017,720007,71720,7903,000004,Cofinanciación por proyectos piloto de cooperación. PDR FEADER 2014-2020,201.500,201.500,0
@@ -268,7 +269,7 @@
 2017,740005,74500,3910,000000,Multas e indemnizaciones,30.000,30.000,57.526
 2017,740007,74700,4000,000000,Transferencias para estadística del Ministerio de Medio Ambiente y Medio Rural y Marino,84.206,84.206,84.206
 2017,740007,74700,4901,000000,Ingresos de proyectos europeos,104.017,104.017,150.967
-2017,780000,78100,4410,000000,Consumo elctrico. Oficina del Defensor del Pueblo,10,10.730,10.720
+2017,780000,78100,4410,000000,Consumo eléctrico. Oficina del Defensor del Pueblo,10,10.730,10.720
 2017,780001,78000,3010,000000,Tasas por servicios administrativos,10,10,0
 2017,780001,78100,3800,000000,Reintegros de bonificaciones fiscales,0,0,5.530
 2017,780001,78200,3800,000000,Reintegro Fondo. Corporativos,10,10,0
@@ -278,11 +279,11 @@
 2017,800000,80100,3990,000000,Ingresos por expedientes de responsabilidad patrimonial,1.000,1.000,1.171
 2017,800000,80100,3990,000002,Otros ingresos,2.000,2.000,8.299
 2017,810003,81430,3800,000000,Ingresos por reintegro de Becas Navarra,10,10,223.321
-2017,810003,81430,4900,000002,Ingresos FSE-YEI 2014-2020 por Becas Navarra Pr cticas (PO Empleo Juvenil),148.529,148.529,1.645
-2017,810004,81410,4900,000004,Ingresos PO FSE 2014-2020 Asistencia Tcnica,10,10,4.620
-2017,810004,81410,4901,000003,Ingresos PO FEDER 2014-2020. Asistencia Tcnica,10,10,0
+2017,810003,81430,4900,000002,Ingresos FSE-YEI 2014-2020 por Becas Navarra Prácticas (PO Empleo Juvenil),148.529,148.529,1.645
+2017,810004,81410,4900,000004,Ingresos PO FSE 2014-2020 Asistencia Técnica,10,10,4.620
+2017,810004,81410,4901,000003,Ingresos PO FEDER 2014-2020. Asistencia Técnica,10,10,0
 2017,810004,81430,4901,000004,Ingresos PO FEDER 2014-2020 (Actuación subvenciones internacionalización),10,10,0
-2017,810005,81420,4901,000000,Ingresos FEDER Asistencia Tcnica Interreg V (POCTEFA) 2014-2020,10,10,0
+2017,810005,81420,4901,000000,Ingresos FEDER Asistencia Técnica Interreg V (POCTEFA) 2014-2020,10,10,0
 2017,810005,81420,4901,000002,Ingresos FEDER Proyecto Inside Out UE CTE Interreg Europe 2014-2020,10,10,0
 2017,810005,81420,4901,000003,Ingresos FEDER proyectos Interreg IV,10,10,166.113
 2017,810005,81430,3800,000000,Ingresos por reintegros de subvenciones,10,10,6.829
@@ -306,7 +307,7 @@
 2017,820002,82230,3800,000000,Reintegro de subvenciones a instalaciones energías renovables,10.000,10.000,29.919
 2017,820002,82230,4901,000002,Ingresos Programa EFIDISTRICT. FEDER,10,10,8.922
 2017,820002,82230,7901,000000,Ingresos Programa Operativo FEDER 2007-2013,10,10,0
-2017,820003,82230,3800,000000,Reintegro de subvenciones al ahorro y la eficiencia energtica,10.000,10.000,0
+2017,820003,82230,3800,000000,Reintegro de subvenciones al ahorro y la eficiencia energética,10.000,10.000,0
 2017,820003,82230,4000,000000,Ingresos convenio IDAE. Proyecto EFIDISTRICT,10,10,0
 2017,820004,82200,3050,000000,Tasas por autorizaciones y otras,560.000,560.000,529.020
 2017,820004,82200,3910,000000,Ingresos por sanciones,240.000,240.000,149.640
@@ -341,18 +342,18 @@
 2017,840000,84000,6000,000000,Ingresos por reversión de terrenos,10,10,111.766
 2017,840001,84330,7400,000000,"Aportación de Canal de Navarra, S.A., por expropiación de terrenos y servicios",10,10,1.563
 2017,840001,84340,3309,000000,"Ventas de planos, litovales y fotografías",3.500,3.500,5.236
-2017,840002,84100,5500,000000,Canon anual de la concesión del  rea de servicio de la Autovía del Camino,43.132,43.132,43.089
+2017,840002,84100,5500,000000,Canon anual de la concesión del área de servicio de la Autovía del Camino,43.132,43.132,43.089
 2017,840003,84200,3090,000000,Autorizaciones,15.000,15.000,15.593
 2017,840003,84200,3910,000000,Multas y sanciones,35.000,35.000,43.704
-2017,840003,84210,3990,000000,Ingresos por da¤os en se¤alización y otros,300.000,300.000,252.755
+2017,840003,84210,3990,000000,Ingresos por daños en señalización y otros,300.000,300.000,252.755
 2017,840004,84400,3010,000000,Tasas por servicios administrativos,70.000,70.000,204.162
 2017,840004,84400,3040,000000,Ingresos por tasas de tarjetas de transporte,145.000,145.000,63.564
-2017,840004,84400,3070,000000,Tasas de ex menes de transportista,18.000,18.000,21.557
+2017,840004,84400,3070,000000,Tasas de exámenes de transportista,18.000,18.000,21.557
 2017,840004,84400,3309,000000,Venta de tarjetas para tacógrafos digitales,100,67.882,89.674
 2017,840004,84400,3910,000000,Sanciones de transportes,2.300.000,2.300.000,1.620.425
-2017,840004,84410,3800,000000,Reintegro remanente aportación al transporte p£blico de la Comarca de Pamplona,0,0,94.777
-2017,840004,84410,3800,000002,Reintegro remanente aportación al transporte p£blico urbano municipal de otras zonas de Navarra. Tarifas sociales,1.000,1.000,0
-2017,840004,84410,7600,000000,Mancomunidad de la Comarca de Pamplona. Convenio tarjeta £nica de transporte,40.800,40.800,20.300
+2017,840004,84410,3800,000000,Reintegro remanente aportación al transporte público de la Comarca de Pamplona,0,0,94.777
+2017,840004,84410,3800,000002,Reintegro remanente aportación al transporte público urbano municipal de otras zonas de Navarra. Tarifas sociales,1.000,1.000,0
+2017,840004,84410,7600,000000,Mancomunidad de la Comarca de Pamplona. Convenio tarjeta única de transporte,40.800,40.800,20.300
 2017,900000,90000,3890,000000,Devolución de subvenciones,8.500,8.500,56.182
 2017,900000,90000,3910,000000,Multas y sanciones,85.000,85.000,150
 2017,900000,90000,3911,000000,Intereses de demora,10,10,0
@@ -366,13 +367,13 @@
 2017,900007,91200,3890,000000,Devolución de subvenciones de viviendas de protección oficial y rehabilitación,150.000,150.000,287.707
 2017,900007,91200,3910,000000,Multas e indemnizaciones,25.000,25.000,54.826
 2017,900007,91200,3990,000000,Otros ingresos,1.000,1.000,0
-2017,900007,91200,5109,000000,Ingresos financieros de intereses de prstamos de suelo y vivienda,1.000,1.000,35.767
+2017,900007,91200,5109,000000,Ingresos financieros de intereses de préstamos de suelo y vivienda,1.000,1.000,35.767
 2017,900007,91200,5400,000000,Alquileres de locales y viviendas,50.000,50.000,64.723
-2017,900007,91200,6000,000000,Ingresos por venta de suelo del Banco Foral de Suelo P£blico,85.000,85.000,0
+2017,900007,91200,6000,000000,Ingresos por venta de suelo del Banco Foral de Suelo Público,85.000,85.000,0
 2017,900007,91200,6100,000000,Ingresos por venta de bienes inmuebles adquiridos por derechos de tanteo y retracto,150.000,150.000,0
-2017,900007,91200,7901,000000,Rehabilitación de envolvente trmica en vivienda. P.O. FEDER 2014-2020,10,10,0
-2017,900007,91200,8219,000000,Devolución de prstamos concedidos a promotores p£blicos y asimilados,40.000,40.000,111.032
-2017,900007,91200,8311,000000,"Amortización de prstamos para viviendas, locales y suelo. Particulares",70.000,70.000,52.957
+2017,900007,91200,7901,000000,Rehabilitación de envolvente térmica en vivienda. P.O. FEDER 2014-2020,10,10,0
+2017,900007,91200,8219,000000,Devolución de préstamos concedidos a promotores públicos y asimilados,40.000,40.000,111.032
+2017,900007,91200,8311,000000,"Amortización de préstamos para viviendas, locales y suelo. Particulares",70.000,70.000,52.957
 2017,920000,93000,3126,000000,Ingresos por gestión de impagados de centros,170.000,170.000,361.022
 2017,920000,93000,3890,000000,Devolución de subvenciones,0,0,7.970
 2017,920000,93000,3990,000000,Otros ingresos,290.000,290.000,312.001
@@ -382,7 +383,7 @@
 2017,920002,93200,3126,000002,Ingresos de la Residencia El Vergel de Pamplona,1.400.000,1.400.000,1.333.584
 2017,920002,93200,3126,000003,Ingresos de la Residencia San Francisco Javier de Pamplona,650.000,650.000,630.062
 2017,920002,93200,3126,000004,Ingresos Ley 17/2000 aportación de usuarios de centros de la tercera edad,8.700.000,8.700.000,11.253.092
-2017,920003,93200,3126,000000,Ingresos del Centro San Jos,650.000,650.000,670.907
+2017,920003,93200,3126,000000,Ingresos del Centro San José,650.000,650.000,670.907
 2017,920003,93200,3126,000002,Ingresos de la Residencia Lur Gorri,42.000,42.000,41.725
 2017,920005,93100,3126,000000,Cuotas de usuarios del transporte adaptado y asistido,100.000,100.000,76.670
 2017,920005,93100,3126,000002,Ingresos del Servicio Telefónico de Emergencia,480.000,480.000,514.627
@@ -415,10 +416,10 @@
 2017,A20001,A2100,3199,000000,Ingresos en el Servicio de Patrimonio Histórico,10,10,0
 2017,A20001,A2110,7901,000000,Patrimonio arquitectónico. P.O. FEDER 2007-2013,301.492,301.492,0
 2017,A20002,A2510,3111,000000,Ingresos en el Servicio de Acción Cultural,15.000,15.000,0
-2017,A20002,A2510,5102,000000,Intereses de prstamos concedidos,0,0,10.000
+2017,A20002,A2510,5102,000000,Intereses de préstamos concedidos,0,0,10.000
 2017,A20003,A2310,3110,000002,Ingresos en el Museo del Carlismo,2.500,2.500,5.305
 2017,A20003,A2320,3110,000000,Ingresos en el Museo de Navarra,12.000,12.000,9.027
-2017,A21001,A2400,3111,000000,Actividades de promoción de bibliotecas p£blicas de Navarra,7.000,7.000,4.315
+2017,A21001,A2400,3111,000000,Actividades de promoción de bibliotecas públicas de Navarra,7.000,7.000,4.315
 2017,A21001,A2400,3199,000000,Ingresos en el Servicio de Bibliotecas,2.500,2.500,2.178
 2017,A21002,A2200,3199,000000,Ingresos en el Servicio de Archivos,12.000,12.000,16.099
 2017,A50000,A5420,3010,000000,Tasas por servicios administrativos,800,800,1.182
@@ -434,9 +435,9 @@
 2017,A50002,A5100,4800,000000,Transferencias corrientes de instituciones sin fines de lucro,10,10,0
 2017,A50003,A5200,3118,000002,Programas de juventud de actividades de verano,10,10,6.600
 2017,A50003,A5200,3810,000000,Reintegro de subvenciones,10,10,0
-2017,A50003,A5220,3309,000000,Ingresos del Carnet Joven (m s de 26 y otros),10.000,10.000,7.413
+2017,A50003,A5220,3309,000000,Ingresos del Carnet Joven (más de 26 y otros),10.000,10.000,7.413
 2017,A50003,A5220,3309,000002,Ingresos del Carnet Joven,10,167.442,198.023
-2017,B00002,B5000,3990,000000,Comit de las Regiones. Asistencia a sesiones,4.000,4.000,9.462
+2017,B00002,B5000,3990,000000,Comité de las Regiones. Asistencia a sesiones,4.000,4.000,9.462
 2017,B10001,B1100,3090,000000,Tasas por servicios audiovisuales,1.500,1.500,2.400
 2017,B10005,B1220,3304,000000,Ventas en el Fondo de Publicaciones,70.000,70.000,42.915
 2017,B10005,B1220,3304,000002,Ventas en otras librerías,50.000,50.000,54.521
@@ -446,7 +447,7 @@
 2017,B30000,B3000,3800,000000,Ingresos por devolución de ayudas,100,100,0
 2017,B30000,B3000,3810,000000,Reintegros del presupuesto corriente,0,0,50
 2017,B30000,B3000,3990,000000,Reintegro de gastos de viaje,0,0,247
-2017,B30000,B3000,4901,000000,Programa de cooperación transfronteriza: Espa¤a-Francia-Andorra POCTEFA. FEDER 2014-2020,18.252,18.252,0
+2017,B30000,B3000,4901,000000,Programa de cooperación transfronteriza: España-Francia-Andorra POCTEFA. FEDER 2014-2020,18.252,18.252,0
 2017,B30001,B3100,3010,000000,Tasa por copia de documento de convocatorias,0,0,1
 2017,B40000,B4000,3800,000000,Ingresos por devolución de subvenciones,0,0,15.703
-2017,B40002,B4200,4309,000000,Colaboración Campa¤a 25 noviembre,0,0,3.200
+2017,B40002,B4200,4309,000000,Colaboración Campaña 25 noviembre,0,0,3.200
