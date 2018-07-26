@@ -139,6 +139,6 @@ MAIN_ENTITY_LEGAL_URL   = 'http://www.navarra.es/home_es/Aviso/avisoLegal.htm'
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
-EXTRA_URLS = i18n_patterns('presupuesto-navarra.views',
+EXTRA_URLS = (
     url(r'^visita-guiada$', 'guidedvisit', name="guidedvisit"),
 )
