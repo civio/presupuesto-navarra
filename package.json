@@ -1,10 +1,10 @@
 {
-  "name": "presupuesto-navarra",
+  "name": "presupuesto-baleares",
   "version": "0.0.1",
   "author": "Fundación Civio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/civio/presupuesto-navarra"
+    "url": "https://github.com/civio/presupuesto-baleares"
   },
   "scripts": {
     "css-build": "node-sass --output-style compressed --source-map true static/stylesheets/scss/main.scss static/stylesheets/main.css",
@@ -12,10 +12,10 @@
     "browser-sync": "browser-sync start --files \"static/stylesheets/scss/*.scss, static/stylesheets/scss/*.js\" --proxy 127.0.0.1:8000 --reload-delay=500 --reload-debounce=500",
     "start": "concurrently --kill-others \"npm run css-watch\" \"npm run browser-sync\""
   },
-  "dependencies": {
-    "browser-sync": "^2.18.2",
-    "concurrently": "^3.1.0",
-    "node-sass": "^3.13.0",
-    "nodemon": "^1.11.0"
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "concurrently": "^4.0.1",
+    "node-sass": "^4.9.3",
+    "nodemon": "^1.18.4"
   }
 }
