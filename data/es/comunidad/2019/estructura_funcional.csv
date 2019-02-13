@@ -1,0 +1,362 @@
+#año,area,politica,grupo,programa,descripcion
+2019,1,,,,Servicios públicos básicos
+2019,1,1,,,Justicia
+2019,1,1,1,,Administración general de justicia
+2019,1,1,1,2,Dirección y servicios generales de justicia
+2019,1,1,1,5,Formación del personal de justicia
+2019,1,1,2,,Administración de justicia
+2019,1,1,2,1,Órganos judiciales
+2019,1,1,4,,Protección jurídica del menor
+2019,1,1,4,1,Protección jurídica del menor
+2019,1,3,,,Seguridad ciudadana e instituciones penitenciarias
+2019,1,3,1,,Administración general de seguridad y protección civil
+2019,1,3,1,1,Dirección y servicios generales de seguridad y protección civil
+2019,1,3,1,2,Formación de las fuerzas de la Policía Foral
+2019,1,3,2,,Seguridad y orden público
+2019,1,3,2,1,Seguridad ciudadana
+2019,1,3,2,2,Seguridad vial
+2019,1,3,2,4,Actuaciones policiales en otras materias
+2019,1,3,3,,Instituciones penitenciarias
+2019,1,3,3,1,Centros e instituciones penitenciarias
+2019,1,3,3,2,"Trabajo, formación y asistencia a reclusos"
+2019,1,3,4,,Protección civil
+2019,1,3,4,1,Protección civil
+2019,1,3,4,2,Prevención y extinción de incendios y salvamento
+2019,1,3,5,,Protección de datos
+2019,1,3,5,1,Protección de datos de carácter personal
+2019,1,4,,,Política exterior
+2019,1,4,3,,Cooperación para el desarrollo
+2019,1,4,3,1,Cooperación para el desarrollo
+2019,1,4,4,,"Cooperación, promoción y difusión cultural en el exterior"
+2019,1,4,4,1,"Cooperación, promoción y difusión cultural en el exterior"
+2019,1,4,5,,Relaciones con la Unión Europea
+2019,1,4,5,1,Relaciones con la Unión Europea
+2019,1,4,6,,Relaciones con el exterior
+2019,1,4,6,1,Relaciones con el exterior
+2019,2,,,,Actuaciones de protección y promoción social
+2019,2,1,,,Pensiones
+2019,2,1,1,,Pensiones contributivas
+2019,2,1,1,1,Pensiones contributivas
+2019,2,1,1,2,Pensiones de clases pasivas
+2019,2,1,1,3,Otras pensiones y prestaciones de clases pasivas
+2019,2,1,2,,Pensiones no contributivas
+2019,2,1,2,1,Pensiones no contributivas y prestaciones asistenciales
+2019,2,2,,,Otras prestaciones económicas
+2019,2,2,2,,Prestaciones económicas del mutualismo administrativo
+2019,2,2,2,1,Montepíos y mutualidades
+2019,2,2,3,,Prestaciones económicas por cese de actividad
+2019,2,2,3,1,Prestaciones económicas por cese de actividad
+2019,2,2,4,,Otras prestaciones económicas
+2019,2,2,4,1,Otras prestaciones económicas
+2019,2,3,,,Servicios sociales y promoción social
+2019,2,3,1,,Acción social
+2019,2,3,1,0,Programación general de protección y promoción social
+2019,2,3,1,2,Acciones en favor de la ciudadanía nacional en el exterior
+2019,2,3,1,3,Servicios sociales a personas con discapacidad
+2019,2,3,1,4,Servicios sociales a personas mayores
+2019,2,3,1,5,Protección a la familia
+2019,2,3,1,6,Reinserción social
+2019,2,3,1,7,Atención a la infancia
+2019,2,3,1,8,Acción social en favor del personal
+2019,2,3,1,9,Integración de los inmigrantes
+2019,2,3,1,A,Ayudas a entes locales para acción social
+2019,2,3,1,B,Autonomía personal y atención a la dependencia
+2019,2,3,2,,Promoción social
+2019,2,3,2,1,Promoción y servicios a la juventud
+2019,2,3,2,2,Igualdad de oportunidades entre mujeres y hombres
+2019,2,3,2,3,Actuaciones para la previsión integral de la violencia de género
+2019,2,3,2,4,Dirección y servicios generales de promoción social
+2019,2,3,3,,Administración general de protección social
+2019,2,3,3,1,Dirección y servicios generales de protección social
+2019,2,4,,,Fomento del empleo
+2019,2,4,1,,Promoción del empleo y de la inserción laboral
+2019,2,4,1,1,Fomento de la inserción y estabilidad laboral
+2019,2,4,1,2,Desarrollo de la economía social y de la responsabilidad social de las empresas
+2019,2,4,1,3,Actuaciones en el mercado de trabajo
+2019,2,4,2,,Formación profesional no reglada
+2019,2,4,2,1,Formación profesional ocupacional
+2019,2,4,2,2,"Escuelas taller, casas de oficios y talleres de empleo"
+2019,2,5,,,Desempleo
+2019,2,5,1,,Asistencia al desempleo
+2019,2,5,1,1,Prestaciones a los desempleados
+2019,2,6,,,Acceso a la vivienda y fomento de la edificación
+2019,2,6,1,,Acceso a la vivienda y fomento de la edificación
+2019,2,6,1,1,Dirección y servicios generales de vivienda
+2019,2,6,1,2,Promoción y administración de viviendas
+2019,2,6,1,3,Ordenación y fomento de la edificación
+2019,2,6,1,4,"Ayudas para rehabilitación, construcción y acceso a la vivienda"
+2019,2,6,1,5,Mantenimiento y mejora del patrimonio inmobiliario
+2019,2,6,1,6,Mantenimiento y mejora de la infraestructura urbana en el ámbito municipal
+2019,2,6,1,7,Urbanismo y política del suelo
+2019,3,,,,Producción de bienes públicos de carácter preferente
+2019,3,1,,,Sanidad
+2019,3,1,1,,Administración general de sanidad
+2019,3,1,1,1,Dirección y servicios generales de sanidad y política social
+2019,3,1,1,2,Formación sanitaria
+2019,3,1,2,,"Hospitales, servicios asistenciales y centros de salud"
+2019,3,1,2,1,Asistencia sanitaria del Mutualismo Administrativo
+2019,3,1,2,2,Atención primaria de salud
+2019,3,1,2,3,Atención especializada de salud
+2019,3,1,2,4,Asistencia psiquiátrica y psíquica
+2019,3,1,2,6,Asistencia sanitaria en otras instituciones sanitarias
+2019,3,1,2,7,Servicios auxiliares de centros sanitarios
+2019,3,1,2,8,Infraestructura y equipamiento de centros sanitarios
+2019,3,1,2,9,Servicios complementarios
+2019,3,1,3,,Acciones públicas relativas a la salud
+2019,3,1,3,1,Oferta y uso racional de medicamentos y productos sanitarios
+2019,3,1,3,2,Salud pública y sanidad exterior
+2019,3,1,3,3,Seguridad alimentaria y nutrición
+2019,3,1,3,4,"Terapias avanzadas, medicina regenerativa y trasplantes"
+2019,3,1,3,9,Otras acciones públicas de protección de la salud
+2019,3,2,,,Educación
+2019,3,2,1,,Administración general de educación
+2019,3,2,1,1,Dirección y servicios generales de educación
+2019,3,2,1,2,Formación permanente del profesorado de Educación
+2019,3,2,2,,Enseñanza
+2019,3,2,2,0,Dirección y servicios generales de enseñanza
+2019,3,2,2,1,Educación infantil
+2019,3,2,2,2,Educación secundaria
+2019,3,2,2,3,Enseñanzas universitarias
+2019,3,2,2,4,Educación especial
+2019,3,2,2,5,Enseñanzas artísticas
+2019,3,2,2,7,Educación compensatoria y de adultos
+2019,3,2,2,8,Educación permanente y a distancia no universitaria
+2019,3,2,2,9,"Otras enseñanzas (idiomas, especiales y otros)"
+2019,3,2,2,A,Nuevas tecnologías aplicadas a la educación
+2019,3,2,2,C,Bachillerato
+2019,3,2,2,D,Educación primaria
+2019,3,2,2,E,Formación profesional
+2019,3,2,2,F,Educación en el exterior
+2019,3,2,2,G,Deporte en edad escolar y en la universidad
+2019,3,2,3,,Promoción educativa
+2019,3,2,3,1,Becas y ayudas a estudiantes
+2019,3,2,4,,Servicios complementarios de la enseñanza
+2019,3,2,4,1,Servicios complementarios de la enseñanza
+2019,3,2,4,2,Apoyo a otras actividades educativas
+2019,3,2,5,,Infraestructura
+2019,3,2,5,1,"Construcción, equipamiento y material didáctico"
+2019,3,3,,,Cultura
+2019,3,3,1,,Administración general de cultura
+2019,3,3,1,1,Dirección y servicios generales de cultura
+2019,3,3,2,,Bibliotecas y archivos
+2019,3,3,2,1,Archivos
+2019,3,3,2,2,Bibliotecas
+2019,3,3,3,,Museos y artes plásticas
+2019,3,3,3,1,Museos
+2019,3,3,3,2,Exposiciones
+2019,3,3,4,,Promoción cultural
+2019,3,3,4,1,Promoción y cooperación cultural
+2019,3,3,4,2,Promoción del libro y publicaciones culturales
+2019,3,3,4,3,Fomento de las industrias culturales
+2019,3,3,5,,Artes escénicas
+2019,3,3,5,1,Música y danza
+2019,3,3,5,2,"Teatro, cinematografía y otras artes escénicas"
+2019,3,3,6,,Deportes y educación física
+2019,3,3,6,1,Fomento y apoyo de las actividades deportivas
+2019,3,3,7,,Arqueología y protección del patrimonio histórico-artístico
+2019,3,3,7,1,"Administración, conservación y restauración del patrimonio histórico"
+2019,3,3,7,2,Conservación y restauración de bienes culturales
+2019,3,3,7,4,Arqueología
+2019,4,,,,Actuaciones de carácter económico
+2019,4,1,,,"Agricultura, ganadería y alimentación"
+2019,4,1,1,,"Administración general de agricultura, ganadería y alimentación"
+2019,4,1,1,1,"Dirección y servicios generales de agricultura, ganadería y alimentación"
+2019,4,1,2,,Mejoras de las estructuras agrarias y de los sistemas productivos
+2019,4,1,2,1,"Competitividad, calidad y defensa de la producción agrícola"
+2019,4,1,2,2,"Competitividad, calidad y defensa de la producción ganadera"
+2019,4,1,2,3,Regulación de los mercados agrarios
+2019,4,1,3,,Competitividad de la industria agroalimentaria y calidad alimentaria
+2019,4,1,3,1,Competitividad de la industria agroalimentaria y calidad alimentaria
+2019,4,1,4,,Desarrollo rural
+2019,4,1,4,1,Gestión de los recursos hídricos para el regadío
+2019,4,1,4,2,Desarrollo sostenible del medio rural
+2019,4,1,4,3,Reordenación de la propiedad y concentración parcelaria
+2019,4,1,4,4,Fomento y mejora de las infraestructuras agrarias
+2019,4,1,4,5,Defensa del comunal
+2019,4,1,6,,Previsión de riesgos en las producciones agrarias
+2019,4,1,6,1,Previsión de riesgos en las producciones agrarias
+2019,4,2,,,Industria y energía
+2019,4,2,1,,Actuaciones administrativas sobre la industria
+2019,4,2,1,1,Dirección y servicios generales de industria y energía
+2019,4,2,1,2,Regulación y protección de la propiedad industrial
+2019,4,2,1,3,"Calidad, competitividad y seguridad industrial"
+2019,4,2,1,4,Elaboración de normativas y actuaciones administrativas
+2019,4,2,2,,Reconversión y desarrollo industrial
+2019,4,2,2,1,Incentivos regionales a la localización industrial
+2019,4,2,2,2,Desarrollo industrial
+2019,4,2,2,3,Reconversión y reindustrialización de empresas
+2019,4,2,2,4,Apoyo financiero y participación en empresas
+2019,4,2,5,,Ordenación y eficiencia energética
+2019,4,2,5,1,Normativa y desarrollo energético
+2019,4,2,5,2,Incentivos sobre medidas energéticas
+2019,4,3,,,"Comercio, Turismo y Pymes"
+2019,4,3,1,,Comercio
+2019,4,3,1,1,Promoción comercial e internacionalización de la empresa
+2019,4,3,1,2,Dirección y servicios generales de comercio y turismo
+2019,4,3,1,3,Ordenación y promoción del comercio exterior
+2019,4,3,1,4,Ordenación y modernización de las estructuras comerciales
+2019,4,3,2,,Ordenación y promoción turística
+2019,4,3,2,1,Coordinación y promoción del turismo
+2019,4,3,2,2,Gestión de establecimientos turísticos
+2019,4,3,2,3,Promoción hotelera y de complejos turísticos
+2019,4,3,3,,Desarrollo empresarial
+2019,4,3,3,1,Apoyo a la pequeña y mediana empresa
+2019,4,3,3,2,Desarrollo cooperativo y asociativo
+2019,4,4,,,Subvenciones al transporte
+2019,4,4,1,,Subvenciones al transporte
+2019,4,4,1,1,Subvenciones y apoyo al transporte terrestre
+2019,4,4,1,3,Subvenciones y apoyo al transporte aéreo
+2019,4,5,,,Infraestructuras
+2019,4,5,1,,Administración general de infraestructuras
+2019,4,5,1,1,Estudios y servicios de asistencia técnica en obras públicas
+2019,4,5,1,2,Dirección y servicios generales de obras públicas
+2019,4,5,1,3,Dirección y servicios generales de medio ambiente
+2019,4,5,1,4,Dirección y servicios generales del transporte
+2019,4,5,1,5,Estudios y servicios de asistencia técnica en urbanismo
+2019,4,5,1,6,Dirección y servicios generales de urbanismo
+2019,4,5,2,,Recursos hidráulicos
+2019,4,5,2,1,Gestión e infraestructuras de recursos hidráulicos
+2019,4,5,2,2,Normativa y ordenación territorial de los recursos hídricos
+2019,4,5,2,3,Estabilización de márgenes fluviales
+2019,4,5,3,,Infraestructuras del transporte terrestre
+2019,4,5,3,1,Infraestructura del transporte ferroviario
+2019,4,5,3,2,Creación de infraestructura de carreteras
+2019,4,5,3,3,Conservación y explotación de carreteras
+2019,4,5,3,4,Ordenación e inspección del transporte terrestre
+2019,4,5,5,,Infraestructuras del transporte aéreo
+2019,4,5,5,2,Infraestructuras de aeropuertos
+2019,4,5,6,,Actuaciones medioambientales
+2019,4,5,6,1,Calidad del agua
+2019,4,5,6,2,Protección y mejora del medio ambiente
+2019,4,5,6,3,Protección y mejora del medio natural
+2019,4,5,6,4,Lucha contra la erosión
+2019,4,5,6,5,Prevención y extinción de incendios
+2019,4,5,6,6,Creación y mejora de comunales y pastos
+2019,4,5,6,7,Conservación y mejora de masas forestales
+2019,4,5,6,8,Repoblación forestal
+2019,4,5,6,9,Actuaciones para la prevención de la contaminación y el cambio climático
+2019,4,5,8,,"Infraestructura industrial, comercial y turística"
+2019,4,5,8,1,Infraestructura industrial
+2019,4,5,8,2,Infraestructura comercial
+2019,4,5,8,3,Infraestructura turística
+2019,4,5,9,,Electrificación y alumbrado
+2019,4,5,9,1,Electrificación y alumbrado
+2019,4,5,A,,Vías de comunicación en el medio rural
+2019,4,5,A,1,Protección y conservación de vías pecuarias
+2019,4,5,A,2,Creación y conservación de caminos rurales
+2019,4,5,B,,Otros servicios del bienestar comunitario
+2019,4,5,B,1,Otros servicios del bienestar comunitario
+2019,4,6,,,"Investigación, desarrollo e innovación"
+2019,4,6,2,,Investigación y estudios relacionados con los servicios públicos generales
+2019,4,6,2,1,Investigación y estudios sociológicos
+2019,4,6,2,2,Investigación y estudios estadísticos y económicos
+2019,4,6,3,,Investigación básica
+2019,4,6,3,1,Investigación científica
+2019,4,6,3,2,Fomento y coordinación de la investigación científica y técnica
+2019,4,6,5,,Investigación y desarrollo relacionados con la salud
+2019,4,6,5,1,Investigación sanitaria
+2019,4,6,6,,Investigación y desarrollo relacionados con la educación
+2019,4,6,6,1,Investigación y evaluación educativa
+2019,4,6,7,,Investigación y desarrollo en otros sectores
+2019,4,6,7,2,"Investigación, desarrollo y experimentación en obras públicas y comunicaciones"
+2019,4,6,7,3,Investigación y desarrollo tecnológico-industrial
+2019,4,6,7,4,Investigación y experimentación agraria y forestal
+2019,4,6,7,5,Investigación cultural
+2019,4,6,7,7,Investigación y desarrollo de la sociedad de la información
+2019,4,6,7,8,"Investigación energética, medioambiental y tecnológica"
+2019,4,6,7,9,Innovación tecnológica de las telecomunicaciones
+2019,4,6,8,,Estudios técnicos
+2019,4,6,8,1,Estudios técnicos en el sector agrario
+2019,4,6,8,2,"Estudios y proyectos de los sectores turístico, industrial, comercial y otros"
+2019,4,6,8,9,Otros estudios
+2019,4,6,9,,Otras Innovaciones Tecnológicas
+2019,4,6,9,1,Otras Innovaciones Tecnológicas
+2019,4,9,,,Otras actuaciones de carácter económico
+2019,4,9,1,,Comunicaciones
+2019,4,9,1,1,"Ordenación, administración y promoción de las telecomunicaciones y de la sociedad de la información"
+2019,4,9,1,3,Mantenimiento y ampliación de la red telefónica y radiotelefónica
+2019,4,9,1,4,Mantenimiento y ampliación de la red de televisión
+2019,4,9,2,,Defensa de la competencia
+2019,4,9,2,1,Defensa de la competencia
+2019,4,9,2,3,Protección y promoción de los derechos de los consumidores y usuarios
+2019,4,9,3,,Ordenación del sector financiero
+2019,4,9,3,0,Gastos generales de administración financiera
+2019,4,9,3,1,"Dirección, control y gestión de seguros"
+2019,4,9,3,3,Regulación contable y de auditorías
+2019,4,9,4,,Relaciones laborales
+2019,4,9,4,1,Administración de las relaciones laborales y condiciones de trabajo
+2019,4,9,5,,"Cartografía, meteorología y metrología"
+2019,4,9,5,1,Desarrollo y aplicación de la información geográfica
+2019,4,9,5,2,Meteorología
+2019,4,9,5,3,Metrología
+2019,4,9,5,4,Geodesia y geofísica
+2019,4,9,6,,Ordenación del juego
+2019,4,9,6,1,Ordenación del juego
+2019,9,,,,Actuaciones de carácter general
+2019,9,1,,,Alta dirección
+2019,9,1,1,,Alta dirección de la Comunidad Foral
+2019,9,1,1,2,Actividad legislativa
+2019,9,1,1,3,Control externo del sector público
+2019,9,1,2,,Alta dirección del Gobierno
+2019,9,1,2,1,Gobierno de Navarra
+2019,9,1,2,2,Alto asesoramiento de la Comunidad Foral de Navarra
+2019,9,1,2,3,Relaciones con el Parlamento
+2019,9,2,,,Servicios de carácter general
+2019,9,2,1,,Administración general
+2019,9,2,1,1,"Dirección, organización y servicios generales de la Administración Pública"
+2019,9,2,1,3,"Selección, formación, promoción y representación del personal"
+2019,9,2,1,4,"Administración, gestión y control de personal"
+2019,9,2,1,5,Cobertura informativa
+2019,9,2,1,6,Edición y confección de boletines oficiales
+2019,9,2,1,7,Asesoramiento y defensa
+2019,9,2,1,8,"Conservación y mantenimiento de vehículos, maquinaria, instalaciones y otros"
+2019,9,2,1,9,Impresos y publicaciones
+2019,9,2,1,A,Tramitación y resolución de recursos administrativos
+2019,9,2,1,B,Coordinación de servicios generales
+2019,9,2,1,C,Informática
+2019,9,2,2,,Coordinación y organización territorial del Gobierno
+2019,9,2,2,1,Dirección y servicios generales de Política Territorial
+2019,9,2,2,2,Coordinación y relaciones financieras con entidades locales
+2019,9,2,2,3,Régimen jurídico y de personal de la administración local
+2019,9,2,2,4,"Apoyo en aspectos técnicos, jurídicos o económicos"
+2019,9,2,3,,Administración general de economía y hacienda
+2019,9,2,3,1,Gestión del patrimonio
+2019,9,2,3,3,Elaboración y difusión estadística
+2019,9,2,3,4,Dirección y servicios generales de economía y hacienda
+2019,9,2,3,5,Relaciones con los organismos financieros multilaterales
+2019,9,2,3,6,Gestión de la deuda pública
+2019,9,2,3,7,Gestión de tesorería
+2019,9,2,3,8,Gestión de compras y suministros
+2019,9,2,3,9,Servicios de apoyo a economía y hacienda
+2019,9,2,4,,Participación ciudadana
+2019,9,2,4,1,Elecciones y partidos políticos
+2019,9,2,4,9,Otras formas de participación ciudadana
+2019,9,2,9,,"Imprevistos, situaciones transitorias y contingencias de ejecución"
+2019,9,2,9,1,Imprevistos y funciones no clasificadas
+2019,9,3,,,Administración financiera y tributaria
+2019,9,3,1,,Política económica y fiscal
+2019,9,3,1,1,Previsión y política económica
+2019,9,3,1,2,Política presupuestaria
+2019,9,3,1,3,Política tributaria
+2019,9,3,1,4,Control interno y contabilidad pública
+2019,9,3,1,5,Política financiera y de créditos
+2019,9,3,2,,Gestión del sistema tributario
+2019,9,3,2,1,Aplicación del sistema tributario
+2019,9,3,2,2,Gestión del catastro inmobiliario
+2019,9,3,2,3,Resolución de reclamaciones económico-administrativas
+2019,9,3,2,4,Inspección fiscal
+2019,9,4,,,Transferencias a otras administraciones públicas
+2019,9,4,1,,Convenios con el Estado
+2019,9,4,1,1,Convenio económico con el Estado
+2019,9,4,1,9,Otros convenios
+2019,9,4,2,,Transferencias a entidades locales
+2019,9,4,2,1,Participación en los tributos de la Hacienda Pública de Navarra
+2019,9,4,2,2,Transferencias a entidades locales por participación en ingresos del Estado
+2019,9,4,2,3,Otras transferencias
+2019,9,4,2,4,Transferencias a entidades locales para cooperar en obras y servicios
+2019,9,4,2,5,Apoyo a entidades locales para saneamiento financiero
+2019,9,5,,,Deuda pública
+2019,9,5,1,,Deuda pública
+2019,9,5,1,1,Amortización y gastos financieros de la deuda pública en moneda nacional
+2019,9,5,1,2,Amortización y gastos financieros de la deuda pública en moneda extranjera
+2019,2,3,2,5,Memoria y convivencia
