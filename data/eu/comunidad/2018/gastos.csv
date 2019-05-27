@@ -1010,7 +1010,7 @@
 2018,400000,40100,2221,321100,Servicios postales,112.540,76.661,34.224
 2018,400000,40100,2269,321100,Gastos diversos,2.750,2.750,838
 2018,400000,40100,2301,321100,Locomoción y gastos de viaje,1.000,2.000,515
-2018,400000,40100,4809,321100,Indemnizaciones por responsabilidad patrimonial y ejecución de sentencias,4.400,41.175,41.175
+2018,400000,40100,4809,321100,Indemnizaciones por responsabilidad patrimonial y ejecución de sentencias,4.400,41.175,41.112
 2018,400000,41000,1000,321100,Retribuciones de altos cargos,56.415,57.335,57.331
 2018,400000,41000,1200,322000,Retribuciones del personal fijo,171.839.319,166.002.142,165.988.793
 2018,400000,41000,1210,322000,Retribuciones del personal contratado para cubrir plazas reservadas,10.008.115,13.100.846,13.089.576
@@ -1223,7 +1223,7 @@
 2018,420003,42600,2269,322E04,Pruebas libres modulares para la obtención de títulos de Formación Profesional,10,10,0
 2018,420003,42600,2269,322E05,Pruebas de acceso a enseñanzas profesionales,10,10,0
 2018,420003,42600,2269,322E06,Funcionamiento del proyecto Pyrene FP-POCTEFA 2014-2020,70.178,70.178,27.080
-2018,420003,42600,4800,322E00,Programa ERASMUS+. SEPIE,550.000,550.000,404.490
+2018,420003,42600,4800,322E00,Programa ERASMUS+. SEPIE,550.000,550.000,395.442
 2018,420003,42600,6040,325100,Adquisición de elementos de transporte,10,10,0
 2018,420003,42600,6059,322E00,Innovación aplicada en FP,150.000,150.000,95.515
 2018,420003,42610,2269,322E00,Desarrollo del Acuerdo de Gobierno para la Formación Profesional,44.000,19.000,17.577
@@ -1813,7 +1813,7 @@
 2018,545000,52400,2286,312300,Productos químicos de laboratorio,1.086.000,1.237.073,1.216.212
 2018,545000,52400,2287,312300,Gases médicos,72.000,85.000,67.663
 2018,545000,52400,2301,312300,Locomoción y gastos de viaje,38.000,59.571,59.571
-2018,545000,52400,4819,312302,(E) Transporte oncológico Cruz Roja Tudela-Pamplona,95.000,95.000,85.654
+2018,545000,52400,4819,312302,(E) Transporte oncológico Cruz Roja Tudela-Pamplona,95.000,95.000,58.491
 2018,545000,52400,6020,312800,"Obras menores, mejoras instalaciones y plan de seguridad",850.000,832.281,681.242
 2018,545000,52400,6020,312802,Obras plan de remodelación,1.280.010,1.181.693,944.681
 2018,545000,52400,6020,312803,Actuaciones de eficiencia energética,200.000,4.079,854
@@ -2198,7 +2198,7 @@
 2018,720000,71500,7609,414300,PDR FEADER 2014-2020. Inversiones en infraestructuras locales ganaderas,895.780,895.780,763.128
 2018,720000,71500,7609,414400,(E) Subvención al Ayuntamiento de Tudela vía alternativa a la A68 para el tránsito de vehículos agrícolas,255.223,255.223,125.686
 2018,720000,71510,2276,414102,Estudios y proyectos,10,10,0
-2018,720000,71510,2276,414103,Encargo a INTIA. Estudios y proyectos,230.869,314.551,283.655
+2018,720000,71510,2276,414103,Encargo a INTIA. Estudios y proyectos,230.869,314.551,119.276
 2018,720000,71510,2276,414104,Encargo a INTIA. Oficina técnica para el desarrollo del Plan Foral de Regadíos,110.000,23.807,0
 2018,720000,71510,2276,414105,Encargo a INTIA. Servicio de oferta agroindustrial,84.280,84.280,77.554
 2018,720000,71510,2276,414106,Encargo a INTIA. Actualización Plan Foral de Regadíos,250.000,252.511,0
@@ -2253,7 +2253,7 @@
 2018,720004,71630,4701,413105,Fomento de iniciativas de reestructuración de cooperativas,10,10,0
 2018,720004,71630,4809,412100,PDR FEADER 2014-2020. Cese anticipado de la actividad agraria,50.000,46.013,44.255
 2018,720004,71630,4819,412100,Subvención a la Unión de Cooperativas Agrarias de Navarra (UCAN). Fomento del cooperativismo agrario,150.200,150.200,150.200
-2018,720004,71630,7700,412102,PDR FEADER 2014-2020. Inversiones en explotaciones agrarias,10.000.000,9.716.937,7.790.895
+2018,720004,71630,7700,412102,PDR FEADER 2014-2020. Inversiones en explotaciones agrarias,10.000.000,9.716.937,7.756.983
 2018,720004,71630,7700,412103,PDR FEADER 2014-2020. Instalación de jóvenes agricultores,3.000.000,2.851.672,2.445.739
 2018,720005,71600,1200,412100,Retribuciones del personal fijo,145.188,142.887,109.123
 2018,720005,71600,1210,412100,Retribuciones del personal contratado para cubrir plazas reservadas,10,12,0

@@ -68,7 +68,7 @@
 2018,150000,17000,3010,000000,Tasas por servicios administrativos,0,0,96
 2018,150000,17000,3800,000000,Reintegros,10,10,12
 2018,152000,17500,3910,000000,Sanciones,11.781.000,11.781.000,20.346.504
-2018,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,231.579.981,231.579.981,223.030.361
+2018,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,231.579.981,231.579.981,223.538.050
 2018,152000,17520,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,6.073.000,6.073.000,4.728
 2018,152000,17520,1140,000000,Impuesto sobre depósitos en entidades de crédito,4.725.000,4.725.000,4.988.884
 2018,152000,17520,1820,000000,Impuesto sobre grandes establecimientos comerciales,0,0,-9.800
@@ -98,12 +98,12 @@
 2018,154003,17630,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,13.230.000,13.230.000,13.918.514
 2018,155002,17820,3890,000000,Ingresos por la compensación de costas en procedimientos de apremio,101.000,101.000,279.108
 2018,155002,17820,3912,000000,Recargos de apremio,6.230.000,6.230.000,7.551.797
-2018,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,899.000,899.000,390.773
+2018,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,899.000,899.000,395.116
 2018,155004,17810,3911,000000,Intereses de demora de deudas no aplazadas,10,10,19.654.961
-2018,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.100.000,4.100.000,8.924.350
+2018,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.100.000,4.100.000,8.702.531
 2018,156000,17900,3309,000000,Ingresos por venta de impresos,5.000,5.000,8.360
 2018,156001,17950,4600,000000,Convenio con Haciendas Locales de Navarra,10,10,0
-2018,157001,17A00,1005,000000,Ingresos por el IRPF,1.327.102.000,1.327.102.000,1.364.020.331
+2018,157001,17A00,1005,000000,Ingresos por el IRPF,1.327.102.000,1.327.102.000,1.363.512.642
 2018,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros fines de interés social",8.319.196,8.319.196,0
 2018,157001,17A00,1100,000000,Ingresos por el Impuesto sobre el Patrimonio,41.862.000,41.862.000,37.872.842
 2018,160000,17100,2100,000002,Ajuste por el IVA,894.375.000,894.375.000,969.917.600
@@ -151,7 +151,7 @@
 2018,420003,42600,4000,000005,Formación Profesional dual,10,10,0
 2018,420003,42600,4900,000000,Programa ERASMUS+. SEPIE,660.000,660.000,459.274
 2018,420003,42600,4900,000002,Programa Operativo 2014-2020. Empleo Juvenil,3.181.135,3.181.135,325.020
-2018,420003,42600,4901,000000,Proyecto Pyrene FP-POCTEFA 2014-2020,70.178,70.178,66.429
+2018,420003,42600,4901,000000,Proyecto Pyrene FP-POCTEFA 2014-2020,70.178,70.178,29.911
 2018,420003,42600,4909,000002,Programa QUAKE,10,10,0
 2018,420003,42600,4909,000003,Programa APPSKILLS,10,10,9.513
 2018,420003,42600,4909,000004,Otros programas internacionales,10,10,0
@@ -214,7 +214,7 @@
 2018,545000,52400,3123,000000,Prestación de servicios,1.245.000,1.245.000,1.119.688
 2018,545000,52400,3990,000000,Otros ingresos,50.000,50.000,54.844
 2018,545000,52400,3990,000002,Otros ingresos. Fármacos,5.000,359.742,413.238
-2018,545000,52400,3990,000003,Ingresos por facturas rectificativas. Otros suministros y servicios,0,0,1.731
+2018,545000,52400,3990,000003,Ingresos por facturas rectificativas. Otros suministros y servicios,0,0,2.083
 2018,545000,52400,4700,000000,Ingresos al personal investigador del Servicio Navarro de Salud-Osasunbidea,0,1.963,1.963
 2018,545000,52400,7309,000000,Fundación Española de Medicina Interna,0,12.000,12.000
 2018,545001,52420,3123,000000,Prestación de servicios,58.000,58.000,95.457
@@ -430,7 +430,7 @@
 2018,950001,96100,4900,000004,Plan Empleo. Ayudas al Empleo Programa Operativo FSE 2014-2020 de Navarra,2.641.656,2.641.656,0
 2018,950002,96200,3010,000000,Evaluación y acreditación de competencias profesionales por la vía de la experiencia laboral,10,10,19.890
 2018,950002,96200,3890,000000,Plan Empleo. Reintegros de ayudas de programas de formación,20.000,20.000,3.000
-2018,950002,96200,3890,000002,Plan Empleo. Reintegros de ayudas de programas de formación. Conferencia Sectorial,500.000,500.000,627.244
+2018,950002,96200,3890,000002,Plan Empleo. Reintegros de ayudas de programas de formación. Conferencia Sectorial,500.000,500.000,845.327
 2018,950002,96200,4000,000000,Plan Empleo. Transferencias del SPEE para programas de formación para el empleo,7.622.846,7.622.846,10.903.906
 2018,950002,96200,4000,000006,Plan Empleo. Transferencias del SPEE para Convenio con Centro de Referencia Nacional de Formación en Energías Renovables,10,10,38.522
 2018,A00000,A0100,3990,000000,Otros ingresos,10,10,6.015
