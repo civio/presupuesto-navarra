@@ -18,7 +18,7 @@
     function calculateTaxAmount(val){
 
       // Calculamos la cuota acumulada de Impuestos Especiales: La recaudación en Navarra[4] / número de declarantes de IRPF [1]
-      var iiee = 415602136 / 472547;
+      var iiee = 552929224 / 488235;
 
       // get input placeholder if empty value
       val = (val !== '') ? val : $('#input-incomes').attr('placeholder')
@@ -32,43 +32,43 @@
       $('#income-amount').html( formatTaxAmount(val) );
       
       // A los ingresos brutos les restamos la media de reducciones[1], sin que pueda ser menor que cero.
-      var base_liquidable_irpf = val - 5559.43;
+      var base_liquidable_irpf = val - 276.43;
       base_liquidable_irpf = (base_liquidable_irpf > 0) ? base_liquidable_irpf : 0;
 
       // Aplicamos la tarifa del IRPF de 2014 [2]
       var cuota_integra_irpf;
-      if (base_liquidable_irpf <= 3825) {
+      if (base_liquidable_irpf <= 4000) {
         cuota_integra_irpf = base_liquidable_irpf * 0.13;
-      } else if (base_liquidable_irpf > 3825 && base_liquidable_irpf <= 8499) {
-        cuota_integra_irpf = 497.25 + (base_liquidable_irpf - 3825) * 0.225;
-      } else if (base_liquidable_irpf > 8499 && base_liquidable_irpf <=  17526) {
-        cuota_integra_irpf = 1548.90 + (base_liquidable_irpf - 8499) * 0.255;
-      } else if (base_liquidable_irpf > 17526 && base_liquidable_irpf <= 30805) {
-        cuota_integra_irpf = 3850.79 + (base_liquidable_irpf - 17526) * 0.295;
-      } else if (base_liquidable_irpf > 30805 && base_liquidable_irpf <= 45480) {
-        cuota_integra_irpf = 7768.09 + (base_liquidable_irpf - 30805) * 0.38;
-      } else if (base_liquidable_irpf > 45480 && base_liquidable_irpf <= 53407) {
-        cuota_integra_irpf = 13344.59 + (base_liquidable_irpf - 45480) * 0.425;
-      } else if (base_liquidable_irpf > 53407 && base_liquidable_irpf <= 88000) {
-        cuota_integra_irpf = 16713.57 + (base_liquidable_irpf - 53407) * 0.45;
-      } else if (base_liquidable_irpf > 88000 && base_liquidable_irpf <= 125000) {
-        cuota_integra_irpf = 32280.42 + (base_liquidable_irpf - 88000) * 0.47;
+      } else if (base_liquidable_irpf > 4000 && base_liquidable_irpf <= 9000) {
+        cuota_integra_irpf = 520 + (base_liquidable_irpf - 4000) * 0.22;
+      } else if (base_liquidable_irpf > 9000 && base_liquidable_irpf <=  19000) {
+        cuota_integra_irpf = 1620 + (base_liquidable_irpf - 9000) * 0.25;
+      } else if (base_liquidable_irpf > 19000 && base_liquidable_irpf <= 32000) {
+        cuota_integra_irpf = 4120 + (base_liquidable_irpf - 19000) * 0.28;
+      } else if (base_liquidable_irpf > 32000 && base_liquidable_irpf <= 46000) {
+        cuota_integra_irpf = 7760 + (base_liquidable_irpf - 32000) * 0.365;
+      } else if (base_liquidable_irpf > 46000 && base_liquidable_irpf <= 60000) {
+        cuota_integra_irpf = 12870 + (base_liquidable_irpf - 46000) * 0.415;
+      } else if (base_liquidable_irpf > 60000 && base_liquidable_irpf <= 80000) {
+        cuota_integra_irpf = 18680 + (base_liquidable_irpf - 60000) * 0.44;
+      } else if (base_liquidable_irpf > 80000 && base_liquidable_irpf <= 125000) {
+        cuota_integra_irpf = 27480 + (base_liquidable_irpf - 80000) * 0.47;
       } else if (base_liquidable_irpf > 125000 && base_liquidable_irpf <= 175000) {
-        cuota_integra_irpf = 49670.42 + (base_liquidable_irpf - 125000) * 0.49;
+        cuota_integra_irpf = 48630 + (base_liquidable_irpf - 125000) * 0.49;
       } else if (base_liquidable_irpf > 175000 && base_liquidable_irpf <= 300000) {
-        cuota_integra_irpf = 74170.42 + (base_liquidable_irpf - 175000) * 0.51;
+        cuota_integra_irpf = 73130 + (base_liquidable_irpf - 175000) * 0.505;
       } else {
-        cuota_integra_irpf = 137920.42 + (base_liquidable_irpf - 300000) * 0.52;
+        cuota_integra_irpf = 136255 + (base_liquidable_irpf - 300000) * 0.52;
       }
 
       // A la cuota íntegra obtenida le restamos la media de deducciones[3], sin que pueda ser menor que cero
-      cuota_liquida_irpf = cuota_integra_irpf - 1267.44
+      cuota_liquida_irpf = cuota_integra_irpf - 3147.98
       cuota_liquida_irpf = ( cuota_liquida_irpf > 0 ) ? cuota_liquida_irpf : 0;
 
       // Calculamos el importe soportado de IVA
       // Descontamos de los ingresos brutos la cuota de IRPF y un 10% de ahorro hipotético. Al resto le aplicamos el tipo medio ponderado[5]:
       var consumo = 0.90 * val - cuota_liquida_irpf;
-      var iva = consumo * 0.1620;
+      var iva = consumo * 0.1565;
 
       // Finalmente, sumamos las cuotas de IRPF, IIEE e IVA para obtener lo que el ciudadano paga de impuestos:
       return cuota_liquida_irpf + iiee + iva;
