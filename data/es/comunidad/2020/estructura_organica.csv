@@ -2,6 +2,7 @@
 2020,00,"Departamento de Presidencia, Función Pública, Interior y Justicia"
 2020,000,"Departamento de Presidencia, Función Pública, Interior y Justicia"
 2020,0000,"Departamento de Presidencia, Función Pública, Interior y Justicia"
+2020,00000,Presidenta del Gobierno
 2020,00001,"Departamento de Presidencia, Función Pública, Interior y Justicia"
 2020,001,Secretaría General Técnica
 2020,0010,Secretaría General Técnica
@@ -23,6 +24,7 @@
 2020,010,Dirección General de Presidencia y Gobierno Abierto
 2020,0100,Dirección General de Presidencia y Gobierno Abierto
 2020,01000,Dirección General de Presidencia y Gobierno Abierto
+2020,01020,Sección de Innovación y Modernización Administrativa
 2020,0101,Sección de Boletín Oficial de Navarra
 2020,01010,Sección de Boletín Oficial de Navarra
 2020,011,Servicio de Asesoría Jurídica
@@ -65,6 +67,8 @@
 2020,017,Servicio de Gobierno Abierto
 2020,0170,Servicio de Gobierno Abierto
 2020,01700,Servicio de Gobierno Abierto
+2020,01710,Sección de Atención Ciudadana
+2020,01720,Sección de Participacion Ciudadana
 2020,02,Dirección General de Interior
 2020,020,Dirección General de Interior
 2020,0200,Dirección General de Interior
@@ -209,6 +213,8 @@
 2020,0450,Instituto Navarro de Administración Pública
 2020,04500,Instituto Navarro de Administración Pública
 2020,04501,Negociado de Servicios Auxiliares
+2020,04502,Sección de Formación y Desarrollo
+2020,04503,Sección de Innovación e Idiomas
 2020,0451,Sección de Formación y Desarrollo
 2020,04510,Sección de Formación y Desarrollo
 2020,04511,Negociado de Innovación Formativa
@@ -218,6 +224,7 @@
 2020,04522,Negociado de Formación de Vascuence
 2020,0453,Sección de Psicología Aplicada
 2020,04530,Sección de Psicología Aplicada
+2020,04540,Servicio de la Escuela de Seguridad y Emergencias de Navarra
 2020,05,"Dirección General de Informática, Telecomunicaciones e Innovación Pública"
 2020,050,"Dirección General de Informática, Telecomunicaciones e Innovación Pública"
 2020,0500,"Dirección General de Informática, Telecomunicaciones e Innovación Pública"
@@ -281,6 +288,35 @@
 2020,05630,Sección de Sistemas de Información Administrativos de Atención Especializada
 2020,0564,Sección de Arquitectura de Software para los Sistemas de Salud
 2020,05640,Sección de Arquitectura de Software para los Sistemas de Salud
+2020,06,Dirección General de Comunicación y Relaciones Institucionales
+2020,060,Dirección General de Comunicación y Relaciones Institucionales
+2020,06000,Dirección General de Comunicación y Relaciones Institucionales
+2020,061,Servicio de Comunicación-Oficina de la Portavocía del Gobierno
+2020,06100,Servicio de Comunicación-Oficina de la Portavocía del Gobierno
+2020,06110,Sección de Gabinete de Prensa
+2020,06120,"Sección de Publicidad Institucional, Redes Sociales y Medios Audiovisuales"
+2020,06130,Sección de Portal Navarra.es
+2020,062,Servicio de Proyección Institucional
+2020,06200,Servicio de Proyección Institucional
+2020,06210,Sección de Protocolo
+2020,06220,Sección de Publicaciones
+2020,08,Instituto Navarro para la Igualdad/Nafarroako Berdintasunerako Institutua
+2020,080,Instituto Navarro para la Igualdad/Nafarroako Berdintasunerako Institutua
+2020,08000,Instituto Navarro para la Igualdad/Nafarroako Berdintasunerako Institutua
+2020,081,Subdirección de Gobernanza para Igualdad
+2020,08100,Subdirección de Gobernanza para Igualdad
+2020,082,"Subdirección de Ciudadanía, Empoderamiento y Participación de las mujeres"
+2020,08200,"Subdirección de Ciudadanía, Empoderamiento y Participación de las mujeres"
+2020,083,Subdirección de Igualdad LGTBI+
+2020,08300,Subdirección de Igualdad LGTBI+
+2020,09,Instituto Navarro de Juventud
+2020,090,Instituto Navarro de la Juventud
+2020,09000,Instituto Navarro de la Juventud
+2020,09010,Sección de Administración y Gestión
+2020,091,Subdirección de Juventud
+2020,09100,Subdirección de Juventud
+2020,09110,Sección de Acciones transversales y Observatorio Joven
+2020,09120,Sección de Programas para Jóvenes y de Relaciones con Entidades
 2020,1,Departamento de Hacienda y Política Financiera
 2020,10,Departamento de Hacienda y Política Financiera
 2020,100,Departamento de Hacienda y Política Financiera
@@ -366,6 +402,22 @@
 2020,11430,Sección de Política Financiera
 2020,1144,Sección de Programación Presupuestaria
 2020,11440,Sección de Programación Presupuestaria
+2020,115,Servicio de Economía y Finanzas
+2020,11500,Servicio de Economía y Finanzas
+2020,11510,Sección de Política Económica
+2020,11520,Sección de Política Financiera
+2020,11530,Sección de Tesorería
+2020,12,Dirección General de Intervención y Contabilidad
+2020,120,Dirección General de Intervención y Contabilidad
+2020,12000,Dirección General de Intervención y Contabilidad
+2020,121,Servicio de Contabilidad
+2020,12100,Servicio de Contabilidad
+2020,12110,Sección de Contabilidad General
+2020,12120,Sección de Contabilidad Nacional
+2020,122,Servicio de Intervención
+2020,12200,Servicio de Intervención
+2020,123,Servicio de Control Financiero Permanente y Auditoría
+2020,12300,Servicio de Control Financiero Permanente y Auditoría
 2020,17,Hacienda Tributaria de Navarra
 2020,170,Hacienda Tributaria de Navarra
 2020,1700,Hacienda Tributaria de Navarra
@@ -429,6 +481,7 @@
 2020,17610,Sección de Registro de la Riqueza Territorial
 2020,1762,Sección de Tasación
 2020,17620,Sección de Tasación
+2020,17630,"Sección de los Impuestos sobre Sucesiones y Donaciones, Transmisiones Patrimoniales y Actos Jurídicos Documentados"
 2020,177,Servicio de Inspección Tributaria
 2020,1770,Servicio de Inspección Tributaria
 2020,17700,Servicio de Inspección Tributaria
@@ -481,6 +534,76 @@
 2020,17A23,Unidad Administrativa de Coordinación de Campaña
 2020,17A3,Sección de Relación con el Contribuyente para la Campaña de los Impuestos sobre la Renta de las Personas Físicas y sobre el Patrimonio y de Registro Auxiliar
 2020,17A30,Sección de Relación con el Contribuyente para la Campaña de los Impuestos sobre la Renta de las Personas Físicas y sobre el Patrimonio y de Registro Auxiliar
+2020,20,Departamento de Cohesión Territorial
+2020,200,Departamento de Cohesión Territorial
+2020,20000,Departamento de Cohesión Territorial
+2020,201,Secretaría General Técnica
+2020,20100,Secretaría General Técnica
+2020,202,Servicio de Gestión Económico Presupuestaria y Control del Gasto
+2020,20200,Servicio de Gestión Económico Presupuestaria y Control del Gasto
+2020,21,Dirección General de Administración Local y Despoblación
+2020,210,Dirección General de Administración Local y Despoblación
+2020,21000,Dirección General de Administración Local y Despoblación
+2020,211,Servicio de Asesoramiento Jurídico y Cooperación con las Entidades Locales
+2020,21100,Servicio de Asesoramiento Jurídico y Cooperación con las Entidades Locales
+2020,212,Servicio de Gestión y Cooperación Económica
+2020,21200,Servicio de Gestión y Cooperación Económica
+2020,213,Servicio de Infraestructuras Locales
+2020,21300,Servicio de Infraestructuras Locales
+2020,21310,Sección de Obras e Infraestructuras Locales
+2020,22,Dirección General de Obras Públicas e Infraestructuras
+2020,220,Dirección General de Obras Públicas e Infraestructuras
+2020,22000,Dirección General de Obras Públicas e Infraestructuras
+2020,221,Servicio de Nuevas Infraestructuras
+2020,22100,Servicio de Nuevas Infraestructuras
+2020,222,Servicio de Conservación
+2020,22200,Servicio de Conservación
+2020,22210,Sección de Conservación
+2020,22230,Sección de Vialidad
+2020,223,Servicio de Estudios y Proyectos
+2020,22300,Servicio de Estudios y Proyectos
+2020,22310,Sección de Proyectos
+2020,22320,Sección de Cartografía
+2020,22330,Sección de Gestión Ambiental de Infraestructuras
+2020,22340,Sección de Estudios y Planificación
+2020,22350,Sección de Expropiaciones
+2020,22360,Sección de Seguridad en la Construcción y Control de Calidad
+2020,23,Dirección General de Transportes
+2020,230,Dirección General de Transportes
+2020,23000,Dirección General de Transportes
+2020,231,Servicio de Planificación y Régimen Jurídico de Transportes
+2020,23100,Servicio de Planificación y Régimen Jurídico de Transportes
+2020,23120,Sección de Transporte Público por Carretera
+2020,23130,Sección de Modernización
+2020,232,"Servicio de Inspección, Gestión, Ordenación de Transportes y Movilidad"
+2020,23200,"Servicio de Inspección, Gestión, Ordenación de Transportes y Movilidad"
+2020,23210,"Sección de Movilidad, Logística y Transporte"
+2020,23220,Sección de Inspección y Junta Arbitral del Transporte
+2020,23230,Sección de Gestión
+2020,30,"Departamento de Ordenación del Territorio, Vivienda, Paisaje y Proyectos Estratégicos"
+2020,300,"Departamento de Ordenación del Territorio, Vivienda, Paisaje y Proyectos Estratégicos"
+2020,30000,"Departamento de Ordenación del Territorio, Vivienda, Paisaje y Proyectos Estratégicos"
+2020,301,Secretaría General Técnica
+2020,30100,Secretaría General Técnica
+2020,31,Dirección General de Ordenación del Territorio
+2020,310,Dirección General de Ordenación del Territorio
+2020,31000,Dirección General de Ordenación del Territorio
+2020,311,Servicio de Territorio y Paisaje
+2020,31100,Servicio de Territorio y Paisaje
+2020,312,Servicio Jurídico y de Planificación Territorial
+2020,31200,Servicio Jurídico y de Planificación Territorial
+2020,32,Dirección General de Vivienda
+2020,320,Dirección General de Vivienda
+2020,32000,Dirección General de Vivienda
+2020,321,Servicio de Vivienda
+2020,32100,Servicio de Vivienda
+2020,322,Servicio de Inspección y Difusión de Programas
+2020,32200,Servicio de Inspección y Difusión de Programas
+2020,33,Dirección General de Proyectos Estratégicos
+2020,330,Dirección General de Proyectos Estratégicos
+2020,33000,Dirección General de Proyectos Estratégicos
+2020,331,Servicio de Planificación y Desarrollo de Proyectos Estratégicos
+2020,33100,Servicio de Planificación y Desarrollo de Proyectos Estratégicos
 2020,4,Departamento de Educación
 2020,40,Departamento de Educación
 2020,400,Departamento de Educación
@@ -544,6 +667,15 @@
 2020,41330,Sección de Evolución y Gestión de Sistemas de Información
 2020,41331,Negociado de Sistemas de Información de la Dirección General de Educación
 2020,41332,Negociado de Sistemas de Información de la Dirección General de Universidades y Recursos Educativos
+2020,414,Servicio de Selección y Provisión de Personal Docente
+2020,41400,Servicio de Selección y Provisión de Personal Docente
+2020,415,Servicio de Gestión de Personal Temporal
+2020,41500,Servicio de Gestión de Personal Temporal
+2020,41540,Sección de Prevención de Riesgos Laborales
+2020,416,"Servicio de Financiación de Centros, Ayudas al Estudio y Servicios Complementarios"
+2020,41600,"Servicio de Financiación de Centros, Ayudas al Estudio y Servicios Complementarios"
+2020,41610,Sección de Financiación de Centros Escolares y Ayudas al Estudio
+2020,41620,Sección de Servicios Complementarios
 2020,417,Servicio de Recursos Humanos
 2020,4170,Servicio de Recursos Humanos
 2020,41700,Servicio de Recursos Humanos
@@ -586,14 +718,19 @@
 2020,4212,Sección de 0 a 3 y Escuelas Rurales
 2020,42120,Sección de 0 a 3 y Escuelas Rurales
 2020,42121,Negociado de 0 a 3
+2020,42130,Sección de Formación y Calidad
 2020,4219,Sección de Atención a la Diversidad y Necesidades Educativas Especiales
 2020,42190,Sección de Atención a la Diversidad y Necesidades Educativas Especiales
 2020,42191,Ngegociado de Necesidades Educativas
 2020,42192,Negociado de Orientación
 2020,42193,Negociado de Proyectos de Inclusión
+2020,422,Servicio de Tecnologías e Infraestructuras TIC educativas
+2020,42200,Servicio de Tecnologías e Infraestructuras TIC educativas
 2020,424,Servicio de Idiomas y Enseñanzas Artísticas
 2020,4240,Servicio de Idiomas y Enseñanzas Artísticas
 2020,42400,Servicio de Idiomas y Enseñanzas Artísticas
+2020,425,Servicio de Sistemas de Información de Educación
+2020,42500,Servicio de Sistemas de Información de Educación
 2020,4241,Sección de Euskera
 2020,42410,Sección de Euskera
 2020,42411,Negociado de Promoción y Didáctica de la Lengua Vasca
@@ -630,6 +767,7 @@
 2020,42750,Sección de Evaluación y Calidad
 2020,42751,Negociado de Calidad
 2020,42753,Negociado de Evaluación
+2020,42770,Sección de Inclusión
 2020,4276,Sección de Convivencia
 2020,42760,Sección de Convivencia
 2020,42761,Negociado de Convivencia
@@ -638,6 +776,15 @@
 2020,42800,Servicio de Inspección Educativa
 2020,42801,Negociado de Control Administrativo y Archivo
 2020,42802,Negociado de Escolarización
+2020,42810,Sección de Evaluación
+2020,43,Dirección General de Formación Profesional
+2020,430,Dirección General de Formación Profesional
+2020,43000,Dirección General de Formación Profesional
+2020,431,Servicio de Planificación e Innovación de la Formación Profesional
+2020,43100,Servicio de Planificación e Innovación de la Formación Profesional
+2020,43110,"Sección de Planificación, Ordenación y Desarrollo de Formación Profesional"
+2020,432,"Servicio de Cualificaciones Profesionales, Empresa y Empleo"
+2020,43200,"Servicio de Cualificaciones Profesionales, Empresa y Empleo"
 2020,5,Departamento de Salud
 2020,50,Departamento de Salud
 2020,500,Departamento de Salud
@@ -718,6 +865,7 @@
 2020,52000,Dirección-Gerencia del Servicio Navarro de Salud-Osasunbidea
 2020,52001,Servicio de Régimen Jurídico
 2020,52002,Servicio de Sistemas de Información Sanitaria
+2020,52010,Subdirección de Sistemas y Tecnologías para la Salud
 2020,521,Dirección de Gestión Económica y Servicios Generales
 2020,5210,Dirección de Gestión Económica y Servicios Generales
 2020,52100,Dirección de Gestión Económica y Servicios Generales
@@ -864,6 +1012,8 @@
 2020,70180,Sección de Asistencia Técnica
 2020,70181,Negociado de Servicios Generales
 2020,70182,Negociado de Estadística Agraria
+2020,7019,Sección de Estadística Rural y Ambiental
+2020,70190,Sección de Estadística Rural y Ambiental
 2020,71,"Dirección General de Desarrollo Rural, Agricultura y Ganadería"
 2020,710,"Dirección General de Desarrollo Rural, Agricultura y Ganadería"
 2020,7100,"Dirección General de Desarrollo Rural, Agricultura y Ganadería"
@@ -901,6 +1051,7 @@
 2020,71340,Sección de Laboratorio Agroalimentario
 2020,71341,Negociado de Biología Vegetal
 2020,71342,Negociado de Laboratorio Enológico
+2020,71350,Sección de Bienestar Animal
 2020,714,Servicio del Organismo Pagador
 2020,7140,Servicio del Organismo Pagador
 2020,71400,Servicio del Organismo Pagador
@@ -945,6 +1096,23 @@
 2020,71711,Negociado de Seguimiento de Programas Comunitarios
 2020,7172,Sección de Diversificación Rural
 2020,71720,Sección de Diversificación Rural
+2020,72,Dirección General de Desarrollo Rural
+2020,720,Dirección General de Desarrollo Rural
+2020,72000,Dirección General de Desarrollo Rural
+2020,722,Servicio de Explotaciones Agrarias y Fomento Agroalimentario
+2020,72200,Servicio de Explotaciones Agrarias y Fomento Agroalimentario
+2020,72210,Sección de Registros Agrarios
+2020,72220,Sección de Calidad y Promoción Agroalimentaria
+2020,72230,Sección de Fomento de Explotaciones Agrarias y Asociacionismo Agrario
+2020,72240,Sección de Viticultura y Enología
+2020,723,Servicio de Diversificación y Desarrollo Rural
+2020,72300,Servicio de Diversificación y Desarrollo Rural
+2020,72310,Sección de Planificación de la PAC
+2020,72320,Sección de Diversificación Rural
+2020,724,Servicio del Organismo Pagador
+2020,72400,Servicio del Organismo Pagador
+2020,72420,Sección de Coordinación
+2020,72430,Sección de Inspecciones
 2020,74,Dirección General de Medio Ambiente y Ordenación del Territorio
 2020,740,Dirección General de Medio Ambiente y Ordenación del Territorio
 2020,7400,Dirección General de Medio Ambiente y Ordenación del Territorio
@@ -1026,6 +1194,8 @@
 2020,74610,Sección de Régimen Jurídico de Medio Ambiente
 2020,7462,Sección de Régimen Jurídico de Ordenación del Territorio y Urbanismo
 2020,74620,Sección de Régimen Jurídico de Ordenación del Territorio y Urbanismo
+2020,748,Servicio de Guarderío y Calidad de la Gestión Ambiental
+2020,74800,Servicio de Guarderío y Calidad de la Gestión Ambiental
 2020,78,Dirección General de Administración Local
 2020,780,Dirección General de Administración Local
 2020,7800,Dirección General de Administración Local
@@ -1170,6 +1340,10 @@
 2020,8232,Sección de Apoyo a la Modernización
 2020,82320,Sección de Apoyo a la Modernización
 2020,82321,Negociado de Gestión Administrativa
+2020,825,Servicio de Transición Energética
+2020,82500,Servicio de Transición Energética
+2020,826,Servicio de Proyectos Estratégicos de la S3
+2020,82600,Servicio de Proyectos Estratégicos de la S3
 2020,83,Dirección General de Turismo y Comercio
 2020,830,Dirección General de Turismo y Comercio
 2020,8300,Dirección General de Turismo y Comercio
@@ -1201,6 +1375,8 @@
 2020,83311,"Negociado de Inspección, Promoción y Defensa de la Competencia"
 2020,8332,Sección de Defensa de los Consumidores y Arbitraje de Consumo
 2020,83320,Sección de Defensa de los Consumidores y Arbitraje de Consumo
+2020,834,Servicio de Planificación e Innovación Turística
+2020,83400,Servicio de Planificación e Innovación Turística
 2020,84,Dirección General de Obras Públicas
 2020,840,Dirección General de Obras Públicas
 2020,8400,Dirección General de Obras Públicas
@@ -1360,6 +1536,8 @@
 2020,92210,Sección de Calidad y Protectorado de Fundaciones
 2020,9222,Sección de Inspección
 2020,92220,Sección de Inspección
+2020,923,Servicio de Impulso y Transformación Dígital
+2020,92300,Servicio de Impulso y Transformación Dígital
 2020,93,Agencia Navarra de Autonomía y Desarrollo de las personas
 2020,930,Agencia Navarra de Autonomía y Desarrollo de las personas
 2020,9300,Agencia Navarra de Autonomía y Desarrollo de las personas
@@ -1549,10 +1727,12 @@
 2020,A2512,Negociado de Cultura Popular
 2020,A253,Sección de Cooperación e Innovación Cultural
 2020,A2530,Sección de Cooperación e Innovación Cultural
+2020,A2540,Sección de Proyectos Estratégicos Audiovisuales y Digitales
 2020,A5,Dirección-Gerencia del Instituto Navarro de Deporte y Juventud
 2020,A50,Dirección-Gerencia del Instituto Navarro de Deporte y Juventud
 2020,A500,Dirección-Gerencia del Instituto Navarro de Deporte y Juventud
 2020,A5000,Dirección-Gerencia del Instituto Navarro de Deporte y Juventud
+2020,A5010,Sección de Administración y Gestión
 2020,A51,Subdirección de Deporte
 2020,A510,Subdirección de Deporte
 2020,A5100,Subdirección de Deporte
@@ -1681,6 +1861,8 @@
 2020,B3210,Sección de Estudios y Planificación
 2020,B322,Sección de Promoción del Euskera
 2020,B3220,Sección de Promoción del Euskera
+2020,B33,Servicio de Desarrollo del Euskera en las Administraciones Públicas
+2020,B3300,Servicio de Desarrollo del Euskera en las Administraciones Públicas
 2020,B4,Instituto Navarro para la Igualdad / Nafarroako Berdintasunerako Institutua
 2020,B40,Instituto Navarro para la Igualdad / Nafarroako Berdintasunerako Institutua
 2020,B400,Instituto Navarro para la Igualdad / Nafarroako Berdintasunerako Institutua
@@ -1703,12 +1885,72 @@
 2020,B50,Delegación del Gobierno de Navarra en Bruselas
 2020,B500,Delegación del Gobierno de Navarra en Bruselas
 2020,B5000,Delegación del Gobierno de Navarra en Bruselas
+2020,B51,"Servicio de Acción Europea, Cooperación Interregional y Ciudadanía Exterior"
+2020,B5100,"Servicio de Acción Europea, Cooperación Interregional y Ciudadanía Exterior"
+2020,B5110,Sección de Coordinación e Impulso de Asuntos Europeos
+2020,B5120,Sección de Cooperación Interregional y Transfronteriza
+2020,B5130,Sección de Relaciones con la Ciudadanía en el Exterior
 2020,C,Consejo de Navarra
 2020,C0,Consejo de Navarra
 2020,C00,Consejo de Navarra
 2020,C000,Consejo de Navarra
 2020,C0000,Consejo de Navarra
 2020,CFNA,Comunidad Foral de Navarra
+2020,F0,Departamento de Políticas Migratorias y Justicia
+2020,F00,Departamento de Políticas Migratorias y Justicia
+2020,F0000,Departamento de Políticas Migratorias y Justicia
+2020,F01,Secretaría General Técnica
+2020,F0100,Secretaría General Técnica
+2020,F1,Dirección General de Políticas Migratorias
+2020,F10,Dirección General de Políticas Migratorias
+2020,F1000,Dirección General de Políticas Migratorias
+2020,F11,Servicio Karibu de Acogida y Acompañamiento a Personas Migrantes
+2020,F1100,Servicio Karibu de Acogida y Acompañamiento a Personas Migrantes
+2020,F12,Servicio Ayllu de Convivencia Intercultural y Lucha contra el Racismo y la Xenofobia
+2020,F1200,Servicio Ayllu de Convivencia Intercultural y Lucha contra el Racismo y la Xenofobia
+2020,F2,Dirección General de Justicia
+2020,F20,Dirección General de Justicia
+2020,F2000,Dirección General de Justicia
+2020,F21,Servicio Social de Justicia
+2020,F2100,Servicio Social de Justicia
+2020,F22,Servicio de Recursos Humanos y Nueva Oficina Judicial y Fiscal
+2020,F2200,Servicio de Recursos Humanos y Nueva Oficina Judicial y Fiscal
+2020,F222,Sección de Oficina Judicial y Fiscal
+2020,F23,Servicio de Infraestructuras Judiciales
+2020,F2300,Servicio de Infraestructuras Judiciales
+2020,G0,"Departamento de Universidad, Innovación y Transformación Digital"
+2020,G00,"Departamento de Universidad, Innovación y Transformación Digital"
+2020,G0000,"Departamento de Universidad, Innovación y Transformación Digital"
+2020,G01,Secretaría General Técnica
+2020,G0100,Secretaría General Técnica
+2020,G1,Dirección General de Universidad
+2020,G10,Dirección General de Universidad
+2020,G1000,Dirección General de Universidad
+2020,G11,Servicio de Universidad
+2020,G1100,Servicio de Universidad
+2020,G1110,Sección de Universidad
+2020,G2,Dirección General de Innovación
+2020,G20,Dirección General de Innovación
+2020,G2000,Dirección General de Innovación
+2020,G2010,Sección de Compra Pública Innovadora
+2020,G21,Servicio de I+D+i
+2020,G2100,Servicio de I+D+i
+2020,G3,Dirección General de Transformación Digital
+2020,G30,Dirección General de Transformación Digital
+2020,G3000,Dirección General de Transformación Digital
+2020,G31,Servicio de Avance Digital
+2020,G3100,Servicio de Avance Digital
+2020,G32,"Servicio de Administración Electrónica, Hacienda, RRHH y SITNA"
+2020,G3200,"Servicio de Administración Electrónica, Hacienda, RRHH y SITNA"
+2020,G33,Servicio de Sistemas de Información Departamentales
+2020,G3300,Servicio de Sistemas de Información Departamentales
+2020,G35,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
+2020,G3500,Servicio de Infraestructuras Tecnológicas y Centro de Soporte
+2020,G36,Servicio de Tecnologías de Salud
+2020,G3600,Servicio de Tecnologías de Salud
+2020,H0,Oficina de Buenas Prácticas y Anticorrupción
+2020,H00,Oficina de Buenas Prácticas y Anticorrupción
+2020,H0000,Oficina de Buenas Prácticas y Anticorrupción
 2020,ONV,Ceges no válidos
 2020,P,Parlamento de Navarra
 2020,P0,Cámara Legislativa
@@ -1723,7 +1965,3 @@
 2020,P20,Defensor del Pueblo
 2020,P200,Defensor del Pueblo
 2020,P2000,Defensor del Pueblo
-2020,78400,Dirección General de Administración Local
-2020,17630,"Sección de los Impuestos sobre Sucesiones y Donaciones, Transmisiones Patrimoniales y Actos Jurídicos Documentados"
-2020,41010,Sección de Universidades
-2020,74700,Servicio de Innovación y Conocimiento en Sostenibilidad Territorial y Ambiental

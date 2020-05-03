@@ -42,6 +42,7 @@
 2020,GASTO,1,7,0,4,Complemento por realización de guardias                                                                   
 2020,GASTO,1,7,0,5,Complemento por trabajo en turnos de noche                                                                
 2020,GASTO,1,7,0,6,Complemento de dispersión geográfica                                                                      
+2020,GASTO,1,7,0,7,Remuneración por trabajo a turnos
 2020,GASTO,1,7,0,9,Otras retribuciones variables                                                                             
 2020,GASTO,1,7,1, ,Incentivos al rendimiento                                                                                 
 2020,GASTO,1,7,1,0,Complemento de productividad                                                                              
@@ -267,6 +268,7 @@
 2020,GASTO,6,0,0,0,Solares                                                                                                   
 2020,GASTO,6,0,0,1,Fincas rústicas                                                                                           
 2020,GASTO,6,0,0,2,Otros bienes naturales                                                                                    
+2020,GASTO,6,0,0,3,Demoliciones
 2020,GASTO,6,0,1, ,Obras públicas                                                                                            
 2020,GASTO,6,0,1,0,"Carreteras, caminos y puentes                                                                             "
 2020,GASTO,6,0,1,3,Líneas eléctricas y telefónicas                                                                           
