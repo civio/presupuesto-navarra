@@ -1,5 +1,6 @@
 2019,010001,00100,3990,000000,Otros ingresos,10,10,121.058
 2019,010001,01000,3990,000000,Ingresos derivados de procesos electorales,0,12.570,12.570
+2019,010002,01300,3010,000000,"Tasas por actuaciones del Registro de Asociaciones, del de Fundaciones y del de Colegios Profesionales",9.000,9.000,9.863
 2019,010003,01010,3304,000002,Publicación de anuncios,100.000,100.000,95.412
 2019,010004,01100,3990,000000,Ingresos por ejecución de sentencias,250.000,250.000,210.248
 2019,020002,04100,3800,000000,Reintegro de retribuciones abonadas indebidamente en ejercicios anteriores,3.000,3.000,182.630
@@ -67,50 +68,50 @@
 2019,150000,17000,3010,000000,Tasas por servicios administrativos,10,10,165
 2019,150000,17000,3800,000000,Reintegros,10,10,63.837
 2019,150000,17000,4610,000000,Convenio con la Diputación Foral de Álava. Sistema integrado de informática tributaria,0,0,80.457
-2019,152000,17500,3910,000000,Sanciones,12.000.000,12.000.000,11.973.958
-2019,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,297.630.157,297.630.157,274.064.327
-2019,152000,17520,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,6.701.000,6.701.000,5.024.031
-2019,152000,17520,1140,000000,Impuesto sobre depósitos en entidades de crédito,4.898.000,4.898.000,5.236.318
-2019,152000,17520,1820,000000,Impuesto sobre grandes superficies,2.000.000,2.000.000,1.696.213
-2019,152000,17520,1830,000000,Ingresos por gravamen premios de loterías,2.533.000,2.533.000,3.644.868
-2019,152000,17540,2100,000000,Ingresos por el IVA,363.457.000,363.457.000,270.911.395
-2019,152000,17550,1300,000000,Impuesto sobre la producción de la energía eléctrica,16.185.000,16.185.000,49.686.107
-2019,152000,17550,2200,000000,Ingresos por los impuestos especiales sobre el alcohol y bebidas derivadas,52.934.000,52.934.000,49.645.274
-2019,152000,17550,2201,000000,Ingresos por el Impuesto Especial sobre determinados medios de transporte,8.827.000,8.827.000,9.171.984
-2019,152000,17550,2202,000000,Ingresos por el Impuesto Especial sobre la cerveza,186.000,186.000,185.157
-2019,152000,17550,2203,000000,Ingresos por el Impuesto Especial sobre las labores del tabaco,142.446.000,142.446.000,145.397.698
-2019,152000,17550,2204,000000,Ingresos por el Impuesto Especial sobre hidrocarburos,250.436.000,250.436.000,227.514.600
-2019,152000,17550,2206,000000,Ingresos por el Impuesto Especial sobre productos intermedios,130.000,130.000,411.319
-2019,152000,17550,2207,000000,Ingresos por el Impuesto Especial sobre la electricidad,22.088.000,22.088.000,23.685.870
-2019,152000,17550,2208,000000,Impuesto sobre la eliminación en vertedero y la incineración de residuos,2.901.000,2.901.000,3.662.433
-2019,152000,17550,2210,000000,Ingresos por el Impuesto sobre las ventas minoristas de hidrocarburos,0,0,0
-2019,152000,17550,2810,000000,Impuesto sobre las primas de seguros,23.506.000,23.506.000,21.213.990
-2019,152000,17550,2840,000000,Impuesto sobre actividades de juego,2.387.000,2.387.000,1.888.241
-2019,152000,17550,2850,000000,Impuesto sobre gases fluorados de efecto invernadero,1.503.000,1.503.000,780.521
-2019,152000,17550,3000,000000,Tasas de juego,9.400.000,9.400.000,9.563.768
+2019,152000,17500,3910,000000,Sanciones,12.000.000,12.000.000,22.544.469
+2019,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,297.630.157,297.630.157,275.299.514
+2019,152000,17520,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,6.701.000,6.701.000,6.089.220
+2019,152000,17520,1140,000000,Impuesto sobre depósitos en entidades de crédito,4.898.000,4.898.000,5.240.929
+2019,152000,17520,1820,000000,Impuesto sobre grandes superficies,2.000.000,2.000.000,1.957.609
+2019,152000,17520,1830,000000,Ingresos por gravamen premios de loterías,2.533.000,2.533.000,2.647.161
+2019,152000,17540,2100,000000,Ingresos por el IVA,363.457.000,363.457.000,290.064.506
+2019,152000,17550,1300,000000,Impuesto sobre la producción de la energía eléctrica,16.185.000,16.185.000,31.637.714
+2019,152000,17550,2200,000000,Ingresos por los impuestos especiales sobre el alcohol y bebidas derivadas,52.934.000,52.934.000,48.996.577
+2019,152000,17550,2201,000000,Ingresos por el Impuesto Especial sobre determinados medios de transporte,8.827.000,8.827.000,9.114.669
+2019,152000,17550,2202,000000,Ingresos por el Impuesto Especial sobre la cerveza,186.000,186.000,190.999
+2019,152000,17550,2203,000000,Ingresos por el Impuesto Especial sobre las labores del tabaco,142.446.000,142.446.000,145.367.924
+2019,152000,17550,2204,000000,Ingresos por el Impuesto Especial sobre hidrocarburos,250.436.000,250.436.000,228.507.719
+2019,152000,17550,2206,000000,Ingresos por el Impuesto Especial sobre productos intermedios,130.000,130.000,155.699
+2019,152000,17550,2207,000000,Ingresos por el Impuesto Especial sobre la electricidad,22.088.000,22.088.000,22.507.990
+2019,152000,17550,2208,000000,Impuesto sobre la eliminación en vertedero y la incineración de residuos,2.901.000,2.901.000,3.661.501
+2019,152000,17550,2210,000000,Ingresos por el Impuesto sobre las ventas minoristas de hidrocarburos,0,0,-73.691
+2019,152000,17550,2810,000000,Impuesto sobre las primas de seguros,23.506.000,23.506.000,21.197.909
+2019,152000,17550,2840,000000,Impuesto sobre actividades de juego,2.387.000,2.387.000,1.888.896
+2019,152000,17550,2850,000000,Impuesto sobre gases fluorados de efecto invernadero,1.503.000,1.503.000,781.123
+2019,152000,17550,3000,000000,Tasas de juego,9.400.000,9.400.000,9.780.477
 2019,152000,17550,3050,000000,Canon de superficie de minas,54.000,54.000,0
-2019,152000,17550,3080,000000,Canon de Telefónica,732.000,732.000,115.595
-2019,152000,17550,3309,000000,Ingresos por la venta de cartones de juego,60.000,60.000,54.669
+2019,152000,17550,3080,000000,Canon de Telefónica,732.000,732.000,93.899
+2019,152000,17550,3309,000000,Ingresos por la venta de cartones de juego,60.000,60.000,55.878
 2019,154000,17600,3090,000000,Tasas sobre la información suministrada,11.000,11.000,8.055
 2019,154000,17600,3990,000000,Otros ingresos derivados de expropiaciones,5.000,5.000,10.649
-2019,154003,17630,1120,000000,Ingresos por el Impuesto sobre Sucesiones y Donaciones,61.553.000,61.553.000,48.510.055
-2019,154003,17630,2820,000000,Ingresos por el Impuesto sobre Transmisiones Patrimoniales,60.434.000,60.434.000,54.204.362
-2019,154003,17630,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,14.272.000,14.272.000,14.466.057
+2019,154003,17630,1120,000000,Ingresos por el Impuesto sobre Sucesiones y Donaciones,61.553.000,61.553.000,46.137.693
+2019,154003,17630,2820,000000,Ingresos por el Impuesto sobre Transmisiones Patrimoniales,60.434.000,60.434.000,54.283.480
+2019,154003,17630,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,14.272.000,14.272.000,14.793.718
 2019,155002,17820,3890,000000,Ingresos por la compensación de costas en procedimientos de apremio,101.000,101.000,184.568
-2019,155002,17820,3912,000000,Recargos de apremio,6.500.000,6.500.000,5.682.755
+2019,155002,17820,3912,000000,Recargos de apremio,6.500.000,6.500.000,10.926.536
 2019,155002,17820,3990,000000,"Saldos no fiscales, previos al nuevo interfase CAT",10,10,0
-2019,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,899.000,899.000,0
-2019,155004,17810,2900,000002,Otros Impuestos Indirectos Extinguidos,10,10,-117.187
-2019,155004,17810,3911,000000,Intereses de demora de deudas no aplazadas,10,10,0
+2019,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,899.000,899.000,358.726
+2019,155004,17810,2900,000002,Otros Impuestos Indirectos Extinguidos,10,10,0
+2019,155004,17810,3911,000000,Intereses de demora de deudas no aplazadas,10,10,10.214.802
 2019,155004,17810,3990,000000,Vencimientos Aplazamientos previos al nuevo interfase CAT,10,10,0
-2019,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.500.000,4.500.000,2.551.059
+2019,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.500.000,4.500.000,7.095.026
 2019,156000,17900,3309,000000,Ingresos por venta de impresos,2.500,2.500,5.758
 2019,156001,17950,4600,000000,Convenio con Haciendas Locales de Navarra,10,10,0
-2019,157001,17A00,1005,000000,Ingresos por el IRPF,1.421.146.588,1.421.146.588,1.539.449.084
+2019,157001,17A00,1005,000000,Ingresos por el IRPF,1.421.146.588,1.421.146.588,1.551.746.897
 2019,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros fines de interés social",8.796.412,8.796.412,0
-2019,157001,17A00,1005,000003,Anticipo pensiones viudedad y otras,-7.268.000,-7.268.000,-4.686.327
-2019,157001,17A00,1005,000004,Anticipo renta emancipación y de acceso a la vivienda,-9.333.000,-9.333.000,-1.335.388
-2019,157001,17A00,1100,000000,Ingresos por el Impuesto sobre el Patrimonio,43.265.000,43.265.000,33.024.194
+2019,157001,17A00,1005,000003,Anticipo pensiones viudedad y otras,-7.268.000,-7.268.000,0
+2019,157001,17A00,1005,000004,Anticipo renta emancipación y de acceso a la vivienda,-9.333.000,-9.333.000,0
+2019,157001,17A00,1100,000000,Ingresos por el Impuesto sobre el Patrimonio,43.265.000,43.265.000,39.764.116
 2019,160000,17100,2100,000002,Ajuste por el IVA,921.201.000,921.201.000,1.053.354.404
 2019,160000,17100,2200,000002,Ajuste fiscal I.E. Alcohol y bebidas derivadas,-37.614.000,-37.614.000,-36.163.545
 2019,160000,17100,2202,000002,Ajuste fiscal I.E. Cerveza,5.649.000,5.649.000,5.867.371

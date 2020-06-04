@@ -908,7 +908,6 @@
 2019,156000,17900,1200,932100,Retribuciones del personal fijo,56.832,75.937,75.933
 2019,156000,17900,1210,932100,Retribuciones del personal contratado para cubrir plazas reservadas,10,12,0
 2019,156000,17900,1211,932100,Retribuciones del personal contratado para cubrir vacantes,20.258,5.791,5.788
-2019,156000,17900,2020,932100,Arrendamiento de edificios y otras construcciones,0,0,0
 2019,156000,17900,2202,932100,"Suscripciones, libros y programas",1.200,1.200,366
 2019,156000,17900,2262,932100,Propaganda y publicidad,4.000,4.000,0
 2019,156000,17900,2264,932100,Gastos de comunidad,22.000,22.000,7.496
@@ -1242,8 +1241,8 @@
 2019,420004,42700,1200,321100,Retribuciones del personal fijo,680.612,622.908,602.844
 2019,420004,42700,1210,321100,Retribuciones del personal contratado para cubrir plazas reservadas,20.258,32.921,31.965
 2019,420004,42700,1211,321100,Retribuciones del personal contratado para cubrir vacantes,20.258,45.930,45.930
-2019,420004,42730,2266,321200,Actividades formativas del profesorado,600.000,577.692,487.183
-2019,420004,42730,2266,321202,Actividades formativas del profesorado. FSE,10,10.197,16.802
+2019,420004,42730,2266,321200,Actividades formativas del profesorado,600.000,577.692,483.062
+2019,420004,42730,2266,321202,Actividades formativas del profesorado. FSE,10,10.197,20.922
 2019,420004,42730,2266,321203,Actividades formativas del personal CAP,15.000,0,0
 2019,420004,42730,2269,322000,Programas formativos,35.500,35.500,27.905
 2019,420004,42730,2269,322002,Programas de innovación educativa,70.000,70.000,62.101
@@ -1734,7 +1733,7 @@
 2019,543000,52200,2279,312300,Otros trabajos realizados por terceros,120.000,120.000,201.891
 2019,543000,52200,2279,312303,Asistencia religiosa,36.105,36.105,38.036
 2019,543000,52200,2280,312300,"Energía eléctrica, agua y calefacción",5.909.610,5.909.610,6.033.144
-2019,543000,52200,2283,312300,Material para reparación y conservación,1.550.000,1.550.000,1.388.248
+2019,543000,52200,2283,312300,Material para reparación y conservación,1.550.000,1.550.000,1.387.778
 2019,543000,52200,2284,312300,Material de limpieza y aseo,800.000,800.000,798.046
 2019,543000,52200,2286,312300,Productos químicos de laboratorio,14.804.892,15.680.718,15.680.715
 2019,543000,52200,2287,312300,Gases médicos,914.600,914.600,880.217
@@ -2231,7 +2230,6 @@
 2019,720000,71510,4700,414100,Canon de los riegos del Canal de Navarra,16.764.446,16.764.446,16.472.063
 2019,720000,71510,4700,414102,Canon de los riegos del Canal de Navarra. Ampliación 1ª Fase,12.101.373,9.970.028,9.650.748
 2019,720000,71510,4700,414103,Indemnización por pérdidas en cultivos permanentes,100.000,100.000,97.580
-2019,720000,71510,6014,414100,Encargo a INTIA. Dirección de obras para las inversiones en infraestructuras de regadíos en parcelas comunales,0,0,0
 2019,720000,71510,6019,414104,Encargo a INTIA. Concentración parcelaria Ribaforada-Canal de Lodosa,200.000,190.821,63.745
 2019,720000,71510,6019,414302,Obras de reordenación de la propiedad y concentración parcelaria,249.517,249.517,115.316
 2019,720000,71510,6019,414303,Encargo a TRACASA Instrumental. Obras de reordenación de la propiedad y concentración parcelaria,148.500,148.500,100.695
@@ -2543,7 +2541,7 @@
 2019,781000,78300,1200,942100,Retribuciones del personal fijo,231.373,253.946,253.937
 2019,781000,78300,1210,942100,Retribuciones del personal contratado para cubrir plazas reservadas,10,12,0
 2019,781000,78300,1211,942100,Retribuciones del personal contratado para cubrir vacantes,145.410,133.042,130.158
-2019,781000,78300,7600,261600,Libre determinación,9.250.000,14.491.115,9.327.636
+2019,781000,78300,7600,261600,Libre determinación,9.250.000,14.491.115,9.348.181
 2019,781000,78300,7600,456104,Plan director de abastecimiento en alta (RG),1.073.688,874.253,510.929
 2019,781000,78300,7600,456106,P.I. Abastecimiento de agua en alta,6.627.846,9.921.070,5.608.359
 2019,781000,78300,7600,456200,Plan director de residuos sólidos urbanos. Tratamiento,10,256.686,250.133
@@ -2565,7 +2563,7 @@
 2019,781000,78310,7600,459103,Alumbrado público,1.499.403,3.609.319,2.154.722
 2019,781000,78310,7600,459104,IFS LF 19/2018 Alumbrado público,0,2.906.506,2.312.639
 2019,781000,78310,7600,45A200,Caminos locales (RG),0,45.420,37.787
-2019,781000,78310,7600,45A202,Caminos a núcleos habitados,1.436.672,2.256.508,1.448.329
+2019,781000,78310,7600,45A202,Caminos a núcleos habitados,1.436.672,2.256.508,1.457.431
 2019,781000,78310,7600,45A203,IFS LF 19/2018 Caminos a lugares permanentemente habitados y entre núcleos,0,460.057,423.813
 2019,781001,78200,1200,942100,Retribuciones del personal fijo,129.127,156.957,144.651
 2019,781001,78200,1210,942100,Retribuciones del personal contratado para cubrir plazas reservadas,10,12,0
@@ -2750,7 +2748,7 @@
 2019,810012,81500,4819,494117,"Transferencias a ANEL y UCAN. Fondos La Proveedora, S. Coop.",10,25.596,25.586
 2019,810012,81500,4819,494118,Actuaciones prevención riesgos laborales. Entidades firmantes acuerdo intersectorial,400.000,400.000,389.707
 2019,810012,81500,4819,494119,Aditech Unidad de Innovación Social,45.000,45.000,41.654
-2019,810012,81500,7709,494100,Inversiones en ejecución del Plan de Salud Laboral,250.000,250.000,192.354
+2019,810012,81500,7709,494100,Inversiones en ejecución del Plan de Salud Laboral,250.000,250.000,195.193
 2019,820000,82000,1000,421100,Retribuciones de altos cargos,57.402,75.602,75.599
 2019,820000,82000,1200,421100,Retribuciones del personal fijo,162.360,153.007,149.755
 2019,820000,82000,1210,421100,Retribuciones del personal contratado para cubrir plazas reservadas,20.258,11.595,5.719
@@ -2822,7 +2820,7 @@
 2019,820005,82100,4819,467306,(E) I+D+i Cadena alimentaria. CNTA para la implantación del plan estratégico,200.000,200.000,0
 2019,820005,82100,7309,467300,I+D+i Energía. Aportación de fondos a la Fundación CENER-CIEMAT para amortización de préstamos,900.000,4.000.000,4.000.000
 2019,820005,82100,7701,467300,"Bonificación de intereses a empresas por proyectos de I+D+i, patentes y estudios de viabilidad",150,150,0
-2019,820005,82100,7701,467303,Subvenciones a proyectos de I+D. PO FEDER Navarra 2014-2020,11.765.405,12.747.400,6.660.452
+2019,820005,82100,7701,467303,Subvenciones a proyectos de I+D. PO FEDER Navarra 2014-2020,11.765.405,12.747.400,6.667.150
 2019,820005,82100,7701,467304,Subvenciones a proyectos y actuaciones en cooperación suprarregional,368.795,368.795,212.576
 2019,820005,82100,7701,467305,Subvenciones a proyectos de I+D estratégicos. RIS3 Navarra,11.867.005,8.891.454,199.993
 2019,820005,82100,7701,467306,Convocatoria I+D+i Cooperación Áreas de S3 Estrategia Especialización inteligente y tecnologías,10,10,0
@@ -3519,7 +3517,6 @@
 2019,950002,96200,4819,242106,Compensación por participación en actividades de prospección y planificación en necesidades formativas,30.000,30.000,8.052
 2019,950002,96200,4819,242111,Ayudas para sensibilización y difusión empresarial,100.000,100.000,90.833
 2019,950002,96200,4819,242112,Ayudas para programas de desarrollo e incorporación de perfiles estratégicos en empresas,400.000,400.000,343.347
-2019,950002,96200,4819,242113,Acciones de formación para la capacitación en diálogo social y negociación colectiva,0,0,0
 2019,950002,96200,4819,242200,Programas de Escuelas Taller y programas específicos. Conferencia Sectorial,5.000.000,5.336.832,2.080.953
 2019,950002,96200,6094,241300,Aplicaciones informáticas. Conferencia Sectorial,500.000,500.000,475.935
 2019,950003,96400,1200,241100,Retribuciones del personal fijo,2.477.995,2.131.080,2.000.485
