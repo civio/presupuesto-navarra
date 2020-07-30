@@ -5097,13 +5097,18 @@
 2020,G30005,G3500,6013,467902,Encargo a NASERTIC. Plan de banda ancha de Navarra: corporativa,500.000,1.201.000,142.170
 2020,G30005,G3500,6031,491300,Instalaciones fijas y cableado de edificios,15.000,15.000,435
 2020,G30005,G3500,6059,491100,Equipamiento de telecomunicaciones y terminales,15.000,15.000,635
-2020,G30005,G3500,6059,491102,COVID-19 Equipamiento de telecomunicaciones y terminales,942.205,975.205,713.924
-2020,G30005,G3500,6060,921C00,Equipamiento informático e infraestructuras tecnológicas,3.620.693,3.620.693,2.219.393
-2020,G30005,G3500,6060,921C02,COVID-19 Equipamiento informático e infraestructuras tecnológicas,24.000,131.000,91.094
-2020,G30006,G3600,1200,311100,Retribuciones del personal fijo,1.220.409,1.264.696,612.047
-2020,G30006,G3600,1210,311100,Retribuciones del personal contratado para cubrir plazas reservadas,45.071,74.979,35.765
+2020,G30005,G3500,6059,491102,COVID-19 Equipamiento de telecomunicaciones y terminales,0,33.000,7.272
+2020,G30005,G3500,6060,921C00,Equipamiento informático e infraestructuras tecnológicas,648.076,648.076,21.321
+2020,G30005,G3500,6060,921C02,COVID-19 Equipamiento informático e infraestructuras tecnológicas,0,107.000,72.428
+2020,G30006,G3600,1200,311100,Retribuciones del personal fijo,440.509,484.796,222.097
+2020,G30006,G3600,1210,311100,Retribuciones del personal contratado para cubrir plazas reservadas,32.071,61.979,29.265
 2020,G30006,G3600,1211,311100,Retribuciones del personal contratado para cubrir vacantes,96.211,94.400,41.680
 2020,G30006,G3600,2276,311102,Arquitectura software para Salud,270.000,270.000,69.294
 2020,G30006,G3600,2276,311103,COVID-19 Arquitectura software para Salud,0,67.500,52.729
 2020,H00000,H0000,4459,911300,(E) Oficina Buenas Prácticas y Anticorrupción,10,10,0
 2020,P01001,P0000,4450,911200,Transferencias corrientes del Gobierno de Navarra,13.834.711,13.834.711,10.376.350
+2020,P01001,P0000,7450,911200,Transferencias de capital del Gobierno de Navarra,942.205,942.205,706.652
+2020,P01002,P1000,4451,911300,Transferencias corrientes del Gobierno de Navarra,2.972.617,2.972.617,2.198.072
+2020,P01002,P1000,7451,911300,Transferencias de capital del Gobierno de Navarra,24.000,24.000,18.666
+2020,P01003,P2000,4452,911200,Transferencias corrientes del Gobierno de Navarra,779.900,779.900,389.950
+2020,P01003,P2000,7452,911200,Transferencias de capital del Gobierno de Navarra,13.000,13.000,6.500
