@@ -91,7 +91,9 @@ class NavarraBudgetLoader(BudgetLoader):
         ec_code = line[3]
         ic_code = line[2]
         raw_amount = line[8 if is_actual else 6]
-        amount = self._read_english_number(raw_amount) if line[0]=='2011' else self._read_spanish_number(raw_amount)
+        # Temporary patch. See civio/presupuesto-management#1046
+        amount = self._read_english_number(raw_amount)
+        # amount = self._read_english_number(raw_amount) if line[0]=='2011' else self._read_spanish_number(raw_amount)
 
         # The final 2016 execution data for revenues is in negative, for unknown reasons
         if not is_expense and line[0]=='2016':
