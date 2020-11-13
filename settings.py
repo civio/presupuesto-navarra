@@ -139,4 +139,5 @@ MAIN_ENTITY_LEGAL_URL   = 'http://www.navarra.es/home_es/Aviso/avisoLegal.htm'
 # to the project URL patterns list.
 EXTRA_URLS = (
     url(r'^visita-guiada$', 'guidedvisit', name="guidedvisit"),
+    url(r'^covid$', 'covid', name="covid"),
 )

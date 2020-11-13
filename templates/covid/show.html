@@ -1,0 +1,110 @@
+{% extends 'base.html' %}
+{% from 'shared/entity_select.html' import render_entity_select as render_entity_select %}
+
+{% block content %}
+{% if entities %}
+<p><a href="{{ url('budget_app.views.counties') if is_county else url('budget_app.views.towns') }}" class="button button-3d grey tupper hide-when-embedded">
+  {% if is_county %}
+  ← {{ _('Volver a la lista de comarcas') }}
+  {% else %}
+  ← {{ _('Volver a la lista de municipios') }}
+  {% endif %}
+</a></p>
+{% endif %}
+
+
+<!-- Politicas -->
+<section class="policies" role="region" data-tab="{% if show_side=='income' %}income{% elif full_breakdown %}functional{% else %}expense{% endif %}">
+  
+  <!-- Politicas Header -->
+  <div class="policies-header section-header">
+    
+    <h2 class="page-title">{{ entity.name+': ' if is_secondary_entity }}{{ _('Políticas') }}</h2>
+
+    <ul id="tabs" class="nav nav-tabs nav-tabs-centered" role="tablist">
+      <li role="presentation">
+        <a href="#income" role="tab">{{ _('Ingresos') }}</a>
+      </li>
+      <li role="presentation">
+        <a href="#expense" role="tab">{{ _('¿Cómo se gasta?') }}</a>
+      </li>
+      {% if breakdowns['institutional'] %}
+      <li role="presentation">
+        <a href="#institutional" role="tab">{{ _('¿Quién lo gasta?') }}</a>
+      </li>
+      {% endif %}
+      <li role="presentation">
+        <a href="#functional" role="tab">{{ _('¿En qué se gasta?') }}</a>
+      </li>
+    </ul>
+  </div>
+
+  <!-- Policies Content -->
+  <div class="policies-content">
+    <div class="container">
+
+      <h3 id="tab-title"></h3>
+
+      <!-- Policies Chart -->
+      {% include 'entities/policies-chart.html' %}
+
+      {% if entities %}
+      {{ render_entity_select('entity-select', entities, entity) }}
+      {% endif %}
+
+      {% include 'shared/data_controllers.html' %}
+
+      {# XXX#1039: Add some margin #}
+      <div style="margin: 30px"></div>
+
+      {# XXX#1039: Custom version #}
+      {% include 'covid/totals.html' %}
+
+      <!-- Policies Table -->
+      <table id="myGrid" class="table-grid" width="100%"></table>
+
+      {# XXX: Disable CSV downloads for entities. See #105 #}
+      {# XXX#1039: Disable this #}
+      {% if false %}
+      <div class="panel-downloads">
+        <p class="downloads hidden" id="income-downloads">
+          {{ _('Descarga la tabla de <strong>Ingresos</strong>')|safe }}
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_income', entity.level, entity.slug, 'csv') }}" title="{{ _('Descarga la tabla en CSV') }}"><span class="file-info">CSV</span></a>
+          o
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_income', entity.level, entity.slug, 'xlsx') }}" title="{{ _('Descarga la tabla en Excel') }}"><span class="file-info">Excel</span></a>
+        </p>
+        <p class="downloads hidden" id="functional-downloads">
+          {{ _('Descarga la tabla de <strong>Gastos (por programa)</strong>')|safe }}
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_functional', entity.level, entity.slug, 'csv') }}" title="{{ _('Descarga la tabla en CSV') }}"><span class="file-info">CSV</span></a>
+          o
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_functional', entity.level, entity.slug, 'xlsx') }}" title="{{ _('Descarga la tabla en Excel') }}"><span class="file-info">Excel</span></a>
+        </p>
+        <p class="downloads hidden" id="institutional-downloads">
+          {{ _('Descarga la tabla de <strong>Gastos (por sección)</strong>')|safe }}
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_institutional', entity.level, entity.slug, 'csv') }}" title="{{ _('Descarga la tabla en CSV') }}"><span class="file-info">CSV</span></a>
+          o
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_institutional', entity.level, entity.slug, 'xlsx') }}" title="{{ _('Descarga la tabla en Excel') }}"><span class="file-info">Excel</span></a>
+        </p>
+        <p class="downloads hidden" id="expense-downloads">
+          {{ _('Descarga la tabla de <strong>Gastos</strong>')|safe }}
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_expenses', entity.level, entity.slug, 'csv') }}" title="{{ _('Descarga la tabla en CSV') }}"><span class="file-info">CSV</span></a>
+          o
+          <a class="icon-file-excel" href="{{ url('budget_app.views.entity_expenses', entity.level, entity.slug, 'xlsx') }}" title="{{ _('Descarga la tabla en Excel') }}"><span class="file-info">Excel</span></a>
+        </p>
+      </div>
+      {% endif %}
+
+      {% include 'shared/social_sharing.html' %}
+    </div>
+  </div>
+</section>
+
+{% include 'shared/modal_embed.html' %}
+{% include 'shared/data_sources.html' %}
+{% include 'shared/policy_paths.html' %}
+{% include 'shared/budget_status_labels.html' %}
+
+{# XXX#1039: Custom version #}
+{% include 'covid/show_script.html' %}
+
+{% endblock %}
