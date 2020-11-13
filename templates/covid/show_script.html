@@ -291,7 +291,8 @@
     $(window).resize( budgetTreemap.resize );
 
     // Listen BudgetTreemap & BudgetSummary events
-    $('#budget-treemap').bind('policy-selected',     onBudgetTreemapClick);
+    // XXX#1039: Disable clicks
+    // $('#budget-treemap').bind('policy-selected',     onBudgetTreemapClick);
     $('#budget-summary').bind('budget-summary-over', onBudgetSummaryOver);
     $('#budget-summary').bind('budget-summary-out',  onBudgetSummaryOut);
 
