@@ -55,8 +55,9 @@ def covid(request, render_callback=None):
     c['entity'] = entity
 
     # XXX
-    c['budget_statuses']='{"2020": ""}'
-    c['show_actual']=False
+    c['budget_statuses'] = '{"2020": ""}'
+    c['show_actual'] = False
+    c['active_tab'] = 'covid'
 
     # if parameter widget defined use policies/widget template instead of policies/show
     template = 'covid/show_widget.html' if isWidget(request) else 'covid/show.html'
