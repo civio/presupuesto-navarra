@@ -141,6 +141,7 @@ h1, h2, h3, h4, h5, h6{
 // Fix menu options with guidedvisit
 @media (min-width: $screen-sm-min) {
   .navbar-default .navbar-nav>li {
+      // XXX#1039: New option added
       width: 16.66%;
   }
 }

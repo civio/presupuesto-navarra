@@ -95,6 +95,7 @@
             <a href="{{ url('presupuesto-navarra.views.guidedvisit') }}" class="icon-payments">{{ _('Visita guiada') }}</a>
           </li>
 
+          {# XXX#1039: New option #}
           <li class="page-institutions {{ 'active' if active_tab == "covid"}}">
             <a href="{{ url('presupuesto-navarra.views.covid') }}" class="icon-payments">{{ _('COVID') }}</a>
           </li>
