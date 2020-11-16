@@ -191,3 +191,8 @@ msgstr "Zure zergen bidez egiten duzun diru-ekarpena nola banatzen den jakitea n
 
 msgid "Conceptos como ahorro, tipos de clasificación del presupuesto (según queramos poner el foco en para qué se gasta, quién lo gasta o en qué se gasta) y definiciones de los principales impuestos están en el <a href=\"/es/glosario\">glosario</a> que encontrarás en ¿Qué significa...?. No te quedes con ninguna duda."
 msgstr "Hainbat kontzeptu –esaterako, aurrezpena, aurrekontuaren sailkapen motak (jakin nahi duguna zertarako gastatzen den, nork gastatzen duen edo zertan gastatzen den izatearen arabera)– eta zerga nagusien definizioak «Zer esan nahi du...?» atalean aurkituko duzun <a href=\"/eu/glosario\">glosarioan</a> daude. Kontsultatu zalantza guztiak."
+
+# COVID
+
+msgid "Impacto de la COVID en la ejecución presupuestaria"
+msgstr "Impacto de la COVID en la ejecución presupuestaria"

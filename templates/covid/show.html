@@ -17,9 +17,11 @@
 <section class="policies" role="region" data-tab="{% if show_side=='income' %}income{% elif full_breakdown %}functional{% else %}expense{% endif %}">
   
   <!-- Politicas Header -->
-  <div class="policies-header section-header">
+  {# XXX#1039: Manually fix spacing #}
+  <div class="policies-header section-header" style="margin-bottom: -70px">
     
     <h2 class="page-title">{{ entity.name+': ' if is_secondary_entity }}{{ _('Políticas') }}</h2>
+    <p class="lead">{{ _('Impacto de la COVID en la ejecución presupuestaria') }}</p>
 
     <ul id="tabs" class="nav nav-tabs nav-tabs-centered" role="tablist">
       <li role="presentation">
