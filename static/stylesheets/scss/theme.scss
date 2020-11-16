@@ -88,11 +88,13 @@ h1, h2, h3, h4, h5, h6{
 
 #menu-lang{
   float: right;
-  margin-top: 25px;
-  margin-right: -$grid-gutter-width/6;
+  margin-right: 10px;
+  margin-top: 2px;
+  margin-bottom: 10px;
 
   ul li{
     border: none;
+    font-weight: normal;
 
     input[type=submit] {
       text-transform: uppercase;
