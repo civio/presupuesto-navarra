@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-12-28 02:32+0100\n"
+"PO-Revision-Date: 2020-11-16 16:46+0100\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
@@ -42,6 +42,9 @@ msgstr "Inflazioaren datuak (Nafarroako KPIren urteroko batez bestekoak)"
 #: templates/shared/data_sources.html:14
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
 msgstr "Erakusten diren diru-sarrerak eta gastuak Nafarroako Gobernuari dagozkionak baino ez dira"
+
+msgid "El tamaño de la visualización (treemap) para un año dado es proporcional al importe del presupuesto ese año."
+msgstr "Urte jakin baterako bistaratzearen tamaina (treemap) urte horretako aurrekontuaren zenbatekoarekiko proportzionala da."
 
 #: templates/tax_receipt/tax_receipt_form.html:75
 msgid "Has ingresado <strong id=\"income-amount\"></strong>, contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a los presupuestos del Gobierno de Navarra"
@@ -123,7 +126,6 @@ msgid "Ahorro bruto – capítulo IX de gastos (pasivos financieros)"
 msgstr "Aurrezki gordina – gastuen III. eta IX. kapituluak"
 
 # Visita guiada
-
 msgid "Visita guiada"
 msgstr "Bisita gidatu"
 
