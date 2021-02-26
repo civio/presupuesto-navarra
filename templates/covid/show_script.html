@@ -158,7 +158,7 @@
       // Set total labels
       var executedLabel = uiState.view == 'income' ? '{{ _("Ingresado") }}' : '{{ _("Gastado") }}',
           // XXX#1039: Replace budgetStatuses[uiState.year] with hardcoded value
-          executionLabelPostfix = getExecutionTotalLabel('3T', budgetStatusLabels);
+          executionLabelPostfix = getExecutionTotalLabel('', budgetStatusLabels);
 
       TotalHelpers.setLabels(uiState.year+' '+executionLabelPostfix, executedLabel, '{{ _("Total") }}', includeFinancialChapters);
 
