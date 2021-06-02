@@ -40,7 +40,7 @@
 2020,090001,09100,3118,000000,Ingresos de instalaciones juveniles,215.000,215.000,24.788
 2020,090002,09100,3118,000002,Programas de juventud de actividades de verano,10,10,1.500
 2020,090002,09120,3309,000000,Ingresos del Carnet Joven (más de 26 y otros),10.000,10.000,4.678
-2020,090002,09120,3309,000002,Ingresos del Carnet Joven,10,168.732,200.135
+2020,090002,09120,3309,000002,Ingresos del Carnet Joven,10,168.732,200.321
 2020,100000,10100,3010,000000,Tasas por servicios administrativos,1.500,1.500,237
 2020,110000,11000,4000,000000,COVID-19 Transferencia de la Administración del Estado,0,44.812.560,174.815.430
 2020,110003,11520,3010,000000,Tasas de la actividad mediadora en seguros privados,200,200,140
@@ -78,7 +78,7 @@
 2020,150000,17000,3800,000000,Reintegros,10,10,19.964
 2020,150000,17000,4610,000000,Convenio con la Diputación Foral de Álava. Sistema integrado de informática tributaria,10,10,0
 2020,152000,17500,3910,000000,Sanciones,12.500.000,12.500.000,17.105.207
-2020,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,306.830.000,306.830.000,214.114.720
+2020,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,306.830.000,306.830.000,250.234.281
 2020,152000,17520,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,8.135.000,8.135.000,-1.788.453
 2020,152000,17520,1140,000000,Impuesto sobre depósitos en entidades de crédito,5.230.000,5.230.000,5.590.324
 2020,152000,17520,1820,000000,Impuesto sobre grandes superficies,2.000.000,2.000.000,1.544.592
@@ -108,13 +108,13 @@
 2020,154003,17630,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,15.177.000,15.177.000,12.664.554
 2020,155002,17820,3890,000000,Ingresos por la compensación de costas en procedimientos de apremio,104.000,104.000,230.369
 2020,155002,17820,3912,000000,Recargos de apremio,6.700.000,6.700.000,11.986.257
-2020,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,927.000,927.000,0
+2020,155002,17820,5201,000000,Intereses por la deuda fraccionada en vía de apremio,927.000,927.000,205.059
 2020,155004,17810,2900,000002,Otros Impuestos Indirectos Extinguidos,0,0,84
 2020,155004,17810,3911,000000,Intereses de demora de deudas no aplazadas,10,10,6.188.254
-2020,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.600.000,4.600.000,0
+2020,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4.600.000,4.600.000,5.595.527
 2020,156000,17900,3309,000000,Ingresos por venta de impresos,2.500,2.500,5.641
 2020,156001,17950,4600,000000,Convenio con Haciendas Locales de Navarra,10,1.168.226,941.823
-2020,157001,17A00,1005,000000,Ingresos por el IRPF,1.552.452.578,1.552.452.578,1.574.637.843
+2020,157001,17A00,1005,000000,Ingresos por el IRPF,1.552.452.578,1.552.452.578,1.538.518.282
 2020,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros fines de interés social",9.359.952,9.359.952,0
 2020,157001,17A00,1005,000003,Anticipo pensiones viudedad y otras,-4.736.000,-4.736.000,0
 2020,157001,17A00,1005,000004,Anticipo renta emancipación y de acceso a la vivienda,-2.480.000,-2.480.000,0
@@ -127,7 +127,7 @@
 2020,160000,17100,4000,000000,Participación de las diputaciones en los ingresos del Estado,90.000,90.000,99.890
 2020,200000,20100,3010,000000,Tasas y actuaciones administrativas,2.000,2.000,0
 2020,200000,20100,3990,000000,Ingresos por expedientes de responsabilidad patrimonial,1.000,1.000,0
-2020,200000,20100,3990,000002,Otros ingresos,2.000,2.000,14.820
+2020,200000,20100,3990,000002,Otros ingresos,2.000,2.000,15.297
 2020,210000,21100,4410,000000,Consumo eléctrico. Oficina del Defensor del Pueblo,10,11.842,11.842
 2020,210001,21000,3010,000000,Tasas por servicios administrativos,10,10,0
 2020,210001,21100,3800,000000,Reintegros de bonificaciones fiscales,10,10,0
@@ -232,14 +232,14 @@
 2020,520000,51200,4411,000000,Transferencias corrientes de entes públicos del Estado,10,10,69.824
 2020,520000,51200,4411,000002,Intensificación de la actividad investigadora,30.000,30.000,26.866
 2020,540000,52000,3070,000000,Tasas académicas y derechos de examen,8.000,8.000,118.685
-2020,540000,52000,3129,000000,Otros ingresos,135.000,135.000,63.718
+2020,540000,52000,3129,000000,Otros ingresos,135.000,135.000,63.719
 2020,540000,52000,3800,000000,Reintegro de retribuciones abonadas indebidamente,10,10,306.382
 2020,540000,52000,3910,000000,Multas y sanciones,15.000,15.000,31.131
 2020,540000,52000,3990,000000,Otros ingresos,25.000,25.000,22.594
 2020,540000,52000,3990,000002,Otros ingresos derivados de devoluciones de ejecuciones de sentencias y responsabilidad patrimonial,0,0,11.916
 2020,540000,52000,3990,000003,Ingresos por facturas rectificativas SSCC,10,10,0
 2020,540000,52000,4000,000000,COVID-19 Transferencias corrientes del Ministerio de Sanidad,0,3.827.226,3.827.226
-2020,540000,52000,4800,000000,COVID-19 Donaciones,0,141.800,172.544
+2020,540000,52000,4800,000000,COVID-19 Donaciones,0,141.800,162.544
 2020,540000,52000,5500,000000,Canon cajeros automáticos,1.501,1.501,2.501
 2020,540000,52000,7000,000000,COVID-19 Transferencias de capital del Ministerio de Sanidad,0,956.807,956.807
 2020,540000,52010,7901,000000,Ingresos PO FEDER 2014-2020 Navarra,10,10,208.725
@@ -301,7 +301,7 @@
 2020,700000,70000,3090,000000,"Canon de ocupación ""Soto Berbel""",10,10,2.087
 2020,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,25.000,25.000,424.780
 2020,700000,70000,3890,000002,Ingresos por reintegros de subvenciones. PDR,200.000,200.000,60.537
-2020,700000,70000,3990,000000,Otros ingresos,50.000,50.000,64.801
+2020,700000,70000,3990,000000,Otros ingresos,50.000,50.000,65.123
 2020,700000,70180,7400,000000,Ingresos para obras Laboratorio Villava,10,10,41.256
 2020,700000,70190,4000,000000,"Transferencias para estadística del Ministerio de Agricultura, Pesca y Alimentación",84.206,84.206,168.412
 2020,710000,71200,4901,000000,Ingresos de proyectos europeos,10,10,0
