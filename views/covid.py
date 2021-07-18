@@ -28,7 +28,7 @@ def covid(request, render_callback=None):
     # more complex logic below for small entities, and I used for a while the more 
     # general code for all scenarios, until I realised performance was much worse,
     # as we do two expensive denormalize-the-whole-db queries!
-    get_budget_breakdown(   "e.id = %s AND b.year = '2020' AND i.description LIKE %s", [ entity.id, 'COVID%' ],
+    get_budget_breakdown(   "e.id = %s AND (b.year = '2020' OR b.year = '2021') AND i.description LIKE %s", [ entity.id, 'COVID%' ],
                             [ 
                                 c['breakdowns']['economic'],
                                 c['breakdowns']['functional'],
@@ -55,7 +55,7 @@ def covid(request, render_callback=None):
     c['entity'] = entity
 
     # XXX
-    c['budget_statuses'] = '{"2020": ""}'
+    c['budget_statuses'] = '{"2020": "", "2021": ""}'
     c['show_actual'] = False
     c['active_tab'] = 'covid'
 
