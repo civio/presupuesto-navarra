@@ -157,7 +157,7 @@
 
       // Set total labels
       // XXX#1039: set real statuses by hand, while visualizing data as if the year is completed
-      var realBudgetStatuses = {"2020": "", "2021": "2T"}
+      var realBudgetStatuses = {"2020": "", "2021": ""}
       var executedLabel = uiState.view == 'income' ? '{{ _("Ingresado") }}' : '{{ _("Gastado") }}',
           // XXX#1039: Replace budgetStatuses[uiState.year] with hardcoded value
           executionLabelPostfix = getExecutionTotalLabel(realBudgetStatuses[uiState.year], budgetStatusLabels);
