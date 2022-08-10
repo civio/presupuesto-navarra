@@ -1,601 +1,602 @@
-2021,010001,00100,3990,000000,Otros ingresos,10,10,"434,05"
-2021,010002,01300,3010,000000,"Tasas por actuaciones de los Registros de Asociaciones, de Fundaciones y de Colegios Profesionales",9000,9000,8630
-2021,010003,01010,3304,000002,Publicaci¢n de anuncios,100000,100000,"110615,23"
-2021,010004,01100,3990,000000,Ingresos por ejecuci¢n de sentencias,250000,250000,"1171705,03"
-2021,010005,01710,3800,000000,Reintegro de pagos indebidos. Telfono de atenci¢n ciudadana,0,"30776,14","30776,14"
-2021,010005,01710,4600,000000,Ingresos de entidades locales para el servicio de atenci¢n ciudadana,340000,340000,347490
-2021,020002,04100,3800,000000,Reintegro de retribuciones abonadas indebidamente en ejercicios anteriores,3000,"423309,01","529675,37"
-2021,020002,04100,3800,000003,COVID-19 Reintegro de retribuciones abonadas indebidamente en ejercicios anteriores,0,0,"11039,89"
-2021,020002,04100,3900,000000,Cuotas de derechos pasivos,1725000,1725000,"1200445,29"
-2021,020002,04100,3990,000000,Otros ingresos,10,10,"13065,06"
-2021,020002,04100,8311,000000,Reintegro de anticipos de sueldo,752125,752125,552250
-2021,020002,04310,8200,000000,Gesti¢n del Montep¡o de funcionarios municipales,18524508,18524508,"18976937,38"
-2021,020002,04440,3070,000000,Tasas acadmicas y derechos de examen,12000,12000,"319633,6"
-2021,021001,04500,4000,000000,Cursos de formaci¢n continua (INAP estatal),480000,570000,758780
-2021,021002,04540,3100,000000,Curso Bomberos de Empresa,0,0,"12594,1"
-2021,050000,02000,3890,000000,Devoluci¢n de pagos,1000,1000,0
-2021,050000,02000,3990,000000,Otros ingresos,2000,2000,"38683,63"
-2021,050000,02400,3010,000000,"Tasas por informes, certificados y dem s actuaciones administrativas",150000,150000,"102818,03"
-2021,050000,02400,3910,000000,Multas de juego,4000,4000,"1725,5"
-2021,050000,02400,3910,000002,Multas de espect culos,70000,70000,10717
-2021,050000,02400,3910,000003,Multas de seguridad ciudadana,200000,200000,"999323,15"
-2021,050000,02400,3990,000002,Otros ingresos,10,10,0
-2021,050005,02930,3040,000000,Tasas por autorizaci¢n de transportes especiales,575000,575000,"741149,98"
-2021,050005,02930,3090,000000,Tasas por otras autorizaciones,400,400,"697,2"
-2021,051000,02100,3090,000000,"Tasas por informes, acompa¤amientos y otros",100500,100500,"116760,99"
-2021,051000,02100,3090,000002,Tasas por estancias de veh¡culos particulares en dependencias policiales,1000,1000,0
-2021,054000,02800,3010,000000,Tasas por servicios administrativos,600,600,375
-2021,054000,02800,3090,000000,"Tasas por servicios de prevenci¢n, extinci¢n de incendios y salvamento",20,20,43084
-2021,054000,02800,3990,000000,Contribuciones especiales,2400000,2400000,"3560036,44"
-2021,054000,02800,3990,000002,Otros ingresos,10,10,0
-2021,054000,02800,4909,000000,"Ingresos programa POCTEFA, Proyecto Alert",88487,88487,0
-2021,054001,02500,3010,000000,Tasas por servicios administrativos,200,200,240
-2021,054001,02500,3990,000000,Otros ingresos,10,10,0
-2021,060001,06100,3090,000000,Tasas por servicios audiovisuales,1500,1500,"205,36"
-2021,060005,06220,3304,000000,Ventas en el Fondo de Publicaciones,45000,45000,"77615,29"
-2021,060005,06220,3304,000002,Ventas en otras librer¡as,25000,25000,0
-2021,080000,08000,3800,000000,Ingresos por devoluci¢n de subvenciones,10,10,"14381,79"
-2021,080000,08000,7000,000000,MRR Creaci¢n de centros de atenci¢n integral 24 horas,0,0,"392013,55"
-2021,090001,09100,3118,000000,Ingresos de instalaciones juveniles,215000,215000,"25039,01"
-2021,090002,09100,3118,000002,Programas de juventud de actividades de verano,10,10,16280
-2021,090002,09120,3309,000000,Ingresos del Carn Joven (m s de 26 y otros),10000,10000,"462,3"
-2021,090002,09120,3309,000002,Ingresos del Carn Joven,10,"176817,26","210394,07"
-2021,100000,10100,3010,000000,Tasas por servicios administrativos,0,0,"550,92"
-2021,100000,10100,3800,000000,Reintegros,0,0,"17882,27"
-2021,100001,10100,3990,000000,Otros ingresos derivados de expropiaciones,40000,"57927,99","61110,69"
-2021,110000,11000,4000,000000,COVID-19 Transferencia de la Administraci¢n del Estado,10,10,192940190
-2021,110003,11520,3010,000000,Tasas de la actividad mediadora en seguros privados,200,200,40
-2021,110003,11520,9000,000000,Emisiones de Deuda de Navarra,415701957,415701957,149439000
-2021,110003,11520,9110,000000,Prstamos en moneda nacional,415701957,415701957,0
-2021,110003,11530,3800,000000,Reintegros,10,"3108316,48","3108316,6"
-2021,110003,11530,5200,000000,Intereses de cuentas corrientes,10,10,"9,2"
-2021,111000,11300,3910,000000,Penalizaciones por incumplimientos de contratos,10,10,0
-2021,111000,11300,3990,000000,Otros ingresos,10,10,"4220,06"
-2021,111000,11300,3990,000002,Herencias legales,10,10,0
-2021,111000,11300,3990,000003,Ingresos por indemnizaciones de aseguradoras,10,"321451,29","570678,34"
-2021,111000,11300,4800,000002,"Donaciones, herencias y legados testamentarios",10,10,0
-2021,111000,11300,8401,000000,Ingresos por obligaciones afianzadas,10,10,"30757,17"
-2021,111001,11300,6120,000000,Venta de bienes muebles,10,73133,73133
-2021,111002,11300,3990,000000,Comisiones de avales,10,10,0
-2021,111002,11300,5000,000000,Intereses de t¡tulos valores,10,10,0
-2021,111002,11300,5201,000000,Intereses de venta de bienes inmuebles a NASUVINSA,170075,170075,"159539,82"
-2021,111002,11300,5201,000002,Intereses de aplazamientos,10,10,"1615,73"
-2021,111002,11300,5300,000000,"Dividendos, participaciones y beneficios",10,10,0
-2021,111002,11300,5400,000000,Rentas de inmuebles,130000,130000,"121474,09"
-2021,111002,11300,5400,000002,Arrendamiento Petilla de Arag¢n,10,10,"44086,35"
-2021,111002,11300,5500,000000,Concesi¢n demanial garajes Gonz lez Tablas,12542,"100437,99","321795,25"
-2021,111002,11300,6000,000000,Venta de terrenos,10000,10000,"12163,95"
-2021,111002,11300,6000,000002,Reversi¢n de terrenos,10,10,0
-2021,111002,11300,6000,000003,Venta de terrenos de la extinta Fundaci¢n Itoiz-Canal de Navarra,0,37550,37550
-2021,111002,11300,6100,000000,Venta de inmuebles,20000,20000,1464
-2021,111002,11300,7400,000000,Ingresos de sociedades,10,10,0
-2021,111002,11300,8212,000000,Reintegro prstamo concedido por la venta de bienes inmuebles a NASUVINSA,1417293,1417293,"1840890,54"
-2021,111002,11300,8500,000000,Reintegro de acciones y participaciones del sector p£blico,24050459,24050459,0
-2021,113002,12100,8700,000000,Remanente de tesorer¡a afecto,0,"32235399,18",0
-2021,113002,12100,8700,000002,Remanente de tesorer¡a gastos generales,0,"272828144,14",0
-2021,113002,12100,8700,000003,Remanente de tesorer¡a afecto al Fondo de Participaci¢n de las Entidades Locales,0,"843487,14",0
-2021,113002,12100,8700,000004,"Remanente de tesorer¡a afecto al Fondo 0,7% IRPF",0,"821266,89",0
-2021,150000,17000,3010,000000,Tasas por servicios administrativos,10,10,"84,4"
-2021,150000,17000,3800,000000,Reintegros,10,10,"10752,84"
-2021,150000,17000,4610,000000,Convenio con la Diputaci¢n Foral de µlava. Sistema integrado de inform tica tributaria,10,"107171,51","107171,51"
-2021,152000,17500,3910,000000,Sanciones,12500000,12500000,"13939962,52"
-2021,152000,17520,1015,000000,Ingresos por el Impuesto de sociedades,280519000,280519000,"320390489,24"
-2021,152000,17520,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,9421000,9421000,"2096510,46"
-2021,152000,17520,1140,000000,Impuesto sobre dep¢sitos en entidades de crdito,5641000,5641000,"6092105,46"
-2021,152000,17520,1820,000000,Impuesto sobre grandes superficies,2387000,2387000,"2371797,6"
-2021,152000,17520,1830,000000,Ingresos por gravamen premios de loter¡as,4407000,4407000,"3935580,34"
-2021,152000,17540,2100,000000,Ingresos por el IVA,352656000,352656000,"433831068,64"
-2021,152000,17550,1300,000000,Impuesto sobre la producci¢n de la energ¡a elctrica,41356000,41356000,"29328660,26"
-2021,152000,17550,2200,000000,Ingresos por los impuestos especiales sobre el alcohol y bebidas derivadas,46801000,46801000,"39180472,39"
-2021,152000,17550,2201,000000,Ingresos por el Impuesto Especial sobre determinados medios de transporte,8820000,8820000,"7406872,66"
-2021,152000,17550,2202,000000,Ingresos por el Impuesto Especial sobre la cerveza,174000,174000,"147307,35"
-2021,152000,17550,2203,000000,Ingresos por el Impuesto Especial sobre las labores del tabaco,138397000,138397000,"136656617,1"
-2021,152000,17550,2204,000000,Ingresos por el Impuesto Especial sobre hidrocarburos,215646000,215646000,"188796143,08"
-2021,152000,17550,2206,000000,Ingresos por el Impuesto Especial sobre productos intermedios,389000,389000,"101733,98"
-2021,152000,17550,2207,000000,Ingresos por el Impuesto Especial sobre la electricidad,22781000,22781000,"19247250,22"
-2021,152000,17550,2208,000000,Impuesto sobre la eliminaci¢n en vertedero y la incineraci¢n de residuos,5114000,5114000,"5244507,57"
-2021,152000,17550,2210,000000,Impuesto sobre la ventas minoristas de hidrocarburos,0,0,"801,29"
-2021,152000,17550,2810,000000,Impuesto sobre las primas de seguros,31520000,31520000,"28782459,14"
-2021,152000,17550,2840,000000,Impuesto sobre actividades de juego,1937000,1937000,"1893765,58"
-2021,152000,17550,2850,000000,Impuesto sobre gases fluorados de efecto invernadero,767000,767000,"620021,83"
-2021,152000,17550,3000,000000,Tasas de juego,10716000,10716000,"7297659,36"
-2021,152000,17550,3050,000000,Canon de superficie de minas,56000,56000,"19537,81"
-2021,152000,17550,3080,000000,Canon de Telef¢nica,755000,755000,"86782,48"
-2021,152000,17550,3309,000000,Ingresos por la venta de cartones de juego,62000,62000,"31731,11"
-2021,154000,17600,3090,000000,Tasas sobre la informaci¢n suministrada,11000,11000,"6699,18"
-2021,154003,17630,1120,000000,Ingresos por el Impuesto sobre Sucesiones y Donaciones,53484000,53484000,"56408101,79"
-2021,154003,17630,2820,000000,Ingresos por el Impuesto sobre Transmisiones Patrimoniales,52128000,52128000,"65215787,73"
-2021,154003,17630,2830,000000,Ingresos por el Impuesto sobre Actos Jur¡dicos Documentados,13908000,13908000,"17915495,99"
-2021,155002,17820,3890,000000,Ingresos por la compensaci¢n de costas en procedimientos de apremio,152000,152000,"52798,84"
-2021,155002,17820,3912,000000,Recargos de apremio,6700000,"12656837,22","16156720,5"
-2021,155002,17820,5201,000000,Intereses por la deuda fraccionada en v¡a de apremio,1349000,1349000,"207470,2"
-2021,155004,17810,3911,000000,Intereses de demora de deudas no aplazadas,10,10,"8495768,28"
-2021,155004,17810,5201,000000,Intereses de demora de deudas aplazadas,4600000,4600000,"1283801,01"
-2021,156000,17900,3309,000000,Ingresos por venta de impresos,2500,2500,"2991,47"
-2021,156001,17950,4600,000000,Convenio con Haciendas Locales de Navarra,1650000,"1835546,17","1551890,7"
-2021,157001,17A00,1005,000000,Ingresos por el IRPF,1485735744,1485735744,"1644320226,71"
-2021,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros fines de inters social",9999256,9999256,0
-2021,157001,17A00,1005,000003,Anticipo pensiones viudedad y otras,-5004000,-5004000,0
-2021,157001,17A00,1005,000004,Anticipo renta emancipaci¢n y de acceso a la vivienda,-6000000,-6000000,0
-2021,157001,17A00,1100,000000,Ingresos por el Impuesto sobre el Patrimonio,37468000,37468000,"36501186,64"
-2021,160000,17100,2100,000002,Ajuste fiscal IVA,896484000,896484000,"1027451916,1"
-2021,160000,17100,2200,000002,Ajuste fiscal I.E. Alcohol y bebidas derivadas,-33562000,-33562000,"-27818508,69"
-2021,160000,17100,2202,000002,Ajuste fiscal I.E. Cerveza,5820000,5820000,"5094323,78"
-2021,160000,17100,2203,000002,Ajuste fiscal I.E. Tabaco,1146000,1146000,"21875846,94"
-2021,160000,17100,2204,000002,Ajuste fiscal I.E. Hidrocarburos,102457000,102457000,"103002616,63"
-2021,160000,17100,4000,000000,Participaci¢n de las diputaciones en los ingresos del Estado,90000,90000,"102239,95"
-2021,200000,20100,3010,000000,Tasas y actuaciones administrativas,2000,2000,550
-2021,200000,20100,3990,000000,Ingresos por expedientes de responsabilidad patrimonial,1000,1000,"21371,12"
-2021,200000,20100,3990,000002,Otros ingresos,2000,2000,"5009,03"
-2021,210000,21100,4410,000000,Consumo elctrico. Oficina del Defensor del Pueblo,10,"8266,57","8266,57"
-2021,210001,21000,3010,000000,Tasas por servicios administrativos,10,10,0
-2021,210001,21100,3800,000000,Reintegros de bonificaciones fiscales,10,10,"15746,08"
-2021,210001,21100,4000,000000,Proyecto singular de transformaci¢n territorial para revertir la despoblaci¢n,0,0,"263157,89"
-2021,210001,21100,7000,000000,Proyecto singular de transformaci¢n territorial para revertir la despoblaci¢n,0,0,"315789,47"
-2021,210001,21100,7600,000000,Ejecuci¢n subsidiaria edificio Los Arcos,242000,242000,"223883,41"
-2021,210001,21200,3800,000000,Reintegro Fondo. Corporativos,10,10,0
-2021,210001,21200,3800,000002,Reintegro de presupuestos cerrados. Montep¡os,0,0,"43898,39"
-2021,210001,21200,3810,000000,Reintegro del presupuesto corriente. Montep¡os,10,10,0
-2021,210001,21200,3810,000002,Reintegro del presupuesto corriente. Compensaciones IAE,0,0,"57306,68"
-2021,210001,21200,8210,000000,Reintegro fondo anticipado. Equilibrio presupuestario,10,10,0
-2021,210001,21300,7000,000000,MRR Mejora abastecimiento peque¤os y medianos municipios,0,0,3153155
-2021,211000,21300,6800,000000,Reintegro. Plan de Inversiones Locales,10,10,0
-2021,220000,20200,5500,000000,Canon anual de la concesi¢n del  rea de servicio de la Autov¡a del Camino,44876,44876,"44651,43"
-2021,220000,22000,3800,000000,Reintegros por expropiaci¢n de terrenos,10,10,0
-2021,220000,22000,3990,000000,Revisi¢n de precios,10,"273856,28","1169555,81"
-2021,220000,22000,6000,000000,Ingresos por reversi¢n de terrenos,10,10,"2450,74"
-2021,220001,22300,7400,000000,"Aportaci¢n de Canal de Navarra, S.A., por expropiaci¢n de terrenos y servicios",10,10,0
-2021,220001,22320,3309,000000,"Ventas de planos, litovales y fotograf¡as",3500,3500,"5378,85"
-2021,220001,22320,7600,000000,Convenio Ayuntamiento de Pamplona cartograf¡a,0,115000,115000
-2021,220002,22100,7000,000000,Subvenci¢n actuaciones de mejora carretera N-121-A,0,0,15000000
-2021,220002,22100,7600,000002,Convenio construcci¢n glorieta acceso Cordovilla,0,"229074,09","229074,09"
-2021,220002,22100,7700,000000,Convenio construcci¢n glorieta acceso Cordovilla,0,"114537,04","114537,04"
-2021,220003,22200,3090,000000,Autorizaciones,46000,46000,29428
-2021,220003,22200,3910,000000,Multas y sanciones,36000,36000,"76756,5"
-2021,220003,22210,3990,000000,Ingresos por da¤os en se¤alizaci¢n y otros,315000,315000,"269085,94"
-2021,220004,22100,3800,000000,Reintegro canon de los riegos del Canal de Navarra. Ampliaci¢n 1¦ fase,10,10,"1586,65"
-2021,230000,23000,3800,000000,Reintegro subvenciones,0,0,"2449,99"
-2021,230000,23000,3911,000000,Intereses de demora,0,0,"50,59"
-2021,230000,23200,7000,000000,MRR Actuaciones Movilidad Sostenible y Digital,0,0,12540934
-2021,230000,23200,7000,000002,MRR Transporte sostenible,0,0,661883
-2021,230001,23100,5500,000000,C nones prestaci¢n de servicios de transporte p£blico regular de viajeros,0,0,10207
-2021,230001,23120,3800,000000,Reintegro remanente aportaci¢n al transporte p£blico de la Comarca de Pamplona,10,"3749989,13","4998059,46"
-2021,230001,23120,3800,000002,Reintegros de ejercicios cerrados,0,0,"19555,02"
-2021,230002,23200,3010,000000,Tasas por servicios administrativos,72000,72000,"61472,2"
-2021,230002,23200,3040,000000,Ingresos por tasas de tarjetas de transporte,165000,165000,"127530,34"
-2021,230002,23200,3070,000000,Tasas de ex menes de transportista,12000,12000,10613
-2021,230002,23200,3309,000000,Venta de tarjetas para tac¢grafos digitales,10,81918,109542
-2021,230002,23200,3910,000000,Sanciones de transportes,1250000,1250000,"1798612,16"
-2021,310000,31100,3010,000000,Tasas y actuaciones administrativas,10,10,0
-2021,310000,31100,3090,000000,Solicitud de autorizaci¢n tasas establecimiento comercial,0,0,"23544,8"
-2021,310000,31100,3910,000000,Multas e indemnizaciones,30000,30000,14019
-2021,320000,32100,3890,000000,Devoluci¢n de subvenciones de viviendas de protecci¢n oficial y rehabilitaci¢n,130000,130000,"175766,31"
-2021,320000,32100,3910,000000,Multas e indemnizaciones,32000,32000,"37798,55"
-2021,320000,32100,3990,000000,Otros ingresos,1000,1000,"240,57"
-2021,320000,32100,4901,000000,Proyecto LC DISTRICTS,83332,83332,"70793,71"
-2021,320000,32100,5109,000000,Ingresos financieros de intereses de prstamos de suelo y vivienda,1000,1000,"2095,06"
-2021,320000,32100,5400,000000,Alquileres de locales y viviendas,56000,56000,"64061,74"
-2021,320000,32100,6000,000000,Ingresos por venta de suelo del Banco Foral de Suelo P£blico,10,30110,"111744,71"
-2021,320000,32100,7000,000000,Subvenciones programa PREE. Rehabilitaci¢n energtica de edificios,10,"11359,66",18000000
-2021,320000,32100,7000,000002,MRR Subvenciones programa PREE 5000 Rehabilitaci¢n energtica de edificios en municipios de reto demogr fico,0,0,1707500
-2021,320000,32100,7000,000004,MRR. Subvenciones fondos europeos rehabilitaci¢n protegida,0,0,15883800
-2021,320000,32100,8219,000000,Devoluci¢n de prstamos concedidos a promotores p£blicos y asimilados,33000,33000,0
-2021,320000,32100,8311,000000,"Amortizaci¢n de prstamos para viviendas, locales y suelo. Particulares",65000,65000,"40949,04"
-2021,330000,33100,4000,000000,MRR Proyecto territorial para el equilibrio y la equidad del Pirineo,0,0,1500000
-2021,330000,33100,7000,000000,MRR Proyecto territorial para el equilibrio y la equidad del Pirineo,0,0,1500000
-2021,400000,41000,3010,000000,Tasas por servicios administrativos,40000,40000,"63589,58"
-2021,400000,41000,3070,000000,Tasas por participaci¢n en oposiciones,30000,30000,"87886,4"
-2021,400000,41000,3100,000000,Ingresos por prestaci¢n de servicios educativos y otros,1500000,1500000,"1477248,76"
-2021,400000,41000,3800,000000,Reintegros de ejercicios cerrados,50000,"400269,82","591572,46"
-2021,400000,41000,3800,000003,COVID-19 Reintegros de ejercicios cerrados,0,"112813,59","112813,59"
-2021,400000,41000,3810,000000,Reintegros de ejercicios corrientes,10,"62673,69","108206,08"
-2021,400000,41000,3890,000000,Reintegros de la Seguridad Social,10,10,"54808,04"
-2021,400000,41000,3911,000000,Intereses de demora,10,10,0
-2021,400000,41000,3990,000000,Ingresos varios,10,10,"24127,93"
-2021,410001,41800,7600,000000,Construcci¢n de nuevos centros y obras. Plan de centros escolares,698088,698088,0
-2021,410001,41810,5400,000000,"Ingresos por arrendamiento de ""Casa Maxurrenea""",31182,31182,"31709,73"
-2021,410002,41610,3800,000000,Devoluci¢n de becas,10,10,"178357,75"
-2021,410002,41610,3800,000002,Devoluciones del programa de gratuidad,10,10,"34898,31"
-2021,410002,41610,7000,000000,Financiaci¢n de libros,10,10,0
-2021,420000,42000,4000,000000,Desarrollo pruebas evaluaci¢n final,10,10,0
-2021,420000,42000,4000,000002,MRR Primer ciclo de Educaci¢n infantil,0,0,3605941
-2021,420001,42410,3070,000000,Tasas de expedici¢n del t¡tulo de aptitud en euskera,12300,12300,"4845,4"
-2021,420001,42410,3100,000002,Derechos de ex menes para el t¡tulo de aptitud en euskera,20000,20000,"7348,9"
-2021,420001,42420,3100,000000,Derechos de ex menes para la prueba homologada de idiomas,10,10,0
-2021,420001,42440,3070,000000,Pruebas de acceso a los estudios superiores de dise¤o,2200,2200,"988,67"
-2021,420001,42440,5500,000000,"Concesi¢n del servicio, Cafeter¡a Ciudad de la M£sica",10000,10000,0
-2021,420002,42100,4000,000000,MRR Mejora de la Competencia Digital Educativa,0,0,201531
-2021,420002,42110,3070,000000,Tasas de expedici¢n de t¡tulos,295000,295000,"431893,65"
-2021,420002,42110,3100,000000,Prestaci¢n de servicios educativos: Aulas Mentor,10,"2700,87",3000
-2021,420004,42700,4000,000000,MRR PROA+,0,0,1795117
-2021,420004,42700,4000,000002,MRR Unidades de acompa¤amiento,0,0,371455
-2021,420004,42760,4900,000000,Proyecto GATE. Erasmus+,10,10,0
-2021,420006,42200,4000,000000,MRR Plan nacional de capacidades digitales,0,0,14212878
-2021,420006,42200,4909,000000,Otros programas internacionales,10,10,0
-2021,422000,43000,4000,000000,MRR Plan de modernizaci¢n de la FP,0,0,"5289012,25"
-2021,422001,43100,3070,000000,Pruebas de acceso grado medio y superior,15000,15000,7200
-2021,422001,43100,3070,000003,Pruebas de acceso para ense¤anzas deportivas,10,10,"6977,5"
-2021,422001,43100,3070,000004,Pruebas libres modulares para la obtenci¢n de t¡tulos de Formaci¢n Profesional,10,10,8624
-2021,422001,43100,3800,000000,Reintegro de ejercicios cerrados,0,0,"26964,46"
-2021,422001,43100,3810,000000,Erasmus+. Reintegro de ejercicios corrientes,0,0,2453
-2021,422001,43100,4000,000002,Desarrollo del Sistema Nacional de Cualificaciones y FP y mejora de la difusi¢n de la FP,10,10,"-6770,4"
-2021,422001,43100,4000,000003,Ingresos para la formaci¢n permanente del profesorado,10,10,0
-2021,422001,43100,4900,000000,Programa ERASMUS+. SEPIE,660000,660000,"67620,21"
-2021,422001,43100,4901,000000,Proyecto Pyrene FP-POCTEFA 2014-2020,10,10,0
-2021,422001,43100,4901,000002,Proyecto COOPWOOD-POCTEFA,10,10,0
-2021,422001,43100,4901,000003,Proyecto Formanaen FP-Poctefa 2014-2020,10,10,0
-2021,422001,43110,4000,000002,Acciones para formaci¢n y movilidad del profesorado,10,10,0
-2021,422001,43110,4900,000000,Acciones para formaci¢n y movilidad del profesorado. FSE,10,10,-139170
-2021,422002,43200,3010,000000,Tasas por expedici¢n de certificados de profesionalidad,0,0,13030
-2021,422002,43200,3070,000002,Evaluaci¢n y acreditaci¢n de las competencias profesionales,3500,3500,15460
-2021,422002,43200,3100,000000,Convenios con empresas para programas de acreditaci¢n de la competencia profesional,10,10,0
-2021,422002,43200,4000,000000,Acciones en Centros de Referencia Nacional,10,217234,217224
-2021,422002,43200,4000,000004,Procedimiento de la acreditaci¢n de la competencia profesional,10,10,0
-2021,422002,43200,4000,000005,Formaci¢n Profesional dual,10,10,"-21693,88"
-2021,422002,43200,4000,000006,Formaci¢n para el empleo. Plan de empleo. Conferencia Sectorial,2500000,2500000,2500000
-2021,422002,43200,4000,000007,Plan Estratgico de Formaci¢n Profesional,0,"4561384,11","8338856,66"
-2021,422002,43200,4900,000000,Fondos Erasmus+,0,0,"11370,3"
-2021,422002,43200,4900,000002,Impulso de la FP Dual. FSE,10,10,"-325187,89"
-2021,500000,51000,3010,000000,Tasas por servicios administrativos,1000,1000,"495,2"
-2021,500000,51000,3890,000000,Devoluci¢n de pagos,3000,3000,"101358,75"
-2021,500000,51000,3910,000000,Multas y sanciones,300000,300000,"154368,99"
-2021,500000,51000,3910,000002,COVID-19 Multas y Sanciones,20000,20000,"469823,6"
-2021,500000,51000,3911,000000,Intereses de demora,10,10,0
-2021,511001,51110,3129,000000,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de farmacia),17000,17000,24850
-2021,511001,51110,3129,000002,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de centros),35000,35000,43150
-2021,511001,51110,3129,000003,Ingresos por prestaciones de otros servicios sanitarios (inspecci¢n y varios),3000,3000,3428
-2021,511003,51110,4000,000000,Subvenci¢n en el programa de trasplantes,2000,2000,0
-2021,511004,51120,3129,000000,Ingresos por prestaciones de otros servicios sanitarios (convenio especial prestaci¢n sanitaria CFN),3500,3500,3818
-2021,512000,51300,4000,000000,MRR Ingresos para formaci¢n de profesionales sanitarios,0,0,"80500,31"
-2021,512000,51300,7901,000002,Ingresos PO FEDER 2014-2020 Navarra,10,10,0
-2021,520000,51200,3090,000000,Tasas por an lisis de salud p£blica,1000,1000,5438
-2021,520000,51200,3090,000002,Otras tasas,10,10,"49799,4"
-2021,520000,51200,3090,000003,Tasas servicios de inspecci¢n veterinaria,200000,200000,"259750,59"
-2021,520000,51200,3199,000000,Ingresos Consejo Seguridad Nuclear,25000,25000,0
-2021,520000,51200,3890,000000,Otros reintegros,10,10,"54292,85"
-2021,520000,51200,3990,000000,Otros ingresos,10,10,"9369,58"
-2021,520000,51200,4000,000000,"Transferencias del Ministerio de Sanidad, Consumo y Bienestar Social",0,0,119000
-2021,520000,51200,4411,000000,Transferencias corrientes de entes p£blicos del Estado,10,10,"65160,14"
-2021,520000,51200,4411,000002,Intensificaci¢n de la actividad investigadora,10,10,"8856,94"
-2021,520000,51200,4901,000000,Ingresos de proyectos comunitarios,0,21000,"219308,34"
-2021,540000,52000,3070,000000,Tasas acadmicas y derechos de examen,8000,8000,"273020,8"
-2021,540000,52000,3129,000000,Otros ingresos,135000,135000,"52679,08"
-2021,540000,52000,3800,000000,Reintegro de retribuciones abonadas indebidamente,10,"641657,07","641657,89"
-2021,540000,52000,3800,000003,COVID-19 Reintegro de retribuciones abonadas indebidamente,0,0,"81414,85"
-2021,540000,52000,3910,000000,Multas y sanciones,15000,15000,"1500,5"
-2021,540000,52000,3990,000000,Otros ingresos,25000,25000,"4729,97"
-2021,540000,52000,3990,000003,Ingresos por facturas rectificativas SSCC,10,10,"1345,59"
-2021,540000,52000,4800,000000,COVID-19 Donaciones,0,"14146,19","35146,19"
-2021,540000,52000,5500,000000,Canon cajeros autom ticos,1501,1501,2251
-2021,540000,52010,7901,000000,Ingresos PO FEDER 2014-2020 Navarra,6728000,6728000,0
-2021,540002,52833,3129,000000,Otros ingresos,500,500,"58,26"
-2021,540002,52833,3800,000000,Reintegro por ajustes de facturaci¢n de otros centros,10,10,184
-2021,540002,52833,3800,000002,Reintegro por ajustes de facturaci¢n de la CUN,10,10,"137242,41"
-2021,540002,52833,3810,000000,Reintegro por ajustes de facturaci¢n de la CUN,10,10,"309895,69"
-2021,540002,52833,4000,000000,"Transferencias corrientes FOGA, fondos de cohesi¢n sanitaria",0,0,"597930,94"
-2021,540004,52800,4000,000000,Programa de reasentamiento y reubicaci¢n de refugiados,0,0,"59366,75"
-2021,540005,52831,3303,000000,Venta de f rmacos extranjeros,15000,15000,"5578,25"
-2021,540005,52831,3800,000000,Reintegro de facturaciones de a¤os anteriores,10,10,0
-2021,540005,52831,3810,000000,Reintegros del presupuesto corriente,0,0,"8512,22"
-2021,540005,52831,3990,000000,Ingresos por facturas rectificativas prestaciones farmacuticas,10,10,"963,12"
-2021,540005,52831,7000,000000,Transferencias de capital del Ministerio de Sanidad Uso Racional de los Medicamentos,0,0,"450845,52"
-2021,540007,52010,7000,000000,"Ingresos salud digital Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",0,0,"2937675,2"
-2021,540007,52010,7000,000003,MRR Red Vigilancia de Salud P£blica,0,0,"382372,31"
-2021,540007,52010,7000,000004,MRR Promoci¢n de la salud y Prevenci¢n del C ncer,0,0,"53991,34"
-2021,540007,52010,7909,000000,Transferencias de la Agencia Ejecutiva de Innovaci¢n y Redes (INEA),10,10,0
-2021,541004,52700,3123,000000,Prestaci¢n de servicios,15000,15000,"27832,06"
-2021,541004,52700,3309,000000,Venta de otros bienes y productos,0,0,"1208,44"
-2021,541004,52700,3890,000000,Otros reintegros,15000,15000,"5152,94"
-2021,541004,52700,3990,000000,Ingresos por facturas rectificativas salud mental,10,10,"1935,13"
-2021,541004,52700,7000,000000,"Transferencias de capital Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",0,0,"571377,37"
-2021,541004,52700,7909,000000,Otras transferencias de capital de la Uni¢n Europea,0,0,"12118,59"
-2021,543000,52200,3123,000000,Prestaci¢n de servicios,5600000,5600000,"5458330,09"
-2021,543000,52200,3129,000000,Otros ingresos,175000,175000,"263907,73"
-2021,543000,52200,3890,000000,Otros reintegros,5000,5000,"21483,44"
-2021,543000,52200,3910,000000,Penalidades por incumplimiento,0,0,"10773,5"
-2021,543000,52200,3910,000002,Indemnizaciones y sanciones,0,0,"9403,98"
-2021,543000,52200,3990,000000,Ingresos por facturas rectificativas. F rmacos,10,"2936606,23","3191534,28"
-2021,543000,52200,3990,000002,Ingresos por facturas rectificativas. Otros suministros y servicios,10,"361739,85","346401,99"
-2021,543000,52200,4000,000000,Subvenci¢n para el programa de trasplantes,0,0,"20990,46"
-2021,543000,52200,4300,000000,Ingresos de NB-FMS al personal investigador del SNS-O,10,"44997,26","105622,26"
-2021,543000,52200,4309,000000,Transferencias corrientes de otras fundaciones,0,71866,71866
-2021,543000,52200,4410,000000,Ingresos al personal investigador del SNS-O de otros entes p£blicos,0,0,15000
-2021,543000,52200,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,10,"168489,71","183489,71"
-2021,543000,52200,5500,000000,Canon de la zona de estacionamiento,340000,340000,"292219,28"
-2021,543000,52200,7000,000000,MRR Plan INVEAT,0,0,7790695
-2021,543000,52200,7000,000002,"Transferencias de capital Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",0,0,"979225,07"
-2021,543000,52200,7901,000003,Ingresos PO FEDER 2014-2020 Navarra,0,0,1937381
-2021,543004,52214,3309,000000,Suministros y productos hemoter picos,950000,950000,"1439856,52"
-2021,543004,52214,3990,000002,Ingresos por facturas rectificativas Banco de Sangre y Tejidos,10,10,"13,9"
-2021,543004,52214,4000,000000,Transferencias del Ministerio de Sanidad. Plan Nacional de Donaci¢n de Mdula,0,0,17819
-2021,543004,52214,4909,000000,Otras transferencias corrientes de la Uni¢n Europea,0,0,"111922,91"
-2021,545000,52400,3123,000000,Prestaci¢n de servicios,1250000,1250000,"952833,9"
-2021,545000,52400,3309,000000,Venta de otros bienes y productos,0,0,"12257,6"
-2021,545000,52400,3990,000000,Otros ingresos,50000,50000,"42695,82"
-2021,545000,52400,3990,000002,Ingresos por facturas rectificativas. F rmacos,10,"517752,54","522942,87"
-2021,545000,52400,3990,000003,Ingresos por facturas rectificativas. Otros suministros y servicios,10,"37330,53","40006,58"
-2021,545000,52400,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,0,234,234
-2021,545000,52400,7000,000003,MRR Plan INVEAT,0,0,477950
-2021,545001,52420,3123,000000,Prestaci¢n de servicios,90000,90000,"148918,25"
-2021,546000,52500,3123,000000,Prestaci¢n de servicios,470000,470000,"489870,72"
-2021,546000,52500,3129,000000,Otros ingresos,12000,12000,"2343,3"
-2021,546000,52500,3309,000000,Venta de otros bienes y productos,0,0,"5151,01"
-2021,546000,52500,3990,000000,Ingresos por facturas rectificativas. F rmacos,10,"193551,17","194072,53"
-2021,546000,52500,3990,000002,Ingresos por facturas rectificativas. Otros suministros y servicios,10,"151262,31","78936,35"
-2021,546001,52520,3123,000000,Prestaci¢n de servicios,110000,110000,"122459,4"
-2021,547001,52300,3123,000000,Prestaci¢n de servicios,1300000,1300000,"1447402,67"
-2021,547001,52300,3129,000000,Otros ingresos,10000,10000,"10421,68"
-2021,547001,52300,3129,000002,Ingresos reembolso Cl¡nica Josefina Arregui,35000,35000,"36527,96"
-2021,547001,52300,3990,000000,Ingresos por facturas rectificativas,10,"12595,82","14832,07"
-2021,547001,52300,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,0,4030,4030
-2021,700000,70000,3090,000000,"Canon de ocupaci¢n ""Soto Berbel""",10,10,0
-2021,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,25000,25000,"53858,86"
-2021,700000,70000,3890,000002,Ingresos por reintegros de subvenciones. PDR,100000,100000,"96446,88"
-2021,700000,70000,3990,000000,Otros ingresos,40000,40000,"74539,68"
-2021,700000,70180,7400,000000,Ingresos para obras Laboratorio Villava,10,10,0
-2021,700000,70190,4000,000000,"Transferencias para estad¡stica del Ministerio de Agricultura, Pesca y Alimentaci¢n",84206,84206,"84205,83"
-2021,710000,71200,4901,000000,Ingresos de proyectos europeos,30000,30000,0
-2021,710000,71200,7000,000000,MRR Ayudas Viveros,0,0,"167311,2"
-2021,710000,71210,3010,000000,Ingresos por tasas de certificaci¢n y registro,20000,20000,"23476,13"
-2021,710000,71210,3910,000000,Sanciones,52000,52000,"7700,5"
-2021,710000,71210,4000,000000,Ensayos de calidad de las variedades vegetales,10,27000,36000
-2021,710000,71210,4903,000000,Actividades de demostraci¢n e informaci¢n. PDR FEADER 2014-2020,130000,130000,"194218,73"
-2021,710001,71230,4903,000002,Indemnizaci¢n compensatoria. PDR FEADER 2014-2020,3060000,3060000,"2914119,34"
-2021,710001,71230,4903,000003,Agroambientales. PDR FEADER 2014-2020,1885684,1885684,"1552550,58"
-2021,710001,71230,4903,000004,Agricultura ecol¢gica. PDR FEADER 2014-2020,1262590,1262590,"1091670,04"
-2021,710004,71300,3010,000000,Gu¡as de origen y otros,350000,350000,"274815,81"
-2021,710004,71300,3090,000000,Ingresos por tasas del laboratorio,120000,120000,"162,27"
-2021,710004,71300,7000,000002,MRR Ayudas Centros de Limpieza y Desinfecci¢n,0,0,"261760,14"
-2021,710004,71310,4903,000000,Asociaciones ganaderas. PDR FEADER 2014-2020,240000,240000,"229325,49"
-2021,710004,71320,3910,000000,Sanciones,300000,300000,582978
-2021,710004,71320,7002,000000,Ingresos por sanidad animal. FEGA,400000,400000,"441955,23"
-2021,710004,71350,3090,000000,Tasas por recogida de perros,3000,3000,0
-2021,710004,71350,3090,000002,Ingresos por gesti¢n de animales del centro de protecci¢n de Etxauri,1000,1000,2210
-2021,710004,71350,3910,000002,Sanciones por bienestar animal,30000,30000,0
-2021,710006,71500,3010,000000,Certificaciones,600,600,855
-2021,710006,71500,7600,000000,Inversiones para infraestructuras en regad¡o en comunales,0,0,"827756,12"
-2021,710006,71510,5109,000000,Intereses de prstamos,1134,1134,0
-2021,710006,71510,7903,000003,Cofinanciaci¢n por concentraci¢n parcelaria. PDR FEADER 2014-2020,377586,377586,"237164,52"
-2021,710006,71510,7903,000004,Cofinanciaci¢n infraestructuras locales ganaderas. PDR FEADER 2014-2020,269699,269699,"46288,76"
-2021,710006,71510,7903,000005,Cofinanciaci¢n inversiones para infraestructuras en regad¡o en comunales. PDR FEADER 2014-2020,75000,75000,"225009,39"
-2021,710006,71510,8219,000000,Amortizaci¢n de prstamos,26051,26051,0
-2021,720001,72400,4000,000000,Ingresos por funciones y servicios traspasados,0,"1183461,97","1577949,34"
-2021,720001,72400,4903,000000,"Ingresos del Organismo Pagador, retenci¢n por irregularidades. FEADER",10000,10000,10000
-2021,720001,72400,4903,000002,Ingresos por condicionalidad,2000,2000,2000
-2021,720003,72220,3910,000000,Sanciones,120000,120000,350
-2021,720003,72220,4903,000000,Primeras incorporaciones Figuras Calidad. PDR FEADER 2014-2020,310,310,0
-2021,720003,72220,4903,000002,Ayudas a figuras de calidad alimentaria. PDR FEADER 2014-2020,232500,232500,"205354,69"
-2021,720003,72220,4903,000003,Cofinanciaci¢n ayuda temporal excepcional a agricultores y PYMES. PDR FEADER 2014-2020,620000,620000,"457326,35"
-2021,720004,72200,7000,000000,MRR Ayudas sistemas de gesti¢n de subproductos y deyecciones en ganader¡a,0,0,591663
-2021,720004,72200,7000,000002,MRR Ayudas transformaci¢n integral y modernizaci¢n de invernaderos,0,0,502405
-2021,720004,72200,7000,000003,MRR Ayudas inversiones en eficiencia energticas y energ¡as renovables (biog s y biomasa agr¡cola),0,0,118579
-2021,720004,72200,7000,000004,MRR Ayudas aplicaci¢n de agricultura de precisi¢n y tecnolog¡as 4.0 en el sector agr¡cola y ganadero,0,0,954741
-2021,720004,72210,3010,000000,Ingresos por tasas de maquinaria,90000,90000,"87195,36"
-2021,720004,72230,7903,000000,Inversiones en explotaciones agrarias. PDR FEADER 2014-2020,2949882,2949882,"2910711,55"
-2021,720004,72230,7903,000002,Instalaci¢n de j¢venes agricultores. PDR FEADER 2014-2020,2015000,2015000,"1670349,2"
-2021,720005,72240,4901,000000,Ingresos de proyectos europeos,24310,24310,0
-2021,720006,72310,4903,000000,Cofinanciaci¢n por asistencia tcnica. PDR FEADER 2014-2020,99200,99200,"53413,53"
-2021,720007,72320,4903,000000,Servicios de asesoramiento. PDR FEADER 2014-2020,589000,589000,"582799,98"
-2021,720007,72320,7903,000002,Cofinanciaci¢n por estrategias de desarrollo local participativo. PDR FEADER 2014-2020,2665000,2665000,"2544037,79"
-2021,720007,72320,7903,000003,Cofinanciaci¢n por creaci¢n y desarrollo de empresas no agrarias en zonas rurales. PDR FEADER 2014-2020,232500,232500,"175508,7"
-2021,720007,72320,7903,000004,Cofinanciaci¢n por proyectos piloto de cooperaci¢n. PDR FEADER 2014-2020,975000,975000,"589902,89"
-2021,740001,74100,3010,000000,Tasa por etiqueta ecol¢gica,300,300,200
-2021,740001,74100,3010,000002,Tasas tramitaciones prevenci¢n de la contaminaci¢n,0,0,"55676,86"
-2021,740001,74100,3910,000000,Multas e indemnizaciones,330000,330000,"248751,6"
-2021,740001,74100,3910,000002,Multas e indemnizaciones de residuos,150000,150000,"75985,1"
-2021,740001,74100,4000,000000,MITERD Programa Econom¡a Circular,0,0,"23480,18"
-2021,740001,74100,4000,000002,MITERD Plan de impulso al Medio Ambiente-Residuos,0,0,"37647,39"
-2021,740001,74100,4901,000000,Ingresos de proyectos europeos,265215,"403630,28","463396,81"
-2021,740001,74100,7000,000000,Ingresos PIMA Cambio Clim tico,0,0,"186706,15"
-2021,740001,74100,7000,000002,MRR Plan de apoyo a la implementaci¢n de la normativa de residuos,0,0,"5223575,69"
-2021,740001,74100,7901,000000,Ingresos programa operativo FEDER,10,10,0
-2021,740002,74200,3020,000000,Licencias de caza,225000,225000,239232
-2021,740002,74200,3090,000000,Tasas por ocupaci¢n de v¡as pecuarias,22000,22000,"18320,13"
-2021,740002,74200,3302,000002,Ingresos por aprovechamientos forestales del patrimonio forestal de Navarra,206000,206000,"95092,77"
-2021,740002,74200,3910,000000,Multas e indemnizaciones,50000,50000,225446
-2021,740002,74200,4901,000000,Ingresos derivados de la participaci¢n en proyectos comunitarios,10,10,0
-2021,740002,74200,4903,000006,Cofinanciaci¢n pastos montanos. PDR FEADER 2014-2020,68905,68905,"21518,69"
-2021,740002,74200,7000,000000,MRR C4. Gesti¢n forestal,0,0,7325420
-2021,740002,74200,7903,000000,Cofinanciaci¢n por ordenaci¢n de montes PDR FEADER 2014-2020,165750,165750,"276679,94"
-2021,740002,74200,7903,000002,Cofinanciaci¢n por restauraci¢n de bosques destruidos. PDR FEADER 2014-2020,55800,55800,"69478,44"
-2021,740002,74200,7903,000003,Cofinanciaci¢n por forestaci¢n de terrenos agrarios. PDR FEADER 2014-2020,102000,102000,"590,27"
-2021,740002,74200,7903,000004,Cofinanciaci¢n por ayudas a infraestructuras forestales a entidades locales. PDR FEADER 2014-2020,176700,176700,"113602,15"
-2021,740002,74200,7903,000007,Cofinanciaci¢n por ayudas a industrias forestales. PDR FEADER 2014-2020,148800,148800,0
-2021,740002,74200,7903,000008,Cofinanciaci¢n por ayudas a trabajos forestales a agentes privados. PDR FEADER 2014-2020,124000,124000,"92410,6"
-2021,740002,74200,7903,000009,Cofinanciaci¢n por inversiones en prevenci¢n de incendios. PDR FEADER 2014-2020,47120,47120,"11331,53"
-2021,740002,74200,7903,000010,Cofinanciaci¢n por ayudas a infraestructuras forestales a agentes privados. PDR FEADER 2014-2020,15500,15500,"6015,84"
-2021,740002,74200,7903,000011,Cofinanciaci¢n por ayudas a trabajos forestales a entidades locales. PDR FEADER 2014-2020,514600,514600,"421235,32"
-2021,740002,74200,7903,000012,Cofinanciaci¢n por inversiones forestales PFN y URBASA. PDR FEADER 2014-2020,40300,40300,"44420,5"
-2021,740002,74200,7903,000013,Cofinanciaci¢n v¡as pecuarias. PDR FEADER 2014-2020,28598,28598,"36778,87"
-2021,740002,74200,7903,000014,Cofinanciaci¢n planes de gesti¢n forestal a agentes privados. PDR FEADER 204-2020,12000,12000,4550
-2021,740003,74300,3020,000000,Licencias y permisos de pesca,225000,225000,"189264,12"
-2021,740003,74300,3910,000000,Multas e indemnizaciones,0,0,"160928,75"
-2021,740003,74300,4000,000000,Ingresos para adecuaci¢n tendidos elctricos (RD 1432/2008),10,10,0
-2021,740003,74300,4903,000000,Cofinanciaci¢n por ayudas agroambientales y Natura 2000. PDR FEADER 2014-2020,332120,332120,"258789,53"
-2021,740003,74300,4903,000005,Cofinanciaci¢n por indemnizaciones a entidades locales. PDR FEADER 2014-2020,42000,42000,"40410,18"
-2021,740003,74300,7000,000000,MRR C4. I3. Restauraci¢n ecol¢gica,0,0,2290500
-2021,740003,74300,7000,000002,MITERD PIMA Ecosistemas,0,0,"394086,47"
-2021,740003,74300,7000,000004,MRR C4. Tendidos elctricos,0,0,"1306676,95"
-2021,740003,74300,7903,000005,Cofinanciaci¢n por elaboraci¢n planes gesti¢n Natura 2000. PDR FEADER 2014-2020,34100,34100,0
-2021,740003,74300,7903,000006,Cofinanciaci¢n por estudios e inversiones en patrimonio natural. PDR FEADER 2014-2020,10,10,0
-2021,810001,81100,3890,000000,Reintegro de subvenciones y convenios,10,10,"5004,93"
-2021,810001,81100,4000,000000,COVID-19 L¡nea de ayudas directas a aut¢nomos y empresas RDL 5/2021,0,67620090,"53628032,93"
-2021,810001,81100,7901,000000,Ingresos FEDER ayudas para mejora de la productividad,285960,285960,"142317,92"
-2021,810001,81100,8401,000000,Ingresos por obligaciones afianzadas,10,10,0
-2021,810003,81400,3990,000000,Otros ingresos,10,10,0
-2021,810003,81400,4900,000000,REACT ingresos anticipo FSE,0,0,"3666721,74"
-2021,810003,81400,7901,000000,REACT ingresos anticipo FEDER,0,0,"10533699,22"
-2021,810003,81410,4900,000004,Ingresos PO FSE 2014-2020 Asistencia Tcnica,322837,322837,"294855,03"
-2021,810003,81430,3800,000000,Ingresos por reintegro de Becas Navarra,10,10,"108529,72"
-2021,810003,81430,3800,000002,Ingresos por reintegros de subvenciones,10,10,"8310,83"
-2021,810003,81430,4901,000004,Ingresos PO FEDER 2014-2020 (Actuaci¢n subvenciones internacionalizaci¢n),205417,205417,"154442,44"
-2021,810007,81200,3800,000000,Ingresos por reintegro de subvenciones,10,10,"293190,56"
-2021,810007,81200,5201,000000,Intereses de aplazamientos por venta de terrenos,20000,20000,"6793,26"
-2021,810007,81200,6000,000000,Venta de terrenos,100000,100000,"103761,98"
-2021,810007,81200,7000,000000,MRR Refuerzo conectividad en pol¡gonos industriales y centros log¡sticos,0,0,420000
-2021,810007,81210,3800,000000,Reintegros de subvenciones de acciones directas,10,"2851388,42","2857570,94"
-2021,810007,81210,7901,000000,Ingresos PO FEDER 2014-2020 Navarra,5465667,5465667,"3992327,48"
-2021,810007,81210,7903,000000,Cofinanciaci¢n por subvenciones a la industria agroalimentaria. PDR FEADER,1240000,1240000,"3626352,24"
-2021,810007,81220,4909,000000,Ingresos proyecto 4.0 Ready,91497,91497,"19542,51"
-2021,810012,81500,3910,000000,Sanciones por infracci¢n de la normativa laboral,1100000,1100000,"860914,2"
-2021,810012,81500,3990,000000,Otros ingresos,500,500,"15912,37"
-2021,820001,82500,3800,000000,Reintegro de subvenciones,10,10,0
-2021,820001,82500,3800,000002,Reintegro de subvenciones a instalaciones energ¡as renovables,5000,5000,0
-2021,820001,82500,3800,000003,Reintegro de subvenciones al ahorro y la eficiencia energtica,5000,5000,0
-2021,820001,82500,3800,000004, Reintegro de subvenciones a la movilidad sostenible,5000,5000,0
-2021,820001,82500,4000,000002,Ingresos convenio IDAE. Comunidades energticas,15000,15000,0
-2021,820001,82500,4901,000002,Ingresos Programa EFIDISTRICT. FEDER,10,10,0
-2021,820001,82500,4909,000000,Ingresos de otros proyectos europeos,10,10,"25085,03"
-2021,820001,82500,7000,000000,Ingresos Programa MOVES,10,815010,830989
-2021,820001,82500,7000,000002,Ingresos programa de ayudas para actuaciones de eficiencia energtica en PYME y gran empresa del sector industrial,10,"29810,33",6000000
-2021,820001,82500,7000,000003,Ingresos ayudas eficiencia energtica explotaciones agropecuarias,0,0,"569761,3"
-2021,820001,82500,7000,000004,MRR MOVES III Ingresos,0,1017729,5573749
-2021,820001,82500,7000,000005,MRR Autoconsumo y almacenamiento RD 477/2021,0,0,12235798
-2021,820001,82500,7000,000006,MRR Flotas Ingresos,0,0,2945686
-2021,820001,82500,7909,000000,Ingresos de otros proyectos europeos,256500,256500,0
-2021,820004,82200,3050,000000,Tasas por autorizaciones y otras,400000,400000,"622823,31"
-2021,820004,82200,3910,000000,Ingresos por sanciones,80000,80000,"163709,74"
-2021,820005,82600,3199,000000,Ingresos de consultas sobre informaci¢n tecnol¢gica,100,100,0
-2021,820005,82600,3800,000000,"Reintegros de subvenciones a la investigaci¢n, al desarrollo y a la innovaci¢n",10,10,"490968,66"
-2021,820005,82600,4901,000002,Ingresos de proyectos Interreg. FEDER,10,10,0
-2021,820005,82600,4909,000000,Medicina Personalizada PerMed,10,10,"1999,9"
-2021,820005,82600,7901,000002,Ingresos Programa Operativo FEDER 2014-2020,5873000,5873000,"5440951,71"
-2021,820005,82600,7909,000000,Otras transferencias de capital de la Uni¢n Europea,10,10,0
-2021,830001,83100,3890,000002,Reintegros de subvenciones,6000,6000,"29656,13"
-2021,830001,83100,3910,000000,Ingresos por sanciones,10000,10000,"6906,6"
-2021,830001,83100,3990,000000,Otros ingresos,1000,1000,"5172,98"
-2021,830001,83100,5500,000000,Concesiones a establecimientos tur¡sticos,6000,6000,"2601,5"
-2021,830001,83100,5500,000002,Camping Urbasa,30000,30000,57000
-2021,830001,83100,8210,000000,Reintegros de anticipos a entes locales,37500,37500,37500
-2021,830001,83100,8319,000000,Reintegros de otros anticipos a largo plazo,150000,150000,150000
-2021,830004,83310,3910,000000,Ingresos por sanciones,400000,400000,"8609,98"
-2021,830004,83320,4000,000000,Transferencias del Instituto Nacional de Consumo,240000,240000,"51939,82"
-2021,830005,83400,3110,000000,"Gesti¢n tur¡stica del Palacio de Olite, Andelos, Arellano y Rada",28000,28000,"9745,75"
-2021,830005,83400,3304,000000,Venta de publicaciones y objetos promocionales en las oficinas de turismo,100,100,0
-2021,830005,83400,7901,000000,Ingresos FEDER (65%) Proyecto Ederbidea Interreg V (POCTEFA) 2014-2020,993722,993722,"495963,29"
-2021,830005,83400,7901,000002,Ingresos FEDER (75%) Proyecto Atlantic On Bike Interreg Espacio Atl ntico 2017-2020,32824,32824,"52279,46"
-2021,900000,90000,3890,000000,Devoluci¢n de subvenciones,18500,18500,"114235,26"
-2021,900000,90000,3910,000000,Multas y sanciones,10000,10000,"28205,1"
-2021,900000,90000,3911,000000,Intereses de demora,10,10,"2960,37"
-2021,900000,90000,3990,000000,Otros ingresos,350000,350000,"847541,56"
-2021,900000,90000,4000,000000,Transferencias de la Administraci¢n de Estado. Bono Social Trmico,0,0,"3613704,18"
-2021,900000,90000,4000,000002,MRR Transferencias corrientes de la Administraci¢n del Estado,0,0,859800
-2021,900000,90000,7000,000000,MRR Transferencias de capital de la Administraci¢n del Estado,0,18150,2011200
-2021,900002,91100,3890,000000,Reintegros de pagos indebidos de renta garantizada,600000,"1463226,1","4362179,59"
-2021,900003,91600,3126,000000,Cuotas de usuarios de centros de incorporaci¢n social,34000,34000,"40578,54"
-2021,900003,91600,3800,000000,Reintegros Fundaci¢n Navarra para la Gesti¢n de Servicios Sociales P£blicos-Gizain Fundazioa,0,0,352927
-2021,900003,91600,3800,000002,COVID-19 Reintegro ayudas alimentos CRUZ ROJA,0,0,"34039,85"
-2021,900003,91600,4900,000000,Ingresos programa operativo FSE 2014-2020,4450000,4450000,"4070157,8"
-2021,910001,92100,4900,000000,Ingresos Proyecto Europeo PATHWAYS EASI,1315,1315,0
-2021,920000,93000,3010,000000,Tasas por servicios administrativos,200,200,0
-2021,920000,93000,3126,000000,Ingresos por gesti¢n de impagados de centros,214000,214000,"252615,96"
-2021,920000,93000,3810,000000,Reintegros del presupuesto corriente,10,10,0
-2021,920000,93000,3890,000000,Devoluci¢n de subvenciones,15000,15000,0
-2021,920000,93000,3990,000000,Otros ingresos,289999,289999,"607401,5"
-2021,920000,93000,3990,000002,Ingresos por indemnizaciones de aseguradoras,10,10,0
-2021,920000,93000,4000,000000,Sistema para la autonom¡a y atenci¢n a la dependencia,17086218,17086218,"18132278,28"
-2021,920000,93000,4000,000002,Transferencias de la Administraci¢n del Estado,10,210981,"752324,33"
-2021,920000,93000,4000,000003,COVID-19 Transferencias de la Administraci¢n del Estado,10,10,0
-2021,920000,93000,4000,000004,MRR Transferencias corrientes de la Administraci¢n del Estado,0,0,140000
-2021,920000,93000,4800,000000,Donaciones para fines sociales,10,10,0
-2021,920000,93000,4800,000002,COVID-19 Donaciones,10,10,0
-2021,920000,93000,7000,000000,MRR Transferencias de capital de la Administraci¢n del Estado,0,1332095,7984407
-2021,920002,93200,3126,000000,Ingresos por estancias en centros propios de mayores,2590000,2590000,"2680022,9"
-2021,920002,93200,3126,000004,Ingresos Ley 17/2000 aportaci¢n de usuarios de centros de la tercera edad,9500000,9500000,"10739676,42"
-2021,920003,93200,3126,000000,Ingresos por estancias en centros propios de discapacidad,711000,711000,"757658,33"
-2021,920005,93100,3126,000000,Cuotas de usuarios del transporte adaptado y asistido,110000,110000,"122321,13"
-2021,920005,93100,3126,000002,Ingresos del Servicio Telef¢nico de Emergencia,510000,510000,"475266,67"
-2021,920005,93100,3126,000003,Cuotas de usuarios de centros de mayores,29667645,29667645,"25944985,15"
-2021,920005,93100,3126,000004,Cuotas de usuarios de centros de discapacidad,4063072,4063072,"3875725,54"
-2021,920005,93100,3126,000005,Cuotas de usuarios de centros de enfermedad mental,893126,893126,"882943,82"
-2021,920006,93300,3890,000000,Devoluciones de ayudas en materia de familia,1700,1700,"2415,3"
-2021,920007,93300,3126,000000,Ingresos por estancias en escuelas infantiles,783000,783000,"494779,25"
-2021,920008,93300,3126,000000,Ingresos por estancias en centros de menores,0,"67426,89","81250,59"
-2021,950000,96000,3990,000000,Otros ingresos,1000,1000,8063
-2021,950000,96000,4000,000000,Plan Empleo. Transferencias del SPEE para modernizaci¢n del SNE,650000,"1140227,96",864560
-2021,950000,96000,4000,000002,Transferencias SEPE renovaci¢n oficinas de empleo,0,0,253760
-2021,950000,96000,4900,000000,Ingresos Proyecto PATHWAYS. EASI,172279,172279,0
-2021,950001,96100,3890,000000,Plan Empleo. Reintegros de ayudas para la promoci¢n del empleo,500000,500000,"198104,73"
-2021,950001,96100,3890,000002,Plan Empleo. Reintegros de ayudas para la promoci¢n del empleo. Conferencia Sectorial,100000,100000,"269698,27"
-2021,950001,96100,4000,000002,Plan Empleo. Transferencias del SPEE para pol¡ticas activas de empleo,10900000,12100000,"13762106,82"
-2021,950001,96100,4000,000003,MRR Transferencias corrientes de la Administraci¢n del Estado,0,1569482,1569482
-2021,950001,96100,4000,000012,MRR Formaci¢n e inserci¢n VVGG. Transferencias SEPE,0,0,59692
-2021,950001,96100,4000,000013,MRR Programas territoriales colectivos vulnerables. Transferencias SEPE,0,0,1234844
-2021,950001,96100,4000,000014,MRR Programas territoriales emprendimiento. Transferencias SEPE,0,0,3421677
-2021,950001,96100,4000,000015,MRR Capacitaci¢n digital. Transferencias SEPE,0,0,1365803
-2021,950001,96100,4000,000016,MRR Actividades COE. Transferencias SEPE,0,0,600000
-2021,950001,96100,4000,000017,MRR Creaci¢n COE. Transferencias SEPE,0,225410,900000
-2021,950001,96100,4000,000018,MRR Transversalidad genero. Transferencias SEPE,0,0,58823
-2021,950001,96100,4000,000019,MRR Capacitaci¢n mujer. Transferencias SEPE,0,0,1135479
-2021,950001,96100,4000,000020,MRR Formaci¢n personal SNE-SEPE. Transferencias SEPE,0,38979,38979
-2021,950001,96100,4900,000003,Ingresos Programa Operativo Empleo Juvenil FSE-YEI 2014-2020,103477,103477,0
-2021,950001,96100,4900,000004,Plan Empleo. Ayudas al Empleo Programa Operativo FSE 2014-2020 de Navarra,3789132,3789132,"4930963,54"
-2021,950002,96200,3890,000000,Plan Empleo. Reintegros de ayudas de programas de formaci¢n,20000,20000,0
-2021,950002,96200,3890,000002,Plan Empleo. Reintegros de ayudas de programas de formaci¢n. Conferencia Sectorial,500000,500000,"116228,57"
-2021,950002,96200,4000,000000,Plan Empleo. Transferencias del SPEE para programas de formaci¢n para el empleo,9100000,15710000,"15364790,3"
-2021,950002,96200,4000,000006,Plan Empleo. Transferencias del SPEE para Convenio con Centro de Referencia Nacional de Formaci¢n en Energ¡as Renovables,0,0,"60745,34"
-2021,A20000,A2000,3890,000000,Reintegros de subvenciones de Cultura y otros ingresos,30000,30000,"89034,63"
-2021,A20000,A2000,4800,000000,COVID-19. Donaciones,10,10,0
-2021,A20000,A2000,4901,000000,Proyecto CRE - HUB. FEDER,10,"6697,38","8180,3"
-2021,A20001,A2100,7000,000000,MRR Digitalizaci¢n y documentaci¢n bienes culturales,0,0,20000
-2021,A20002,A2500,7000,000003,MRR Modernizaci¢n infraestructuras AAEE y M£sica,0,0,"399063,78"
-2021,A20002,A2500,7000,000004,MRR Ayudas a salas de cine,0,0,"294110,96"
-2021,A20002,A2510,3111,000000,Ingresos en el Servicio de Acci¢n Cultural,15000,15000,"3448,5"
-2021,A20002,A2510,5109,000000,Intereses de prstamos concedidos,8000,8000,8000
-2021,A20002,A2510,8219,000000,Reintegro de prstamo concedido a la Fundaci¢n Baluarte,133333,133333,"133333,33"
-2021,A20003,A2310,3110,000002,Ingresos en el Museo del Carlismo,4000,4000,"3919,89"
-2021,A20003,A2320,3110,000000,Ingresos en el Museo de Navarra,10000,10000,"7794,84"
-2021,A21001,A2400,3199,000000,Ingresos en el Servicio de Bibliotecas,3000,3000,"890,23"
-2021,A21001,A2400,7000,000000,Ayudas a la digitalizaci¢n del Patrimonio Bibliogr fico,0,0,24000
-2021,A21001,A2400,7000,000002,MRR Dotaci¢n bibliotecas,0,0,"201954,15"
-2021,A21002,A2200,3199,000000,Ingresos en el Servicio de Archivos,20000,20000,"23014,62"
-2021,A21002,A2200,7000,000000,MRR Descripci¢n y digitalizaci¢n fondos documentales,0,0,"12298,15"
-2021,A50000,A5010,3010,000000,Tasas por servicios administrativos,900,900,"947,29"
-2021,A50000,A5010,3199,000000,Otros ingresos,1100,1100,"112092,18"
-2021,A50000,A5010,4000,000000,Transferencias de organismos del Estado,250000,250000,"195279,75"
-2021,A50000,A5010,5400,000000,Ingresos por arrendamientos,96197,96197,"189633,06"
-2021,A50001,A5400,3118,000000,Ingresos de Residencia Fuerte del Pr¡ncipe,44500,44500,"46026,93"
-2021,A50001,A5400,3118,000002,Alimentaci¢n residentes Residencia Fuerte del Pr¡ncipe,0,"45787,38","45787,38"
-2021,A50001,A5400,7000,000000,MRR Transferencias de Estado,0,0,"464874,4"
-2021,A50002,A5100,3113,000000,Ingresos de instalaciones deportivas,136500,136500,"290469,85"
-2021,A50002,A5100,3113,000002,Cuotas y otros ingresos de los Juegos Deportivos de Navarra,85000,85000,143404
-2021,A50002,A5100,3129,000000,"Centro de Estudios, Investigaci¢n y Medicina Deportiva (CEIMD)",7750,7750,0
-2021,A50002,A5100,4000,000000,Transferencias del Consejo Superior de Deportes,10,10,0
-2021,A50002,A5100,4000,000002,Transferencias de la Administraci¢n del Estado para programas de investigaci¢n deportiva,10,10,0
-2021,A50002,A5100,4800,000000,Transferencias corrientes de instituciones sin fines de lucro,10,10,0
-2021,B00001,B0100,3990,000000,Otros ingresos,0,0,"324,56"
-2021,B20000,B2000,3800,000000,Ingresos por devoluci¢n de ayudas,0,0,"5774,39"
-2021,B20000,B2000,3990,000000,Otros ingresos,10,10,0
-2021,B20001,B2200,4000,000000,"B£squeda, identificaci¢n y dignificaci¢n de desaparecidos de la Guerra Civil o la represi¢n pol¡tica posterior",0,0,"232881,27"
-2021,B30000,B3000,3800,000000,Ingresos por devoluci¢n de ayudas,100,100,"8763,65"
-2021,B30000,B3000,3910,000000,Sanciones y penalizaciones,0,0,3960
-2021,B30000,B3000,3990,000000,Reintegro de gastos de viaje,10,10,0
-2021,B30000,B3000,4901,000000,Programa de cooperaci¢n transfronteriza: Espa¤a-Francia-Andorra POCTEFA. FEDER 2014-2020,10,10,0
-2021,B50000,B5000,3990,000000,Otros ingresos,10,10,0
-2021,B50002,B5000,3990,000000,Comit de las Regiones. Asistencia a sesiones,5000,5000,875
-2021,B50002,B5110,4901,000000,Ingresos de proyectos europeos,10,10,0
-2021,B50002,B5110,4901,000002,Ingresos FEDER Proyecto Inside Out UE CTE Interreg Europe 2014-2020,41167,41167,"41166,83"
-2021,B50002,B5110,4909,000000,Ingresos EU DIRECT NAVARRA,0,0,18480
-2021,B50002,B5120,4901,000000,Ingresos FEDER Asistencia Tcnica Interreg V (POCTEFA) 2014-2020,15442,15442,0
-2021,B50002,B5120,4901,000003,Ingresos FEDER proyectos Interreg IV,10,10,0
-2021,F10000,F1000,3800,000000,Reintegro de ejercicios cerrados,0,"7278,65","11524,85"
-2021,F10002,F1200,4700,000000,Colaboraci¢n CAIXA Premios Navarra de Colores-Nafarroa Koloretan,0,6000,6000
-2021,F20001,F2000,3199,000000,Informes periciales del INML,40000,40000,"30276,22"
-2021,F20001,F2000,3990,000002,Otros Ingresos,1000,1000,"10699,27"
-2021,F20001,F2200,3990,000000,Ingresos derivados de actuaciones judiciales,5500,5500,"646,86"
-2021,F20001,F2300,4000,000000,Convenio con el Ministerio de Justicia,10,10,"14552,24"
-2021,F20001,F2300,7000,000000,MRR Subvenci¢n del Ministerio de Justicia,0,75136,517896
-2021,F20001,F2300,7000,000002,MRR Subvenci¢n del Ministerio de Justicia,0,0,1900702
-2021,G10001,G1100,3800,000000,Ingresos por devoluci¢n de ayudas,10000,10000,"24859,68"
-2021,G10001,G1100,4909,000000,Ingresos de otros proyectos europeos,0,"9554,05",650880
-2021,G20001,G2100,3800,000000,Reintegros de subvenciones,100000,100000,"228018,54"
-2021,G20001,G2100,4000,000000,MRR Investigo Transferencias corrientes de la Administraci¢n del Estado,0,0,1243450
-2021,G20001,G2100,4909,000000,Ingresos de otros proyectos europeos,5000,5000,0
-2021,G20001,G2100,7000,000000,MRR Plan Complementario Energ¡a e Hidr¢geno verde,0,0,5418485
-2021,G20001,G2100,7909,000000,Ingresos de otros proyectos europeos por transferencias de capital,0,0,1761
-2021,G20001,G2100,8319,000000,Convenio MICINN para el fomento de los parques,33340,33340,33340
-2021,G30001,G3100,4000,000000,MRR C19. I1. Plan Nacional Competencias Digitales,0,0,1881621
-2021,G30001,G3100,4000,000002,MRR C15. I3. Bonos digitales para colectivos vulnerables,0,0,52000
-2021,G30002,G3200,3910,000000,Ingresos por penalizaciones,0,0,4095
-2021,G30005,G3500,4909,000000,Ingresos Programa POCTEFA proyecto PyrenEOS,150000,150000,0
-2021,G30005,G3500,7000,000000,MRR C15. I2. Refuerzo de conectividad en centros p£blicos de referencia,0,0,2085000
+2022,010001,00100,3990,000000,Otros ingresos,10,10,0
+2022,010001,01000,7901,000000,REACT Ingresos Palacio de Navarra eficiente y sostenible PO FEDER 14-20,1557895,1557895,0
+2022,010002,01300,3010,000000,"Tasas por actuaciones de los Registros de Asociaciones, de Fundaciones y de Colegios Profesionales",9000,9000,5555
+2022,010003,01010,3304,000002,PublicaciÃ³n de anuncios,100000,100000,"52314,9"
+2022,010004,01100,3990,000000,Ingresos por ejecuciÃ³n de sentencias,250000,250000,"649549,18"
+2022,010005,01700,3800,000000,Reintegro de pagos indebidos. TelÃ©fono de atenciÃ³n ciudadana,10,10,0
+2022,010005,01700,4600,000000,Ingresos de entidades locales para el servicio de atenciÃ³n ciudadana,340000,340000,4015
+2022,020002,04100,3800,000000,Reintegro de retribuciones abonadas indebidamente en ejercicios anteriores,3000,3000,"103659,8"
+2022,020002,04100,3800,000003,COVID-19 Reintegro de retribuciones abonadas indebidamente en ejercicios anteriores,10,10,0
+2022,020002,04100,3900,000000,Cuotas de derechos pasivos,1725000,1725000,"542220,04"
+2022,020002,04100,3990,000000,Otros ingresos,10,10,"535935,63"
+2022,020002,04100,8311,000000,Reintegro de anticipos de sueldo,752125,752125,262000
+2022,020002,04310,8200,000000,GestiÃ³n del MontepÃ­o de funcionarios municipales,18524508,18524508,"14021102,88"
+2022,020002,04440,3070,000000,Tasas acadÃ©micas y derechos de examen,12000,12000,44174
+2022,020002,04700,7901,000000,REACT ImplantaciÃ³n del teletrabajo conjuntamente con el puesto de trabajo digital Gobierno Navarra PO FEDER 14-20,334725,334725,0
+2022,021001,04500,4000,000000,Cursos de formaciÃ³n continua (INAP estatal),480000,511930,919640
+2022,021002,04500,3100,000000,Curso Bomberos de Empresa,10,10,0
+2022,050000,02000,3890,000000,DevoluciÃ³n de pagos,1000,1000,0
+2022,050000,02000,3990,000000,Otros ingresos,2000,2000,"66486,45"
+2022,050000,02400,3010,000000,"Tasas por informes, certificados y demÃ¡s actuaciones administrativas",150000,150000,"67720,57"
+2022,050000,02400,3910,000000,Multas de juego,4000,4000,0
+2022,050000,02400,3910,000002,Multas de espectÃ¡culos,70000,70000,"16703,5"
+2022,050000,02400,3910,000003,Multas de seguridad ciudadana,200000,200000,"178744,55"
+2022,050000,02400,3990,000002,Otros ingresos,10,10,0
+2022,050005,02930,3040,000000,Tasas por autorizaciÃ³n de transportes especiales,575000,575000,"416079,76"
+2022,050005,02930,3090,000000,Tasas por otras autorizaciones,400,400,"1082,8"
+2022,051000,02100,3090,000000,"Tasas por informes, acompaÃ±amientos y otros",100500,100500,64903
+2022,051000,02100,3090,000002,Tasas por estancias de vehÃ­culos particulares en dependencias policiales,1000,1000,0
+2022,051000,02100,3990,000000,Ingreso por consumo energÃ©tico,0,0,"130126,9"
+2022,051000,02100,4000,000000,FinanciaciÃ³n del Estado de la jubilaciÃ³n anticipada de la PolicÃ­a Foral,0,0,"1235623,11"
+2022,054000,02800,3010,000000,Tasas por servicios administrativos,600,600,300
+2022,054000,02800,3090,000000,"Tasas por servicios de prevenciÃ³n, extinciÃ³n de incendios y salvamento",20,20,"8343,47"
+2022,054000,02800,3990,000000,Contribuciones especiales,2400000,2400000,"403141,98"
+2022,054000,02800,3990,000002,Otros ingresos,10,10,0
+2022,054001,02500,3010,000000,Tasas por servicios administrativos,200,200,120
+2022,054001,02500,3990,000000,Otros ingresos,10,10,0
+2022,054001,02500,4909,000000,"Ingresos programa POCTEFA, Proyecto Helinet",201518,201518,0
+2022,060001,06100,3090,000000,Tasas por servicios audiovisuales,1500,1500,"1602,68"
+2022,060005,06220,3304,000000,Ventas en el Fondo de Publicaciones,35000,35000,"52773,54"
+2022,060005,06220,3304,000002,Ventas en otras librerÃ­as,25000,25000,0
+2022,080000,08000,3800,000000,Ingresos por devoluciÃ³n de subvenciones,10,10,0
+2022,080000,08000,7000,000000,MRR CreaciÃ³n de centros de atenciÃ³n integral 24 horas,914698,914698,0
+2022,090000,09100,3890,000000,Otros reintegros,10,10,40
+2022,090001,09100,3118,000000,Ingresos de instalaciones juveniles,20000,20000,"11275,26"
+2022,090002,09100,3118,000002,Programas de juventud de actividades de verano,10,10,-200
+2022,090002,09120,3309,000000,Ingresos del CarnÃ© Joven (mÃ¡s de 26 y otros),10000,10000,10
+2022,090002,09120,3309,000002,Ingresos del CarnÃ© Joven,10,"98383,72","195215,8"
+2022,100000,10100,3010,000000,Tasas por servicios administrativos,10,10,"471,84"
+2022,100000,10100,3800,000000,Reintegros,10,10,0
+2022,100000,10100,3990,000000,Otros ingresos derivados de expropiaciones,35000,35000,"33129,25"
+2022,110003,11500,3010,000000,Tasas de la actividad mediadora en seguros privados,200,200,0
+2022,110003,11500,3800,000000,Reintegros,10,"353006,5","353006,5"
+2022,110003,11500,5200,000000,Intereses de cuentas corrientes,10,10,0
+2022,110003,11500,5990,000000,CompensaciÃ³n por cancelaciÃ³n de prÃ©stamos,0,990000,"1973147,93"
+2022,110003,11500,9000,000000,Emisiones de Deuda de Navarra,346036406,346036406,124190000
+2022,110003,11500,9100,000000,PrÃ©stamos en moneda nacional,19640131,19640131,0
+2022,110003,11500,9110,000000,PrÃ©stamos en moneda nacional,346036406,346036406,17000000
+2022,111000,11300,3910,000000,Penalizaciones por incumplimientos de contratos,10,10,0
+2022,111000,11300,3990,000000,Otros ingresos,10,10,"4179,73"
+2022,111000,11300,3990,000002,Herencias legales,10,10,0
+2022,111000,11300,3990,000003,Ingresos por indemnizaciones de aseguradoras,10,"500879,36","2255845,3"
+2022,111000,11300,3990,000004,Ingresos por saldos y depÃ³sitos abandonados,10,10,0
+2022,111000,11300,4800,000002,"Donaciones, herencias y legados testamentarios",10,10,0
+2022,111000,11300,8401,000000,Ingresos por obligaciones afianzadas,10,10,"278742,84"
+2022,111001,11300,6120,000000,Venta de bienes muebles,10,10,0
+2022,111002,11300,3990,000000,Comisiones de avales,10,10,0
+2022,111002,11300,5000,000000,Intereses de tÃ­tulos valores,10,10,0
+2022,111002,11300,5201,000000,Intereses de venta de bienes inmuebles a NASUVINSA,115171,115171,"33,94"
+2022,111002,11300,5201,000002,Intereses de aplazamientos,10,10,"21041,94"
+2022,111002,11300,5300,000000,"Dividendos, participaciones y beneficios",10,10,0
+2022,111002,11300,5400,000000,Rentas de inmuebles,130000,130000,"135088,2"
+2022,111002,11300,5400,000002,Arrendamiento Petilla de AragÃ³n,10,10,0
+2022,111002,11300,5500,000000,ConcesiÃ³n demanial garajes GonzÃ¡lez Tablas,11914,11914,"109033,99"
+2022,111002,11300,6000,000000,Venta de terrenos,10000,10000,"2503057,95"
+2022,111002,11300,6000,000002,ReversiÃ³n de terrenos,10,10,0
+2022,111002,11300,6000,000003,Venta de terrenos de la extinta FundaciÃ³n Itoiz-Canal de Navarra,10,141000,141000
+2022,111002,11300,6100,000000,Venta de inmuebles,10000,10000,0
+2022,111002,11300,6100,000002,Venta de inmuebles de la extinta FundaciÃ³n Itoiz-Canal de Navarra,10,10,0
+2022,111002,11300,7400,000000,Ingresos de sociedades,10,10,0
+2022,111002,11300,8212,000000,Reintegro prÃ©stamo concedido por la venta de bienes inmuebles a NASUVINSA,1279681,1279681,"82595,89"
+2022,111002,11300,8500,000000,Reintegro de acciones y participaciones del sector pÃºblico,17237144,17237144,0
+2022,114000,13000,8700,000000,Remanente de tesorerÃ­a afecto,0,"70126813,57",0
+2022,114000,13000,8700,000002,Remanente de tesorerÃ­a gastos generales,0,"15368809,99",0
+2022,114000,13000,8700,000003,Remanente de tesorerÃ­a afecto al Fondo de ParticipaciÃ³n de las Entidades Locales,0,"11077394,13",0
+2022,114000,13000,8700,000004,"Remanente de tesorerÃ­a afecto al Fondo 0,7% IRPF",0,"912171,67",0
+2022,114000,13000,8700,000005,Remanente de tesorerÃ­a afecto al Fondo de Residuos,0,"131436,86",0
+2022,114000,13000,8700,000006,Remanente de tesorerÃ­a afecto al MRR,0,"17132746,63",0
+2022,114000,13000,8700,000007,Remanente de tesorerÃ­a afecto al REACT,0,"3379306,5",0
+2022,150000,17000,3010,000000,Tasas por servicios administrativos,10,10,85
+2022,150000,17000,3800,000000,Reintegros,10,10,"54,55"
+2022,150000,17000,4000,000000,Transferencia del Estado por la BonificaciÃ³n al consumo de combustibles,0,45000000,0
+2022,150000,17000,4610,000000,Convenio con la DiputaciÃ³n Foral de Ãlava. Sistema integrado de informÃ¡tica tributaria,10,10,0
+2022,152000,17500,1015,000000,Ingresos por el Impuesto de sociedades,312691000,312691000,"36139605,23"
+2022,152000,17500,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,4782000,4782000,"-935817,04"
+2022,152000,17500,1140,000000,Impuesto sobre depÃ³sitos en entidades de crÃ©dito,6210000,6210000,"12281,78"
+2022,152000,17500,1300,000000,Impuesto sobre la producciÃ³n de la energÃ­a elÃ©ctrica,26220000,26220000,"-908587,93"
+2022,152000,17500,1820,000000,Impuesto sobre grandes superficies,2060000,2060000,"-27773,4"
+2022,152000,17500,1830,000000,Ingresos por gravamen premios de loterÃ­as,5400000,5400000,"3299109,29"
+2022,152000,17500,2100,000000,Ingresos por el IVA,395890000,395890000,"145143249,99"
+2022,152000,17500,2200,000000,Ingresos por los impuestos especiales sobre el alcohol y bebidas derivadas,44917000,44917000,"18743589,68"
+2022,152000,17500,2201,000000,Ingresos por el Impuesto Especial sobre determinados medios de transporte,9960000,9960000,"4278310,64"
+2022,152000,17500,2202,000000,Ingresos por el Impuesto Especial sobre la cerveza,148000,148000,"85080,34"
+2022,152000,17500,2203,000000,Ingresos por el Impuesto Especial sobre las labores del tabaco,146794000,146794000,"71525462,29"
+2022,152000,17500,2204,000000,Ingresos por el Impuesto Especial sobre hidrocarburos,213273000,213273000,"90805280,38"
+2022,152000,17500,2206,000000,Ingresos por el Impuesto Especial sobre productos intermedios,105000,105000,"40728,98"
+2022,152000,17500,2207,000000,Ingresos por el Impuesto Especial sobre la electricidad,20346000,20346000,"3234241,01"
+2022,152000,17500,2208,000000,Impuesto sobre la eliminaciÃ³n en vertedero y la incineraciÃ³n de residuos,5800000,5800000,"2430062,05"
+2022,152000,17500,2210,000000,Impuesto sobre las ventas minoristas de hidrocarburos,0,0,0
+2022,152000,17500,2810,000000,Impuesto sobre las primas de seguros,33360000,33360000,"15951616,03"
+2022,152000,17500,2840,000000,Impuesto sobre actividades de juego,2190000,2190000,"829705,1"
+2022,152000,17500,2850,000000,Impuesto sobre gases fluorados de efecto invernadero,810000,810000,"379907,83"
+2022,152000,17500,3000,000000,Tasas de juego,11648000,11648000,"4623447,98"
+2022,152000,17500,3050,000000,Canon de superficie de minas,60000,60000,"18493,31"
+2022,152000,17500,3080,000000,Canon de TelefÃ³nica,384000,384000,"36936,74"
+2022,152000,17500,3309,000000,Ingresos por la venta de cartones de juego,60000,60000,"20485,72"
+2022,152000,17500,3910,000000,Sanciones,12516000,12516000,"6737059,49"
+2022,154000,17600,3090,000000,Tasas sobre la informaciÃ³n suministrada,11000,11000,"4166,65"
+2022,154003,17600,1120,000000,Ingresos por el Impuesto sobre Sucesiones y Donaciones,54288000,54288000,"26643870,72"
+2022,154003,17600,2820,000000,Ingresos por el Impuesto sobre Transmisiones Patrimoniales,58920000,58920000,"32568807,67"
+2022,154003,17600,2830,000000,Ingresos por el Impuesto sobre Actos JurÃ­dicos Documentados,16200000,16200000,"8606550,77"
+2022,155002,17800,3890,000000,Ingresos por la compensaciÃ³n de costas en procedimientos de apremio,152000,152000,"32987,7"
+2022,155002,17800,3912,000000,Recargos de apremio,7500000,7500000,"6050143,05"
+2022,155002,17800,5201,000000,Intereses por la deuda fraccionada en vÃ­a de apremio,1348000,1348000,"116389,05"
+2022,155004,17800,3911,000000,Intereses de demora de deudas no aplazadas,10,10,"2139142,3"
+2022,155004,17800,5201,000000,Intereses de demora de deudas aplazadas,4596000,4596000,"719336,93"
+2022,156000,17900,3309,000000,Ingresos por venta de impresos,2500,2500,"3317,86"
+2022,156001,17900,4600,000000,Convenio con Haciendas Locales de Navarra,2560000,2560000,"866401,29"
+2022,157001,17A00,1005,000000,Ingresos por el IRPF,1699910557,1699910557,"942738651,62"
+2022,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros fines de interÃ©s social",10112443,10112443,0
+2022,157001,17A00,1005,000003,Anticipo pensiones viudedad y otras,-4680000,-4680000,0
+2022,157001,17A00,1005,000004,Anticipo renta emancipaciÃ³n y de acceso a la vivienda,-8323200,-8323200,0
+2022,157001,17A00,1100,000000,Ingresos por el Impuesto sobre el Patrimonio,37708000,37708000,"34390609,08"
+2022,160000,17100,2100,000002,Ajuste fiscal IVA,975603000,975603000,"566152789,18"
+2022,160000,17100,2200,000002,Ajuste fiscal I.E. Alcohol y bebidas derivadas,-32295000,-32295000,"-14676069,08"
+2022,160000,17100,2202,000002,Ajuste fiscal I.E. Cerveza,5605000,5605000,"1960015,05"
+2022,160000,17100,2203,000002,Ajuste fiscal I.E. Tabaco,7276000,7276000,"1186629,37"
+2022,160000,17100,2204,000002,Ajuste fiscal I.E. Hidrocarburos,107154000,107154000,"22181581,28"
+2022,160000,17100,4000,000000,ParticipaciÃ³n de las diputaciones en los ingresos del Estado,90000,90000,"56768,22"
+2022,200000,20100,3010,000000,Tasas y actuaciones administrativas,2000,2000,0
+2022,200000,20100,3990,000000,Ingresos por expedientes de responsabilidad patrimonial,1000,1000,0
+2022,200000,20100,3990,000002,Otros ingresos,2000,2000,"4045,81"
+2022,210000,21100,4410,000000,Consumo elÃ©ctrico. Oficina del Defensor del Pueblo,10,10,0
+2022,210001,21000,3010,000000,Tasas por servicios administrativos,10,10,0
+2022,210001,21100,3800,000000,Reintegros de bonificaciones fiscales,10,10,0
+2022,210001,21100,7600,000000,EjecuciÃ³n subsidiaria edificio Los Arcos,10,10,0
+2022,210001,21200,3800,000000,Reintegro Fondo. Corporativos,10,10,0
+2022,210001,21200,3810,000000,Reintegro del presupuesto corriente. MontepÃ­os,10,10,0
+2022,210001,21200,8210,000000,Reintegro fondo anticipado. Equilibrio presupuestario,10,10,0
+2022,211000,21300,6800,000000,Reintegro. Plan de Inversiones Locales,10,10,0
+2022,220000,20200,5500,000000,Canon anual de la concesiÃ³n del Ã¡rea de servicio de la AutovÃ­a del Camino,45544,45544,"46124,93"
+2022,220000,22000,3800,000000,Reintegros por expropiaciÃ³n de terrenos,10,10,0
+2022,220000,22000,3990,000000,RevisiÃ³n de precios,10,10,"6811,94"
+2022,220000,22000,6000,000000,Ingresos por reversiÃ³n de terrenos,10,10,0
+2022,220001,22300,3309,000000,Ventas de planos y fotografÃ­as,3500,3500,"2774,39"
+2022,220001,22300,7400,000000,"AportaciÃ³n de Canal de Navarra, S.A., por expropiaciÃ³n de terrenos y servicios",10,10,0
+2022,220001,22300,7600,000000,Convenio Ayuntamiento de Pamplona cartografÃ­a,130000,130000,130000
+2022,220003,22200,3090,000000,Autorizaciones,30000,30000,16285
+2022,220003,22200,3910,000000,Multas y sanciones,90000,90000,0
+2022,220003,22200,3990,000000,Ingresos por daÃ±os en seÃ±alizaciÃ³n y otros,250000,250000,"197880,29"
+2022,220004,22100,3800,000000,Reintegro canon de los riegos del Canal de Navarra. AmpliaciÃ³n 1Âª fase,10,10,"3554,05"
+2022,230000,23000,3800,000000,Reintegro subvenciones,10,10,"10568,83"
+2022,230000,23000,3800,000002,Reintegros,0,0,"1011,73"
+2022,230000,23000,3911,000000,Intereses de demora,10,10,"337,7"
+2022,230000,23200,7000,000000,MRR Actuaciones Movilidad Sostenible y Digital,9580762,9580762,0
+2022,230001,23100,3800,000000,Reintegro remanente aportaciÃ³n al transporte pÃºblico de la Comarca de Pamplona,10,10,0
+2022,230001,23100,3800,000002,Reintegros de ejercicios cerrados,10,10,0
+2022,230001,23100,5500,000000,CÃ¡nones prestaciÃ³n de servicios de transporte pÃºblico regular de viajeros,10,10,0
+2022,230002,23200,3010,000000,Tasas por servicios administrativos,72000,72000,"35236,92"
+2022,230002,23200,3040,000000,Ingresos por tasas de tarjetas de transporte,165000,165000,"115910,43"
+2022,230002,23200,3070,000000,Tasas de exÃ¡menes de transportista,12000,12000,3577
+2022,230002,23200,3309,000000,Venta de tarjetas para tacÃ³grafos digitales,10,53225,63174
+2022,230002,23200,3910,000000,Sanciones de transportes,1400000,1400000,"990390,93"
+2022,230002,23200,4000,000000,Ayudas directas a empresas y profesionales especialmente afectados por la subida de los precios de los carburantes,0,7750000,0
+2022,310000,31100,3010,000000,Tasas y actuaciones administrativas,10,10,0
+2022,310000,31100,3090,000000,Solicitud de autorizaciÃ³n tasas establecimiento comercial,10,10,0
+2022,310000,31100,3910,000000,Multas e indemnizaciones,30000,30000,19719
+2022,320000,32100,3890,000000,DevoluciÃ³n de subvenciones de viviendas de protecciÃ³n oficial y rehabilitaciÃ³n,125000,125000,"202368,94"
+2022,320000,32100,3910,000000,Multas e indemnizaciones,45000,45000,0
+2022,320000,32100,3990,000000,Otros ingresos,1000,1000,0
+2022,320000,32100,4901,000000,Proyecto LC DISTRICTS,15000,15000,"33314,68"
+2022,320000,32100,5109,000000,Ingresos financieros de intereses de prÃ©stamos de suelo y vivienda,1000,1000,0
+2022,320000,32100,5400,000000,Alquileres de locales y viviendas,50000,50000,"61109,17"
+2022,320000,32100,6000,000000,Ingresos por venta de suelo del Banco Foral de Suelo PÃºblico,10,10,0
+2022,320000,32100,7000,000000,Subvenciones programa PREE. RehabilitaciÃ³n energÃ©tica de edificios,10,10,0
+2022,320000,32100,7000,000002,MRR Subvenciones programa PREE 5000 RehabilitaciÃ³n energÃ©tica de edificios en municipios de reto demogrÃ¡fico,10,10,0
+2022,320000,32100,7000,000003,MRR Subvenciones fondos europeos arrendamiento protegido,6900000,6900000,6900000
+2022,320000,32100,7000,000004,MRR Subvenciones fondos europeos rehabilitaciÃ³n protegida,19168200,19168200,0
+2022,320000,32100,8219,000000,DevoluciÃ³n de prÃ©stamos concedidos a promotores pÃºblicos y asimilados,31000,31000,0
+2022,320000,32100,8311,000000,"AmortizaciÃ³n de prÃ©stamos para viviendas, locales y suelo. Particulares",62000,62000,0
+2022,330000,33100,4000,000000,MRR Proyecto territorial para el equilibrio y la equidad del Pirineo,10,10,0
+2022,330000,33100,7000,000000,MRR Proyecto territorial para el equilibrio y la equidad del Pirineo,10,10,0
+2022,330000,33100,7901,000000,REACT Ingresos RehabilitaciÃ³n ecolÃ³gica Palacio de Arce y su entorno en Nagore PO FEDER 14-20,1170000,1170000,0
+2022,330000,33100,7901,000002,REACT Alloz Sostenible PO FEDER 14-20,334500,334500,0
+2022,400000,41000,3010,000000,Tasas por servicios administrativos,40000,40000,"3472,44"
+2022,400000,41000,3070,000000,Tasas por participaciÃ³n en oposiciones,30000,30000,"334963,2"
+2022,400000,41000,3100,000000,Ingresos por prestaciÃ³n de servicios educativos y otros,1500000,1500000,"1058305,52"
+2022,400000,41000,3800,000000,Reintegros de ejercicios cerrados,10,100010,"300360,6"
+2022,400000,41000,3800,000003,COVID-19 Reintegros de ejercicios cerrados,0,0,"53835,91"
+2022,400000,41000,3810,000000,Reintegros de ejercicios corrientes,10,10,"467,03"
+2022,400000,41000,3890,000000,Reintegros de la Seguridad Social,10,10,0
+2022,400000,41000,3911,000000,Intereses de demora,10,10,0
+2022,400000,41000,3990,000000,Ingresos varios,10,10,"14170,59"
+2022,410001,41800,5400,000000,"Ingresos por arrendamiento de ""Casa Maxurrenea""",30571,30571,"16279,08"
+2022,410001,41800,7000,000000,MRR Obras en centros educativos 0-3,1464717,1464717,0
+2022,410001,41800,7600,000000,ConstrucciÃ³n de nuevos centros y obras. Plan de centros escolares,10,10,0
+2022,410001,41800,7901,000000,REACT Ingresos PO FEDER 14-20,14681675,14681675,0
+2022,410002,41600,3800,000000,DevoluciÃ³n de becas,10,10,"18075,38"
+2022,410002,41600,3800,000002,Devoluciones del programa de gratuidad,10,10,"4165,1"
+2022,420000,42000,4000,000000,Desarrollo pruebas evaluaciÃ³n final,10,10,0
+2022,420000,42100,4900,000000,Ingresos proyecto PATHWAYS. EASI,10,10,"28209,87"
+2022,420001,42400,3070,000000,Tasas de expediciÃ³n del tÃ­tulo de aptitud en euskera,12300,12300,"1720,9"
+2022,420001,42400,3070,000002,Pruebas de acceso a los estudios superiores de diseÃ±o,2200,2200,"1977,33"
+2022,420001,42400,3100,000000,Derechos de exÃ¡menes para la prueba homologada de idiomas,10,10,0
+2022,420001,42400,3100,000002,Derechos de exÃ¡menes para el tÃ­tulo de aptitud en euskera,20000,20000,"-70,8"
+2022,420002,42100,3070,000000,Tasas de expediciÃ³n de tÃ­tulos,295000,295000,"37465,7"
+2022,420002,42100,3100,000000,PrestaciÃ³n de servicios educativos: Aulas Mentor,10,"782,02",1368
+2022,420002,42100,4000,000000,MRR Mejora de la Competencia Digital Educativa,1500000,1500000,0
+2022,420004,42700,4000,000000,MRR PROA+,2704474,2704474,0
+2022,420004,42700,4000,000002,MRR Unidades de acompaÃ±amiento,483131,483131,0
+2022,420004,42700,4900,000000,Proyecto GATE. Erasmus+,10,10,26834
+2022,420006,42200,4909,000000,Otros programas internacionales,10,10,0
+2022,420007,42900,4000,000000,MRR 0-3 Funcionamiento,2000000,2000000,0
+2022,422000,43000,3800,000000,Reintegros de ejercicios cerrados,0,0,1228
+2022,422000,43000,4000,000000,MRR Plan de modernizaciÃ³n de la FP,7451522,7451522,0
+2022,422000,43000,7000,000000,MRR Plan de modernizaciÃ³n de la FP,220776,220776,0
+2022,422001,43100,3070,000000,Pruebas de acceso grado medio y superior,15000,15000,6894
+2022,422001,43100,3070,000003,Pruebas de acceso para enseÃ±anzas deportivas,10,10,7280
+2022,422001,43100,3070,000004,Pruebas libres modulares para la obtenciÃ³n de tÃ­tulos de FormaciÃ³n Profesional,10,10,7770
+2022,422001,43100,4000,000000,Acciones en Centros de Referencia Nacional,362040,362040,0
+2022,422001,43100,4000,000006,FormaciÃ³n para el empleo. Plan de empleo. Conferencia Sectorial,7165000,7165000,0
+2022,422002,43200,3010,000000,Tasas por expediciÃ³n de certificados de profesionalidad,18000,18000,7820
+2022,422002,43200,3070,000002,EvaluaciÃ³n y acreditaciÃ³n de las competencias profesionales,0,0,400
+2022,422002,43200,3100,000000,Convenios con empresas para programas de acreditaciÃ³n de la competencia profesional,10,10,0
+2022,422002,43200,3810,000002,Erasmus+. Reintegro de ejercicios corrientes,10,10,"9087,8"
+2022,422002,43200,4000,000008,Desarrollo del Sistema Nacional de Cualificaciones y FP y mejora de la difusiÃ³n de la FP,10,10,0
+2022,422002,43200,4000,000009,Ingresos para la formaciÃ³n permanente del profesorado,10,10,0
+2022,422002,43200,4900,000003,Programa ERASMUS+. SEPIE,660000,730000,"141481,6"
+2022,422002,43200,4901,000002,Proyecto COOPWOOD-POCTEFA,9334,9334,0
+2022,422002,43200,4901,000003,Proyecto Formanaen FP-Poctefa 2014-2020,37403,37403,0
+2022,422002,43200,4901,000004,Proyecto Pyrene FP-POCTEFA 2014-2020,13969,13969,0
+2022,500000,51000,3010,000000,Tasas por servicios administrativos,750,750,165
+2022,500000,51000,3890,000000,DevoluciÃ³n de pagos,3000,3000,"88249,64"
+2022,500000,51000,3910,000000,Multas y sanciones,200000,200000,"94161,65"
+2022,500000,51000,3910,000002,COVID-19 Multas y Sanciones,150000,150000,"300003,96"
+2022,511001,51100,3129,000000,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de farmacia),17000,17000,6415
+2022,511001,51100,3129,000002,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de centros),35000,35000,24000
+2022,511001,51100,3129,000003,Ingresos por prestaciones de otros servicios sanitarios (inspecciÃ³n y varios),3000,3000,1753
+2022,511003,51100,4000,000000,SubvenciÃ³n en el programa de trasplantes,2000,2000,0
+2022,511004,51100,3129,000000,Ingresos por prestaciones de otros servicios sanitarios (convenio especial prestaciÃ³n sanitaria CFN),3500,3500,1884
+2022,512000,51300,7901,000002,Ingresos PO FEDER 2014-2020 Navarra,542500,542500,0
+2022,520000,51200,3090,000000,Tasas por anÃ¡lisis de salud pÃºblica,1000,1000,4150
+2022,520000,51200,3090,000002,Otras tasas,10,10,"22474,37"
+2022,520000,51200,3090,000003,Tasas servicios de inspecciÃ³n veterinaria,200000,200000,"150517,07"
+2022,520000,51200,3199,000000,Ingresos Consejo Seguridad Nuclear,25000,25000,"60587,81"
+2022,520000,51200,3890,000000,Otros reintegros,10,10,"21296,82"
+2022,520000,51200,3990,000000,Otros ingresos,10,10,"27570,01"
+2022,520000,51200,4411,000000,Transferencias corrientes de entes pÃºblicos del Estado,10,10,0
+2022,520000,51200,4411,000002,IntensificaciÃ³n de la actividad investigadora,10,10,26866
+2022,540000,52000,3070,000000,Tasas acadÃ©micas y derechos de examen,8000,8000,0
+2022,540000,52000,3129,000000,Otros ingresos,10,10,"17208,7"
+2022,540000,52000,3800,000000,Reintegro de retribuciones abonadas indebidamente,300000,300000,"352932,53"
+2022,540000,52000,3800,000003,COVID-19 Reintegro de retribuciones abonadas indebidamente,0,0,"74609,65"
+2022,540000,52000,3910,000000,Multas y sanciones,15000,15000,0
+2022,540000,52000,3990,000000,Otros ingresos,25000,25000,"1197,37"
+2022,540000,52000,3990,000003,Ingresos por facturas rectificativas SSCC,10,10,0
+2022,540000,52000,4800,000000,COVID-19 Donaciones,0,0,6000
+2022,540000,52000,4800,000002,Donaciones,0,0,310
+2022,540000,52000,5500,000000,Canon cajeros automÃ¡ticos,1501,1501,1250
+2022,540002,52833,3129,000000,Otros ingresos,500,500,0
+2022,540002,52833,3800,000000,Reintegro por ajustes de facturaciÃ³n de otros centros,10,10,"341,4"
+2022,540002,52833,3800,000002,Reintegro por ajustes de facturaciÃ³n de la CUN,10,10,"318242,62"
+2022,540002,52833,3810,000000,Reintegro por ajustes de facturaciÃ³n de la CUN,10,10,"55945,33"
+2022,540002,52833,3810,000002,Reintegros del presupuesto corriente,0,0,164
+2022,540004,52800,4000,000000,Programa de reasentamiento y reubicaciÃ³n de refugiados,10,10,"34319,25"
+2022,540005,52831,3303,000000,Venta de fÃ¡rmacos extranjeros,15000,15000,"4363,21"
+2022,540005,52831,3800,000000,Reintegro de facturaciones de aÃ±os anteriores,10,10,"9855,39"
+2022,540005,52831,3810,000000,Reintegros del presupuesto corriente,10,10,0
+2022,540005,52831,3990,000000,Ingresos por facturas rectificativas prestaciones farmacÃ©uticas,10,10,"-227,14"
+2022,540005,52831,3990,000002,Ingresos conductas anticompetitivas sector farmacÃ©utico,0,0,5601
+2022,540005,52831,4000,000002,Transferencias de la Agencia EspaÃ±ola de Medicamentos y Productos Sanitarios,10,10,0
+2022,540005,52831,7000,000002,"Transferencias de capital Convenio Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,0
+2022,540007,52010,7000,000000,"Ingresos salud digital Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,0
+2022,540007,52010,7909,000000,Transferencias de la Agencia Ejecutiva de InnovaciÃ³n y Redes (INEA),10,10,0
+2022,541004,52700,3123,000000,PrestaciÃ³n de servicios,15000,15000,"32640,74"
+2022,541004,52700,3309,000000,Venta de otros bienes y productos,10,10,"2058,15"
+2022,541004,52700,3890,000000,Otros reintegros,15000,15000,0
+2022,541004,52700,3990,000000,Ingresos por facturas rectificativas salud mental,10,10,0
+2022,541004,52700,7909,000000,Otras transferencias de capital de la UniÃ³n Europea,10,10,0
+2022,543000,52200,3100,000000,Ingresos por prestaciÃ³n de servicios - docencia,10,10,0
+2022,543000,52200,3123,000000,PrestaciÃ³n de servicios,5600000,5600000,2449953
+2022,543000,52200,3129,000000,Otros ingresos,175000,175000,"114032,98"
+2022,543000,52200,3890,000000,Otros reintegros,5000,5000,0
+2022,543000,52200,3910,000000,Penalidades por incumplimiento,10,10,3868
+2022,543000,52200,3910,000002,Indemnizaciones y sanciones,10,10,0
+2022,543000,52200,3990,000000,Ingresos por facturas rectificativas. FÃ¡rmacos,10,10,"1737192,4"
+2022,543000,52200,3990,000002,Ingresos por facturas rectificativas. Otros suministros y servicios,10,10,"54745,75"
+2022,543000,52200,4000,000000,SubvenciÃ³n para el programa de trasplantes,10,10,0
+2022,543000,52200,4300,000000,Ingresos de NB-FMS al personal investigador del SNS-O,10,10,"121066,13"
+2022,543000,52200,4309,000000,Transferencias corrientes de otras fundaciones,10,10,71866
+2022,543000,52200,4410,000000,Ingresos al personal investigador del SNS-O de otros entes pÃºblicos,10,10,0
+2022,543000,52200,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,10,"57980,7","117980,7"
+2022,543000,52200,5500,000000,Canon de la zona de estacionamiento,340000,340000,"132282,74"
+2022,543000,52200,5510,000000,Aprovechamientos especiales,10,10,0
+2022,543000,52200,7000,000000,MRR Plan INVEAT,7072206,7072206,0
+2022,543000,52200,7901,000000,REACT Ingreso RenovaciÃ³n cubierta Ubarmin-HUN PO FEDER 14-20,40000,40000,0
+2022,543000,52200,7901,000004,REACT Ingreso Gasto sanitario COVID 2021 PO FEDER 14-20,3289408,3289408,0
+2022,543004,52214,3309,000000,Suministros y productos hemoterÃ¡picos,950000,950000,"625657,06"
+2022,543004,52214,3990,000002,Ingresos por facturas rectificativas Banco de Sangre y Tejidos,10,10,12463
+2022,543004,52214,4909,000000,Otras transferencias corrientes de la UniÃ³n Europea,10,10,0
+2022,545000,52400,3123,000000,PrestaciÃ³n de servicios,1000000,1000000,"693951,37"
+2022,545000,52400,3309,000000,Venta de otros bienes y productos,10,10,"9821,68"
+2022,545000,52400,3990,000000,Otros ingresos,50000,50000,"20553,35"
+2022,545000,52400,3990,000002,Ingresos por facturas rectificativas. FÃ¡rmacos,10,10,"216736,69"
+2022,545000,52400,3990,000003,Ingresos por facturas rectificativas. Otros suministros y servicios,10,10,"19441,32"
+2022,545000,52400,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,10,10,0
+2022,545000,52400,7000,000002,"Transferencias de capital Convenio Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,0
+2022,545001,52420,3123,000000,PrestaciÃ³n de servicios,90000,90000,"54252,76"
+2022,545001,52420,7901,000002,REACT Ingreso Centros de Salud PO FEDER 14-20,83504,83504,0
+2022,546000,52500,3123,000000,PrestaciÃ³n de servicios,400000,400000,"223943,25"
+2022,546000,52500,3129,000000,Otros ingresos,12000,12000,1585
+2022,546000,52500,3309,000000,Venta de otros bienes y productos,10,10,"2937,39"
+2022,546000,52500,3990,000000,Ingresos por facturas rectificativas. FÃ¡rmacos,10,10,69272
+2022,546000,52500,3990,000002,Ingresos por facturas rectificativas. Otros suministros y servicios,10,10,"8262,92"
+2022,546000,52500,4000,000003,"Transferencias corrientes Convenio Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,0
+2022,546001,52520,3123,000000,PrestaciÃ³n de servicios,110000,110000,"51159,72"
+2022,547001,52300,3123,000000,PrestaciÃ³n de servicios,1300000,1300000,"914809,52"
+2022,547001,52300,3129,000000,Otros ingresos,10000,10000,"15675,93"
+2022,547001,52300,3129,000002,Ingresos reembolso ClÃ­nica Josefina Arregui,35000,35000,"14788,73"
+2022,547001,52300,3309,000000,Venta de otros bienes y productos,10,10,0
+2022,547001,52300,3990,000000,Ingresos por facturas rectificativas,10,10,"14324,34"
+2022,547001,52300,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,10,10,0
+2022,547001,52300,7901,000007,REACT Ingreso Centros de Salud PO FEDER 14-20,4039469,4039469,0
+2022,700000,70000,3090,000000,"Canon de ocupaciÃ³n ""Soto Berbel""",10,10,0
+2022,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,25000,25000,"2849,84"
+2022,700000,70000,3890,000002,Ingresos por reintegros de subvenciones. PDR,100000,100000,"152165,92"
+2022,700000,70000,3990,000000,Otros ingresos,40000,40000,"210803,84"
+2022,700000,70100,4000,000000,"Transferencias para estadÃ­stica del Ministerio de Agricultura, Pesca y AlimentaciÃ³n",84206,84206,0
+2022,710000,71200,3010,000000,Ingresos por tasas de certificaciÃ³n y registro,20000,20000,"8254,39"
+2022,710000,71200,3910,000000,Sanciones,52000,52000,7250
+2022,710000,71200,4000,000000,Ensayos de calidad de las variedades vegetales,10,10,0
+2022,710000,71200,4901,000000,Ingresos de proyectos europeos,3751,3751,"9992,25"
+2022,710000,71200,4903,000000,PDR FEADER 2014-2020. Actividades de demostraciÃ³n e informaciÃ³n,130000,130000,0
+2022,710001,71200,4903,000002,PDR FEADER 2014-2020. IndemnizaciÃ³n compensatoria,4860000,4860000,"4625423,18"
+2022,710001,71200,4903,000003,PDR FEADER 2014-2020. Agroambientales,1760292,1760292,"1470700,4"
+2022,710001,71200,4903,000004,PDR FEADER 2014-2020. Agricultura ecolÃ³gica,1334721,1334721,"1040833,95"
+2022,710004,71300,3010,000000,GuÃ­as de origen y otros,350000,350000,"20503,31"
+2022,710004,71300,3090,000000,Ingresos por tasas del laboratorio,120000,120000,"97081,64"
+2022,710004,71300,3090,000002,Ingresos por gestiÃ³n de animales del centro de protecciÃ³n de Etxauri,1000,1000,480
+2022,710004,71300,3090,000003,Tasas por recogida de perros,3000,3000,0
+2022,710004,71300,3910,000000,Sanciones,357625,357625,"547531,5"
+2022,710004,71300,3910,000002,Sanciones por bienestar animal,30000,30000,"9884,3"
+2022,710004,71300,4903,000000,PDR FEADER 2014-2020. Asociaciones ganaderas,240000,240000,"229134,27"
+2022,710004,71300,7002,000000,Ingresos por sanidad animal. FEGA,400000,400000,0
+2022,710006,71500,3010,000000,Certificaciones,600,600,425
+2022,710006,71500,3910,000000,Sanciones,0,0,"3005,06"
+2022,710006,71500,5109,000000,Intereses de prÃ©stamos,1134,1134,"1134,5"
+2022,710006,71500,7600,000000,Inversiones para infraestructuras en regadÃ­o en comunales,0,0,"5859,01"
+2022,710006,71500,7903,000003,PDR FEADER 2014-2020. CofinanciaciÃ³n por concentraciÃ³n parcelaria,377586,377586,"436752,29"
+2022,710006,71500,7903,000004,PDR FEADER 2014-2020. CofinanciaciÃ³n infraestructuras locales ganaderas,269699,269699,"258376,45"
+2022,710006,71500,7903,000005,PDR FEADER 2014-2020. CofinanciaciÃ³n inversiones para infraestructuras en regadÃ­o en comunales,282053,282053,0
+2022,710006,71500,8219,000000,AmortizaciÃ³n de prÃ©stamos,4510,4510,"26050,11"
+2022,720001,72400,4000,000000,Ingresos por funciones y servicios traspasados,315000,315000,"137145,13"
+2022,720001,72400,4903,000000,"Ingresos del Organismo Pagador, retenciÃ³n por irregularidades. FEADER",10000,10000,0
+2022,720001,72400,4903,000002,Ingresos por condicionalidad,2000,2000,0
+2022,720003,72200,3910,000000,Sanciones,100000,100000,"45007,8"
+2022,720003,72200,4903,000002,PDR FEADER 2014-2020. Ayudas a figuras de calidad alimentaria,241800,241800,"26414,35"
+2022,720004,72200,3010,000000,Ingresos por tasas de maquinaria,90000,90000,"48906,5"
+2022,720004,72200,7000,000000,MRR Ayudas sistemas de gestiÃ³n de subproductos y deyecciones en ganaderÃ­a,591663,591663,0
+2022,720004,72200,7000,000002,MRR Ayudas transformaciÃ³n integral y modernizaciÃ³n de invernaderos,502405,502405,0
+2022,720004,72200,7000,000003,MRR Ayudas inversiones en eficiencia energÃ©ticas y energÃ­as renovables (biogÃ¡s y biomasa agrÃ­cola),118579,118579,0
+2022,720004,72200,7000,000004,MRR Ayudas aplicaciÃ³n de agricultura de precisiÃ³n y tecnologÃ­as 4.0 en el sector agrÃ­cola y ganadero,954741,954741,0
+2022,720004,72200,7903,000000,PDR FEADER 2014-2020. Inversiones en explotaciones agrarias,3100000,3100000,"10204,89"
+2022,720004,72200,7903,000002,PDR FEADER 2014-2020. InstalaciÃ³n de jÃ³venes agricultores,2015000,2015000,"973915,61"
+2022,720004,72200,7903,000003,PDR FEADER 2014-2020 EURI. Ayudas a inversiones de cooperativas de uso en comÃºn de maquinaria,1500000,1500000,0
+2022,720005,72200,4901,000000,Ingresos de proyectos europeos,15000,15000,0
+2022,720006,72300,4903,000000,PDR FEADER 2014-2020. CofinanciaciÃ³n por asistencia tÃ©cnica,34100,34100,"20972,36"
+2022,720007,72300,4903,000000,PDR FEADER 2014-2020. Servicios de asesoramiento,589000,589000,0
+2022,720007,72300,7903,000002,PDR FEADER 2014-2020. Estrategias de desarrollo local participativo,2437500,2437500,"851752,57"
+2022,720007,72300,7903,000003,PDR FEADER 2014-2020. CreaciÃ³n y desarrollo de empresas no agrarias en zonas rurales,496000,496000,"210123,1"
+2022,720007,72300,7903,000004,PDR FEADER 2014-2020. Proyectos piloto de cooperaciÃ³n,1067096,1067096,0
+2022,740001,74100,3010,000000,Tasa por etiqueta ecolÃ³gica,300,300,0
+2022,740001,74100,3010,000002,Tasas tramitaciones prevenciÃ³n de la contaminaciÃ³n,20000,20000,"121863,52"
+2022,740001,74100,3910,000000,Multas e indemnizaciones,330000,330000,"208202,5"
+2022,740001,74100,3910,000002,Multas e indemnizaciones de residuos,150000,150000,"26526,8"
+2022,740001,74100,4000,000000,MITERD Programa de EconomÃ­a Circular,10,10,0
+2022,740001,74100,4000,000002,MITERD Plan de impulso al Medio Ambiente PIMA Residuos,10,10,0
+2022,740001,74100,4000,000003,MITERD Plan de impulso al Medio Ambiente PIMA Cambio ClimÃ¡tico,10,10,0
+2022,740001,74100,4901,000000,Ingresos de proyectos europeos,200000,"244577,76","128297,16"
+2022,740001,74100,7000,000002,MRR Plan de apoyo a la implementaciÃ³n de la normativa de residuos,10,10,0
+2022,740001,74100,7901,000002,REACT Defensa frente avenidas en Falces PO FEDER 14-20,320000,320000,0
+2022,740002,74200,3020,000000,Licencias de caza,225000,225000,46632
+2022,740002,74200,3090,000000,Tasas por ocupaciÃ³n de vÃ­as pecuarias,22000,22000,"3781,09"
+2022,740002,74200,3302,000002,Ingresos por aprovechamientos forestales del patrimonio forestal de Navarra,206000,206000,"346202,7"
+2022,740002,74200,3910,000000,Multas e indemnizaciones,50000,50000,"117270,5"
+2022,740002,74200,4903,000006,PDR FEADER 2014-2020. CofinanciaciÃ³n pastos montanos,68905,68905,"23867,92"
+2022,740002,74200,7000,000000,MRR C4. GestiÃ³n forestal,3836060,3836060,0
+2022,740002,74200,7903,000000,PDR FEADER 2014-2020. CofinanciaciÃ³n por ordenaciÃ³n de montes,165750,165750,"83207,08"
+2022,740002,74200,7903,000002,PDR FEADER 2014-2020. CofinanciaciÃ³n por restauraciÃ³n de bosques destruidos,55800,55800,"12936,76"
+2022,740002,74200,7903,000003,PDR FEADER 2014-2020. CofinanciaciÃ³n por forestaciÃ³n de terrenos agrarios,102000,102000,"85978,5"
+2022,740002,74200,7903,000004,PDR FEADER 2014-2020. CofinanciaciÃ³n por ayudas a infraestructuras forestales a entidades locales,210800,210800,"5072,27"
+2022,740002,74200,7903,000007,PDR FEADER 2014-2020. CofinanciaciÃ³n por ayudas a industrias forestales,148800,148800,"184377,29"
+2022,740002,74200,7903,000008,PDR FEADER 2014-2020. CofinanciaciÃ³n por ayudas a trabajos forestales a agentes privados,186000,186000,"101123,23"
+2022,740002,74200,7903,000009,PDR FEADER 2014-2020. CofinanciaciÃ³n por inversiones en prevenciÃ³n de incendios,47120,47120,"8814,06"
+2022,740002,74200,7903,000010,PDR FEADER 2014-2020. CofinanciaciÃ³n por ayudas a infraestructuras forestales a agentes privados,12400,12400,"4585,97"
+2022,740002,74200,7903,000011,PDR FEADER 2014-2020. CofinanciaciÃ³n por ayudas a trabajos forestales a entidades locales,542500,542500,"407972,13"
+2022,740002,74200,7903,000012,PDR FEADER 2014-2020. CofinanciaciÃ³n por inversiones forestales PFN y URBASA,40300,40300,"31809,97"
+2022,740002,74200,7903,000013,PDR FEADER 2014-2020. CofinanciaciÃ³n vÃ­as pecuarias,28598,28598,"14562,92"
+2022,740002,74200,7903,000014,PDR FEADER 2014-2020. CofinanciaciÃ³n planes de gestiÃ³n forestal a agentes privados,12000,12000,0
+2022,740003,74300,3020,000000,Licencias y permisos de pesca,225000,225000,129468
+2022,740003,74300,3910,000000,Multas e indemnizaciones,10,10,"46693,66"
+2022,740003,74300,4000,000002,MRR C4. Reserva de la Biosfera,0,0,861956
+2022,740003,74300,4903,000000,PDR FEADER 2014-2020. CofinanciaciÃ³n por ayudas agroambientales y Natura 2000,312000,312000,"246796,22"
+2022,740003,74300,4903,000005,PDR FEADER 2014-2020. CofinanciaciÃ³n por indemnizaciones a entidades locales,42000,42000,0
+2022,740003,74300,7000,000000,MRR C4. I3. RestauraciÃ³n ecolÃ³gica,883442,883442,0
+2022,740003,74300,7000,000004,MRR C4. Tendidos elÃ©ctricos,10,10,0
+2022,740003,74300,7901,000000,REACT Actuaciones de restauraciÃ³n del patrimonio cultural en el Parque Natural SeÃ±orÃ­o de Bertiz PO FEDER 14-20,425000,425000,0
+2022,740003,74300,7901,000002,REACT Infraestructura verde conectividad RED Natura 2000: Urbasa-AndÃ­a-Aralar PO FEDER 14-20,1000000,1000000,0
+2022,740003,74300,7903,000005,PDR FEADER 2014-2020. CofinanciaciÃ³n por elaboraciÃ³n planes gestiÃ³n Natura 2000,34782,34782,"34060,81"
+2022,800000,80100,3990,000002,Otros ingresos,0,0,700
+2022,810001,81100,3890,000000,Reintegro de subvenciones y convenios,10,10,"1514,01"
+2022,810001,81100,3890,000002,COVID-19 Reintegro de lÃ­nea de ayudas directas a autÃ³nomos y empresas RDL 5/2021,0,0,"831378,89"
+2022,810001,81100,4000,000000,COVID-19 LÃ­nea de ayudas directas a autÃ³nomos y empresas RDL 5/2021,0,0,"-4493853,42"
+2022,810001,81100,5201,000000,COVID-19 Reintegro por intereses de demora de ayudas directas a autÃ³nomos y empresas RDL 5/2021,0,0,"761,09"
+2022,810001,81100,7901,000000,Ingresos FEDER ayudas para mejora de la productividad,186000,186000,0
+2022,810001,81100,8401,000000,Ingresos por obligaciones afianzadas,10,10,0
+2022,810003,81400,3800,000000,Ingresos por reintegro de Becas Navarra,10,10,"26717,13"
+2022,810003,81400,3800,000002,Ingresos por reintegros de subvenciones,10,10,"4881,3"
+2022,810003,81400,4900,000004,Ingresos PO FSE 2014-2020 Asistencia TÃ©cnica,227543,227543,0
+2022,810003,81400,4900,000005,REACT Ingresos Asistencia TÃ©cnica PO FSE 14-20,8925,8925,0
+2022,810003,81400,4901,000004,Ingresos PO FEDER 2014-2020 (ActuaciÃ³n subvenciones internacionalizaciÃ³n),113266,113266,0
+2022,810003,81400,4901,000005,REACT Ingresos Asistencia TÃ©cnica PO FEDER 14-20,17850,17850,0
+2022,810003,81400,4901,000006,REACT Ingresos NAEX Digital PO FEDER 14-20,524719,524719,0
+2022,810007,81200,3800,000000,Ingresos por reintegro de subvenciones,10,10,"5784,8"
+2022,810007,81200,3800,000002,Reintegros de subvenciones de acciones directas,10,10,"123571,33"
+2022,810007,81200,4901,000000,REACT Ingresos Trabajos de planificaciÃ³n de infraestructuras industriales PO FEDER 14-20,700000,700000,0
+2022,810007,81200,4909,000000,Ingresos Proyecto 4.0 Ready,0,0,"21168,24"
+2022,810007,81200,5201,000000,Intereses de aplazamientos por venta de terrenos,20000,20000,"11413,9"
+2022,810007,81200,6000,000000,Venta de terrenos,50000,50000,"91607,1"
+2022,810007,81200,7901,000000,REACT Ingresos Transferencia CEIN. Vivero de Lekaroz PO FEDER 14-20,650000,650000,0
+2022,810007,81200,7901,000002,REACT Ingresos Encargo a NASUVINSA Indusland PO FEDER 14-20,137500,137500,0
+2022,810007,81200,7901,000003,Ingresos PO FEDER 2014-2020 Navarra,5328899,5328899,0
+2022,810007,81200,7903,000000,CofinanciaciÃ³n por subvenciones a la industria agroalimentaria. PDR FEADER,1000000,1000000,"72347,93"
+2022,810012,81500,3910,000000,Sanciones por infracciÃ³n de la normativa laboral,1100000,1100000,"431609,8"
+2022,810012,81500,3990,000000,Otros ingresos,500,500,"2324,58"
+2022,810012,81500,4900,000000,Ingresos POEJ ayuda relevo generacional,10,10,0
+2022,820001,82500,3800,000002,Reintegro de subvenciones a instalaciones energÃ­as renovables,5000,5000,0
+2022,820001,82500,3800,000003,Reintegro de subvenciones al ahorro y la eficiencia energÃ©tica,5000,5000,0
+2022,820001,82500,3800,000004,Reintegro de subvenciones a la movilidad sostenible,5000,5000,0
+2022,820001,82500,4000,000002,Ingresos convenio IDAE. Comunidades energÃ©ticas,10,10,0
+2022,820001,82500,4909,000000,Ingresos de otros proyectos europeos,10,10,0
+2022,820001,82500,7000,000003,Ingresos ayudas eficiencia energÃ©tica explotaciones agropecuarias,100000,100000,0
+2022,820001,82500,7000,000004,MRR MOVES III Ingresos,10,10,0
+2022,820001,82500,7000,000005,MRR Autoconsumo y almacenamiento RD 477/2021,10,10,0
+2022,820001,82500,7909,000000,Ingresos de otros proyectos europeos,150000,150000,0
+2022,820004,82200,3050,000000,Tasas por autorizaciones y otras,400000,400000,"212526,11"
+2022,820004,82200,3910,000000,Ingresos por sanciones,80000,80000,68406
+2022,820005,82600,3199,000000,Ingresos de consultas sobre informaciÃ³n tecnolÃ³gica,100,100,0
+2022,820005,82600,3800,000000,"Reintegros de subvenciones a la investigaciÃ³n, al desarrollo y a la innovaciÃ³n",10,10,"163138,27"
+2022,820005,82600,4900,000000,REACT Ingresos DinamizaciÃ³n empresarial PO FSE 14-20,1150000,1150000,0
+2022,820005,82600,4909,000000,Medicina Personalizada PerMed,10,10,"3434,1"
+2022,820005,82600,7901,000002,Ingresos Programa Operativo FEDER 2014-2020,3500000,3500000,"11493,55"
+2022,820005,82600,7901,000003,REACT Ingresos Alianza Digital PO FEDER 14-20,1000000,1000000,0
+2022,820005,82600,7901,000004,REACT Ingresos Alianzas de TransiciÃ³n EnergÃ©tica PO FEDER 14-20,1000000,1000000,0
+2022,830000,83000,7000,000000,MRR Ingresos PSTD y ACD 22-24,0,10985000,0
+2022,830001,83100,3890,000002,Reintegros de subvenciones,6000,6000,"93706,74"
+2022,830001,83100,3910,000000,Ingresos por sanciones,10000,10000,"22533,02"
+2022,830001,83100,3990,000000,Otros ingresos,1000,1000,"8858,53"
+2022,830001,83100,4901,000000,REACT Ingresos Laboratorio trasformaciÃ³n digital comercio-turismo PO FEDER 14-20,450000,450000,0
+2022,830001,83100,5500,000000,Concesiones a establecimientos turÃ­sticos,14000,14000,"6636,45"
+2022,830001,83100,5500,000002,Camping Urbasa,40000,40000,0
+2022,830001,83100,8210,000000,Reintegros de anticipos a entes locales,37500,37500,0
+2022,830001,83100,8319,000000,Reintegros de otros anticipos a largo plazo,150000,150000,0
+2022,830004,83300,3910,000000,Ingresos por sanciones,400000,400000,35725
+2022,830004,83300,4000,000000,Transferencias del Instituto Nacional de Consumo,30000,30000,0
+2022,830005,83400,3110,000000,"GestiÃ³n turÃ­stica del Palacio de Olite, Andelos, Arellano y Rada",43000,43000,0
+2022,830005,83400,3304,000000,Venta de publicaciones y objetos promocionales en las oficinas de turismo,100,100,0
+2022,830005,83400,7901,000000,Ingresos FEDER (65%) Proyecto Ederbidea Interreg V (POCTEFA) 2014-2020,993722,993722,0
+2022,830005,83400,7901,000002,Ingresos FEDER (75%) Proyecto Atlantic On Bike Interreg Espacio AtlÃ¡ntico 2017-2020,28650,28650,0
+2022,900000,90000,3890,000000,DevoluciÃ³n de subvenciones,18500,18500,"48934,29"
+2022,900000,90000,3910,000000,Multas y sanciones,10000,10000,"15000,05"
+2022,900000,90000,3911,000000,Intereses de demora,10,10,"251,34"
+2022,900000,90000,3990,000000,Otros ingresos,350000,350000,"599173,96"
+2022,900000,90000,4000,000002,MRR Transferencias corrientes de la AdministraciÃ³n del Estado,963880,"3544239,35","5420682,11"
+2022,900000,90000,7000,000000,MRR Transferencias de capital de la AdministraciÃ³n del Estado,2711120,2953120,400000
+2022,900002,91100,3890,000000,Reintegros de pagos indebidos de renta garantizada,600000,"836338,64","1728952,49"
+2022,900003,91600,3126,000000,Cuotas de usuarios de centros de incorporaciÃ³n social,34000,34000,"22528,23"
+2022,900003,91600,3800,000000,Reintegros FundaciÃ³n Navarra para la GestiÃ³n de Servicios Sociales PÃºblicos - GIZAIN Fundazioa,10,10,0
+2022,900003,91600,4900,000000,Ingresos programa operativo FSE 2014-2020,2212665,2212665,0
+2022,900003,91600,4900,000002,REACT Transferencias PO FSE 14-20,4130000,4130000,0
+2022,910001,92100,4900,000000,Ingresos Proyecto Europeo PATHWAYS EASI,1315,1315,"26240,55"
+2022,920000,93000,3010,000000,Tasas por servicios administrativos,200,200,0
+2022,920000,93000,3126,000000,Ingresos por gestiÃ³n de impagados de centros,214000,214000,"157237,13"
+2022,920000,93000,3810,000000,Reintegros del presupuesto corriente,10,10,0
+2022,920000,93000,3890,000000,DevoluciÃ³n de subvenciones,15000,15000,0
+2022,920000,93000,3990,000000,Otros ingresos,289999,289999,"329719,47"
+2022,920000,93000,3990,000002,Ingresos por indemnizaciones de aseguradoras,10,10,0
+2022,920000,93000,3990,000003,Ingresos entidades sin Ã¡nimo de lucro,0,0,30000
+2022,920000,93000,4000,000000,Sistema para la autonomÃ­a y atenciÃ³n a la dependencia,24582857,24582857,"10122589,97"
+2022,920000,93000,4000,000002,Transferencias de la AdministraciÃ³n del Estado,10,10,"205235,18"
+2022,920000,93000,4000,000004,MRR Transferencias corrientes de la AdministraciÃ³n del Estado,229411,229411,0
+2022,920000,93000,4800,000000,Donaciones para fines sociales,10,10,0
+2022,920000,93000,7000,000000,MRR Transferencias de capital de la AdministraciÃ³n del Estado,9636731,"10274279,12","637548,12"
+2022,920002,93200,3126,000000,Ingresos por estancias en centros propios de mayores,2590000,2590000,"1517622,74"
+2022,920002,93200,3126,000004,Ingresos Ley 17/2000 aportaciÃ³n de usuarios de centros de la tercera edad,9500000,9500000,"9022469,58"
+2022,920003,93200,3126,000000,Ingresos por estancias en centros propios de discapacidad,711000,711000,"440727,78"
+2022,920005,93100,3126,000000,Cuotas de usuarios del transporte adaptado y asistido,110000,110000,"30262,38"
+2022,920005,93100,3126,000002,Ingresos del Servicio TelefÃ³nico de Emergencia,510000,510000,"271097,3"
+2022,920005,93100,3126,000003,Cuotas de usuarios de centros de mayores,31718645,31718645,"13683475,1"
+2022,920005,93100,3126,000004,Cuotas de usuarios de centros de discapacidad,3920301,3920301,"2101984,59"
+2022,920005,93100,3126,000005,Cuotas de usuarios de centros de enfermedad mental,1167665,1167665,"333224,61"
+2022,920006,93300,3890,000000,Devoluciones de ayudas en materia de familia,1700,1700,"1312,11"
+2022,920007,93300,3126,000000,Ingresos por estancias en escuelas infantiles,783000,783000,379655
+2022,920008,93300,3126,000000,Ingresos por estancias en centros de menores,10,10,0
+2022,950000,96000,3910,000000,Multas y sanciones,0,0,3751
+2022,950000,96000,3990,000000,Otros ingresos,1000,1000,"1253,93"
+2022,950000,96000,4000,000000,Transferencias del SPEE para modernizaciÃ³n del SNE. Conferencia Sectorial,860000,860000,0
+2022,950000,96000,4900,000000,Ingresos proyecto Pathways. EASI,0,0,"156495,37"
+2022,950001,96100,3890,000000,Reintegros de ayudas para la promociÃ³n del empleo,500000,500000,"129261,43"
+2022,950001,96100,3890,000002,Reintegros de ayudas para la promociÃ³n del empleo. Conferencia Sectorial,100000,100000,"171201,44"
+2022,950001,96100,4000,000002,Transferencias del SPEE para polÃ­ticas activas de empleo. Conferencia Sectorial,14000000,14000000,"-6700,84"
+2022,950001,96100,4000,000003,MRR Programa primeras experiencias. Transferencias SEPE,1303839,1303839,0
+2022,950001,96100,4000,000012,MRR FormaciÃ³n e inserciÃ³n VVGG. Transferencias SEPE,59692,59692,0
+2022,950001,96100,4000,000013, MRR Programas territoriales colectivos vulnerables. Transferencias SEPE,1234844,1234844,0
+2022,950001,96100,4000,000014,MRR Programas territoriales emprendimiento. Transferencias SEPE,777654,777654,0
+2022,950001,96100,4000,000015,MRR CapacitaciÃ³n digital. Transferencias SEPE,425457,425457,0
+2022,950001,96100,4000,000016,MRR Actividades COE. Transferencias SEPE,600000,600000,0
+2022,950001,96100,4000,000017,MRR CreaciÃ³n COE. Transferencias SEPE,590000,590000,0
+2022,950001,96100,4000,000018,MRR Transversalidad genero. Transferencias SEPE,58823,58823,0
+2022,950001,96100,4000,000019,MRR CapacitaciÃ³n mujer. Transferencias SEPE,630822,630822,0
+2022,950001,96100,4000,000020,MRR FormaciÃ³n personal SNE-SEPE. Transferencias SEPE,35435,35435,0
+2022,950001,96100,4900,000003,Ingresos Programa Operativo Empleo Juvenil FSE-YEI 2014-2020,103477,103477,0
+2022,950001,96100,4900,000004,Ayudas al empleo de Navarra PO FSE 2014-2020,2604500,2604500,0
+2022,950001,96100,4900,000005,REACT Incentivos a colectivos de difÃ­cil empleabilidad. Ingresos PO FSE 14-20,1500000,1500000,0
+2022,950001,96100,4900,000006,REACT Ayudas a AutÃ³nomos. Ingresos PO FSE 14-20,3500000,3500000,0
+2022,950002,96200,3890,000000,Reintegros de ayudas de programas de formaciÃ³n,20000,20000,0
+2022,950002,96200,3890,000002,Reintegros de ayudas de programas de formaciÃ³n. Conferencia Sectorial,500000,500000,"167256,27"
+2022,950002,96200,4000,000000,Transferencias del SPEE para programas de formaciÃ³n para el empleo. Conferencia Sectorial,8553056,8553056,0
+2022,950002,96200,4000,000011,Transferencias de Ministerio de EducaciÃ³n para formaciÃ³n profesional acreditable,2500000,2500000,0
+2022,950002,96200,4900,000000,REACT Programa TICS- SCHOOL PO FSE 14-20,550000,550000,0
+2022,950002,96200,4900,000002,REACTÂ Realineamiento de trabajadores de sectores afectados por el coronavirus PO FSE 14-20,630000,630000,0
+2022,950002,96200,4900,000003,REACT CapacitaciÃ³n profesional del sector sociosanitario PO FSE 14-20,825000,825000,0
+2022,950002,96200,4900,000004,REACT Programas integrados formaciÃ³n y empleo para colectivos vulnerables PO FSE 14-20,2500000,2500000,0
+2022,A20000,A2000,3890,000000,Reintegros de subvenciones de Cultura y otros ingresos,30000,30000,"7464,37"
+2022,A20000,A2000,4000,000000,MRR Apoyo a aceleradoras culturales,211262,211262,"211261,98"
+2022,A20000,A2000,4901,000000,Proyecto CRE - HUB. FEDER,10,10,0
+2022,A20001,A2100,7000,000000,MRR DigitalizaciÃ³n y documentaciÃ³n bienes culturales,60000,60000,60000
+2022,A20001,A2100,7000,000002,MRR ActuaciÃ³n sobre patrimonio de las CCAA. CCLL y privados,959862,959862,"959861,53"
+2022,A20002,A2500,3111,000000,Ingresos en el Servicio de AcciÃ³n Cultural,15000,15000,"3451,75"
+2022,A20002,A2500,4000,000002,MRR Ayudas oferta cultural Ã¡reas no urbanas,362326,362326,0
+2022,A20002,A2500,5109,000000,Intereses de prÃ©stamos concedidos,6667,6667,0
+2022,A20002,A2500,7000,000003,MRR ModernizaciÃ³n infraestructuras AAEE y MÃºsica,290229,290229,"290228,2"
+2022,A20002,A2500,8219,000000,Reintegro de prÃ©stamo concedido a la FundaciÃ³n Baluarte,133333,133333,0
+2022,A20003,A2300,3110,000000,Ingresos en el Museo de Navarra,10000,10000,250
+2022,A20003,A2300,3110,000002,Ingresos en el Museo del Carlismo,4000,4000,"1955,9"
+2022,A21001,A2400,3199,000000,Ingresos en el Servicio de Bibliotecas,3000,3000,59
+2022,A21002,A2200,3199,000000,Ingresos en el Servicio de Archivos,20000,20000,"7616,3"
+2022,A21002,A2200,7000,000000,MRR DescripciÃ³n y digitalizaciÃ³n fondos documentales,12699,12699,"12698,15"
+2022,A50000,A5000,3010,000000,Tasas por servicios administrativos,900,900,"329,24"
+2022,A50000,A5000,3199,000000,Otros ingresos,1100,1100,"7040,61"
+2022,A50000,A5000,4000,000000,Transferencias de organismos del Estado,250000,250000,"127523,03"
+2022,A50000,A5000,5400,000000,Ingresos por arrendamientos,96197,96197,"96355,62"
+2022,A50001,A5400,3118,000000,Ingresos de Residencia Fuerte del PrÃ­ncipe,44500,44500,"41272,71"
+2022,A50001,A5400,3118,000002,AlimentaciÃ³n residentes Residencia Fuerte del PrÃ­ncipe,10,10,"9144,46"
+2022,A50001,A5400,7000,000000,MRR Transferencias de Estado,246669,246669,0
+2022,A50002,A5100,3113,000000,Ingresos de instalaciones deportivas,136500,136500,"170530,44"
+2022,A50002,A5100,3113,000002,Cuotas y otros ingresos de los Juegos Deportivos de Navarra,85000,85000,0
+2022,A50002,A5100,3129,000000,"Centro de Estudios, InvestigaciÃ³n y Medicina Deportiva (CEIMD)",7750,7750,1050
+2022,A50002,A5100,4000,000000,Transferencias del Consejo Superior de Deportes,10,10,0
+2022,A50002,A5100,4000,000002,Transferencias de la AdministraciÃ³n del Estado para programas de investigaciÃ³n deportiva,10,10,0
+2022,A50002,A5100,4800,000000,Transferencias corrientes de instituciones sin fines de lucro,10,10,0
+2022,A50002,A5100,4901,000000,Transferencias corrientes del FEDER CEIMD,53165,53165,0
+2022,A50002,A5100,4901,000002,REACT Transferencias corrientes para Entidades Deportivas PO FEDER 14-20,400000,400000,0
+2022,A50002,A5100,4901,000003,REACT Transferencias corrientes para Empresas del Sector Deportivo PO FEDER 14-20,400000,400000,0
+2022,B20002,B2100,3810,000000,Reintegros del Presupuesto corriente,0,0,267
+2022,B30000,B3000,3800,000000,Ingresos por devoluciÃ³n de ayudas,100,100,1950
+2022,B50000,B5000,3990,000002,ComitÃ© de las Regiones. Asistencia a sesiones,9600,9600,3010
+2022,B50002,B5100,4901,000000,Ingresos FEDER Asistencia TÃ©cnica Interreg V (POCTEFA) 2014-2020,15442,15442,"14878,16"
+2022,B50003,B5200,4901,000003,Ingresos COSME SEM-2020 Proyecto Seconet,6565,6565,0
+2022,B50003,B5200,4909,000000,Ingresos EU DIRECT NAVARRA,34200,34200,31860
+2022,F10000,F1000,3800,000000,Reintegro de ejercicios cerrados,10,10,"83767,31"
+2022,F10000,F1000,4800,000000,Donaciones emergencia Ucrania,0,0,38
+2022,F10000,F1000,4909,000000,AMIF 2020 EU BELONG,0,0,18216
+2022,F10001,F1100,4900,000000,REACT Proyecto Kideak PO FSE 14-20,663648,663648,0
+2022,F10002,F1200,4700,000000,ColaboraciÃ³n CAIXA Premios Navarra de Colores-Nafarroa Koloretan,10,10,0
+2022,F20001,F2000,3199,000000,Informes periciales del INML,40000,40000,"16419,7"
+2022,F20001,F2000,3990,000002,Otros Ingresos,8000,8000,"4296,52"
+2022,F20001,F2000,4000,000000,Transferencia MÂº Justicia Ingresos de depÃ³sitos por recursos inadmitidos o desestimados,0,"44260,57","44260,57"
+2022,F20001,F2100,3990,000000,Ingresos derivados de actuaciones judiciales,1000,1000,8944
+2022,G10001,G1100,3800,000000,Ingresos por devoluciÃ³n de ayudas,10000,10000,"1998,6"
+2022,G10001,G1100,4909,000000,Ingresos de otros proyectos europeos,10,10,0
+2022,G10001,G1100,7000,000000,MRR Ingreso PIREP Campus Sostenible UPNA,0,3098000,3098000
+2022,G20001,G2100,3800,000000,Reintegros de subvenciones,100000,100000,"54461,11"
+2022,G20001,G2100,4000,000000,MRR Investigo Transferencias corrientes de la AdministraciÃ³n del Estado,842337,842337,0
+2022,G20001,G2100,4909,000000,Ingresos de otros proyectos europeos,5000,5000,0
+2022,G20001,G2100,7901,000000,REACT EnergÃ­as renovables: inversiÃ³n para laboratorio y desarrollo de biocombustibles avanzados PO FEDER 14-20,2398500,2398500,0
+2022,G20001,G2100,7901,000002,REACT AutomociÃ³n y mecatrÃ³nica: inversiÃ³n para NAVEAC Drive-LAB PO FEDER 14-20,1777500,1777500,0
+2022,G20001,G2100,7909,000000,Ingresos de otros proyectos europeos por transferencias de capital,2048,2048,0
+2022,G20001,G2100,8319,000000,Convenio MICINN para el fomento de los parques,33340,33340,0
+2022,G30000,G3000,3800,000000,Reintegros,10,10,0
+2022,G30000,G3000,3910,000000,Ingresos por penalizaciones,10,10,0
+2022,G30005,G3500,4909,000000,Ingresos Programa POCTEFA proyecto PyrenEOS,10,10,0
+2022,G30005,G3500,7901,000000,REACT Plan de banda ancha de Navarra corporativa PO FEDER 14-20,1450000,1450000,0
