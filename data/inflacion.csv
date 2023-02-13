@@ -1,5 +1,5 @@
 # Datos de IPC del INE. Medias anuales de IPC para Navarra, Índice general:
-#   http://www.ine.es/jaxiT3/Tabla.htm?t=22350&L=0
+#   https://www.ine.es/jaxiT3/Tabla.htm?t=50913&L=0
 # Las tasas de inflación se refieren a la media de las tasas interanuales durante los 12
 # meses del año. Esta media es calculada por el INE y publicada en la dirección indicada.
 # La aplicación calcula internamente un índice de inflación a partir de estas tasas, tal que:
@@ -22,4 +22,5 @@
 2019,1.2
 2020,-0.6
 2021,3.4
-2022,0
+2022,8.8
+2023,0
