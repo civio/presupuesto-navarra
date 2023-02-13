@@ -35,7 +35,7 @@ class NavarraBudgetLoader(BudgetLoader):
         description = line[2]
         description = self._escape_unicode(description)
 
-        # Navarra has too many levels of institutional hierarchy. We're just going
+        # Navarra has too many levels of institutional hierarchy. We're just going
         # to pick the two-, three- and five-digit ones
         if len(line[1])==1 or len(line[1])==4:
             return
