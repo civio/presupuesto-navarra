@@ -32,8 +32,7 @@ class NavarraBudgetLoader(BudgetLoader):
         return categories
 
     def add_institutional_category(self, items, line):
-        description = line[2]
-        description = self._escape_unicode(description)
+        description = self._escape_unicode(line[2])
 
         # Navarra has too many levels of institutional hierarchy. We're just going
         # to pick the two-, three- and five-digit ones
@@ -101,7 +100,7 @@ class NavarraBudgetLoader(BudgetLoader):
         # since we're grouping all different items together using economic_uid().
         # That's not the case in Navarra, so we make sure each description
         # gets a unique item number.
-        description = line[5]
+        description = self._escape_unicode(line[5])
         if description in self.descriptions:
             item_number = self.descriptions.index(description)
         else:
@@ -125,12 +124,16 @@ class NavarraBudgetLoader(BudgetLoader):
                 'ec_code': ec_code, # Redundant, but convenient
                 'fdc_code': 'XXX',  # Not used
                 'item_number': item_number,
-                'description': line[5],
+                'description': description,
                 'amount': amount
             })
 
     def _get_delimiter(self):
         return ','
+
+    # XXX: Added in 2023, the data files seem to have a different encoding. It's a lottery.
+    def _escape_unicode(self, s):
+        return unicode(s, 'utf-8')
 
     # An artifact of the in2csv conversion of the original XLS files is a trailing '.0', which we remove here
     def _clean(self, s):
