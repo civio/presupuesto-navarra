@@ -950,7 +950,6 @@
 2022,150000,17000,2274,923400,Servicios de seguridad,44.400,44.400,39.953
 2022,150000,17000,2276,923400,Estudios y trabajos técnicos,100.000,0,0
 2022,150000,17000,2279,923400,Trabajos realizados por terceros,80.000,40.000,0
-2022,150000,17000,2279,923402,Encargo a CEIN. Tramitación Expedientes I+D,0,0,0
 2022,150000,17000,2301,923400,Locomoción y gastos de viaje,9.000,9.000,257
 2022,150000,17000,2339,923400,Dietas de los miembros de la Junta Arbitral,15.000,15.000,12.000
 2022,150000,17000,4701,923400,Bonificación al consumo de combustibles,0,148.500.000,140.592.538
@@ -1292,7 +1291,7 @@
 2022,210001,21300,7609,45B144,"(E) Transferencia Ayto. Caparroso: Reurbanización ""Banquitos"" y plantación del arbolado en Avenida Pamplona",40.000,40.000,40.000
 2022,210001,21300,7609,45B145,(E) Transferencia Ayto. Mélida: Construcción almacén municipal,40.000,40.000,0
 2022,210001,21300,7609,45B146,"(E) Transferencia Ayto. Villava: cubrir parque infantil, plaza Sancho VI el Sabio",40.000,0,0
-2022,210001,21300,7609,45B147,(E) Transferencia Ayto. Viana: ╡rea de juegos en el Parque de San Francisco,40.000,40.000,40.000
+2022,210001,21300,7609,45B147,(E) Transferencia Ayto. Viana: Área de juegos en el Parque de San Francisco,40.000,40.000,40.000
 2022,210001,21300,7609,45B148,"(E) Transferencia Ayto. Beriain: mejora y adecuación del parque Felipe Marco, en la calle Bosquecillos",40.000,40.000,39.899
 2022,210001,21300,7609,45B149,(E) Actuación en el Parque de Las 13 Rosas de Erripagaña para instalación de juegos deportivos recreativos infantiles,40.000,40.000,23.839
 2022,210001,21300,7609,45B150,(E) Rehabilitación de la antigua báscula de ganado de Arizkun para su conversión en baños públicos,33.000,33.000,32.577
@@ -1704,7 +1703,6 @@
 2022,330000,33100,6020,921103,Actuaciones en sede DGPE y otros bienes,0,132.705,117.206
 2022,330000,33100,7309,921100,Proyecto desarrollo territorial en Irurre-Guesalaz Fundación Henri Lenaerts,77.000,77.000,77.000
 2022,330000,33100,7400,921100,Transferencia a  NASUVINSA-Centro de la industrialización y robotización de la construcción,250.000,150.000,0
-2022,330000,33100,7400,921102,Transferencia a Nasuvinsa - Inversiones en el ámbito del Plan del Pirineo,0,0,0
 2022,330000,33100,7609,921100,Subvención Proyectos de territorio Red Explora,200.000,161.649,152.500
 2022,330000,33100,7609,921104,Subvenciones proyectos de inversión en el Pirineo (Entidades Locales),600.000,600.000,594.498
 2022,330000,33100,7609,921109,REACT Alloz Sostenible PO FEDER 14-20,669.000,669.000,103.285
@@ -2237,11 +2235,11 @@
 2022,512000,51300,6059,311100,Mobiliario y equipos,3.075,3.075,0
 2022,512001,51300,2239,311200,Otros gastos de transporte,10,10,0
 2022,512001,51300,2262,311200,"Publicidad, propaganda y gastos de reprografía",1.490,1.490,0
-2022,512001,51300,2266,311200,Formación continuada sanitaria,243.950,243.950,219.051
+2022,512001,51300,2266,311200,Formación continuada sanitaria,243.950,243.950,176.122
 2022,512001,51300,2266,311202,Programa de las comisiones de docencia,20.500,20.500,0
 2022,512001,51300,2266,311204,Formación especializada en ciencias de la salud,4.870,4.870,2.190
 2022,512001,51300,2266,311205,Tutoría de formación de especialistas,1.025,1.025,0
-2022,512001,51300,2266,311206,MRR Formación continuada sanitaria,0,114.352,0
+2022,512001,51300,2266,311206,MRR Formación continuada sanitaria,0,114.352,42.928
 2022,512001,51300,2269,311200,Otros gastos diversos,210,210,0
 2022,512001,51300,2269,311202,Gastos de secretaría de formación continuada,13.325,13.325,22.821
 2022,512001,51300,4809,311200,Becas para ampliación de estudios,225.500,225.500,183.373
@@ -2932,7 +2930,7 @@
 2022,546000,52500,3509,312300,Gastos financieros,10,10,0
 2022,546000,52500,6020,312800,"Obras , mejoras instalaciones y plan de seguridad",30.000,30.000,31.045
 2022,546000,52500,6020,312802,Obras plan de remodelación,670.000,670.000,970.113
-2022,546000,52500,6020,312804,Actuaciones de prevención de riesgos laborales del ╡rea de salud de Estella,10.000,10.000,0
+2022,546000,52500,6020,312804,Actuaciones de prevención de riesgos laborales del Área de salud de Estella,10.000,10.000,0
 2022,546000,52500,6020,312807,Proyecto obra en Hospital García Orcoyen de Estella,330.000,231.263,0
 2022,546000,52500,6057,312800,Equipos médicos,100.000,128.738,151.254
 2022,546000,52500,6057,312803,(E) Instrumental quirúrgico,1.000,1.000,0
@@ -3208,7 +3206,7 @@
 2022,710000,71200,4700,412100,Indemnización por arranque de plantaciones,10,10,0
 2022,710000,71200,4700,412102,Responsabilidad patrimonial. Arranque de plantaciones,10,10,0
 2022,710000,71200,4700,412103,Ayuda de mínimis para la remolacha azucarera,200.000,21.669,20.340
-2022,710000,71200,4700,412107,Ayudas a los daños en infraestructuras privadas y a la pérdida de rentas por inundaciones extraordinarias,10,1.000.010,520.657
+2022,710000,71200,4700,412107,Ayudas a los daños en infraestructuras privadas y a la pérdida de rentas por inundaciones extraordinarias,10,1.000.010,529.501
 2022,710000,71200,4700,412108,Plan de actuación para el control de daños de topillos en praderas de alta montaña,150.000,3.487,2.274
 2022,710000,71200,4701,412102,Fomento de la producción de patata de siembra,140.000,140.000,105.762
 2022,710000,71200,4819,412100,(E) Convenio Asoc.Ekoalde. Estructuración sector productivo ecoló.para ampliar abast. a restauración colectiva,110.000,0,0
@@ -3540,8 +3538,8 @@
 2022,740003,74300,2400,451300,Gastos diversos (Edición material gráfico),5.000,5.000,0
 2022,740003,74300,4609,456300,PDR FEADER 2014-2020. Indemnizaciones a entidades locales,70.000,70.000,67.301
 2022,740003,74300,4609,456302,Indemnizaciones a entidades locales,40.000,31.590,0
-2022,740003,74300,4609,456303,Convenio con el Concejo de Lizaso para la gestión del ╡rea Natural Recreativa de Orgi,40.000,40.000,40.000
-2022,740003,74300,4609,456304,Convenio con Urrotz y Beintza-Labaien para la gestión del ╡rea Natural Recreativa de los Embalses de Leurza,40.000,40.000,40.000
+2022,740003,74300,4609,456303,Convenio con el Concejo de Lizaso para la gestión del Área Natural Recreativa de Orgi,40.000,40.000,40.000
+2022,740003,74300,4609,456304,Convenio con Urrotz y Beintza-Labaien para la gestión del Área Natural Recreativa de los Embalses de Leurza,40.000,40.000,40.000
 2022,740003,74300,4609,456305,MRR C4. Reserva de la Biosfera,200.000,200.000,0
 2022,740003,74300,4609,456309,Ayudas a Entidades Locales en vigilancia y gestión de uso público,200.000,200.000,196.536
 2022,740003,74300,4700,456302,PDR FEADER 2014-2020. Medidas agroambientales,520.000,431.222,417.119
@@ -3762,7 +3760,7 @@
 2022,810012,81500,4819,494100,Subvención a la Asociación Unidad de Innovación Social para su funcionamiento,82.000,82.000,82.000
 2022,810012,81500,4819,494102,Proyectos en materia de responsabilidad social PIES,30.000,30.000,5.011
 2022,810012,81500,4819,494103,Compensación por participación a los sindicatos componentes del Comité de seguimiento del proceso electoral sindical,65.000,65.000,65.000
-2022,810012,81500,4819,494104,(E) Transferencia al αrgano de resolución extrajudicial de conflictos laborales,777.000,777.000,776.608
+2022,810012,81500,4819,494104,(E) Transferencia al Órgano de resolución extrajudicial de conflictos laborales,777.000,777.000,776.608
 2022,810012,81500,4819,494105,Ayudas a asociaciones autónomos,20.000,20.000,20.000
 2022,810012,81500,4819,494108,Transferencias a centrales sindicales en proporción a su representatividad,2.000.000,2.000.000,1.999.817
 2022,810012,81500,4819,494111,Transferencia agentes sociales y empresariales por participación,60.010,60.010,40.748
@@ -4139,11 +4137,11 @@
 2022,910002,92300,2160,233100,Reparaciones de equipamiento o telefonía,20.000,20.000,4.698
 2022,910002,92300,2220,233100,Servicios de Telefonía,3.000,3.000,2.497
 2022,910002,92300,2224,233100,Servicios de conexión de sedes vía radio,0,0,29.782
-2022,910002,92300,2273,233102,Gestión de la Historia Social Θnica,20.000,20.000,0
+2022,910002,92300,2273,233102,Gestión de la Historia Social Única,20.000,20.000,0
 2022,910002,92300,2273,233103,Servicios informáticos,62.000,62.000,58.202
-2022,910002,92300,2276,233100,MRR Encargo a TRACASA Instrumental.  Asistencia Técnica Historia Social Θnica,210.000,210.000,51.424
+2022,910002,92300,2276,233100,MRR Encargo a TRACASA Instrumental.  Asistencia Técnica Historia Social Única,210.000,210.000,51.424
 2022,910002,92300,2276,233102,Tarjetas aparcamiento personas con discapacidad,30.000,30.000,14.828
-2022,910002,92300,4609,233100,MRR Convenio con EELL para el desarrollo de Historia Social Θnica,188.250,188.250,3.732
+2022,910002,92300,4609,233100,MRR Convenio con EELL para el desarrollo de Historia Social Única,188.250,188.250,3.732
 2022,910002,92300,6031,233100,MRR Instalaciones de cableado centros residenciales,40.000,40.000,0
 2022,910002,92300,6031,233102,Instalación cableado telecomunicaciones,20.000,20.000,7.472
 2022,910002,92300,6054,233100,Telefonía fija y móvil,80.000,80.000,5.899
@@ -4154,9 +4152,9 @@
 2022,910002,92300,6060,233103,MRR Equipamiento informático centros de menores,56.200,56.200,34.340
 2022,910002,92300,6092,233100,Proyectos de modernización,600.000,530.000,518.951
 2022,910002,92300,6094,233100,Aplicaciones informáticas,924.000,924.000,926.268
-2022,910002,92300,6094,233102,Desarrollo Historia Social Θnica,20.000,20.000,0
+2022,910002,92300,6094,233102,Desarrollo Historia Social Única,20.000,20.000,0
 2022,910002,92300,6094,233103,MRR Aplicaciones informáticas centros residenciales,100.000,100.000,0
-2022,910002,92300,6094,233104,MRR Desarrollo Historia Social Θnica,1.250.000,1.250.000,225.209
+2022,910002,92300,6094,233104,MRR Desarrollo Historia Social Única,1.250.000,1.250.000,225.209
 2022,910002,92300,7609,233100,MRR Subvenciones a EELL para digitalización de centros residenciales,10,10,0
 2022,910002,92300,7709,233100,MRR Subvenciones a entidades con ánimo de lucro para digitalización de centros residenciales,10,10,0
 2022,910002,92300,7819,233100,MRR Subvenciones a entidades sin ánimo de lucro para digitalización de centros residenciales,10,10,0
@@ -4310,7 +4308,7 @@
 2022,920005,93100,4819,231B44,Convenio con cuarticos de San Martín,32.000,32.000,32.000
 2022,920005,93100,4819,231B49,Convenio Gure Sustraiak proyecto piloto actividades terapéuticas agroecológicas,102.000,102.000,102.000
 2022,920005,93100,4819,231B50,(E) Subvención a AMIMET para la realización de programas de promoción de la autonomía para personas con discapacidad,20.000,20.000,16.729
-2022,920005,93100,4819,231B52,(E) Subvención a ATENA para la ejecución del proyecto Con≡muévete envejeciendo con movimiento,10.000,10.000,10.000
+2022,920005,93100,4819,231B52,(E) Subvención a ATENA para la ejecución del proyecto Con­muévete envejeciendo con movimiento,10.000,10.000,10.000
 2022,920005,93100,6020,231000,Obras en centros propios,850.000,865.253,491.761
 2022,920005,93100,6020,231002,Inversiones en centros propios financiadas con indemnizaciones de aseguradoras,0,50.217,248.436
 2022,920005,93100,6020,231004,Obras Residencia Santo Domingo de Estella,1.000.000,1,0
@@ -4638,12 +4636,12 @@
 2022,A20002,A2500,4300,335100,Programación artística de la Fundación Baluarte y de la Orquesta Sinfónica de Navarra,5.430.000,5.629.755,5.629.755
 2022,A20002,A2500,4300,335102,Programación de la Fundación Baluarte en colaboración con la Dirección General de Cultura,232.000,232.000,232.000
 2022,A20002,A2500,4309,334100,(E) Subvención a la Fundación Misterio de Obanos para proyecto de recuperación,30.000,30.000,30.000
-2022,A20002,A2500,4400,334100,NICDO. ╡rea de Cine e Industrias Audiovisuales y Digitales,795.000,795.000,795.000
+2022,A20002,A2500,4400,334100,NICDO. Área de Cine e Industrias Audiovisuales y Digitales,795.000,795.000,795.000
 2022,A20002,A2500,4400,334102,"NICDO. Desarrollo de la Industria Musical, Música en vivo, Navarra Music Commission y Girando por Navarra",1.400.000,1.400.000,1.400.000
 2022,A20002,A2500,4609,334100,Ayudas a acciones culturales en Ayuntamientos,1.261.764,1.261.764,1.227.521
 2022,A20002,A2500,4609,334102,(E) Subvención a la Asociación Red de Teatros de Navarra,245.000,245.000,245.000
 2022,A20002,A2500,4609,334104,Subvenciones para proyectos culturales transfronterizos. EURORREGION,100.000,57.900,45.810
-2022,A20002,A2500,4609,334105,Subvención a EPEL Tudela Cultura para el Festival de cine αpera Prima,20.000,20.000,20.000
+2022,A20002,A2500,4609,334105,Subvención a EPEL Tudela Cultura para el Festival de cine Ópera Prima,20.000,20.000,20.000
 2022,A20002,A2500,4609,334106,(E) GENERAZINEMA exhibición: ayudas a salas de cine de titularidad municipal,30.000,30.000,10.000
 2022,A20002,A2500,4609,334107,MRR Ayudas para ampliar y diversificar la oferta cultural en áreas no urbanas,362.325,362.325,0
 2022,A20002,A2500,4709,334100,Ayudas a fábricas de creación para profesionales,30.000,30.000,22.831
@@ -4651,7 +4649,7 @@
 2022,A20002,A2500,4709,334103,"ARTEM EXPORTA: Ayudas a eventos, festivales y certámenes de artes escénicas",124.000,124.000,98.940
 2022,A20002,A2500,4709,334105,(E) Faktoria Choreographic Center. Gastos de funcionamiento,60.000,60.000,60.000
 2022,A20002,A2500,4709,334106,ARTEM PRO: Ayudas a empresas y profesionales para producción,330.000,293.000,236.720
-2022,A20002,A2500,4809,334102,╡GORART: Ayudas para la ampliación de estudios artísticos,112.000,112.000,86.508
+2022,A20002,A2500,4809,334102,ÁGORART: Ayudas para la ampliación de estudios artísticos,112.000,112.000,86.508
 2022,A20002,A2500,4816,334100,Subvención a la Asociación APGCNA para actividades de formación,30.000,30.000,30.000
 2022,A20002,A2500,4816,334103,Subvención a asociaciones de profesionales de la cultura,60.000,60.000,51.176
 2022,A20002,A2500,4816,334104,IDEIA: Ayudas a entidades culturales para la difusión y la divulgación cultural,140.000,117.047,100.692

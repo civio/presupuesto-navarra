@@ -91,8 +91,8 @@
 2022,150000,17000,3800,000000,Reintegros,10,10,3.052
 2022,150000,17000,4000,000000,Transferencia del Estado por la Bonificación al consumo de combustibles,0,148.500.000,49.334.118
 2022,150000,17000,4000,000002,Transferencia del Estado por la Línea directa ayuda a personas físicas de bajo nivel de ingresos y patrimonio,0,7.500.000,0
-2022,150000,17000,4610,000000,Convenio con la Diputación Foral de ╡lava. Sistema integrado de informática tributaria,10,10,0
-2022,152000,17500,1015,000000,Ingresos por el Impuesto de sociedades,312.691.000,312.691.000,330.110.948
+2022,150000,17000,4610,000000,Convenio con la Diputación Foral de Álava. Sistema integrado de informática tributaria,10,10,0
+2022,152000,17500,1015,000000,Ingresos por el Impuesto de sociedades,312.691.000,312.691.000,369.547.201
 2022,152000,17500,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,4.782.000,4.782.000,3.445.653
 2022,152000,17500,1140,000000,Impuesto sobre depósitos en entidades de crédito,6.210.000,6.210.000,6.456.660
 2022,152000,17500,1300,000000,Impuesto sobre la producción de la energía eléctrica,26.220.000,26.220.000,-597.334
@@ -122,13 +122,13 @@
 2022,154003,17600,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,16.200.000,16.200.000,16.560.824
 2022,155002,17800,3890,000000,Ingresos por la compensación de costas en procedimientos de apremio,152.000,152.000,57.648
 2022,155002,17800,3912,000000,Recargos de apremio,7.500.000,7.500.000,10.892.881
-2022,155002,17800,5201,000000,Intereses por la deuda fraccionada en vía de apremio,1.348.000,1.348.000,233.256
+2022,155002,17800,5201,000000,Intereses por la deuda fraccionada en vía de apremio,1.348.000,1.348.000,205.754
 2022,155004,17800,3911,000000,Intereses de demora de deudas no aplazadas,10,10,5.476.778
-2022,155004,17800,5201,000000,Intereses de demora de deudas aplazadas,4.596.000,4.596.000,1.455.483
+2022,155004,17800,5201,000000,Intereses de demora de deudas aplazadas,4.596.000,4.596.000,1.347.410
 2022,156000,17900,3309,000000,Ingresos por venta de impresos,2.500,2.500,5.604
 2022,156000,17900,3990,000000,Ingresos por indemnizaciones,0,0,395
 2022,156001,17900,4600,000000,Convenio con Haciendas Locales de Navarra,2.560.000,2.560.000,1.712.762
-2022,157001,17A00,1005,000000,Ingresos por el IRPF,1.699.910.557,1.756.310.557,1.879.383.568
+2022,157001,17A00,1005,000000,Ingresos por el IRPF,1.699.910.557,1.756.310.557,1.839.947.315
 2022,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros fines de interés social",10.112.443,10.112.443,0
 2022,157001,17A00,1005,000003,Anticipo pensiones viudedad y otras,-4.680.000,-4.680.000,0
 2022,157001,17A00,1005,000004,Anticipo renta emancipación y de acceso a la vivienda,-8.323.200,-8.323.200,0
@@ -192,7 +192,7 @@
 2022,310000,31100,3910,000000,Multas e indemnizaciones,30.000,30.000,33.492
 2022,320000,32100,3890,000000,Devolución de subvenciones de viviendas de protección oficial y rehabilitación,125.000,125.000,382.876
 2022,320000,32100,3910,000000,Multas e indemnizaciones,45.000,45.000,16.519
-2022,320000,32100,3990,000000,Otros ingresos,1.000,1.000,420
+2022,320000,32100,3990,000000,Otros ingresos,1.000,1.000,10.558
 2022,320000,32100,4901,000000,Proyecto LC DISTRICTS,15.000,15.000,73.223
 2022,320000,32100,5109,000000,Ingresos financieros de intereses de préstamos de suelo y vivienda,1.000,1.000,0
 2022,320000,32100,5400,000000,Alquileres de locales y viviendas,50.000,50.000,66.295
@@ -214,7 +214,7 @@
 2022,400000,41000,3800,000000,Reintegros de ejercicios cerrados,10,200.010,477.390
 2022,400000,41000,3800,000003,COVID-19 Reintegros de ejercicios cerrados,0,0,56.832
 2022,400000,41000,3810,000000,Reintegros de ejercicios corrientes,10,10,25.421
-2022,400000,41000,3890,000000,Reintegros de la Seguridad Social,10,10,245.087
+2022,400000,41000,3890,000000,Reintegros de la Seguridad Social,10,10,257.980
 2022,400000,41000,3911,000000,Intereses de demora,10,10,0
 2022,400000,41000,3990,000000,Ingresos varios,10,10,29.332
 2022,410001,41800,5400,000000,"Ingresos por arrendamiento de ""Casa Maxurrenea""",30.571,30.571,33.454
@@ -229,6 +229,7 @@
 2022,420001,42400,3070,000002,Pruebas de acceso a los estudios superiores de diseño,2.200,2.200,1.946
 2022,420001,42400,3100,000000,Derechos de exámenes para la prueba homologada de idiomas,10,10,0
 2022,420001,42400,3100,000002,Derechos de exámenes para el título de aptitud en euskera,20.000,20.000,7.907
+2022,420001,42400,4000,000000,Programa escolarización desplazados Ucrania,0,0,14.289
 2022,420002,42100,3070,000000,Tasas de expedición de títulos,295.000,295.000,424.856
 2022,420002,42100,3100,000000,Prestación de servicios educativos: Aulas Mentor,10,2.160,2.640
 2022,420002,42100,4000,000000,MRR Mejora de la Competencia Digital Educativa,1.500.000,1.500.000,4.635.974
@@ -253,14 +254,14 @@
 2022,422002,43200,3810,000002,Erasmus+. Reintegro de ejercicios corrientes,10,10,10.611
 2022,422002,43200,4000,000008,Desarrollo del Sistema Nacional de Cualificaciones y FP y mejora de la difusión de la FP,10,10,0
 2022,422002,43200,4000,000009,Ingresos para la formación permanente del profesorado,10,10,0
-2022,422002,43200,4900,000003,Programa ERASMUS+. SEPIE,660.000,757.827,488.132
+2022,422002,43200,4900,000003,Programa ERASMUS+. SEPIE,660.000,757.827,495.692
 2022,422002,43200,4901,000002,Proyecto COOPWOOD-POCTEFA,9.334,9.334,42.768
 2022,422002,43200,4901,000003,Proyecto Formanaen FP-Poctefa 2014-2020,37.403,37.403,211
 2022,422002,43200,4901,000004,Proyecto Pyrene FP-POCTEFA 2014-2020,13.969,13.969,15.840
 2022,500000,51000,3010,000000,Tasas por servicios administrativos,750,750,298
 2022,500000,51000,3890,000000,Devolución de pagos,3.000,3.000,151.953
 2022,500000,51000,3910,000000,Multas y sanciones,200.000,200.000,236.878
-2022,500000,51000,3910,000002,COVID-19 Multas y Sanciones,150.000,150.000,349.500
+2022,500000,51000,3910,000002,COVID-19 Multas y Sanciones,150.000,150.000,338.413
 2022,511001,51100,3129,000000,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de farmacia),17.000,17.000,14.325
 2022,511001,51100,3129,000002,Ingresos por prestaciones de otros servicios sanitarios (autorizaciones de centros),35.000,35.000,46.110
 2022,511001,51100,3129,000003,Ingresos por prestaciones de otros servicios sanitarios (inspección y varios),3.000,3.000,4.190
@@ -297,7 +298,7 @@
 2022,540002,52833,3810,000000,Reintegro por ajustes de facturación de la CUN,10,437.961,569.789
 2022,540002,52833,3810,000002,Reintegros del presupuesto corriente,0,0,164
 2022,540002,52833,4000,000000,"Transferencias corrientes FOGA, fondos de cohesión sanitaria",0,0,491.819
-2022,540004,52800,4000,000000,Programa de reasentamiento y reubicación de refugiados,10,10,34.319
+2022,540004,52800,4000,000000,Programa de reasentamiento y reubicación de refugiados,10,10,79.415
 2022,540005,52830,3129,000000,Estudios observaciones con medicamentos,0,0,3.000
 2022,540005,52831,3303,000000,Venta de fármacos extranjeros,15.000,15.000,9.192
 2022,540005,52831,3800,000000,Reintegro de facturaciones de años anteriores,10,10,9.855
@@ -308,7 +309,7 @@
 2022,540005,52831,7000,000000,Transferencias de capital del Ministerio de Sanidad Uso Racional de los Medicamentos,0,0,527.857
 2022,540005,52831,7000,000002,"Transferencias de capital Convenio Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,0
 2022,540007,52010,4000,000000,MRR Plan de Transformación Digital de la Atención Primaria,0,0,210.000
-2022,540007,52010,7000,000000,"Ingresos salud digital Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,0
+2022,540007,52010,7000,000000,"Ingresos salud digital Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,201.095
 2022,540007,52010,7000,000003,MRR Red Vigilancia de Salud Pública,0,0,94.173
 2022,540007,52010,7000,000004,MRR Promoción de la salud y Prevención del Cáncer,0,0,-53.991
 2022,540007,52010,7000,000005,MRR Plan de Transformación Digital de la Atención Primaria,0,0,1.134.791
@@ -317,6 +318,7 @@
 2022,541004,52700,3309,000000,Venta de otros bienes y productos,10,10,4.361
 2022,541004,52700,3890,000000,Otros reintegros,15.000,15.000,18.074
 2022,541004,52700,3990,000000,Ingresos por facturas rectificativas salud mental,10,10,4
+2022,541004,52700,4410,000000,Ingresos al personal investigador del SNS-O de otros entes públicos,0,0,30.000
 2022,541004,52700,4909,000000,Otras transferencias corrientes de la Unión Europea,0,0,5.640
 2022,541004,52700,7909,000000,Otras transferencias de capital de la Unión Europea,10,10,0
 2022,543000,52200,3100,000000,Ingresos por prestación de servicios - docencia,10,10,0
@@ -330,7 +332,7 @@
 2022,543000,52200,4000,000000,Subvención para el programa de trasplantes,10,10,12.754
 2022,543000,52200,4300,000000,Ingresos de NB-FMS al personal investigador del SNS-O,10,108.581,131.066
 2022,543000,52200,4309,000000,Transferencias corrientes de otras fundaciones,10,71.866,71.866
-2022,543000,52200,4410,000000,Ingresos al personal investigador del SNS-O de otros entes públicos,10,10,0
+2022,543000,52200,4410,000000,Ingresos al personal investigador del SNS-O de otros entes públicos,10,10,60.000
 2022,543000,52200,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,10,148.695,178.695
 2022,543000,52200,5500,000000,Canon de la zona de estacionamiento,340.000,340.000,254.144
 2022,543000,52200,5510,000000,Aprovechamientos especiales,10,10,0
@@ -352,18 +354,19 @@
 2022,545000,52400,7000,000002,"Transferencias de capital Convenio Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,-756.250
 2022,545001,52420,3123,000000,Prestación de servicios,90.000,90.000,110.105
 2022,545001,52420,7901,000002,REACT Ingreso Centros de Salud PO FEDER 14-20,83.504,83.504,0
-2022,546000,52500,3123,000000,Prestación de servicios,400.000,400.000,505.117
+2022,546000,52500,3123,000000,Prestación de servicios,400.000,400.000,500.455
 2022,546000,52500,3129,000000,Otros ingresos,12.000,12.000,7.585
 2022,546000,52500,3309,000000,Venta de otros bienes y productos,10,10,5.115
 2022,546000,52500,3990,000000,Ingresos por facturas rectificativas. Fármacos,10,80.347,97.879
 2022,546000,52500,3990,000002,Ingresos por facturas rectificativas. Otros suministros y servicios,10,60.530,60.530
 2022,546000,52500,4000,000003,"Transferencias corrientes Convenio Farmaindustria, Ministerio de Sanidad, Consumo y Bienestar Social",10,10,0
-2022,546001,52520,3123,000000,Prestación de servicios,110.000,110.000,138.453
-2022,547001,52300,3123,000000,Prestación de servicios,1.300.000,1.300.000,1.914.888
+2022,546001,52520,3123,000000,Prestación de servicios,110.000,110.000,138.270
+2022,547001,52300,3123,000000,Prestación de servicios,1.300.000,1.300.000,1.914.704
 2022,547001,52300,3129,000000,Otros ingresos,10.000,10.000,18.452
 2022,547001,52300,3129,000002,Ingresos reembolso Clínica Josefina Arregui,35.000,35.000,28.075
 2022,547001,52300,3309,000000,Venta de otros bienes y productos,10,10,0
 2022,547001,52300,3990,000000,Ingresos por facturas rectificativas,10,28.800,34.021
+2022,547001,52300,4410,000000,Ingresos al personal investigador del SNS-O de otros entes públicos,0,0,15.000
 2022,547001,52300,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,10,10,0
 2022,547001,52300,7000,000000,MRR Plan de Transformación Digital de la Atención Primaria,0,0,50.000
 2022,547001,52300,7901,000007,REACT Ingreso Centros de Salud PO FEDER 14-20,4.039.469,4.039.469,0
@@ -419,6 +422,7 @@
 2022,720007,72300,7903,000002,PDR FEADER 2014-2020. Estrategias de desarrollo local participativo,2.437.500,2.437.500,1.213.818
 2022,720007,72300,7903,000003,PDR FEADER 2014-2020. Creación y desarrollo de empresas no agrarias en zonas rurales,496.000,496.000,267.900
 2022,720007,72300,7903,000004,PDR FEADER 2014-2020. Proyectos piloto de cooperación,1.067.096,1.067.096,705.564
+2022,740000,74000,7000,000000,MRR C5. Actuaciones en inundabilidad,0,0,2.441.260
 2022,740001,74100,3010,000000,Tasa por etiqueta ecológica,300,300,200
 2022,740001,74100,3010,000002,Tasas tramitaciones prevención de la contaminación,20.000,20.000,166.530
 2022,740001,74100,3910,000000,Multas e indemnizaciones,330.000,330.000,319.255
@@ -428,13 +432,15 @@
 2022,740001,74100,4000,000003,MITERD Plan de impulso al Medio Ambiente PIMA Cambio Climático,10,10,0
 2022,740001,74100,4901,000000,Ingresos de proyectos europeos,200.000,342.455,576.949
 2022,740001,74100,7000,000002,MRR Plan de apoyo a la implementación de la normativa de residuos,10,10,2.209.121
+2022,740001,74100,7000,000003,MRR C5. Actuaciones en adaptacion Ebro Resilience,0,0,4.000.000
 2022,740001,74100,7901,000002,REACT Defensa frente avenidas en Falces PO FEDER 14-20,320.000,320.000,0
-2022,740002,74200,3020,000000,Licencias de caza,225.000,225.000,254.463
-2022,740002,74200,3090,000000,Tasas por ocupación de vías pecuarias,22.000,22.000,3.781
+2022,740002,74200,3020,000000,Licencias de caza,225.000,225.000,256.167
+2022,740002,74200,3090,000000,Tasas por ocupación de vías pecuarias,22.000,22.000,3.797
 2022,740002,74200,3302,000002,Ingresos por aprovechamientos forestales del patrimonio forestal de Navarra,206.000,206.000,620.139
 2022,740002,74200,3910,000000,Multas e indemnizaciones,50.000,50.000,180.953
+2022,740002,74200,4000,000000,MRR C4. Actuaciones en bioeconomía,0,0,1.192.294
 2022,740002,74200,4903,000006,PDR FEADER 2014-2020. Cofinanciación pastos montanos,68.905,68.905,23.868
-2022,740002,74200,7000,000000,MRR C4. Gestión forestal,3.836.060,3.836.060,0
+2022,740002,74200,7000,000000,MRR C4. Gestión forestal,3.836.060,3.836.060,174.580
 2022,740002,74200,7903,000000,PDR FEADER 2014-2020. Cofinanciación por ordenación de montes,165.750,165.750,93.024
 2022,740002,74200,7903,000002,PDR FEADER 2014-2020. Cofinanciación por restauración de bosques destruidos,55.800,55.800,29.688
 2022,740002,74200,7903,000003,PDR FEADER 2014-2020. Cofinanciación por forestación de terrenos agrarios,102.000,102.000,104.769
@@ -447,12 +453,12 @@
 2022,740002,74200,7903,000012,PDR FEADER 2014-2020. Cofinanciación por inversiones forestales PFN y URBASA,40.300,40.300,31.810
 2022,740002,74200,7903,000013,PDR FEADER 2014-2020. Cofinanciación vías pecuarias,28.598,28.598,14.563
 2022,740002,74200,7903,000014,PDR FEADER 2014-2020. Cofinanciación planes de gestión forestal a agentes privados,12.000,12.000,0
-2022,740003,74300,3020,000000,Licencias y permisos de pesca,225.000,225.000,178.164
+2022,740003,74300,3020,000000,Licencias y permisos de pesca,225.000,225.000,179.268
 2022,740003,74300,3910,000000,Multas e indemnizaciones,10,10,105.881
 2022,740003,74300,4000,000002,MRR C4. Reserva de la Biosfera,0,0,861.956
 2022,740003,74300,4903,000000,PDR FEADER 2014-2020. Cofinanciación por ayudas agroambientales y Natura 2000,312.000,312.000,246.796
 2022,740003,74300,4903,000005,PDR FEADER 2014-2020. Cofinanciación por indemnizaciones a entidades locales,42.000,42.000,40.381
-2022,740003,74300,7000,000000,MRR C4. I3. Restauración ecológica,883.442,883.442,0
+2022,740003,74300,7000,000000,MRR C4. I3. Restauración ecológica,883.442,883.442,-174.580
 2022,740003,74300,7000,000004,MRR C4. Tendidos eléctricos,10,10,0
 2022,740003,74300,7901,000000,REACT Actuaciones de restauración del patrimonio cultural en el Parque Natural Señorío de Bertiz PO FEDER 14-20,425.000,425.000,0
 2022,740003,74300,7901,000002,REACT Infraestructura verde conectividad RED Natura 2000: Urbasa-Andía-Aralar PO FEDER 14-20,1.000.000,1.000.000,0
@@ -505,11 +511,11 @@
 2022,820004,82200,3910,000000,Ingresos por sanciones,80.000,80.000,107.206
 2022,820004,82200,7000,000000,MRR Restauración espacios mineros degradados,0,0,2.710.000
 2022,820005,82600,3199,000000,Ingresos de consultas sobre información tecnológica,100,100,0
-2022,820005,82600,3800,000000,"Reintegros de subvenciones a la investigación, al desarrollo y a la innovación",10,10,326.299
+2022,820005,82600,3800,000000,"Reintegros de subvenciones a la investigación, al desarrollo y a la innovación",10,10,337.792
 2022,820005,82600,4900,000000,REACT Ingresos Dinamización empresarial PO FSE 14-20,1.150.000,1.150.000,0
 2022,820005,82600,4909,000000,Medicina Personalizada PerMed,10,10,3.434
 2022,820005,82600,7000,000000,Ingresos Proyecto Polo de Innovación Digital Iris Lab,0,0,5.000.000
-2022,820005,82600,7901,000002,Ingresos Programa Operativo FEDER 2014-2020,3.500.000,3.500.000,782.828
+2022,820005,82600,7901,000002,Ingresos Programa Operativo FEDER 2014-2020,3.500.000,3.500.000,771.335
 2022,820005,82600,7901,000003,REACT Ingresos Alianza Digital PO FEDER 14-20,1.000.000,1.000.000,0
 2022,820005,82600,7901,000004,REACT Ingresos Alianzas de Transición Energética PO FEDER 14-20,1.000.000,1.000.000,0
 2022,830000,83000,7000,000000,MRR Ingresos PSTD y ACD 22-24,0,12.150.898,21.970.000
@@ -529,10 +535,10 @@
 2022,830005,83400,3304,000000,Venta de publicaciones y objetos promocionales en las oficinas de turismo,100,100,0
 2022,830005,83400,7901,000000,Ingresos FEDER (65%) Proyecto Ederbidea Interreg V (POCTEFA) 2014-2020,993.722,993.722,844.609
 2022,830005,83400,7901,000002,Ingresos FEDER (75%) Proyecto Atlantic On Bike Interreg Espacio Atlántico 2017-2020,28.650,28.650,4.836
-2022,900000,90000,3890,000000,Devolución de subvenciones,18.500,18.500,209.398
+2022,900000,90000,3890,000000,Devolución de subvenciones,18.500,18.500,207.867
 2022,900000,90000,3910,000000,Multas y sanciones,10.000,10.000,15.000
-2022,900000,90000,3911,000000,Intereses de demora,10,10,808
-2022,900000,90000,3990,000000,Otros ingresos,350.000,350.000,870.312
+2022,900000,90000,3911,000000,Intereses de demora,10,10,721
+2022,900000,90000,3990,000000,Otros ingresos,350.000,350.000,901.531
 2022,900000,90000,4000,000000,Transferencias de la Administración de Estado. Bono Social Térmico,0,0,8.320.740
 2022,900000,90000,4000,000002,MRR Transferencias corrientes de la Administración del Estado,963.880,3.544.239,5.420.682
 2022,900000,90000,7000,000000,MRR Transferencias de capital de la Administración del Estado,2.711.120,2.953.120,400.000
@@ -614,7 +620,7 @@
 2022,A21002,A2200,7000,000000,MRR Descripción y digitalización fondos documentales,12.699,12.699,12.698
 2022,A50000,A5000,3010,000000,Tasas por servicios administrativos,900,900,752
 2022,A50000,A5000,3199,000000,Otros ingresos,1.100,1.100,7.602
-2022,A50000,A5000,4000,000000,Transferencias de organismos del Estado,250.000,250.000,164.562
+2022,A50000,A5000,4000,000000,Transferencias de organismos del Estado,250.000,250.000,193.902
 2022,A50000,A5000,5400,000000,Ingresos por arrendamientos,96.197,96.197,201.094
 2022,A50001,A5400,3118,000000,Ingresos de Residencia Fuerte del Príncipe,44.500,44.500,123.337
 2022,A50001,A5400,3118,000002,Alimentación residentes Residencia Fuerte del Príncipe,10,10,9.144
@@ -656,7 +662,7 @@
 2022,G10001,G1100,4909,000000,Ingresos de otros proyectos europeos,10,10,0
 2022,G10001,G1100,7000,000000,MRR Ingreso PIREP Campus Sostenible UPNA,0,3.098.000,3.098.000
 2022,G10001,G1100,7000,000002,MRR C11. I3. DATUPNA Modernización de las AAPP,0,198.594,198.594
-2022,G20001,G2100,3800,000000,Reintegros de subvenciones,100.000,100.000,78.641
+2022,G20001,G2100,3800,000000,Reintegros de subvenciones,100.000,100.000,113.475
 2022,G20001,G2100,4000,000000,MRR Investigo Transferencias corrientes de la Administración del Estado,842.337,842.337,2.146.176
 2022,G20001,G2100,4909,000000,Ingresos de otros proyectos europeos,5.000,5.000,0
 2022,G20001,G2100,7000,000002,MRR Plan Complementario Agroalimentación,0,0,12.160.529
