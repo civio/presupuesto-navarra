@@ -106,9 +106,8 @@ LANGUAGES = (
   ('eu', 'Euskera'),
 )
 
-# Google Analytics ID. Default: ''
-# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID            = 'UA-28946840-17'
+# Plausible data domain. Default: ''
+PLAUSIBLE_DOMAIN        = 'presupuesto.navarra.es'
 
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://www.gobiernoabierto.navarra.es/es/open-data/datos/etiquetas/228'
