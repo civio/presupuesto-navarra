@@ -478,6 +478,7 @@
 2023,INGRESO,2,2,0,2,Impuesto sobre la cerveza
 2023,INGRESO,2,2,0,3,Impuesto sobre las labores del tabaco
 2023,INGRESO,2,2,0,4,Impuesto sobre hidrocarburos
+2023,INGRESO,2,2,0,5,Ajuste fiscal I.E. Envases plástico
 2023,INGRESO,2,2,0,6,Impuesto sobre productos intermedios
 2023,INGRESO,2,2,0,7,Impuesto sobre producción de energía
 2023,INGRESO,2,2,0,8,Impuesto sobre la eliminación en vertedero y la incineración de residuos
@@ -496,6 +497,10 @@
 2023,INGRESO,2,8,4,0,Impuesto sobre actividades del juego
 2023,INGRESO,2,8,5,,Impuesto sobre gases fluorados de efecto invernadero
 2023,INGRESO,2,8,5,0,Impuesto sobre gases fluorados de efecto invernadero
+2023,INGRESO,2,8,6,,Impuesto sobre Transacciones Financieras
+2023,INGRESO,2,8,6,0,Impuesto sobre Transacciones Financieras
+2023,INGRESO,2,8,7,,Impuesto sobre Determinados Servicios Digitales
+2023,INGRESO,2,8,7,0,Impuesto sobre Determinados Servicios Digitales
 2023,INGRESO,2,8,9,,Otros impuestos indirectos
 2023,INGRESO,2,8,9,0,Otros impuestos indirectos
 2023,INGRESO,2,9,,,Impuestos Indirectos extinguidos
