@@ -107,22 +107,22 @@ LANGUAGES = (
 PLAUSIBLE_DOMAIN        = 'presupuesto.navarra.es'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://www.gobiernoabierto.navarra.es/es/open-data/datos/etiquetas/228'
+DATA_SOURCE_BUDGET      = 'https://www.gobiernoabierto.navarra.es/es/open-data/datos/etiquetas/228'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = 'http://www.navarra.es/AppsExt/GN.InstitutoEstadistica.Web/consulta.aspx?TC=1'
+DATA_SOURCE_POPULATION  = 'https://www.navarra.es/AppsExt/GN.InstitutoEstadistica.Web/consulta.aspx?TC=1'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.navarra.es/AppsExt/GN.InstitutoEstadistica.Web/informacionestadistica.aspx?R=1&E=1'
+DATA_SOURCE_INFLATION   = 'https://www.navarra.es/AppsExt/GN.InstitutoEstadistica.Web/informacionestadistica.aspx?R=1&E=1'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = 'http://www.navarra.es/home_es/Navarra/'
+MAIN_ENTITY_WEB_URL     = 'https://www.navarra.es/home_es/Navarra/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = 'http://www.navarra.es/home_es/Aviso/avisoLegal.htm'
+MAIN_ENTITY_LEGAL_URL   = 'https://www.navarra.es/home_es/Aviso/avisoLegal.htm'
 
 # External URL for Cookies Policy (if empty we use out template page/cookies.html)
-#COOKIES_URL             = 'http://www.santiagodecompostela.gal/avisolegal.php?lg=gal'
+#COOKIES_URL             = 'https://www.santiagodecompostela.gal/avisolegal.php?lg=gal'
 
 # Allow overriding of default treemap color scheme
 # COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf' ]
