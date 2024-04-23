@@ -92,11 +92,6 @@
           <li class="page-institutions {{ 'active' if active_tab == 'guidedvisit' else '' }}">
             <a href="{{ url('guidedvisit') }}" class="icon-payments">{{ _('Visita guiada') }}</a>
           </li>
-
-          {# XXX#1039: New option #}
-          <li class="page-institutions {{ 'active' if active_tab == 'covid' else '' }}">
-            <a href="{{ url('covid') }}" class="icon-payments">{{ _('COVID') }}</a>
-          </li>
           
           <li class="page-glossary {{ 'active' if active_tab == 'glossary' else '' }}">
 						<a href="{{ url('glossary') }}" class="icon-glossary" title="{{ _('¿Qué significa...?') }}">{{ _('¿Qué significa...?') }}</a>
