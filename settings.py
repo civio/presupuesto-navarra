@@ -107,7 +107,7 @@ LANGUAGES = (
 PLAUSIBLE_DOMAIN        = 'presupuesto.navarra.es'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'https://www.gobiernoabierto.navarra.es/es/open-data/datos/etiquetas/228'
+DATA_SOURCE_BUDGET      = 'https://datosabiertos.navarra.es/es/dataset?q=presupuestos&sort=score+desc%2C+metadata_modified+desc'
 
 # Setup Data Source Population link
 DATA_SOURCE_POPULATION  = 'https://www.navarra.es/AppsExt/GN.InstitutoEstadistica.Web/consulta.aspx?TC=1'
