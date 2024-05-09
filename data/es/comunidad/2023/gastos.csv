@@ -2449,7 +2449,7 @@
 2023,540004,52800,2200,311100,Material de oficina,514,514,0
 2023,540004,52800,2221,311100,Gasto de envío tarjetas sanitarias,28579,28579,"23703,42"
 2023,540004,52800,2269,311100,Proyectos de mejora del uso de la sanidad. Análisis de expertos,6125,6125,0
-2023,540004,52800,2269,311102,Plan de humanización,40827,40827,"52627,79"
+2023,540004,52800,2269,311102,Plan de humanización,40827,40827,"56077,79"
 2023,540004,52800,2269,311103,Plan de comunicación Atención Primaria,10000,10000,0
 2023,540004,52800,2276,311100,Elaboración y suministro de Tarjeta Individual Sanitaria (TIS),20692,20692,"16753,55"
 2023,540004,52800,2279,311100,"Proyectos para mejora de la información, evaluación de experiencia y satisfacción ciudadana",124150,124150,"97495,77"
@@ -2484,7 +2484,7 @@
 2023,540005,52831,2216,313100,Absorbentes residencias,1811615,"1846821,79","1846821,79"
 2023,540005,52831,2221,313100,Postales y cartería,500,500,0
 2023,540005,52831,2263,313100,Gastos conductas anticompetitivas sector farmacéutico,10,10,0
-2023,540005,52831,2269,313100,Plan de racionalización del uso de fármacos,51500,51500,"66326,68"
+2023,540005,52831,2269,313100,Plan de racionalización del uso de fármacos,51500,51500,"62876,68"
 2023,540005,52831,2269,313102,Otros gastos diversos Avenida de Barañáin,17000,17000,"11672,96"
 2023,540005,52831,2280,313100,"Energía eléctrica, agua y calefacción Avenida de Barañáin",9704,9704,"8873,85"
 2023,540005,52831,4809,313100,Prestaciones farmacéuticas,149028625,"161125314,86","161069412,27"
@@ -3497,8 +3497,8 @@
 2023,800000,80100,1220,421100,Retribuciones del personal contratado temporal,83999,"167333,29","124783,47"
 2023,800000,80100,1220,421104,Retribuciones del personal contratado temporal,120184,"117968,11","109298,94"
 2023,800000,80100,1250,421100,Retribuciones del personal contratado para sustituciones,87577,"153951,19","135862,37"
-2023,800000,80100,1400,421100,Retribuciones personales,1225400,"1252199,75","1140377,28"
-2023,800000,80100,1600,421100,Seguridad social,1966487,"2081314,01","1924457,42"
+2023,800000,80100,1400,421100,Retribuciones personales,1225400,"1252199,75","1140082,88"
+2023,800000,80100,1600,421100,Seguridad social,1966487,"2081314,01","1917402,64"
 2023,800000,80100,1600,421104,Seguridad Social,39080,40846,0
 2023,800000,80100,1702,421100,Horas extraordinarias,6382,6671,0
 2023,800000,80100,1703,421100,Remuneración por trabajo en días festivos,1133,1185,0
@@ -3704,8 +3704,8 @@
 2023,820001,82500,1210,425200,Retribuciones del personal contratado para cubrir plazas reservadas,30601,"27168,63","21117,95"
 2023,820001,82500,1211,425200,Retribuciones del personal contratado para cubrir vacantes,10,13,0
 2023,820001,82500,1220,425202,MRR Retribuciones del personal contratado temporal,268896,"487361,71","402112,54"
-2023,820001,82500,1400,425202,MRR Retribuciones personales,6824,"11280,63","9738,98"
-2023,820001,82500,1600,425202,MRR Seguridad social,96891,"159436,32","124020,91"
+2023,820001,82500,1400,425202,MRR Retribuciones personales,6824,"11280,63","10033,38"
+2023,820001,82500,1600,425202,MRR Seguridad social,96891,"159436,32","127778,4"
 2023,820001,82500,2266,425200,"Reuniones, conferencias y cursillos",30000,30000,"34969,33"
 2023,820001,82500,2268,425200,Premios de Sostenibilidad y Educación Energética,1500,1500,0
 2023,820001,82500,2269,425200,Otros gastos diversos,4500,4500,"4194,32"
@@ -3787,7 +3787,7 @@
 2023,830000,83000,1211,431200,Retribuciones del personal contratado para cubrir vacantes,26050,"40644,32","39799,63"
 2023,830000,83000,1220,432100,MRR Retribuciones del personal contratado temporal,221183,257035,"239330,92"
 2023,830000,83000,1400,432100,MRR Retribuciones personales,8402,"25497,8","25491,76"
-2023,830000,83000,1600,432100,MRR Seguridad social del personal contratado temporal,72576,"83639,7","77245,03"
+2023,830000,83000,1600,432100,MRR Seguridad social del personal contratado temporal,72576,"83639,7","80542,32"
 2023,830000,83000,2120,432100,"Reparación, mantenimiento y conservación de edificios",11690,11690,"11734,54"
 2023,830000,83000,2150,432100,Conservación y reparación de mobiliario y enseres,1000,1000,0
 2023,830000,83000,2200,432100,Material de oficina,1000,1000,"727,67"
@@ -4036,7 +4036,7 @@
 2023,900003,91600,4819,231605,Programa VAIS y otras actuaciones de acompañamiento en materia de vivienda,250000,"222448,76","170895,47"
 2023,900003,91600,4819,231610,(E) Subvención a Gaz Kalo. Actuaciones federativas de asociación,100000,100000,100000
 2023,900003,91600,4819,231611,Subvención a la Fundación Secretariado Gitano para acciones de capacitación pre-laboral en el área de Tudela,62676,62676,62676
-2023,900003,91600,4819,231612,"Fondo 0,7%. Subvenciones para programas de empleo comunitario de interés social a través de entidades sociales",1636167,"2357709,92","1477247,12"
+2023,900003,91600,4819,231612,"Fondo 0,7%. Subvenciones para programas de empleo comunitario de interés social a través de entidades sociales",1636167,"2357709,92","1537598,03"
 2023,900003,91600,4819,231617,REACT Subvenciones a entidades para mejora de la empleabilidad e inclusión social de colectivos vulnera. PO FSE 14-20,1000000,"1239772,63","1019685,47"
 2023,900003,91600,4819,231619,(E) Subvención Asociación Elkarri Laguntza-Apoyo Mutuo,20000,20000,20000
 2023,900003,91600,4819,231621,MRR Convenio con entidades empresariales- Proyecto AUNA Itinerarios integrados de inclusión,41078,"62894,75","19331,93"
@@ -4063,22 +4063,23 @@
 2023,910000,92000,1000,233100,Retribuciones de altos cargos,61765,64560,"58305,83"
 2023,910000,92000,2261,233102,Atenciones protocolarias y de representación,1000,1000,"604,96"
 2023,910000,92000,2301,233102,Locomoción y gastos de viaje,4000,4000,"3103,75"
-2023,910001,92100,1200,233100,Retribuciones del personal fijo,295132,"294485,51","276045,89"
+2023,910001,92100,1200,231002,Proyecto NEAR Interreg Europe. Retribuciones del personal fijo,0,0,"19203,29"
+2023,910001,92100,1200,233100,Retribuciones del personal fijo,295132,"294485,51","256842,6"
 2023,910001,92100,1210,233100,Retribuciones del personal contratado para cubrir plazas reservadas,10,13,0
 2023,910001,92100,1211,233100,Retribuciones del personal contratado para cubrir vacantes,99738,"95706,46","87487,06"
 2023,910001,92100,2266,231002,MRR Formación en trabajo en red con enfoque dialógico,130705,"339306,07",205125
 2023,910001,92100,2269,231000,"Promoción, divulgación, edición y difusión de programas y planes",50000,50000,"18980,03"
 2023,910001,92100,2269,231002,Promoción de la  mejora continua y acciones formativas en calidad,20000,20000,"5290,17"
 2023,910001,92100,2269,231005,MRR Formación profesionales en trabajo en red con enfoque dialógico,18150,72600,"13912,7"
-2023,910001,92100,2269,231006,Proyecto NEAR Interreg Europe. Gastos diversos,0,0,"2105,6"
+2023,910001,92100,2269,231006,Proyecto NEAR Interreg Europe. Gastos diversos,0,0,"253,82"
 2023,910001,92100,2276,231000,Estudios y convenios en materia de realidad social,300000,248000,"202924,55"
 2023,910001,92100,2276,231004,Proyectos de innovación social y proyectos europeos,120000,120000,"36697,29"
 2023,910001,92100,2276,231007,Oficina Control y Seguimiento NEXTGENERATION,167032,0,0
 2023,910001,92100,2276,231009,(E) Actuaciones para el desarrollo del Observatorio de la Negociación Colectiva,10000,10000,0
 2023,910001,92100,2279,231000,MRR Asistencia técnica Instituto de Invest. Innovación y Desarrollo de soluciones para envejecimiento y dependencia,15000,15000,0
 2023,910001,92100,2279,231002,MRR Arrendamiento de servicios trabajo en red con enfoque dialógico,21962,"82758,93","32216,25"
-2023,910001,92100,2279,231004,Proyecto NEAR Interreg Europe. Asistencia técnica,0,0,"32076,07"
-2023,910001,92100,2301,231000,Proyecto NEAR Interreg Europe. Gastos de viaje,0,0,"6982,32"
+2023,910001,92100,2279,231004,Proyecto NEAR Interreg Europe. Asistencia técnica,0,0,"36145,24"
+2023,910001,92100,2301,231000,Proyecto NEAR Interreg Europe. Gastos de viaje,0,0,"4764,93"
 2023,910001,92100,4455,231000,MRR Transferencia corriente UPNA,300000,300000,0
 2023,910001,92100,4609,231004,MRR Convenios con EELL para trabajo en red con enfoque dialógico,88300,123282,0
 2023,910001,92100,4809,231002,Becas y proyectos de investigación,45600,45600,0
@@ -5325,8 +5326,8 @@
 2023,F20001,F2400,2266,112100,"Jornadas, conferencias y cursos",2000,2000,"10189,4"
 2023,F20001,F2400,2279,112100,Justicia restaurativa,240000,240000,"240935,59"
 2023,F20001,F2400,2279,112102,Fomento de la reinserción,80000,80000,"38370,72"
-2023,F20001,F2400,2279,112103,Desarrollo de un asistente virtual basado en la inteligencia artificial para la potenciación de la reinserción,40000,10000,0
-2023,F20001,F2400,4819,112103,Convenio con Colegio Abogados de Pamplona. Página web derech,18500,18500,18500
+2023,F20001,F2400,2279,112103,Desarrollo de un asistente virtual basado en la inteligencia,40000,10000,0
+2023,F20001,F2400,4819,112103,Convenio con Colegio Abogados de Pamplona. Página web derecho penitenciario,18500,18500,18500
 2023,F20001,F2400,4819,112104,"Fondo 0,7%. Subvenciones a entidades sociales-actuaciones socio educativas con personas reclusas y/o ex-reclusas",190264,190264,190264
 2023,F20001,F2400,4819,112105,Subvención para proyectos de prácticas restaurativas comunitarias,20000,20000,18995
 2023,F20001,F2400,4900,112100,Convenio con European Forum of Restorative Justice. Symposium internacional de Justicia Restaurativa,20000,20000,19708
