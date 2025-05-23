@@ -52,7 +52,7 @@
 2024,150000,17000,3010,000000,Tasas por servicios administrativos,10,10,"129,74"
 2024,150000,17000,3800,000000,Reintegros,10,10,"454723,14"
 2024,150000,17000,4000,000000,Transferencia del Estado por la Bonificación al consumo de combustibles,10,2407397,0
-2024,152000,17500,1015,000000,Ingresos por el Impuesto de sociedades,510872000,510872000,"430466366,06"
+2024,152000,17500,1015,000000,Ingresos por el Impuesto de sociedades,510872000,510872000,"490553493,74"
 2024,152000,17500,1015,000002,"Fondo 0,7% IS de otros fines de interés social",285000,285000,0
 2024,152000,17500,1020,000000,Ingresos por el Impuesto sobre la renta de no residentes,12166000,12166000,"18331437,23"
 2024,152000,17500,1140,000000,Impuesto sobre depósitos en entidades de crédito,6470000,6470000,"6482114,8"
@@ -68,7 +68,6 @@
 2024,152000,17500,2205,000000,Impuesto especial sobre los envases de plástico no reutilizables,6375000,6375000,"16204566,3"
 2024,152000,17500,2206,000000,Ingresos por el Impuesto Especial sobre productos intermedios,216000,216000,"497160,73"
 2024,152000,17500,2207,000000,Ingresos por el Impuesto Especial sobre la electricidad,13110000,13110000,"17938710,8"
-2024,152000,17500,2210,000000,.,0,0,0
 2024,152000,17500,2810,000000,Impuesto sobre las primas de seguros,35520000,35520000,"36950887,64"
 2024,152000,17500,2840,000000,Impuesto sobre actividades de juego,2550000,2550000,"3255839,3"
 2024,152000,17500,2850,000000,Impuesto sobre gases fluorados de efecto invernadero,1290000,1290000,"641185,24"
@@ -88,12 +87,12 @@
 2024,154003,17600,2830,000000,Ingresos por el Impuesto sobre Actos Jurídicos Documentados,18720000,18720000,"16559472,82"
 2024,155002,17800,3890,000000,Ingresos por la compensación de costas en procedimientos de apremio,559000,559000,"87229,45"
 2024,155002,17800,3912,000000,Recargos de apremio,8040000,8040000,"10115966,02"
-2024,155002,17800,5201,000000,Intereses por la deuda fraccionada en vía de apremio,4961000,4961000,"166863,19"
+2024,155002,17800,5201,000000,Intereses por la deuda fraccionada en vía de apremio,4961000,4961000,"138684,43"
 2024,155004,17800,3911,000000,Intereses de demora de deudas no aplazadas,10,10,"5941643,52"
-2024,155004,17800,5201,000000,Intereses de demora de deudas aplazadas,4620000,4620000,"2011552,27"
+2024,155004,17800,5201,000000,Intereses de demora de deudas aplazadas,4620000,4620000,"1823104,28"
 2024,156000,17900,3309,000000,Ingresos por venta de impresos,2500,2500,"3560,24"
 2024,156001,17900,4600,000000,Convenio con Haciendas Locales de Navarra,2500000,2500000,"1725212,68"
-2024,157001,17A00,1005,000000,Ingresos por el IRPF,2064277000,2064277000,"2252620562,38"
+2024,157001,17A00,1005,000000,Ingresos por el IRPF,2064277000,2064277000,"2192533434,7"
 2024,157001,17A00,1005,000002,"Fondo 0,7% IRPF de otros fines de interés social",11705000,11705000,0
 2024,157001,17A00,1005,000003,Anticipo pensiones viudedad,-2832000,-2832000,"-2770598,87"
 2024,157001,17A00,1005,000004,Anticipo renta emancipación y de acceso a la vivienda,-12808000,-12808000,"-13321448,6"
@@ -148,7 +147,6 @@
 2024,230000,23000,3800,000002,Reintegros,10,10,"10078,85"
 2024,230000,23000,3911,000000,Intereses de demora,10,10,"599,64"
 2024,230000,23200,3800,000000,MRR Reintegros Actuaciones Movilidad Sostenible y Digital,0,0,"143741,34"
-2024,230000,23200,7000,000000,MRR Actuaciones Movilidad Sostenible y Digital,0,0,0
 2024,230000,23300,3910,000000,Sanciones de transportes,1550000,1550000,"1557412,28"
 2024,230001,23100,3800,000000,Reintegro remanente aportación al transporte público de la Comarca de Pamplona,10,10,"153358,45"
 2024,230001,23100,4000,000000,Ayudas directas al transporte público interurbano,10,"398724,29","1196172,87"
@@ -217,6 +215,7 @@
 2024,420004,42700,4000,000003,MRR Menttores Itinerarios de inclusión social,0,0,"-120829,01"
 2024,420004,42700,4000,000004,COVID-19 #PROA+ (2021),0,0,"-8255,1"
 2024,420004,42700,4900,000000,Proyecto GATE. Erasmus+,38502,38502,"11671,7"
+2024,420005,42800,4900,000000,Programa ERASMUS+. SEPIE,0,0,"14637,6"
 2024,420007,42900,3100,000000,Ingresos escuelas infantiles,376800,376800,"469617,71"
 2024,430000,43000,3800,000000,Reintegros de ejercicios cerrados,10,10,"4074,02"
 2024,430000,43000,3810,000000,Reintegros de ejercicios corrientes,10,10,"7586,27"
@@ -232,7 +231,7 @@
 2024,430002,43200,3100,000000,Convenios con empresas para programas de acreditación de la competencia profesional,10,10,0
 2024,430002,43200,4000,000000,Acciones en Centros de Referencia Nacional,187362,187362,0
 2024,430002,43200,4000,000010,MRR Acciones en centros de excelencia de FP,0,0,1136250
-2024,430002,43200,4900,000003,Programa ERASMUS+. SEPIE,660000,752432,973862
+2024,430002,43200,4900,000003,Programa ERASMUS+. SEPIE,660000,752432,994751
 2024,430002,43200,4901,000003,Proyecto Formanaen FP-Poctefa 2014-2020,0,0,"30829,64"
 2024,430003,43400,4900,000000,FSE+ 21-27 Semana Escolar IA,10,10,0
 2024,430004,43500,3800,000000,Devolución de becas,10,10,"17193,77"
@@ -302,7 +301,7 @@
 2024,543000,52200,3890,000000,Otros reintegros,5000,5000,0
 2024,543000,52200,3910,000000,Penalidades por incumplimiento,10,10,"1014,7"
 2024,543000,52200,3910,000002,Indemnizaciones y sanciones,10,10,"5654,4"
-2024,543000,52200,3990,000000,Ingresos por facturas rectificativas. Fármacos,10,"3006956,29","3598099,95"
+2024,543000,52200,3990,000000,Ingresos por facturas rectificativas. Fármacos,10,"3006956,29","3593907,17"
 2024,543000,52200,3990,000002,Ingresos por facturas rectificativas. Otros suministros y servicios,10,"141546,32","195690,62"
 2024,543000,52200,4000,000000,Subvención para el programa de trasplantes,10,10,"45658,97"
 2024,543000,52200,4300,000000,Ingresos de NB-FMS al personal investigador del SNS-O,10,10,"209238,7"
@@ -352,7 +351,7 @@
 2024,547001,52300,4700,000000,Ingresos de empresas privadas al personal investigador del SNS-O,10,"58,5","58,5"
 2024,547001,52300,7901,000007,REACT Infraestructuras sanitarias PO FEDER 14-20,0,0,"10773960,41"
 2024,700000,70000,3090,000000,"Canon de ocupación ""Soto Berbel""",10,10,"2428,82"
-2024,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,25000,25000,"322976,04"
+2024,700000,70000,3890,000000,Ingresos por reintegros de subvenciones,25000,25000,"322151,04"
 2024,700000,70000,3890,000002,Ingresos por reintegros de subvenciones. PDR,100000,100000,"368599,74"
 2024,700000,70000,3990,000000,Otros ingresos,40000,40000,"113135,55"
 2024,700000,70000,5201,000000,Intereses de aplazamientos,10,10,0
@@ -398,7 +397,7 @@
 2024,720004,72200,7000,000000,MRR Ayudas sistemas de gestión de subproductos y deyecciones en ganadería,10,10,"-195528,29"
 2024,720004,72200,7000,000002,MRR Ayudas transformación integral y modernización de invernaderos,10,10,"-295722,56"
 2024,720004,72200,7000,000003,MRR Ayudas inversiones en eficiencia energéticas y energías renovables (biogás y biomasa agrícola),10,10,0
-2024,720004,72200,7000,000004,MRR Ayudas aplicación de agricultura de precisión y tecnologías 4.0 en el sector agrícola y ganadero,10,10,"639914,07"
+2024,720004,72200,7000,000004,MRR Ayudas aplicación de agricultura de precisión y tecnologías 4.0 en el sector agrícola y ganadero,10,10,"639913,73"
 2024,720004,72200,7903,000000,PDR FEADER 2014-2020. Inversiones en explotaciones agrarias,3514570,3514570,"2177428,3"
 2024,720004,72200,7903,000002,PDR FEADER 2014-2020. Instalación de jóvenes agricultores,1332617,1332617,"1543571,36"
 2024,720004,72200,7903,000003,PEPAC FEADER 2023-2027. Instalación de jóvenes agricultores,440000,440000,"2909023,56"
@@ -481,7 +480,7 @@
 2024,810003,81400,7901,000002,FEDER 21-27 ingresos anticipos,0,0,"693826,89"
 2024,810007,81200,3800,000000,Ingresos por reintegro de subvenciones,10,10,"503040,68"
 2024,810007,81200,3800,000002,Reintegros de subvenciones de acciones directas,10,10,0
-2024,810007,81200,7901,000003,Ingresos PO FEDER 2014-2020 Navarra,1641751,1641751,"8586624,93"
+2024,810007,81200,7901,000003,Ingresos PO FEDER 2014-2020 Navarra,1641751,1641751,"6527267,4"
 2024,810007,81200,7903,000000,PDR FEADER 2014-2020 Cofinanciación por subvenciones a la industria agroalimentaria,3720000,3720000,"4856522,83"
 2024,820001,82500,3800,000002,Reintegro de subvenciones a instalaciones energías renovables,5000,5000,0
 2024,820001,82500,3800,000003,Reintegro de subvenciones al ahorro y la eficiencia energética,47187,47187,"67395,55"
@@ -523,7 +522,7 @@
 2024,901000,91000,3990,000000,Otros ingresos,350000,"481637,61","1261853,93"
 2024,901000,91000,5201,000000,Intereses de aplazamientos,10,10,"3785,28"
 2024,901002,91100,3890,000000,Reintegros de pagos indebidos de renta garantizada,600000,"8269852,17","9964415,63"
-2024,901002,91100,3890,000002,Reintegros de pagos indebidos del IMV,10,"2224522,58","3281901,11"
+2024,901002,91100,3890,000002,Reintegros de pagos indebidos del IMV,10,"2224522,58","3277201,11"
 2024,901002,91100,4000,000000,Transferencias de la Administración del Estado IMV,51000000,"57036538,25","57036538,25"
 2024,901003,91600,3126,000000,Cuotas de usuarios de centros de incorporación social,34000,"35365,1","39430,97"
 2024,901003,91600,3800,000000,Reintegros Fundación Navarra para la Gestión de Servicios Sociales Públicos - GIZAIN Fundazioa,10,"14281,7",933251
@@ -567,13 +566,13 @@
 2024,950000,96000,4000,000000,Transferencias del SEPE para modernización del SNE. Conferencia Sectorial,860000,860000,939031
 2024,950000,96000,5201,000000,Intereses de aplazamientos,24000,24000,"28270,68"
 2024,950001,96100,3810,000000,MRR Reintegros del presupuesto corriente,0,0,"112318,82"
-2024,950001,96100,3890,000000,Reintegros de ayudas para la promoción del empleo,494000,494000,"305830,57"
-2024,950001,96100,3890,000002,Reintegros de ayudas para la promoción del empleo. Conferencia Sectorial,94000,94000,"532632,69"
+2024,950001,96100,3890,000000,Reintegros de ayudas para la promoción del empleo,494000,494000,"308896,38"
+2024,950001,96100,3890,000002,Reintegros de ayudas para la promoción del empleo. Conferencia Sectorial,94000,94000,"529566,88"
 2024,950001,96100,4000,000002,Transferencias del SEPE para políticas activas de empleo. Conferencia Sectorial,14000000,14000000,17652195
 2024,950001,96100,4900,000003,Ingresos Programa Operativo Empleo Juvenil FSE-YEI 14-20,548000,548000,"99321,88"
 2024,950001,96100,4900,000007,Ingresos Programa Operativo FSE+ Navarra 2021-2027,10,10,0
-2024,950002,96200,3890,000000,Reintegros de ayudas de programas de formación,14000,14000,"189241,02"
-2024,950002,96200,3890,000002,Reintegros de ayudas de programas de formación. Conferencia Sectorial,494000,494000,"37298,52"
+2024,950002,96200,3890,000000,Reintegros de ayudas de programas de formación,14000,14000,"127738,28"
+2024,950002,96200,3890,000002,Reintegros de ayudas de programas de formación. Conferencia Sectorial,494000,494000,"98801,26"
 2024,950002,96200,4000,000000,Transferencias del SEPE para programas de formación para el empleo. Conferencia Sectorial,8553056,8553056,"13275296,81"
 2024,950002,96200,4000,000011,Transferencias de Ministerio de Educación para formación profesional acreditable,500000,500000,"424774,35"
 2024,970000,97000,3890,000000,COVID-19. Reintegro de ayudas trabajadoras y trabajadores autónomos. Decreto-Ley Foral 3/2020,10,10,"481510,58"
