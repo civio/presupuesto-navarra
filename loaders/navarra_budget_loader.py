@@ -5,7 +5,6 @@ from budget_app.loaders.budget_loader import BudgetLoader
 import csv
 import os.path
 import re
-import six
 
 
 class NavarraBudgetLoader(BudgetLoader):
@@ -134,10 +133,7 @@ class NavarraBudgetLoader(BudgetLoader):
 
     # XXX: Added in 2023, the data files seem to have a different encoding. It's a lottery.
     def _escape_unicode(self, s):
-        if six.PY2:
-            return unicode(s, 'utf-8')
-        else:
-            return s
+        return s
 
     # An artifact of the in2csv conversion of the original XLS files is a trailing '.0', which we remove here
     def _clean(self, s):
