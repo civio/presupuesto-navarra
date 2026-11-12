@@ -10,8 +10,9 @@ class NavarraBudgetLoader(SimpleBudgetLoader):
         self.descriptions = []
 
     # Navarra's economic codes go down to subheadings (four digits)
-    def _use_subheadings(self):
-        return True
+    def _split_economic_code(self, ec_code):
+        chapter, article, heading, _ = super()._split_economic_code(ec_code)
+        return chapter, article, heading, (ec_code if len(ec_code) >= 4 else None)
 
     # The classifications change every year, so there's one in each year's folder,
     # in Navarra's own format, with the year in the first column
