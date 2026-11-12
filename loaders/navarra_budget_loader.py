@@ -12,25 +12,6 @@ class NavarraBudgetLoader(BudgetLoader):
     def __init__(self):
         self.descriptions = []
 
-    # We don't have funding categories, so create a dummy one and assign everything to it
-    def get_default_funding_categories(self):
-        categories = BudgetLoader.get_default_funding_categories(self)
-        categories.append({
-                        'expense': True,
-                        'source': 'X',
-                        'fund_class': 'XX',
-                        'fund': 'XXX',
-                        'description': 'Gastos'
-                    })
-        categories.append({
-                        'expense': False,
-                        'source': 'X',
-                        'fund_class': 'XX',
-                        'fund': 'XXX',
-                        'description': 'Ingresos'
-                    })
-        return categories
-
     def add_institutional_category(self, items, line):
         description = self._escape_unicode(line[2])
 
@@ -122,7 +103,6 @@ class NavarraBudgetLoader(BudgetLoader):
                 'ec_heading': (ec_code[0:3] if len(ec_code)>=3 else None),
                 'ec_subheading': (ec_code if len(ec_code)>=4 else None),
                 'ec_code': ec_code, # Redundant, but convenient
-                'fdc_code': 'XXX',  # Not used
                 'item_number': item_number,
                 'description': description,
                 'amount': amount

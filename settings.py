@@ -73,9 +73,6 @@ SHOW_TAX_RECEIPT        = True
 # Show an extra tab with institutional breakdown. Default: True.
 # SHOW_INSTITUTIONAL_TAB  = False
 
-# Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
-# SHOW_FUNDING_TAB = False
-
 
 # Show Subtotals panel in Overview. Default: False
 # SHOW_OVERVIEW_SUBTOTALS = True
