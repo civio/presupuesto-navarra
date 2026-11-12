@@ -17,37 +17,41 @@ class NavarraBudgetLoader(SimpleBudgetLoader):
     # The classifications change every year, so there's one in each year's folder,
     # in Navarra's own format, with the year in the first column
     def parse_institutional_category(self, line):
+        _, code, description = line
+
         # Navarra has too many levels of institutional hierarchy. We're just going
         # to pick the two-, three- and five-digit ones
-        if len(line[1])==1 or len(line[1])==4:
+        if len(code) in (1, 4):
             return None
 
         return {
-            'institution': line[1][0:2],
-            'section': (line[1][0:3] if len(line[1]) > 2 else None),
-            'department': (line[1] if len(line[1]) > 4 else None),
-            'description': line[2]
+            'institution': code[0:2],
+            'section': code[0:3] if len(code) > 2 else None,
+            'department': code if len(code) > 4 else None,
+            'description': description
         }
 
     def parse_functional_category(self, line):
-        line[3] = self._clean(line[3])
-        line[4] = self._clean(line[4])
+        _, area, policy, group, programme, description = line
+        area, policy, group, programme = self._join_codes(area, policy, self._clean(group), self._clean(programme))
         return {
-            'area': (line[1] if len(line[1])>=1 else None),
-            'policy': (line[1]+line[2] if len(line[2])>=1 else None),
-            'function': (line[1]+line[2]+line[3] if len(line[3])>=1 else None),
-            'programme': (line[1]+line[2]+line[3]+line[4] if len(line[4])>=1 else None),
-            'description': line[5]
+            'area': area,
+            'policy': policy,
+            'function': group,
+            'programme': programme,
+            'description': description
         }
 
     def parse_economic_category(self, line):
+        _, income_or_expense, chapter, article, heading, subheading, description = line
+        chapter, article, heading, subheading = self._join_codes(chapter, article, heading, subheading)
         return {
-            'expense': (line[1].upper() == 'GASTO'),
-            'chapter': (line[2] if len(line[2])>=1 else None),
-            'article': (line[2]+line[3] if len(line[3])>=1 else None),
-            'heading': (line[2]+line[3]+line[4] if len(line[4])>=1 else None),
-            'subheading': (line[2]+line[3]+line[4]+line[5] if len(line[5])>=1 else None),
-            'description': line[6].strip()
+            'expense': income_or_expense.upper() == 'GASTO',
+            'chapter': chapter,
+            'article': article,
+            'heading': heading,
+            'subheading': subheading,
+            'description': description.strip()
         }
 
     def parse_item(self, filename, line):
