@@ -1,73 +1,61 @@
 # -*- coding: UTF-8 -*-
 
-from budget_app.models import *
-from budget_app.loaders.budget_loader import BudgetLoader
-import csv
-import os.path
-import re
+from budget_app.loaders import SimpleBudgetLoader
 
 
-class NavarraBudgetLoader(BudgetLoader):
+class NavarraBudgetLoader(SimpleBudgetLoader):
 
     def __init__(self):
+        super().__init__()
         self.descriptions = []
 
-    def add_institutional_category(self, items, line):
-        description = self._escape_unicode(line[2])
+    # Navarra's economic codes go down to subheadings (four digits)
+    def _use_subheadings(self):
+        return True
 
+    # The classifications change every year, so there's one in each year's folder,
+    # in Navarra's own format, with the year in the first column
+    def parse_institutional_category(self, line):
         # Navarra has too many levels of institutional hierarchy. We're just going
         # to pick the two-, three- and five-digit ones
         if len(line[1])==1 or len(line[1])==4:
-            return
+            return None
 
-        items.append({
-                'institution': line[1][0:2],
-                'section': (line[1][0:3] if len(line[1]) > 2 else None),
-                'department': (line[1] if len(line[1]) > 4 else None),
-                'description': description
-            })
+        return {
+            'institution': line[1][0:2],
+            'section': (line[1][0:3] if len(line[1]) > 2 else None),
+            'department': (line[1] if len(line[1]) > 4 else None),
+            'description': line[2]
+        }
 
-    def add_functional_category(self, items, line):
+    def parse_functional_category(self, line):
         line[3] = self._clean(line[3])
         line[4] = self._clean(line[4])
-        description = line[5]
-        items.append({
-                'area': (line[1] if len(line[1])>=1 else None),
-                'policy': (line[1]+line[2] if len(line[2])>=1 else None),
-                'function': (line[1]+line[2]+line[3] if len(line[3])>=1 else None),
-                'programme': (line[1]+line[2]+line[3]+line[4] if len(line[4])>=1 else None),
-                'description': description
-            })
+        return {
+            'area': (line[1] if len(line[1])>=1 else None),
+            'policy': (line[1]+line[2] if len(line[2])>=1 else None),
+            'function': (line[1]+line[2]+line[3] if len(line[3])>=1 else None),
+            'programme': (line[1]+line[2]+line[3]+line[4] if len(line[4])>=1 else None),
+            'description': line[5]
+        }
 
+    def parse_economic_category(self, line):
+        return {
+            'expense': (line[1].upper() == 'GASTO'),
+            'chapter': (line[2] if len(line[2])>=1 else None),
+            'article': (line[2]+line[3] if len(line[3])>=1 else None),
+            'heading': (line[2]+line[3]+line[4] if len(line[4])>=1 else None),
+            'subheading': (line[2]+line[3]+line[4]+line[5] if len(line[5])>=1 else None),
+            'description': line[6].strip()
+        }
 
-    def add_economic_category(self, items, line):
-        description = line[6].strip()
+    def parse_item(self, filename, line):
+        is_expense = (filename.find('gastos.csv') != -1)
+        is_actual = (filename.find('/ejecucion_') != -1)
 
-        items.append({
-                'expense': (line[1].upper() == 'GASTO'),
-                'chapter': (line[2] if len(line[2])>=1 else None),
-                'article': (line[2]+line[3] if len(line[3])>=1 else None),
-                'heading': (line[2]+line[3]+line[4] if len(line[4])>=1 else None),
-                'subheading': (line[2]+line[3]+line[4]+line[5] if len(line[5])>=1 else None),
-                'description': description
-            })
+        # Only expenses are classified functionally, and we use programmes, the first four digits
+        fc_code = line[4][0:4] if is_expense else None
 
-    #
-    def add_data_item(self, items, line, is_expense, is_actual):
-        # Parse functional code
-        fc_code = line[4]
-        if is_expense:
-            fc_area = fc_code[0:1]
-            fc_policy = fc_code[0:2]
-            fc_function = fc_code[0:3]
-            fc_programme = fc_code[0:4]
-        else:
-            fc_area = 'X'
-            fc_policy = 'XX'
-            fc_function = 'XXX'
-            fc_programme = 'XXXX'
-
-        # Gather all the relevant bits and store them to be processed
         ec_code = line[3]
         ic_code = line[2]
         raw_amount = line[8 if is_actual else 6]
@@ -81,39 +69,29 @@ class NavarraBudgetLoader(BudgetLoader):
         # since we're grouping all different items together using economic_uid().
         # That's not the case in Navarra, so we make sure each description
         # gets a unique item number.
-        description = self._escape_unicode(line[5])
+        description = line[5]
         if description in self.descriptions:
             item_number = self.descriptions.index(description)
         else:
             item_number = len(self.descriptions)
             self.descriptions.append(description)
 
-        # Load the data item
-        items.append({
-                'ic_institution': ic_code[0:2],
-                'ic_section': ic_code[0:3],
-                'ic_department': ic_code,
-                'ic_code': ic_code,
-                'fc_area': fc_area,
-                'fc_policy': fc_policy,
-                'fc_function': fc_function,
-                'fc_programme': fc_programme,
-                'ec_chapter': ec_code[0],
-                'ec_article': (ec_code[0:2] if len(ec_code)>=2 else None),
-                'ec_heading': (ec_code[0:3] if len(ec_code)>=3 else None),
-                'ec_subheading': (ec_code if len(ec_code)>=4 else None),
-                'ec_code': ec_code, # Redundant, but convenient
-                'item_number': item_number,
-                'description': description,
-                'amount': amount
-            })
+        return {
+            'is_expense': is_expense,
+            'is_actual': is_actual,
+            'ic_code': ic_code,
+            'ic_institution': ic_code[0:2],
+            'ic_section': ic_code[0:3],
+            'ic_department': ic_code,
+            'fc_code': fc_code,
+            'ec_code': ec_code,
+            'item_number': item_number,
+            'description': description,
+            'amount': amount
+        }
 
     def _get_delimiter(self):
         return ','
-
-    # XXX: Added in 2023, the data files seem to have a different encoding. It's a lottery.
-    def _escape_unicode(self, s):
-        return s
 
     # An artifact of the in2csv conversion of the original XLS files is a trailing '.0', which we remove here
     def _clean(self, s):
