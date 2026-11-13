@@ -67,9 +67,6 @@ TREEMAP_LABELS_FONT_SIZE_MIN = 7
 # Show Tax Receipt section in menu & home options. Default: False.
 SHOW_TAX_RECEIPT        = True
 
-# Show Counties & Towns links in Policies section in menu & home options. Default: False.
-# SHOW_COUNTIES_AND_TOWNS = False
-
 # Show an extra tab with institutional breakdown. Default: True.
 # SHOW_INSTITUTIONAL_TAB  = False
 
@@ -90,9 +87,6 @@ BREAKDOWN_BY_UID = False
 
 # Include financial income/expenditures in overview and global policy breakdowns. Default: False.
 INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = False
-
-# Search in entity names. Default: True.
-SEARCH_ENTITIES = False
 
 # Supported languages. Default: ('es', 'Castellano')
 LANGUAGES = (
