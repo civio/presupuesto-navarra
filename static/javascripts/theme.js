@@ -31,11 +31,11 @@ function calculateIndicators(chapterBreakdown, budgetStatuses, adjustInflationFn
     return Formatter.amount(adjustInflationFn(amount, uiState.year));
   }
 
-  var gross_savings = getSum(chapterBreakdown, _.range(1, 6), 'income', uiState.year, budgetStatuses) -
+  var gross_savings = getSum(chapterBreakdown, [1, 2, 3, 4, 5], 'income', uiState.year, budgetStatuses) -
                       getSum(chapterBreakdown, [1, 2, 4], 'expense', uiState.year, budgetStatuses);
   var net_savings = gross_savings - getSum(chapterBreakdown, [3, 9], 'expense', uiState.year, budgetStatuses);
-  var funding_capacity = getSum(chapterBreakdown, _.range(1, 8), 'income', uiState.year, budgetStatuses) -
-                          getSum(chapterBreakdown, _.range(1, 8), 'expense', uiState.year, budgetStatuses);
+  var funding_capacity = getSum(chapterBreakdown, [1, 2, 3, 4, 5, 6, 7], 'income', uiState.year, budgetStatuses) -
+                          getSum(chapterBreakdown, [1, 2, 3, 4, 5, 6, 7], 'expense', uiState.year, budgetStatuses);
 
   $('#total-gross-savings').text(format(gross_savings));
   $('#total-net-savings').text(format(net_savings));
