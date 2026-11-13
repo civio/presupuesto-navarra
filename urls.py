@@ -7,6 +7,5 @@ theme_views = importlib.import_module('presupuesto_navarra.views')
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
 EXTRA_URLS = (
-    re_path(r'^visita-guiada$', theme_views.guidedvisit, name='guidedvisit'),
     re_path(r'^covid$', theme_views.covid, name='covid'),
 )

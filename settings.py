@@ -67,6 +67,9 @@ TREEMAP_LABELS_FONT_SIZE_MIN = 7
 # Show Tax Receipt section in menu & home options. Default: False.
 SHOW_TAX_RECEIPT        = True
 
+# Show Guided Visit section in menu & home options. Default: False.
+SHOW_GUIDED_VISIT = True
+
 # Show an extra tab with institutional breakdown. Default: True.
 # SHOW_INSTITUTIONAL_TAB  = False
 
