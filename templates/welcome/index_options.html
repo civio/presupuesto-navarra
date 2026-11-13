@@ -33,17 +33,6 @@
     </div>
     {% endif %}
 
-    <!-- Section COVID -->
-    {# XXX#1039: New home item #}
-    <div class="option">
-      <div class="option-covid">
-        <div data-icon="&#xe604;" aria-hidden="true" class="icon mega"></div>
-        <a href="{{ url('covid') }}" class="option-title"><h3>{{ _('Ejecución COVID') }}</h3></a>
-        <p class="desc">{{ _('El impacto de la COVID en la ejecución presupuestaria.') }}</p>
-        <a href="{{ url('covid') }}" class="btn btn-default btn-primary green icon-plus">{{ _('Ejecución COVID') }}</a>
-      </div>
-    </div>
-
     <!-- Section Calculadora -->
     {% if show_tax_receipt %}
     <div class="option">
